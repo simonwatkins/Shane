@@ -1,0 +1,37 @@
+SOURCE: MR PRICE GROUP LIMITED — Annual Results for the 52 weeks ended 28 March 2026 and Cash Dividend Declaration
+RELEASED ON SENS: 05 June 2026
+JSE code: MRP
+PRIMARY SOURCE URL (official supplementary information PDF): https://mrpricegroup.com/wp-content/uploads/2026/06/Supplementary-information-FY2026.pdf
+SECONDARY (figures cross-checked): The Citizen, 5 June 2026 — https://www.citizen.co.za/business/mr-price-generates-roughly-r16-4-million-a-day-in-operating-profit/
+TEXT SOURCE: web_fetch of The Citizen article quoting the official results + official supplementary-info PDF reference. Original SENS/AFS binary NOT yet archived (proxy 403 on direct download; backfill via browser). original_saved=false.
+
+=== HEADLINE FY2026 (52 weeks ended 28 March 2026) vs FY2025 (52 weeks ended 29 March 2025) ===
+Revenue: R42.7bn
+Operating profit: R6.0bn (+4.3%) — ~R16.4m/day
+Retail sales: R41.1bn (+4.3%); group store sales +4.4%; online sales +4.9%
+Other revenue: R1.3bn (-1.9%) — lower interest rates reduced debtors' interest
+Unit sales: +0.5%; retail selling price (RSP) inflation 3.8%
+
+EPS — STATUTORY:
+  Basic EPS: 1,449.5 cents (+2.3%)
+  HEPS: 1,453.9 cents (+2.1%)
+  Diluted HEPS: 1,411.8 cents (+2.4%)
+EPS — NORMALISED (excluding once-off NKD transaction costs):
+  Basic +8.0%; Headline +7.7%; Diluted +8.0% (normalised DHEPS ~ 1,489 cents)
+
+DIVIDEND:
+  Final dividend FY2026: 592.8 cents per share (FY2025 final: 593.5 cents)
+  (Mr Price targets ~63% of annual headline earnings as total ordinary dividend — verify in AFS.)
+
+=== KEY POINTS ===
+- Earnings dampened by expensing ALL once-off transaction costs for the acquisition of Pegasus Group Holding GmbH (trading as the retail business of NKD Group GmbH / "NKD"), which became effective POST year-end (i.e. recognised from FY2027).
+- Cash sales = 89.4% of group retail sales (+4.4%); credit sales +3.5%; new accounts approved +11.0%. Group to continue managing credit book conservatively.
+- 196 new stores opened across 15 trading chains; total footprint 3,182 stores; weighted-average trading space +3.6%.
+- Omnichannel: >55% of online orders collected in store.
+- Strong prior-year comparative base in H2 (prior-period retail sales +9.9%, boosted by two-pot retirement withdrawals).
+- Macro: SARB raised rates 25bps at end-May 2026 (rate inflexion); household disposable income showed early signs of recovery in 2025 but discretionary demand stayed soft.
+- CEO Mark Blair: "The agility of our operating model and the strength of our value retailing DNA have enabled operating leverage in a challenging retail environment... confident in our ability to perform across economic cycles."
+
+=== COMPANY PROFILE (context) ===
+- Cash-based, omnichannel, fashion-value retailer. ~15 trading chains across Apparel (Mr Price, Mr Price Sport, Miladys, Power Fashion, Studio 88) and Home (Mr Price Home, Sheet Street), plus Telecoms (Mr Price Cellular) and Financial Services; digital: Yuppiechef.
+- Year-end: end-March/early-April (52/53-week retail calendar).

@@ -2,6 +2,106 @@
   "manifest_version": 1,
   "last_global_refresh": null,
   "companies": {
+    "mr-price": {
+      "name": "Mr Price Group Limited",
+      "jse_code": "MRP",
+      "sector": "Retail (Apparel/General — cash-based value, omnichannel)",
+      "financial_year_end": "end-March / early-April (52/53-week retail calendar)",
+      "reporting_currency": "ZAR",
+      "last_updated": "2026-06-05T18:00:00Z",
+      "skill_generated": false,
+      "next_expected_results": {
+        "type": "H1 FY2027 Interim Results",
+        "expected_date": "2026-11-01",
+        "notes": "Half-year to ~Sept 2026; first period to consolidate NKD (Europe)."
+      },
+      "documents": {
+        "mrprice-annual-results-fy2026-20260605.txt": {
+          "type": "annual_results",
+          "period": "FY2026",
+          "date_published": "2026-06-05",
+          "date_downloaded": "2026-06-05T18:00:00Z",
+          "path": "companies/mr-price/annual-reports/mrprice-annual-results-fy2026-20260605.txt",
+          "text_path": "companies/mr-price/annual-reports/mrprice-annual-results-fy2026-20260605.txt",
+          "text_source": "web_fetch (The Citizen quoting official results + official supplementary-info PDF reference)",
+          "source_url": "https://mrpricegroup.com/wp-content/uploads/2026/06/Supplementary-information-FY2026.pdf",
+          "original_saved": false,
+          "analysed": true
+        },
+        "mrprice-nkd-acquisition-summary-2025-2026.txt": {
+          "type": "acquisition_summary",
+          "period": "FY2026/FY2027",
+          "date_published": "2026-02-23",
+          "date_downloaded": "2026-06-05T18:00:00Z",
+          "path": "companies/mr-price/press-releases/mrprice-nkd-acquisition-summary-2025-2026.txt",
+          "text_path": "companies/mr-price/press-releases/mrprice-nkd-acquisition-summary-2025-2026.txt",
+          "text_source": "web_fetch (multiple press sources: Daily Investor, IOL, Cape Town Etc)",
+          "source_url": "https://dailyinvestor.com/retail/121204/mr-price-ploughs-ahead-with-controversial-r9-7-billion-purchase/",
+          "original_saved": false,
+          "analysed": true
+        }
+      },
+      "analyst_notes": [
+        "companies/mr-price/analyst-notes/mrprice-research-note-2026-2027.docx"
+      ],
+      "coverage_gaps": [
+        "BINARY ORIGINALS OUTSTANDING (proxy 403). Backfill via Claude in Chrome: FY2026 annual results SENS, FY2026 results presentation + supplementary info (mrpricegroup.com/.../2026/06/), FY2026 AIR/AFS, FY2026 remuneration report, NKD acquisition SENS (9 Dec 2025 & 23 Feb 2026).",
+        "FY2026 remuneration figures (Blair/CFO) sourced from prior-year press; verify exact FY2026 numbers in the FY2026 integrated/remuneration report.",
+        "Balance-sheet detail (net cash ex-leases, NKD funding structure) not yet captured from primary AFS.",
+        "Interim H1 FY2026 (to 27 Sept 2025) PDF not yet archived."
+      ]
+    },
+    "spar": {
+      "name": "The SPAR Group Limited",
+      "jse_code": "SPP",
+      "sector": "Retail (Food & Drug, franchise/wholesale)",
+      "financial_year_end": "September (52/53-week retail calendar)",
+      "reporting_currency": "ZAR",
+      "last_updated": "2026-06-05T17:30:00Z",
+      "skill_generated": false,
+      "next_expected_results": {
+        "type": "H1 FY2026 Interim Results",
+        "expected_date": "2026-06-10",
+        "notes": "26 weeks to 27 Mar 2026; results + webcast on/about 10 June 2026."
+      },
+      "documents": {
+        "spar-annual-results-sens-fy2025-20251208.txt": {
+          "type": "annual_results_sens",
+          "period": "FY2025",
+          "date_published": "2025-12-08",
+          "date_downloaded": "2026-06-05T17:30:00Z",
+          "path": "companies/spar/annual-reports/spar-annual-results-sens-fy2025-20251208.txt",
+          "text_path": "companies/spar/annual-reports/spar-annual-results-sens-fy2025-20251208.txt",
+          "text_source": "web_fetch (Sharenet SENS HTML, short-form announcement body)",
+          "source_url": "https://www.sharenet.co.za/v3/sens_display.php?tdate=20251208070500&seq=2",
+          "afs_url": "https://senspdf.jse.co.za/documents/2025/JSE/ISSE/SPP/FY25AFS.pdf",
+          "original_saved": false,
+          "analysed": true
+        },
+        "spar-trading-statement-h1-2026-20260529.txt": {
+          "type": "trading_statement",
+          "period": "H1 FY2026",
+          "date_published": "2026-05-29",
+          "date_downloaded": "2026-06-05T17:30:00Z",
+          "path": "companies/spar/trading-statements/spar-trading-statement-h1-2026-20260529.txt",
+          "text_path": "companies/spar/trading-statements/spar-trading-statement-h1-2026-20260529.txt",
+          "text_source": "web_fetch (Sharenet SENS HTML, full announcement body)",
+          "source_url": "https://www.sharenet.co.za/v3/sens_display.php?tdate=20260529070500&seq=1",
+          "original_saved": false,
+          "analysed": true
+        }
+      },
+      "analyst_notes": [
+        "companies/spar/analyst-notes/spar-research-note-2026-2027.md"
+      ],
+      "coverage_gaps": [
+        "BINARY ORIGINALS OUTSTANDING (proxy 403 on direct curl/wget). Backfill via Claude in Chrome: FY2025 AFS (senspdf.jse.co.za/.../SPP/FY25AFS.pdf), FY2025 results SENS PDF, FY2025 results presentation (thespargroup.com/pdf/FY25_Results_Presentation.pdf), H1 FY2026 trading statement PDF.",
+        "FY2025 investor presentation not yet captured (text or binary).",
+        "FY2025 remuneration report not yet captured locally (CEO/exec pay detail sourced from press; verify against integrated annual report).",
+        "Full H1 FY2026 interim results (due 10 June 2026) not yet published/captured.",
+        "Total-group (statutory) FY2025 loss and aggregate impairment (~R5.2bn per press) not yet verified against AFS."
+      ]
+    },
     "shoprite": {
       "name": "Shoprite Holdings Limited",
       "jse_code": "SHP",
@@ -52,7 +152,7 @@
       "reporting_currency": "EUR",
       "primary_listing": "SIX Swiss Exchange",
       "secondary_listing": "JSE (fungible A shares)",
-      "last_updated": "2026-06-05T00:00:00Z",
+      "last_updated": "2026-06-05T16:50:00Z",
       "skill_generated": false,
       "rand_hedge": true,
       "next_expected_results": {
@@ -60,12 +160,105 @@
         "expected_date": "2026-11-07",
         "notes": "Half-year to 30 Sep 2026; interims typically reported early-mid November."
       },
-      "documents": {},
+      "documents": {
+        "richemont-fy26-results-announcement-20260522.md": {
+          "type": "results_announcement",
+          "period": "FY2026",
+          "date_published": "2026-05-22",
+          "path": "companies/richemont/press-releases/richemont-fy26-results-announcement-20260522.md",
+          "text_source": "web_fetch text extraction (Markdown)",
+          "original_pdf_saved": true,
+          "source_url": "https://www.richemont.com/media/ovfnkffy/ad-hoc-announcement-pursuant-to-art-53-lr-fy26-annual-results-en.pdf",
+          "analysed": true,
+          "date_archived": "2026-06-05",
+          "pdf_path": "companies/richemont/press-releases/richemont-fy26-results-announcement-20260522.pdf",
+          "pdf_pages": 16,
+          "figures_source_verified": true
+        },
+        "richemont-fy26-results-presentation-20260522.md": {
+          "type": "investor_presentation",
+          "period": "FY2026",
+          "date_published": "2026-05-22",
+          "path": "companies/richemont/investor-presentations/richemont-fy26-results-presentation-20260522.md",
+          "text_source": "web_fetch text extraction (Markdown)",
+          "original_pdf_saved": true,
+          "source_url": "https://www.richemont.com/media/ngtd2kgn/richemont-fy26-annual-results-presentation-en.pdf",
+          "analysed": true,
+          "date_archived": "2026-06-05",
+          "pdf_path": "companies/richemont/investor-presentations/richemont-fy26-results-presentation-20260522.pdf",
+          "pdf_pages": 44,
+          "figures_source_verified": true
+        },
+        "richemont-fy26-annual-report-and-accounts.pdf": {
+          "type": "annual_report",
+          "period": "FY2026",
+          "date_published": "2026-05-22",
+          "path": "companies/richemont/annual-reports/richemont-fy26-annual-report-and-accounts.pdf",
+          "original_pdf_saved": true,
+          "pdf_pages": 85,
+          "source_url": "https://www.richemont.com/media/045hlucv/richemont-fy26-annual-report-and-accounts.pdf",
+          "download_method": "Claude in Chrome (browser) -> Downloads -> moved to company folder",
+          "title": "Richemont – FY26 Annual Report and Accounts announcement – EN",
+          "analysed": false,
+          "date_archived": "2026-06-05",
+          "note": "22 May version (announcement edition). Full version incl. Business review, Compensation & Corporate Governance reports available 29 May 2026 (see pending_downloads)."
+        },
+        "richemont-fy26-annual-report-full-20260529.pdf": {
+          "type": "annual_report",
+          "edition": "full (incl. Business review, Compensation & Corporate Governance reports)",
+          "period": "FY2026",
+          "date_published": "2026-05-29",
+          "path": "companies/richemont/annual-reports/richemont-fy26-annual-report-full-20260529.pdf",
+          "original_pdf_saved": true,
+          "pdf_pages": 160,
+          "source_url": "https://www.richemont.com/media/ud3bety3/richemont-fy26-annual-report.pdf",
+          "download_method": "Claude in Chrome (browser) -> Downloads -> copied to company folder",
+          "title": "Richemont FY26-Annual Report",
+          "analysed": true,
+          "date_archived": "2026-06-05",
+          "analysis_note": "Compensation Report (pp.66-81) parsed: CEO Bos CHF13.61m (breakdown captured), SEC total CHF49.91m, Chairman flat CHF2.70m fee/no variable; STI & PSU/PCU KPI weightings and 2022 PCU zero-payout captured. Used to tighten report Section 5."
+        }
+      },
       "coverage_gaps": [
-        "FY26 Annual Report PDF & results presentation not yet saved locally (data captured via 22 May 2026 press release).",
-        "No interim/SENS PDFs downloaded yet."
+        "Binary PDFs archived: FY26 results announcement (16p), presentation (44p), annual report announcement-edition (85p) and full annual report (160p, incl. Compensation & Corporate Governance).",
+        "Full annual report not yet parsed for executive-incentive detail (Compensation Report) — available for deepening report Section 5.",
+        "No interim (H1 FY2026) or SENS PDFs archived yet."
       ],
-      "notes": "FY26 (y/e 31 Mar 2026): sales €22,420m (+5% actual,+11% cc); op profit €4,492m (20.0% margin); profit €3,484m (+27%); net cash €8,496m; EPS €5.909. Ordinary div CHF3.30 (+10%) + special CHF1.00. New buyback (up to 10m A shares) launched 26 May 2026."
+      "notes": "FY26 (y/e 31 Mar 2026): sales €22,420m (+5% actual,+11% cc); op profit €4,492m (20.0% margin); profit €3,484m (+27%); net cash €8,496m; EPS €5.909. Ordinary div CHF3.30 (+10%) + special CHF1.00. New buyback (up to 10m A shares) launched 26 May 2026.",
+      "pending_downloads": {
+        "fy26_non_financial_report": "https://www.richemont.com/media/cskglbj3/richemont-non-financial-report-2026.pdf",
+        "buyback_announcement_20260522": "https://www.richemont.com/news-media/press-releases-news/richemont-announces-the-end-of-the-share-buyback-programme-initiated-in-may-2023-and-the-launch-of-a-new-programme/"
+      },
+      "heps_fy26": {
+        "basic": "€6.132",
+        "diluted": "€6.114",
+        "py_basic": "€6.351",
+        "py_diluted": "€6.327",
+        "headline_earnings": "€3 605m"
+      },
+      "verification": {
+        "date": "2026-06-05",
+        "method": "pdftotext -layout extraction from source PDFs, reconciled against Word report",
+        "result": "All headline P&L, cash flow, HEPS, segment and dividend figures matched source exactly (no discrepancies).",
+        "checked": [
+          "Sales 22420/21399",
+          "GP 14438/14319",
+          "Gross margin 64.4/66.9",
+          "Op profit 4492/4467 (20.0%)",
+          "Profit cont ops 3464/3762",
+          "Profit FY 3484/2750",
+          "Diluted EPS 5.909/4.671",
+          "HEPS basic 6.132/6.351, diluted 6.114/6.327",
+          "Op cash flow 4880/4443",
+          "Net cash 8496/8257",
+          "Jewellery 16539/15328 op 5037 margin 30.5%",
+          "SWM 3149/3283 op 107 margin 3.4%",
+          "Other 2732/2788 op -96",
+          "Discontinued 20/(1012)",
+          "Dividend CHF3.30 ord +CHF1.00 special"
+        ],
+        "compensation_source_verified": true
+      }
     }
   }
 }

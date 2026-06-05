@@ -1,0 +1,55 @@
+SOURCE: THE SPAR GROUP LIMITED — Trading update and trading statement for the 26 weeks ended 27 March 2026
+RELEASED ON SENS: 29 May 2026 07:05
+JSE/A2X code: SPP | ISIN: ZAE000058517
+SOURCE URL (SENS via Sharenet): https://www.sharenet.co.za/v3/sens_display.php?tdate=20260529070500&seq=1
+TEXT SOURCE: web_fetch of Sharenet SENS HTML (full announcement body). Original PDF binary NOT yet archived (proxy 403 on direct download; backfill via browser).
+Sponsor: One Capital | Corporate Broker: Rand Merchant Bank (FirstRand).
+NOTE: Not an earnings forecast. Information not audited/reviewed. Full H1 FY2026 results due on/about 10 June 2026 (webcast: https://www.corpcam.com/Spar10062026).
+
+=== TRADING UPDATE — Revenue growth ===
+                          18 wks to 30 Jan 2026   |   26 wks to 27 Mar 2026
+Grocery & Liquor                 0.8%             |          1.1%
+Build it                        (2.4%)            |          1.3%
+SPAR Health                      23.0%            |         26.1%
+Southern Africa                  0.9%             |          1.7%
+Ireland (EUR)                    3.1%*            |          3.4%
+Group                            2.1%             |          2.1%
+* Ireland ZAR revenue growth +6.1% (per SENS 23 Feb 2026) vs +3.4% EUR — illustrates rand translation tailwind (~270bps).
+
+Group wholesale turnover from continuing operations grew marginally y/y. SA Groceries & Liquor revenue growth below internal selling price inflation, itself below official food CPI (real volume + competitive pressure); momentum improved through H2 of the period. SPAR Health strong (wholesale + Scriptwise). Build it positive LFL (infrastructure spend + new rewards programme). SPAR2U e-commerce volumes up strongly. KZN loyalty improved slightly y/y but remains below historical/targeted levels. Ireland (BWG) solid, local-currency growth ahead of H1 FY2025.
+
+=== TRADING STATEMENT — earnings guidance ===
+CONTINUING OPERATIONS (cents/share):
+              H1 FY2026 range  |  H1 FY2025  |  % change
+HEPS             174 to 217    |     434     |  -60% to -50%
+Diluted HEPS     173 to 216    |     433     |  -60% to -50%
+EPS              140 to 180    |     399     |  -65% to -55%
+Diluted EPS      139 to 179    |     398     |  -65% to -55%
+
+TOTAL (continuing + discontinued) (cents/share):
+              H1 FY2026 range  |  H1 FY2025  |  % change
+HEPS             104 to 133    |     296     |  -65% to -55%
+Diluted HEPS     104 to 133    |     296     |  -65% to -55%
+EPS               70 to 80     |   (2,211)   |  >100% (turn to profit; low base)
+Diluted EPS       70 to 80     |   (2,208)   |  >100%
+
+=== DRIVERS ===
+Margin: Total continuing Group margins reflect SA margin compression, partly offset by Ireland. SA gross profit margin down 20-40 bps (elevated Black Friday promotional subsidy + KZN distribution centre underperformance). Above-inflation cost growth and elevated debtor impairments in SA Groceries & Liquor drove substantial operating profit decline. Ireland GP margin improved (better supplier terms + favourable mix); operating margin slightly ahead.
+KZN: H1 weighed down by short-term strategies prioritising top-line over profit; root cause = insufficient logistics capacity planning → disrupted service levels + increased costs. Key ongoing risk, monitored at executive/Board level. Corrective measures incl. leadership changes. Three consecutive profitable months Feb/Mar/Apr 2026, but still below target.
+Black Friday: strong sales but meaningful GP margin cost + elevated Nov 2025 marketing/promo costs. New Group CMO introducing disciplined promotional investment model.
+Impairments: total extraordinary items ~R128m (Prior: R71m) — goodwill, corporate store and held-for-sale impairments, all within continuing ops; mostly legacy positions.
+Debtor impairments: increased. SA Groceries & Liquor debtors' days stable at 32; overdue balances up. More conservative provisioning methodology → higher ECL. Year-end FY2026 provisions to be scrutinised.
+Debt: net debt increased (higher working capital + Easter timing). ALL BANKING COVENANTS MET. Festive working-capital build expected to unwind Mar-Sep; debt to reduce through H2 FY2026.
+
+=== UK ASSET DISPOSAL (AWG) ===
+Per SENS 18 May 2026: asset purchase agreement with A.F. Blakemore & Son (a SPAR UK wholesaler) for the UK (AWG) business — right to operate SPAR in South-West England, 71 company-owned stores, warehouse/logistics infrastructure, retailer supply agreements. Completion staged June-September 2026. AWG remains a discontinued operation under IFRS 5.
+
+=== LOOKING AHEAD (FY2026 H2 / into FY2027) ===
+Structural initiatives to realign cost base and improve operating leverage, primarily Southern Africa:
+- KZN margin recovery toward peer DC levels.
+- Dedicated Managing Director appointed for SA Groceries & Liquor segment.
+- Strengthening independent retailer partnerships; addressing five key retailer issues (incl. profitability, revenue growth, omnichannel).
+- Cost realignment programme (non-trade procurement centralisation, org design, pricing/concession discipline, logistics productivity) — benefits accrue through H2 FY2026 and into FY2027.
+- SPAR Health and Build it momentum to continue.
+Headwinds for H2 FY2026: rising fuel costs (logistics/distribution), continued debtor risk / further provisioning, intensifying competition, macro uncertainty.
+Cleaner balance sheet, more focused footprint, refreshed executive team; recovery will take time.

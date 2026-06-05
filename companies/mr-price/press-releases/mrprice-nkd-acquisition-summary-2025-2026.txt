@@ -1,0 +1,21 @@
+SOURCE NOTE: Mr Price Group — acquisition of NKD Group (European value retailer). Compiled from multiple press sources (Daily Investor, IOL, Cape Town Etc, Modaes, Central News). Original SENS announcements (9 Dec 2025; 23 Feb 2026) NOT yet archived locally — backfill via browser. original_saved=false.
+SOURCE URLs:
+ - Daily Investor (R9.7bn purchase): https://dailyinvestor.com/retail/121204/mr-price-ploughs-ahead-with-controversial-r9-7-billion-purchase/
+ - IOL (Mr Price defends acquisition, 17 Mar 2026): https://iol.co.za/business-report/companies/2026-03-17-mr-price-defends-acquisition-of-europe-based-nkd-amid-investor-concerns/
+ - Cape Town Etc (European debut): https://www.capetownetc.com/news/mr-price-european-debut-nkd-deal/
+
+=== DEAL ===
+- Announced: 9 December 2025 — binding agreement to acquire 100% of NKD Group GmbH (via target Pegasus Group Holding GmbH, which trades as the retail business of NKD).
+- Target: NKD — German value fashion & homewares retailer; >2,000 stores across Germany, Austria, Italy, Croatia, Slovenia, Czech Republic and Poland. Value/discount model aligned to Mr Price's.
+- Consideration: up to EUR 487m aggregate (incl. ~EUR 38.5m for shareholder loan receivables) ≈ R9.66bn.
+- Conditions fulfilled 23 February 2026; transaction unconditional save for payment. Scheduled closing 31 March 2026 (post FY2026 year-end → consolidated from FY2027). Investor presentation held 17 March 2026.
+
+=== STRATEGIC IMPACT ===
+- More than doubles global store footprint to >5,000 outlets; workforce >40,000.
+- Combined annual revenue projected to rise from ~R40.9bn (SA) toward ~R53bn once consolidated.
+- First material offshore operating business for Mr Price → introduces significant EUR translation exposure and integration risk for a historically SA-centric, cash-generative retailer.
+
+=== MARKET REACTION / CONTROVERSY ===
+- On announcement, MRP share price fell 13.7% to R181.32, wiping ~R6bn of market value; investors "rattled".
+- Mr Price publicly defended the deal amid investor concerns (17 March 2026).
+- FY2026 statutory earnings were reduced by expensing all once-off NKD transaction costs (hence the gap between statutory HEPS growth ~+2% and normalised ~+8%).

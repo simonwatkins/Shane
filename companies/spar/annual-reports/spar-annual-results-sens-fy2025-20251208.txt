@@ -1,0 +1,51 @@
+SOURCE: THE SPAR GROUP LIMITED — Audited group results for the 52 weeks ended 26 September 2025
+RELEASED ON SENS: 08 December 2025 07:05
+JSE/A2X code: SPP | ISIN: ZAE000058517
+SOURCE URL (SENS via Sharenet): https://www.sharenet.co.za/v3/sens_display.php?tdate=20251208070500&seq=2
+AFS (JSE cloudlink): https://senspdf.jse.co.za/documents/2025/JSE/ISSE/SPP/FY25AFS.pdf
+TEXT SOURCE: web_fetch of Sharenet SENS HTML (short-form announcement body). Original PDF binary NOT yet archived (proxy 403 on direct download; backfill via browser).
+Auditor: PricewaterhouseCoopers Inc. — unmodified opinion on the AFS.
+
+=== KEY HIGHLIGHTS ===
+- European strategic review largely completed; simplified Group; clearer forward earnings and capital allocation.
+- Group net debt reduced 40% to R5.4bn (Prior period: R9.1bn); net debt leverage 1.74x at year-end. Southern Africa gearing improved to 1.75x.
+- Group revenue, comparable basis, +1.6% over prior period (stronger H2 across both geographies). Constant-currency revenue +1.8%.
+- Gross profit from continuing operations +3.3%; gross margins +20 bps to 10.8%.
+- Operating profit (ex-extraordinary items) in Southern Africa, comparable basis, +6.8%.
+- BWG Group (Ireland) operating profit margin above 3% despite -2.8% comparable operating profit.
+- Cash generated from total operations +13.3% to R5.45bn (Prior: R4.81bn).
+- Clear pathway to shareholder returns over short to medium term.
+
+=== SALIENT FEATURES — CONTINUING OPERATIONS (comparable 364-day basis vs statutory) ===
+Turnover: R132,410m (364d) / R131,458m (361d statutory) vs R130,350m (364d) / R130,987m (366d)
+Operating profit (ex-extraordinary items): R2,782m (364d) / R1,984m (361d) vs R2,720m / R2,658m
+EPS (cents): 452.7 (364d) / 425.7 (361d statutory) vs 812.4 / 834.3
+HEPS (cents): 795.8 (364d) / 768.9 (361d statutory) vs 874.0 / 896.0
+Diluted HEPS (cents): 795.4 / 768.4 vs 873.7 / 895.6
+Note: Sept 2024 re-presented for discontinued operations (SPAR Switzerland and AWG) under IFRS 5. SPAR Poland already discontinued in prior period. Continuing-ops earnings adjusted for comparability under the 26/52-week reporting framework.
+
+=== SEGMENT ANALYSIS (continuing) ===
+Group turnover R132,409.6m (+1.6%); GP R14,239.3m (+3.3%); GP margin 10.8% (+0.2pp); operating profit R2,781.6m (+2.3%); op margin 2.1%; PBT R1,341.3m (-34.2%).
+Southern Africa: turnover R97,678.0m (+2.3%); GP R9,485.0m (+4.4%); GP margin 9.7%; operating profit R1,650.8m (+6.8%); op margin 1.7%; PBT R381.6m (-64.6%).
+Ireland (EUR): turnover EUR1,740.5m (+0.6%); GP EUR238.3m (+2.2%); GP margin 13.7%; operating profit EUR56.7m (-2.8%); op margin 3.3%; PBT EUR48.1m (+0.6%).
+Discontinued operations: turnover R20,697.7m (-14.7%); GP R4,253.2m (-14.6%); operating profit R95.6m (+16.2%).
+Net borrowings: Group R5,400.2m; Southern Africa R3,188.4m (incl. R1.18bn bridge facility raised to settle Polish term debt); Ireland EUR109m.
+
+=== PERFORMANCE NOTES ===
+- Full-year revenue +1.6% to R132.4bn; H2 FY2025 +3.5% (vs weak H1). Retailer loyalty 78.6% at end-Oct 2025 (Prior: 79.2%).
+- Operating profit ex-extraordinary +2.3% to R2.8bn; group operating margin 2.1%.
+- Net debt R5.4bn (Prior R9.1bn) on Switzerland/Poland disposals + working-capital management; gearing 1.74x (Prior 2.41x). SA interest cover 4.50x. Ireland leverage 1.71x, interest cover 11.19x.
+- Elevated financing costs on legacy Poland debt assumed in SA → non-deductible interest → higher effective tax rate.
+- Extraordinary items: impairments of corporate store goodwill and right-of-use assets in Southern Africa; impairment charges on SPAR Switzerland and AWG.
+- Southern Africa: Groceries & Liquor sales +1.9% (H2 +2.9%); retail sales +2.4% (LFL +2.4%); Build it +2.4%; SPAR Health +13.2% (Scriptwise + wholesale). On-demand volumes +136% y/y; Uber Eats partnership from March 2025.
+- Pet Storey: acquired Pet Masters Group; brand launched Sept 2025; all 12 stores converted by end-Nov 2025; first franchisee launched.
+- BWG Group (Ireland ex-AWG): revenue EUR1.74bn (+0.6%); GP margin 13.7% (Prior 13.5%); foodservice gaining share.
+- Sri Lanka JV: footfall +15%, items sold +6%; 11 new independent retailers + 1 corporate store added.
+
+=== SHAREHOLDER DISTRIBUTION ===
+No dividend declared for FY2025 (Prior: nil). Board prioritising further de-gearing. Committed to reinstating shareholder returns (dividends or share repurchases) in the short to medium term; reassessed regularly.
+
+=== OUTLOOK ===
+- Risk-controlled SAP rollout to safeguard supply chain and franchise continuity.
+- Margin restoration in Southern Africa a priority (retailer programmes, category optimisation, cost discipline).
+- Leverage expected to improve further; simplify capital structure to reduce interest drag, normalise tax burden, enhance FCF.

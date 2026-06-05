@@ -1,0 +1,55 @@
+{
+  "name": "The SPAR Group Limited",
+  "jse_code": "SPP",
+  "a2x_code": "SPP",
+  "isin": "ZAE000058517",
+  "sector": "Food & Drug Retailers (Wholesale/Retail, franchise model)",
+  "financial_year_end": "late September (52/53-week retail calendar)",
+  "reporting_currency": "ZAR",
+  "foreign_operations": {
+    "Ireland_BWG": "EUR - retained, principal FX exposure (~EUR1.74bn revenue)",
+    "Poland": "exited (PLN); residual debt refinanced into ~R1.18bn ZAR bridge facility",
+    "Switzerland": "exited (CHF); paid ~R683m to exit",
+    "UK_AWG_Appleby_Westward": "GBP - sale to A.F. Blakemore signed 18 May 2026, staged completion Jun-Sep 2026 (discontinued, IFRS5)",
+    "Sri_Lanka_JV": "LKR - small JV"
+  },
+  "ir_url": "https://thespargroup.com/resource-centre/results-announcements/",
+  "sponsor": "One Capital",
+  "corporate_broker": "Rand Merchant Bank (FirstRand)",
+  "auditor": "PricewaterhouseCoopers Inc.",
+  "leadership": {
+    "CEO": "Reeza Isaacs (from 1 March 2026; ex-Woolworths Holdings finance director; was Group CFO from 1 Jan 2025)",
+    "CFO": "Megan Pydigadu (from 1 March 2026)",
+    "former_CEO": "Angelo Swartz (resigned 28 Feb 2026; CEO since Oct 2023; 19 years at SPAR)",
+    "former_CFO": "Mark Godfrey (retired 31 Dec 2024; R9.5m exit payment drove 2025 AGM pay revolt)"
+  },
+  "reporting_calendar": {
+    "FY2025_annual_results": "8 December 2025 (52 weeks to 26 Sept 2025)",
+    "H1_FY2026_trading_statement": "29 May 2026 (26 weeks to 27 March 2026)",
+    "H1_FY2026_results": "on/about 10 June 2026 (webcast: corpcam.com/Spar10062026)",
+    "FY2026_year_end": "25 September 2026"
+  },
+  "key_facts_fy2025_continuing_comparable": {
+    "turnover_rm": 132410,
+    "operating_profit_ex_extraordinary_rm": 2782,
+    "eps_cents": 452.7,
+    "heps_cents": 795.8,
+    "net_debt_rm": 5400,
+    "leverage_x": 1.74,
+    "dividend": "nil"
+  },
+  "watch_items": [
+    "KZN distribution centre recovery",
+    "SAP/ERP rollout execution risk",
+    "Resumption of dividend / shareholder returns",
+    "Remuneration governance (61% against 2025 implementation report)",
+    "SA retailer (guild) loyalty",
+    "Legacy Poland debt interest drag and effective tax normalisation"
+  ],
+  "last_updated": "2026-06-05",
+  "skill_generated": false,
+  "next_expected_results": {
+    "type": "H1 FY2026 interim results",
+    "expected_date": "2026-06-10"
+  }
+}

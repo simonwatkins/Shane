@@ -30,7 +30,43 @@ valuation context, flags risks, and presents findings in the fund's standardised
 - If the required documents aren't available, trigger `jse-report-downloader` first
 - Check `manifest.json` to see what's available before starting
 
+### Source-of-truth gate (MANDATORY — do not skip)
+
+**You may not produce analysis from web-fetched text held only in your context. Every
+source must first be saved to `companies/[slug]/` and registered in `manifest.json`.**
+This rule exists because an analysis was once written straight from `web_fetch` output
+without saving anything — never do that again.
+
+Before writing a single number, confirm ALL of the following:
+- [ ] The source exists ON DISK under the right `companies/[slug]/` subfolder (original
+      binary preferred; a `.txt` sidecar is the minimum acceptable artifact).
+- [ ] It is recorded in `manifest.json` with `source_url`, `text_source`, and an
+      `original_saved` flag (true/false).
+- [ ] If the original binary could not be downloaded (proxy 403, JS-rendered host), you
+      have (a) saved the `.txt` sidecar from the fetched text, (b) set
+      `original_saved: false`, and (c) logged a `coverage_gap` naming the outstanding
+      binary + URL to backfill — per jse-report-downloader "Handling Download Failures"
+      step 5. The accepted backfill route for blocked hosts is Claude in Chrome (browser
+      download), which needs explicit user permission.
+
+If any box is unchecked, STOP and run `jse-report-downloader` first. Saving the text you
+just fetched as a sidecar takes seconds — there is no excuse for an un-catalogued analysis.
+
 ## Workflow
+
+### Step 0: Confirm Deliverable Format (ALWAYS ASK FIRST)
+
+Before doing the analysis work, ask the user — via the AskUserQuestion tool — how they want
+the output delivered. Do not assume. Offer at minimum:
+- **Word document (.docx)** — a formatted report saved to `companies/[slug]/analyst-notes/`
+  (use the docx skill; apply the full Citation Standard incl. real footnotes).
+- **Answer in the chat** — a concise prose + tables answer directly in the conversation,
+  no file created.
+
+Also offer, where relevant: **Excel (.xlsx)** for a data table to model further, and
+**PowerPoint (.pptx)** for an IC slide. If the user already stated a format in their
+request, skip the question and honour it. If they pick a file format, still give a short
+chat summary and share the file via present_files.
 
 ### Step 1: Inventory Available Documents
 
@@ -175,7 +211,9 @@ Mark documents as analysed (via jse-manifest-manager):
 
 Save to `companies/[slug]/analysis-[period]-[date].md` so it can be referenced later
 without re-analysing. For a presentation deliverable, use the pptx skill; for a data
-table to be manipulated further, use the xlsx skill.
+table to be manipulated further, use the xlsx skill. (The output format chosen in Step 0
+governs which skill to use; always also share any file via present_files with a short
+chat summary.)
 
 ## South African Context (apply throughout)
 
@@ -269,6 +307,8 @@ using ALL FOUR of the following:
 
 ### Definition of Done — Citation Checklist (run before delivering)
 Do not hand over the analysis until every box is ticked:
+- [ ] Deliverable format was confirmed with the user (Step 0) and the output matches it.
+- [ ] Every source used is saved on disk and registered in the manifest (Source-of-truth gate).
 - [ ] Every data-table row has a `Source` column entry (ref-key + page).
 - [ ] Every figure/target/quote/risk-fact in prose carries an inline footnote or cite.
 - [ ] Every `(e)` figure shows its arithmetic and cites its input source(s).
