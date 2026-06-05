@@ -1,0 +1,18 @@
+{
+  "name": "Compagnie Financière Richemont SA",
+  "jse_code": "CFR",
+  "six_code": "CFR",
+  "isin": "CH0210483332",
+  "sector": "Luxury Goods (Jewellery & Watches)",
+  "reporting_currency": "EUR",
+  "trading_currency_jse": "ZAR",
+  "trading_currency_primary": "CHF",
+  "primary_listing": "SIX Swiss Exchange",
+  "secondary_listing": "JSE (secondary, fungible A shares)",
+  "financial_year_end": "March",
+  "ir_url": "https://www.richemont.com/investors/",
+  "results_url": "https://www.richemont.com/investors/results-reports-presentations/",
+  "governance_note": "Dual-class structure. Compagnie Financière Rupert holds all B shares; Rupert family ~10% economic interest but ~51% of voting rights.",
+  "rand_hedge": true,
+  "last_updated": "2026-06-05"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Woolworths Holdings Limited",
+  "jse_code": "WHL",
+  "isin": "ZAE000063863",
+  "registration_number": "1929/001986/06",
+  "lei": "37890095421E07184E97",
+  "sector": "Retail (Food + Apparel/Beauty/Home; SA + Australia)",
+  "reporting_currency": "ZAR (Country Road Group reports in AUD)",
+  "financial_year_end": "Late June (52/53-week retail calendar)",
+  "registered_address": "Woolworths House, 93 Longmarket Street, Cape Town, 8001",
+  "ir_website": "https://www.woolworthsholdings.co.za/investors/all-reports-and-results/",
+  "sens_page": "https://www.woolworthsholdings.co.za/investors/sens/",
+  "document_url_patterns": {
+    "results_pdf": "https://www.woolworthsholdings.co.za/wp-content/uploads/<YYYY>/<MM>/whlfy<YY>.pdf",
+    "sens_pdf": "https://senspdf.jse.co.za/documents/<YYYY>/JSE/ISSE/WHLE/<file>.pdf",
+    "analyst_presentation": "https://www.woolworthsholdings.co.za/wp-content/uploads/<YYYY>/<MM>/Analyst_Presentation.pdf",
+    "remuneration_report": "https://www.woolworthsholdings.co.za/wp-content/uploads/<YYYY>/<MM>/Remuneration_Report_<YYYY>.pdf"
+  },
+  "operating_subsidiaries": [
+    "Woolworths (Pty) Ltd (Woolworths SA): Food; Fashion, Beauty & Home; Woolworths Ventures",
+    "Woolworths Financial Services (book; impairment ~6.4%)",
+    "Country Road Group (Pty) Ltd (Australia): Country Road, Witchery, Trenery, Mimco, Politix"
+  ],
+  "key_people": {
+    "chairman": "Clive Thomson",
+    "ceo": "Roy Bagattini",
+    "group_fd": "Zaid Manjra",
+    "ceo_food": "Sam Ngumeni",
+    "crg_managing_director": "Steven Cook (from Jul 2025; succeeded Raju Vuppalapati)"
+  },
+  "notes": "David Jones sold/separated (2023). Melbourne Bourke Street property sold FY2025 (A$223.5m, R792m profit). Share buyback programme commenced Sept 2025. Note: distinct from Australian 'Woolworths Group' (ASX:WOW) — unrelated company.",
+  "download_note": "Source PDFs could not be saved as binaries (workspace proxy blocks the IR domain). Catalogued as extracted text via web fetch, consistent with manifest text_source convention.",
+  "onboarded": "2026-06-05"
+}

@@ -1,0 +1,71 @@
+{
+  "manifest_version": 1,
+  "last_global_refresh": null,
+  "companies": {
+    "shoprite": {
+      "name": "Shoprite Holdings Limited",
+      "jse_code": "SHP",
+      "sector": "Retail",
+      "financial_year_end": "June",
+      "last_updated": "2026-06-05T14:45:00Z",
+      "skill_generated": false,
+      "next_expected_results": {
+        "type": "FY2026 Annual Results",
+        "expected_date": "2026-09-01",
+        "notes": "~10 weeks after late-June year-end"
+      },
+      "documents": {
+        "shoprite-annual-report-fy2025-20250902.pdf": {
+          "type": "annual_report",
+          "period": "FY2025",
+          "date_published": "2025-09-02",
+          "path": "companies/shoprite/annual-reports/shoprite-annual-report-fy2025-20250902.pdf",
+          "original_saved": true,
+          "text_path": "companies/shoprite/annual-reports/shoprite-annual-report-fy2025-20250902.txt",
+          "text_source": "web_fetch PDF text extraction (tables preserved as spaced values)",
+          "source_url": "https://www.shopriteholdings.co.za/docs/ye2025-sep2025.pdf",
+          "analysed": true,
+          "file_size_mb": 2.28,
+          "pages": 46,
+          "date_downloaded": "2026-06-05T14:45:00Z"
+        }
+      },
+      "coverage_gaps": [
+        "H1 FY2026 interim not yet saved locally (data captured via SENS summary)."
+      ]
+    },
+    "woolworths": {
+      "name": "Woolworths Holdings Limited",
+      "jse_code": "WHL",
+      "sector": "Retail",
+      "financial_year_end": "June",
+      "documents": {},
+      "coverage_gaps": [
+        "Manifest entry was found truncated/corrupted on 2026-06-05 and rebuilt as a stub; original detail lost. Re-onboard to restore."
+      ]
+    },
+    "richemont": {
+      "name": "Compagnie Financière Richemont SA",
+      "jse_code": "CFR",
+      "sector": "Luxury Goods (Jewellery & Watches)",
+      "financial_year_end": "March",
+      "reporting_currency": "EUR",
+      "primary_listing": "SIX Swiss Exchange",
+      "secondary_listing": "JSE (fungible A shares)",
+      "last_updated": "2026-06-05T00:00:00Z",
+      "skill_generated": false,
+      "rand_hedge": true,
+      "next_expected_results": {
+        "type": "H1 FY2027 Interim Results",
+        "expected_date": "2026-11-07",
+        "notes": "Half-year to 30 Sep 2026; interims typically reported early-mid November."
+      },
+      "documents": {},
+      "coverage_gaps": [
+        "FY26 Annual Report PDF & results presentation not yet saved locally (data captured via 22 May 2026 press release).",
+        "No interim/SENS PDFs downloaded yet."
+      ],
+      "notes": "FY26 (y/e 31 Mar 2026): sales €22,420m (+5% actual,+11% cc); op profit €4,492m (20.0% margin); profit €3,484m (+27%); net cash €8,496m; EPS €5.909. Ordinary div CHF3.30 (+10%) + special CHF1.00. New buyback (up to 10m A shares) launched 26 May 2026."
+    }
+  }
+}
