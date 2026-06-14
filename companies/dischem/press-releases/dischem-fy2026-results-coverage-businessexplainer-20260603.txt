@@ -1,0 +1,49 @@
+PRESS COVERAGE — Business Explainer
+"Dis-Chem Grows Revenue Despite Consumer Pressure"
+Staff Writer, 3 June 2026.
+URL: https://businessexplainer.co.za/companies/2026/06/03/dis-chem-grows-revenue-despite-consumer-pressure/
+Captured via web fetch 2026-06-07. Covers FY2026 results (12 months to 28 Feb 2026, released 29 May 2026).
+
+HEADLINE NUMBERS (FY2026 vs FY2025):
+- Group revenue +9.3% to R42.8bn.
+- EPS 114.2c (-17.1%); HEPS 113.7c (-17.4%). Excluding the prior-year once-off property gain,
+  EPS/HEPS declined 11.5%/11.8%.
+- Excluding ecosystem investment + non-recurring items, Group profit before tax +20.1%.
+- Final dividend 15.9c/share (total 45.34c, down 17.3%; final down 42.8%).
+
+ECOSYSTEM INVESTMENT (the swing factor depressing reported earnings):
+- R445m invested in the period; 75% (R330m) to establish/operationalise "X, bigly labs" and
+  Dis-Chem Life (new financial-services arm). Net positive returns from X, bigly labs expected
+  in FY2027. Spend on app/e-commerce relaunch, data/analytics/AI, enterprise acceleration.
+- Excluding the R445m and non-recurring items, and the prior-year property gain, core retail
+  profit before tax +27.1%.
+- CEO Rui Morais framing: transition "from retail pharmacy to integrated healthcare provider,"
+  positioning Dis-Chem as SA's "go to health authority," dual role of healthcare provider AND
+  funder; "data-led retailing" as a defensive moat.
+
+SEGMENTS:
+- Retail revenue +9.0% to R36.6bn; comparable pharmacy store revenue +5.3%. Net +31 retail
+  pharmacy stores (and -3 Baby City) => 316 retail pharmacy + 42 baby stores at year-end.
+- Better Rewards (loyalty relaunch): in its first 17 weeks, revenue +9.6%; participating-brand
+  revenue +12.0% with volume +18.7%. Market-share growth (volume) +1.1 ppt across core categories.
+- Wholesale revenue +13.1% to R34.0bn. To own stores +13.5%; external (independents + The Local
+  Choice franchisees) +11.3%. Independent pharmacy +7.2%; TLC +16.4% (franchise stores 240 -> 280).
+
+MARGINS & COSTS:
+- Total income (excl prior property gain) +9.6% to R13.2bn; group margin 30.8% (from 30.7%).
+- Retail total income +12.2%; retail margin 31.1% (from 30.3%) — stronger dispensary/healthcare
+  gross margins + data-led promotions.
+- Group expenses +13.0% (retail +15.7% on new stores + ecosystem; wholesale +2.6%). Positive
+  operating leverage: like-for-like retail sales +5.3% vs like-for-like payroll +3.5%.
+
+OUTLOOK / GUIDANCE:
+- 1 March - 19 May 2026: Group revenue +9.0% (retail +8.8%, external wholesale +10.4%); total
+  income margin rose to 32.0% (signalling Better Rewards sustainability + operating leverage).
+- FY2027 priorities: roll out "Health Hub" format stores; 34 new pharmacy stores planned;
+  restructure operating model around X, bigly labs; staffing framework 2.0; full digital/online
+  + healthcare-access revamp.
+
+CONTEXT: Share fell ~8% on results day (29 May 2026) on the reported earnings decline + dividend
+cut, despite the strong underlying core-retail growth — the market is weighing the heavy upfront
+ecosystem spend against FY2027 payback. (See also Financial Mail's "The Clicks conundrum",
+30 Apr 2026, which flagged Dis-Chem as the more "modern", market-share-hungry pharmacy competitor.)

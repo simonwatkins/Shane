@@ -14,5 +14,68 @@
   "results_url": "https://www.richemont.com/investors/results-reports-presentations/",
   "governance_note": "Dual-class structure. Compagnie Financière Rupert holds all B shares; Rupert family ~10% economic interest but ~51% of voting rights.",
   "rand_hedge": true,
-  "last_updated": "2026-06-05"
+  "last_updated": "2026-06-07T16:22:08Z",
+  "documents": {
+    "richemont-fy26-results-announcement-20260522.pdf": {
+      "date_downloaded": "2026-06-05T00:00:00Z",
+      "original_saved": true,
+      "analysed": true,
+      "type": "annual_results",
+      "period": "FY2026",
+      "date_published": "2026-05-22",
+      "path": "companies/richemont/press-releases/richemont-fy26-results-announcement-20260522.pdf",
+      "text_path": "companies/richemont/press-releases/richemont-fy26-results-announcement-20260522.md",
+      "text_source": "web_fetch -> markdown",
+      "file_size_mb": 0.41,
+      "source_url": "https://www.richemont.com/media/ovfnkffy/ad-hoc-announcement-pursuant-to-art-53-lr-fy26-annual-results-en.pdf",
+      "_provenance": "Ad hoc announcement (art. 53 LR), year ended 31 March 2026, published 22 May 2026."
+    },
+    "richemont-fy26-results-presentation-20260522.pdf": {
+      "date_downloaded": "2026-06-05T00:00:00Z",
+      "original_saved": true,
+      "analysed": false,
+      "type": "investor_presentation",
+      "period": "FY2026",
+      "date_published": "2026-05-22",
+      "path": "companies/richemont/investor-presentations/richemont-fy26-results-presentation-20260522.pdf",
+      "text_path": "companies/richemont/investor-presentations/richemont-fy26-results-presentation-20260522.md",
+      "text_source": "web_fetch -> markdown",
+      "file_size_mb": 5.08,
+      "source_url": "https://www.richemont.com/media/ngtd2kgn/richemont-fy26-annual-results-presentation-en.pdf",
+      "_provenance": "FY26 annual results presentation, 22 May 2026."
+    },
+    "richemont-fy26-annual-report-full-20260529.pdf": {
+      "date_downloaded": "2026-06-05T00:00:00Z",
+      "original_saved": true,
+      "analysed": false,
+      "type": "annual_report",
+      "period": "FY2026",
+      "date_published": "2026-05-29",
+      "path": "companies/richemont/annual-reports/richemont-fy26-annual-report-full-20260529.pdf",
+      "file_size_mb": 8.4,
+      "_provenance": "Full FY26 annual report (binary saved). Source URL NOT captured at download; re-locate from richemont.com/investors if the original link is needed."
+    },
+    "richemont-fy26-annual-report-and-accounts.pdf": {
+      "date_downloaded": "2026-06-05T00:00:00Z",
+      "original_saved": true,
+      "analysed": false,
+      "type": "annual_report",
+      "period": "FY2026",
+      "date_published": "2026-05-29",
+      "path": "companies/richemont/annual-reports/richemont-fy26-annual-report-and-accounts.pdf",
+      "file_size_mb": 1.52,
+      "_provenance": "FY26 'Annual Report and Accounts' (1.5MB, distinct from the 8.4MB full report). Source URL NOT captured; date_published inferred = AR release date. Verify vs the full report for duplication."
+    },
+    "Richemont_FY2026_Review_and_Rand_Sensitivity.docx": {
+      "date_downloaded": "2026-06-05T00:00:00Z",
+      "original_saved": true,
+      "analysed": true,
+      "type": "analyst_note",
+      "period": "FY2026",
+      "date_published": "2026-06-05",
+      "path": "companies/richemont/analyst-notes/Richemont_FY2026_Review_and_Rand_Sensitivity.docx",
+      "text_source": "internal fund note",
+      "_provenance": "Internal analyst note (Cowork), June 2026 - FY2026 review + rand sensitivity."
+    }
+  }
 }

@@ -1,0 +1,49 @@
+SOURCE: Prosus N.V. / Naspers Limited — Interim results announcement (SENS short-form)
+PERIOD: Six months ended 30 September 2025 (1H26; FY ending 31 March 2026)
+PUBLISHED: 24 November 2025 (signed Amsterdam, 22 November 2025)
+REPORTING CURRENCY: US$ (presentation). Naspers listed JSE: NPN; Prosus Euronext Amsterdam & JSE: PRX.
+TEXT SOURCE: mcp__workspace__web_fetch (application/pdf -> extracted text)
+SOURCE URL: https://www.prosus.com/~/media/Files/P/prosus-corp-v2/results-reports-and-events-archive/latest-results/hy2026/hy2026-short-form-release.pdf
+FULL REPORT (SENS): https://senspdf.jse.co.za/documents/2025/jse/isse/PRXE/1H26.pdf
+CFO: Nico Marais CA(SA). Chair: JP (Koos) Bekker. CEO: Fabricio Bloisi. Auditor: Deloitte (reviewed, unmodified).
+
+=== SALIENT FEATURES (Total operations; continuing operations basis) ===
+Revenue (continuing): US$3,623m (HY25: US$2,963m)
+Operating profit: US$219m (HY25: US$132m)
+Earnings per ordinary share N: 253 US cents (HY25: 191 US cents)  [191 also shown as 187 in one chart]
+Free cash flow: US$1,296m (HY25: US$897m)
+Core headline EPS (ordinary share N): 179 US cents (HY25: 144 US cents)
+Core headline earnings for the period: US$4,000m (HY25: US$3,542m)
+Group aEBITDA: US$423m (HY25: US$213m)
+Group aEBIT: US$250m (HY25: US$60m)
+Headline earnings for the period: US$2,665m (HY25: US$2,614m)
+Headline EPS (ordinary share N): 119 US cents (HY25: 106 US cents)
+Ecommerce aEBITDA: US$530m (HY25: US$312m)  [media release headline: +70%; one chart shows HY25 US$326m]
+
+=== KEY COMMENTARY (growth rates: 1H26 vs 1H25; brackets = local-currency, ex-M&A) ===
+- Consolidated revenue grew 22% (14% LC) to US$3.6bn, driven by iFood (LatAm), OLX (Europe), PayU (India).
+- Ecommerce aEBITDA grew 70% (58%) to US$530m; Ecommerce aEBIT increased 97% (84%) to US$400m.
+- Consolidated aEBITDA +99% (82%) from US$213m to US$423m; consolidated aEBIT from US$60m to US$250m.
+- Core headline earnings +13% (18%) to US$4.0bn; core HEPS +24% (boosted by share repurchases).
+- Earnings from continuing operations +23% to US$5.6bn (from US$4.6bn).
+- Free cash flow US$897m -> US$1.3bn. Excluding Tencent dividend, FCF was US$59m (vs -US$104m outflow in 1H25).
+
+=== GUIDANCE (FY2026, year to 31 March 2026) ===
+- Ecommerce revenue: US$7.3bn - US$7.5bn
+- Ecommerce aEBITDA: US$1.1bn - US$1.2bn (excluding JET)
+- Capital Markets Day (25 June 2025): three-year plan to AT LEAST DOUBLE Ecommerce revenue and TRIPLE Ecommerce aEBITDA.
+
+=== PORTFOLIO / CAPITAL ALLOCATION ===
+- Invested US$2.0bn in M&A in 1H26 incl. Despegar (May 2025).
+- OLX agreed to acquire La Centrale (France motor classifieds) for EUR1.1bn (US$1.3bn); closed Nov 2025.
+- Closed Just Eat Takeaway.com (JET) acquisition Oct 2025 for ~EUR4.2bn (US$4.9bn); settled EUR5.0bn (US$5.8bn) incl. convertible bonds EUR788m (US$925m).
+- Divested Udemy, part of Remitly; trimmed Meituan by US$249m in period + US$300m in October. Total divestiture proceeds (to Nov) US$1.2bn. Expect ~US$2bn divestitures in FY26.
+- Balance sheet: US$20.3bn cash on hand (US$18.3bn central); net cash US$2.6bn (US$1.8bn central). After La Centrale + JET settlement: ~US$13.2bn cash on hand (US$11.2bn central). Committed to investment-grade rating.
+
+=== TENCENT & DISCOUNT / BUYBACK ===
+- Share-repurchase programme (since June 2022): reduced Prosus free-float share count by 30%; returned over US$41bn to Prosus + Naspers shareholders.
+- Combined Naspers/Prosus holdco discount reduced by 25 percentage points since inception (buyback + disclosure/operational execution); US$63bn value creation through 30 Sept 2025.
+- Prosus repurchased 892,713,136 ordinary N shares (US$30.1bn) -> +18% incremental NAV/share accretion.
+- Naspers funds its buyback via Prosus share sales: sold 344,868,918 Prosus N shares, repurchased 60,735,037 Naspers N shares, totalling US$11.5bn.
+
+DIRECTORS: JP Bekker (chair), F Bloisi (CEO), S Dubey, HJ du Toit, CL Enenstein, M Girotra, RCC Jafta, AGZ Kemna, P Mahanyele Dabengwa, N Marais, D Meyer, R Oliveira de Lima, SJZ Pacak, MR Sorour, Y Xu. Company secretary: L Bagwandeen.

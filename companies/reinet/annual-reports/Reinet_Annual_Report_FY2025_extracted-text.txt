@@ -1,0 +1,1985 @@
+SOURCE: Reinet Investments S.C.A. Annual Report at 31 March 2025
+SOURCE URL (original PDF): https://senspdf.jse.co.za/documents/2025/JSE/ISSE/RNIE/ARMar25.pdf
+EXTRACTED VIA: web_fetch text extraction on 2026-06-08 (binary download blocked by sandbox proxy)
+========================================================================
+https://senspdf.jse.co.za/documents/2025/JSE/ISSE/RNIE/ARMar25.pdf
+→ https://senspdf.jse.co.za/documents/2025/JSE/ISSE/RNIE/ARMar25.pdf
+Content-Type: application/pdf
+
+REINET INVESTMENTS S.C.A.
+Annual Report at 31 March 2025
+REINET INVESTMENTS S.C.A.
+1 Highlights
+2 Performance
+4 Management report
+4 Chairman’s commentary
+6 Business overview
+28 Corporate governance
+36 Sustainability report
+43 Report of the Board of Overseers
+44 Financial statements
+45 Consolidated financial statements
+45 Consolidated balance sheet
+46 Consolidated statement of comprehensive income
+47 Consolidated statement of changes in equity
+48 Consolidated cash flow statement
+49 Notes to the consolidated financial statements
+71 Audit report
+74 Company financial statements
+74 Balance sheet
+75 Profit and loss account
+76 Notes to the financial statements
+80 Proposed appropriation of retained earnings
+81 Audit report
+83 Notice of annual general meeting
+86 Exchange rates and share information
+87 Statutory information
+CONTENTS
+Cautionary statement regarding forward-looking statements
+This document contains forward-looking statements which reflect the current views and beliefs of Reinet Investments S.C.A. (the ‘Company’), as well as assumptions made by 
+the Company and information currently available. Words such as ‘may’, ‘should’, ‘estimate’, ‘project’, ‘plan’, ‘believe’, ‘expect’, ‘anticipate’, ‘intend’, ‘potential’, ‘goal’, ‘strategy’, 
+‘target’, ‘will’, ‘seek’ and similar expressions may identify forward-looking statements. Such forward-looking statements are not guarantees of future performance. Actual 
+results may differ materially from the forward-looking statements as a result of a number of risks and uncertainties, many of which are outside Reinet’s (as defined in the 
+footnote on page 1) control. The Company does not undertake to update, nor does it have any obligation to provide updates or to revise, any forward-looking statements. 
+Certain information included in the Management Report is text attributed to the management of investee entities. While no facts have come to our attention that lead us to 
+conclude that any such information is inaccurate, we have not independently verified such information and do not assume any responsibility for the accuracy or completeness 
+of such information.
+REINET INVESTMENTS S.C.A. | 1
+ANNUAL REPORT 2025
+Reinet Investments S.C.A. (the ‘Company’) is a partnership limited by shares incorporated in the Grand Duchy of Luxembourg and having its registered office at 
+35, boulevard Prince Henri, L-1724 Luxembourg. It is governed by the Luxembourg law on securitisation and in this capacity allows its shareholders to participate 
+indirectly in the portfolio of assets held by its wholly-owned subsidiary Reinet Fund S.C.A., F.I.S. (‘Reinet Fund’), a specialised investment fund also incorporated in 
+Luxembourg. The Company’s ordinary shares are listed on the Luxembourg Stock Exchange, Euronext Amsterdam and the Johannesburg Stock Exchange; the listing 
+on the Johannesburg Stock Exchange is a secondary listing. The Company’s ordinary shares are included in the ‘LuxX’ index of the principal shares traded on the 
+Luxembourg Stock Exchange. The Company and Reinet Fund together with Reinet Fund’s subsidiaries are referred to as ‘Reinet’.
+HIGHLIGHTS
+The investment objective of Reinet is to achieve long-term capital growth.
+Reinet’s strategy is to work with experienced partners to invest in unique opportunities focusing on value creation 
+for investors.
+• Reinet’s net asset value of € 6.9 billion reflects a compound growth rate of 9.0 per cent per annum in euro terms, since March 2009, 
+including dividends paid 
+• The net asset value at 31 March 2025 reflects an increase of € 731 million or 11.8 per cent from € 6 184 million at 31 March 2024 
+• Net asset value per share at 31 March 2025: € 38.04 (31 March 2024: € 34.02)
+• Commitments totalling € 39 million in respect of new and existing investments were made during the year, with a total of 
+€ 144 million funded
+• Sale of remaining 48.3 million British American Tobacco p.l.c. shares for gross proceeds of € 1 627 million
+• Dividends from British American Tobacco p.l.c. during the year amounted to € 98 million
+• Ordinary and special dividends from Pension Insurance Corporation Group Limited during the year amounted to € 235 million 
+• Reinet dividend of € 0.35 per share, amounting to some € 64 million (excluding treasury shares), paid during the year 
+• Proposed Reinet dividend of € 0.37 per share payable after the 2025 annual general meeting
+2 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+HIGHLIGHTS
+PERFORMANCE 
+NET ASSET VALUE PER SHARE
+The NAV per share of the Company is calculated by dividing the 
+NAV by the number of shares outstanding (excluding treasury 
+shares) of 181 790 891 (31 March 2024: 181 790 891).
+31 March 2025 31 March 2024
+Shares in issue 195 942 286 195 942 286
+Treasury shares (14 151 395) (14 151 395)
+Net shares 181 790 891 181 790 891
+€ m € m
+NAV (see page 6) 6 915 6 184
+€ per share € per share
+NAV per share 38.04 34.02
+SHARE PRICE
+The Company’s indicative share price as quoted on the Luxembourg 
+Stock Exchange increased by 3.6 per cent in the year from € 22.20 
+at 31 March 2024 to € 23.00 at 31 March 2025, with the highest 
+trade being at € 26.80 during the year. The total shareholder return 
+since inception (taking into account the initial price of € 7.1945 and 
+including dividends paid) is 8.1 per cent per annum. The growth in 
+NAV, including dividends paid, reflects a 9.0 per cent compounded 
+increase since March 2009. The Company’s ordinary shares are listed 
+on the Luxembourg Stock Exchange, Euronext Amsterdam and the 
+Johannesburg Stock Exchange; the listing on the Johannesburg 
+Stock Exchange is a secondary listing.
+Share prices as at 31  March  2025 and 31  March  2024 were as 
+follows:
+31 March 2025 31 March 2024
+ZAR EUR ZAR EUR
+Luxembourg – 23.00 – 22.20
+Amsterdam – 22.60 – 22.20
+Johannesburg 445.21 – 458.23 –
+NET ASSET VALUE
+The net asset value (‘NAV’) comprises total assets less total liabilities, 
+and equates to total equity under International Financial Reporting 
+Standards. The increase in the NAV of €  731  million during the 
+year reflects increases in the estimated fair value and gains realised 
+on certain investments including British American Tobacco p.l.c. 
+(‘BAT’), Pension Insurance Corporation Group Limited (‘Pension 
+Corporation’), other listed investments, TruArc Partners, Coatue 
+funds, United States land development and mortgages and Prescient 
+China funds together with dividends received from BAT and Pension 
+Corporation. Offsetting these increases are decreases in the estimated 
+fair value of certain investments including NanoDimension funds and 
+other investments together with the dividend paid by the Company 
+and expenses in respect of management and performance fees. Details 
+of the Company’s NAV and details of movements in key investments 
+can be found on pages 6 and 7 of this report.
+Reinet records its assets and liabilities in euro; the strengthening of 
+sterling against the euro offset by the weakening of the US dollar 
+against the euro has resulted in an overall increase in the value of 
+certain assets and liabilities in euro terms. Applying current year-end 
+exchange rates to the March 2024 assets and liabilities would have 
+resulted in an increase in the March 2024 NAV of some € 99 million.
+SHARE BUYBACK PROGRAMME
+As at 31 March 2025, there was no share buyback programme in 
+progress.
+The Company repurchased 14  151  395 ordinary shares between 
+November  2018 and May  2022 under five share buyback 
+programmes. The cost of the ordinary shares repurchased amounted 
+to € 222 million, plus transaction costs.
+Details of each completed share buyback programme to date can be 
+found in note 8 to the consolidated financial statements.
+All ordinary shares repurchased are held as treasury shares.
+REINET INVESTMENTS S.C.A. | 3
+ANNUAL REPORT 2025
+DIVIDEND
+The Company paid a dividend of € 0.35 per share in September 2024 
+(September 2023: € 0.30 per share). A dividend of € 0.37 per share 
+is proposed for the current financial year, subject to approval by 
+shareholders at the annual general meeting in August 2025.
+GLOBAL MARKETS BACKDROP
+As 2025 progresses, geo-political tensions and economic risks are 
+again heightened. Market uncertainty has been impacted by the 
+continued effects of the Ukraine crisis, turmoil in the Middle East, 
+the possibility of changes in global trade tariffs, relatively high 
+interest rates and sticky inflation. Whilst inflation and interest 
+rates have been trending downwards, there is the risk that they may 
+increase again. The extent and impact of these ongoing world-wide 
+factors remain highly uncertain.
+Reinet has no direct exposure to Russia, Ukraine or the Middle East 
+through its underlying investments or banking relationships and has 
+not experienced any significant direct impacts in respect of interest 
+rate fluctuations or inflation. 
+It is too early to estimate the full impact of any changes in global 
+trade tariffs on Reinet’s underlying investments.
+Reinet recognises the importance of cash reserves in uncertain times, 
+it has relationships with numerous highly rated banking institutions, 
+and a well-diversified approach to cash and liquidity management.
+Reinet continues to value its investments in line with the 
+International Private Equity and Venture Capital Valuation 
+(‘IPEV’) guidelines and its approved valuation procedures and 
+methodologies. All investment valuations have been prepared 
+using latest available data, including exchange rates and listed share 
+prices as at 31 March 2025. Discussions have taken place with fund 
+managers and investee companies to determine any significant 
+changes in value and any impacts related to the various geo-political 
+areas of conflict, volatility in stock and currency markets, interest 
+rates, inflation and exposure to certain financial institutions. Future 
+valuations will take into account any new impacts of the above, 
+which could affect the valuation of underlying investments. 
+4 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+CHAIRMAN’S COMMENTARY
+Dear Shareholder,
+OVERVIEW
+During 2024, markets were relatively stable as compared to 2022 
+and 2023; interest rates and inflation generally declined despite the 
+continued crises in Ukraine and the Middle East. In contrast, 2025 
+to date has seen much higher market volatility with the potential 
+for changes in global trade tariffs. Such uncertainty is not good for 
+capital markets and makes investing more challenging. 
+Reinet has disposed of its remaining interests in British American 
+Tobacco and consequently has significant liquid funds, ensuring the 
+ability to meet both existing and future investment commitments. 
+Liquid funds are held in several currencies and placed with highly 
+rated banks and short-term money market funds.
+Capital invested during the year amounted to some € 144 million, 
+being mostly in respect of funds managed by TruArc Partners and 
+Coatue. 
+Since its inception in 2008, Reinet has generated an annualised 
+return of 8.1 per cent for investors, based on the Reinet share 
+price, with the underlying net asset value reflecting a 9.0 per cent 
+compounded increase since March 2009.
+RESULTS
+At 31  March  2025, Reinet’s net asset value amounted to some 
+€ 6.9 billion, an increase of € 731 million or 11.8 per cent from 
+31  March  2024. The increase reflects the increase in value of 
+Pension  Corporation, the gain on the sale of British American 
+Tobacco shares, together with the receipt of significant dividends 
+from both Pension Corporation and British American Tobacco.
+BUSINESS DEVELOPMENTS
+In March 2009, Reinet held some 84.3 million British American 
+Tobacco shares following the spin-off from Richemont in 2008 
+and the subsequent capital increase which allowed Reinet 
+shareholders to acquire further shares in exchange for British 
+American Tobacco shares. Over the years, Reinet received 
+dividends of over € 2 billion, used shares as collateral to secure 
+borrowings and sold 36 million shares to provide liquidity when 
+needed. At 31  March  2024, Reinet held some 48.3  million 
+British American Tobacco shares which were sold between 
+December  2024 and January  2025 realising gross proceeds 
+of €  1  627  million. The gain on sale in the year together 
+with dividends received amounted to €  366  million. Since 
+March 2009, the investment in British American Tobacco has 
+generated an annualised return for Reinet of over 11 per cent.
+Pension Corporation’s new business premiums increased from 
+£  6.9  billion in 2023 to £  8.1  billion in 2024, the largest ever 
+total. The pension risk transfer market is dynamic and presents 
+opportunities for many years to come. Pension Corporation 
+is a long-term investor and to date has invested £ 30 million in 
+the United Kingdom, including housing and infrastructure. In 
+April  2024, the shareholders of Pension Corporation approved 
+a dividend of 11 pence per ordinary share which was paid to 
+shareholders in May  2024. In September  2024, the board of 
+directors of Pension Corporation approved an interim dividend of 
+11.0 pence per ordinary share and a special dividend of 8.0 pence 
+per ordinary share; Reinet’s share of these dividends amounted to 
+some £ 198 million. The increase in value of Pension Corporation 
+together with the dividends received in the year amount to over 
+€ 500 million, being the largest driver of the increase in Reinet’s 
+net asset value this year.
+Reinet is invested in five funds managed by Trilantic Capital Partners; 
+four in the US and one in Europe. Three funds are in the process 
+of realising investments and two funds are still actively investing 
+in new investments and making add-on investments. Reinet’s total 
+investment in the Trilantic funds to date amounts to € 522 million 
+with total realisations of € 617 million and a remaining carrying 
+value of € 424 million.
+TruArc continued to perform well this year, exiting one significant 
+investment and returning proceeds of €  55  million. Reinet 
+committed some € 17 million to TruArc’s Structured Opportunities 
+Fund as part of the first close in early 2024 and an additional 
+€  38  million as part of the final close later in 2024, bringing its 
+total commitment to € 55 million. At 31 March 2025, Reinet’s total 
+outstanding commitment to TruArc’s managed funds amounted to 
+€  139  million, with €  21  million invested in the year and some 
+€  351  million invested to date. In May  2025, Reinet made a 
+commitment of $ 345 million to TruArc Fund V.
+Reinet invested € 104 million in Coatue Structured Funds during 
+the year and has remaining commitments of € 105 million. Coatue 
+seeks to create value for investors in all market conditions, providing 
+companies and founders with tactical solutions that are tailored to 
+their unique financing needs, even in challenging markets.
+REINET INVESTMENTS S.C.A. | 5
+ANNUAL REPORT 2025
+DIVIDEND
+The Board of Directors of Reinet Investments Manager S.A. 
+proposes a dividend of € 0.37 per share, payable in September 2025. 
+This represents a 5.7 per cent increase over last year’s dividend.
+OUTLOOK
+Recognising the potential for continued market volatility and 
+global instability, we will maintain a measured approach to 
+capital deployment, prioritising support for our current portfolio 
+investments while selectively exploring new opportunities and 
+partnerships that promise long-term capital growth.
+As always, I am extremely grateful to all of Reinet’s employees, 
+management, the Board of Overseers and the Boards of Directors 
+for their commitment and continued support throughout the year.
+Johann Rupert
+Chairman
+Reinet Investments Manager S.A.
+Luxembourg, 23 May 2025
+6 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+BUSINESS OVERVIEW
+Reinet Investments S.C.A. (the ‘Company’) has determined that it meets the definition of an investment entity in terms of International Financial 
+Reporting Standards (‘IFRS’) 10. The net asset value, the income statement and the cash flow statement included in this business overview have 
+however been presented in a more comprehensive format than required by IFRS in order to provide readers with detailed information relating 
+to the underlying assets and liabilities.
+NET ASSET VALUE
+The net asset value (‘NAV’) at 31 March 2025 and 2024 comprised:
+31 March 2025 31 March 2024
+€ m % € m %
+Listed investments
+British American Tobacco p.l.c. – – 1 359 22.0
+Other listed investments 125 1.8 93 1.5
+Unlisted investments
+Pension Insurance Corporation Group Limited 3 715 53.7 3 436 55.6
+Private equity and related partnerships 1 218 17.6 1 167 18.9
+Trilantic Capital Partners 424 6.1 443 7.2
+Funds and related general partners
+TruArc Partners 354 5.1 372 6.0
+Funds, co-investment opportunities and management company
+Coatue funds 198 2.9 73 1.2
+Asian private equity companies and portfolio funds 178 2.6 171 2.8
+Milestone China Opportunities fund 3 13
+Prescient China funds and management company 141 124
+Asia Partners funds 34 34
+Specialised investment funds 64 0.9 108 1.7
+NanoDimension funds and co-investment opportunities 64 107
+Other fund investments – 1
+United States land development and mortgages 30 0.5 21 0.3
+Other investments 55 0.8 75 1.2
+Total investments 5 143 74.4 6 151 99.5
+Cash and liquid funds 1 819 26.3 357 5.7
+Bank borrowings – – (229) (3.7)
+Other liabilities
+Minority interest, fees payable and other liabilities, net of other assets (47) (0.7) (95) (1.5)
+Net asset value 6 915 100.0 6 184 100.0
+All investments are held, either directly or indirectly, by Reinet Fund S.C.A., F.I.S. (‘Reinet Fund’). The Company and Reinet Fund together 
+with Reinet Fund’s subsidiaries are referred to as ‘Reinet’.
+MANAGEMENT REPORT
+REINET INVESTMENTS S.C.A. | 7
+ANNUAL REPORT 2025
+INFORMATION RELATING TO CURRENT KEY INVESTMENTS AT 31 MARCH 2025
+Committed
+amount(1)
+in millions
+Remaining
+committed
+amount(1)
+in millions
+Invested
+amount(2)
+in millions
+Realised
+amount(2)
+in millions
+Current fair
+value(1)
+in millions
+Total realised
+ and
+unrealised
+ value(3)
+in millions
+Listed investments
+British American Tobacco p.l.c. EUR – – 1 739 5 140 – 5 140
+GBP – – 1 418 4 316 – 4 316
+Other listed investments EUR – – 127 68 125 193
+USD – – 146 78 135 213
+Unlisted investments
+Pension Insurance EUR – – 1 315 292 3 715 4 007
+Corporation Group Limited GBP – – 1 112 248 3 110 3 358
+Trilantic Capital Partners EUR 595 91 522 617 424 1 041
+Euro investment EUR 85 19 66 163 48 211
+US dollar investment(4) USD 552 77 519 530 407 937
+TruArc Partners EUR 500 139 351 280 354 634
+USD 542 151 391 310 382 692
+Coatue funds EUR 278 105 174 – 198 198
+USD 300 114 186 – 214 214
+Asian private equity companies 
+and portfolio funds
+Milestone China Opportunities 
+funds and management 
+company
+EUR – – 130 174 3 177
+USD – – 169 195 3 198
+Prescient China funds and 
+management company
+EUR – – 79 4 141 145
+USD – – 94 4 152 156
+Asia Partners funds EUR 67 34 31 – 34 34
+USD 73 37 36 – 37 37
+Specialised investment funds
+NanoDimension funds and 
+co-investment opportunities EUR 172 36 133 64 64 128
+Euro investment EUR – – 4 5 – 5
+US dollar investment USD 187 39 148 70 69 139
+United States land development 
+and mortgages
+EUR 198 5 160 72 30 102
+USD 214 5 209 80 32 112
+(1) Calculated using year-end foreign exchange rates.
+(2) Calculated using actual foreign exchange rates at transaction date.
+(3) Total of realised proceeds and current fair value.
+(4) The invested amount for Trilantic Capital Partners includes an initial payment of $ 10 million.
+8 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+Reinet seeks, through a range of investment structures, to build partnerships with other investors, specialised fund managers and entrepreneurs 
+to find and develop opportunities for long-term value creation for its shareholders.
+Since its formation in 2008, Reinet has invested some € 3.8 billion and at 31 March 2025 committed to provide further funding of € 417 million 
+to its current investments. Details of the funding commitments outstanding are given in the table on page 21 of this report. New commitments 
+during the year under review amounted to € 39 million, and a total of € 144 million was funded during the year.
+LISTED INVESTMENTS
+BRITISH AMERICAN TOBACCO P.L.C.
+The investment in British American Tobacco p.l.c. (‘BAT’) has been one of Reinet’s largest 
+investments from its inception in 2008 to 2025.
+At 31 March 2009, Reinet held some 84.3  million BAT shares following the restructuring of 
+Richemont in 2008. Over the last 16 years, Reinet has used BAT shares as collateral to secure 
+borrowings and sold 36 million shares to provide liquidity when needed to fund other investment 
+opportunities. 
+At 31 March 2024, Reinet held some 48.3 million BAT shares of which 5 million were sold in 
+December 2024 for gross proceeds of € 179 million (£ 149 million) with the remaining 43.3 million 
+shares being sold in January 2025 through an after market accelerated bookbuild process for gross 
+proceeds of € 1 448 million (£ 1 221 million).
+The value of Reinet’s investment in BAT amounted to € 1 359 million (£ 1 162 million) at 
+31 March 2024, and comprised some 22.0 per cent of Reinet’s NAV at the time. The increase in 
+value of € 268 million up to the date of the respective sales in December 2024 and January 2025 
+reflects the increase in the BAT share price on the London Stock Exchange from £ 24.06 at 
+31 March 2024 together with the strengthening of sterling against the euro during the period.
+During the year under review, dividend income recorded from BAT amounted to € 98 million 
+(£ 82 million), being BAT’s second, third and fourth 2024 quarterly dividends.
+Further information on BAT is available in its Combined Annual and Sustainability Report at www.bat.com
+OTHER LISTED INVESTMENTS
+Other listed investments comprised:
+31 March 2025
+€ m
+31 March 2024
+€ m
+Grab Holdings Limited 44 31
+Cartesian Therapeutics, Inc. 1 1
+Soho China Limited 3 3
+SPDR Gold Shares 61 44
+Twist Bioscience Corporation 16 14
+125 93
+GRAB HOLDINGS LIMITED
+Grab Holdings Limited (‘Grab’) is a leading superapp platform in Southeast Asia, providing 
+everyday services that matter to consumers, including deliveries, mobility and financial services. 
+Grab offers a wide range of on-demand services across over 800 cities in eight Southeast Asian 
+countries.
+Reinet holds 10 573 666 shares in Grab with a market value of € 44 million (31 March 2024: 
+€  31  million). The increase in value mainly reflects the increase in Grab’s share price during 
+the year.
+Further information on Grab is available at www.grab.com
+BUSINESS OVERVIEW
+CONTINUED
+REINET INVESTMENTS S.C.A. | 9
+ANNUAL REPORT 2025
+CARTESIAN THERAPEUTICS, INC.
+Cartesian Therapeutics, Inc. (‘Cartesian’) is a clinical-stage biotechnology company pioneering 
+mRNA cell therapies for the treatment of autoimmune diseases.
+Reinet holds 1  395  460 shares with a market value of €  1  million as at 31 March 2025 
+(31 March 2024: € 1 million). The carrying value reflects Cartesian’s share price.
+Further information on Cartesian is available at www.cartesiantherapeutics.com
+SOHO CHINA LIMITED
+Soho China Limited (‘Soho’) is a Chinese office developer focused on developing and leasing 
+properties in the central business districts of Beijing and Shanghai. Soho developments are known 
+for their modern architecture, with designs from architects such as Zaha Hadid and Japanese 
+architect Kengo Kuma.
+Reinet holds 47  million shares with a market value of €  3  million as at 31 March 2025 
+(31 March 2024: € 3 million). The carrying value reflects Soho’s share price. 
+Further information on Soho is available at www.sohochina.com
+SPDR GOLD SHARES
+SPDR Gold Shares (‘GLD’) is the largest physically backed gold exchange traded fund in the 
+world. Over the long term, gold can provide a hedge against inflation and offer some protection 
+against value changes in turbulent economic and political times.
+Reinet holds 230  000 shares with a market value of €  61  million as at 31 March 2025 
+(31 March 2024: € 44 million). The increase in value mainly reflects the increase in the value of 
+gold during the year.
+Further information on GLD is available at www.spdrgoldshares.com/usa
+TWIST BIOSCIENCE CORPORATION
+Twist Bioscience Corporation (‘Twist’) is a leading synthetic biology and genomics company that 
+has developed a disruptive DNA synthesis platform to industrialise the engineering of biology. 
+Twist leverages its unique technology to manufacture a broad range of synthetic DNA-based 
+products which are used across many industries including healthcare, industrial chemicals, 
+agriculture and academic research.
+Reinet holds 444 497 shares in Twist with a market value of € 16 million as at 31 March 2025 
+(31 March 2024: € 14 million). The increase in value mainly reflects the increase in Twist’s share 
+price during the year.
+Further information on Twist is available at www.twistbioscience.com
+10 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+BUSINESS OVERVIEW
+CONTINUED
+MANAGEMENT REPORT
+UNLISTED INVESTMENTS
+Unlisted investments are carried at their estimated fair value. In determining fair value, Reinet Fund Manager S.A. (the ‘Fund Manager’) relies 
+on audited and unaudited financial statements of investee companies, management reports and valuations provided by third-party experts. 
+Valuation methodologies applied include the NAV of investment funds, discounted cash flow models and comparable valuation multiples, as 
+appropriate. The third-party valuation reports and key assumptions used within these reports are reviewed by the external auditors.
+PENSION INSURANCE CORPORATION GROUP LIMITED
+Pension Insurance Corporation Group Limited’s (‘Pension Corporation’) wholly-owned subsidiary, 
+Pension Insurance Corporation plc (‘Pension Insurance Corporation’), is a leading provider in the UK 
+pension risk transfer market.
+During 2024, Pension Insurance Corporation concluded new business with premiums of £ 8.1 billion 
+(2023: £ 6.9 billion).
+At 31 December 2024, Pension Corporation reported it held £ 50.9 billion in assets (31 December 2023: 
+£ 46.8 billion) and insurance liabilities amounted to £ 44.3 billion (31 December 2023: £ 41.2 billion). 
+The increase in value of both assets and liabilities is primarily driven by new business written in the year, 
+partly offset by payments made to policyholders and rising interest rates.
+To date, Pension Insurance Corporation has insured 397 100 pension fund members (31 December 2023: 
+339 900). Clients include FTSE 100 companies, multinationals and the public sector.
+Pension Insurance Corporation raised £ 500 million of Tier 2 debt in 2024, using £ 224 million to redeem 
+existing debt ahead of schedule. As at 31 December 2024, a total of £ 2.0 billion (31 December 2023: 
+£ 1.8 billion) Tier 2 subordinated notes and £ 450 million (31 December 2023: £ 450 million) Tier 1 restricted 
+notes were outstanding. In August 2024, Fitch affirmed its Insurer Financial Strength rating at A+ (Strong) 
+and Long-Term Issuer Default rating at A. The reported Solvency II capital ratio as at 31 December 2024 was 
+237 per cent (31 December 2023: 211 per cent).
+In March 2024, the shareholders of Pension Corporation approved a dividend of 11.0 pence per 
+ordinary share. Reinet’s share of the dividend amounting to some € 85 million (£ 73 million) was 
+received in May 2024. In September 2024, the board of directors of Pension Corporation approved 
+an interim dividend of 11.0 pence per ordinary share and a special dividend of 8.0 pence per ordinary 
+share. Reinet’s share of these dividends amounting to some € 150 million (£ 125 million) was received 
+in September 2024.
+In March 2025, the shareholders of Pension Corporation approved a final dividend of 12.0 pence per 
+ordinary share and a special dividend of 15.0 pence per ordinary share. Reinet’s share of the dividends 
+amounting to some € 212 million (£ 178 million) was received in May 2025. Reinet has not recorded 
+a receivable as at 31 March 2025, as the record date of 24 April 2025 falls outside this financial year.
+Reinet’s shareholding in Pension Corporation remained at 49.5 per cent in the year under review.
+Tracy Blackwell, Chief Executive Officer and Dom Veney, Chief Financial Officer of Pension Insurance 
+Corporation, commented:
+Tracy Blackwell: ‘Pension Insurance Corporation had a strong year in 2024, completing new business 
+premiums of £ 8.1 billion, our largest ever total, guaranteeing the pensions of an additional 62 000 
+pension scheme members. At year-end we had insured the pension benefits of almost 400 000 people. As 
+ever, our focus remains on providing exceptional customer service, and at year-end we had a customer 
+satisfaction rate of 99 per cent, having now made total pension payments of more than £ 16 billion. 
+The pension risk transfer market is dynamic and it continues to evolve. Significant numbers of trustees 
+are seeking to protect their members’ pensions by transacting with us. They see the benefits of buyout. 
+This is a very long-term opportunity, stretching well beyond the 10 years typically presented, which will 
+benefit pension scheme members, their corporate sponsors, and the country. We now have £ 30 billion 
+invested in the UK, and to date have invested almost £ 14 billion in UK private assets, including 
+housing and infrastructure, creating significant social value. We expect to invest significantly more in 
+these types of assets. 
+Despite expensive asset market conditions and interest rate volatility, Pension Insurance Corporation 
+generated significant value for the year at a lower capital strain. We are well positioned to add further value 
+once market conditions become more favourable. Finally, as we continue building a secure and sustainable 
+business, our year-end solvency ratio, at 237 per cent, is well above our long-term average, which allowed 
+us to declare dividends of £ 307 million and special dividends of £ 306 million for the year.’
+REINET INVESTMENTS S.C.A. | 11
+ANNUAL REPORT 2025
+PENSION INSURANCE CORPORATION GROUP LIMITED
+CONTINUED
+Dom Veney: ‘IFRS adjusted equity, a measure of overall shareholder value, remains strong at 
+£ 6.5 billion (2023: £ 6.5 billion). Before dividends, IFRS adjusted equity increased by £ 449 million 
+mainly due to IFRS adjusted operating profit before tax (‘AOPBT’) of £  746  million which 
+benefited from higher returns from the growing in-force book. AOPBT decreased from 2023 (2023: 
+£ 893 million), primarily due to prevailing market conditions in which we chose to write new business 
+using lower capital intensive strategies which also resulted in lower margins and the temporary impact 
+of reinsurance not completed by the year-end.
+Recognising the surplus generated in the year and the strength of the balance sheet, the board have 
+approved a final dividend of £  160  million (2023: £  147  million) and a special dividend of 
+£ 200 million to be paid in May 2025. After allowing for the payment of the proposed final and 
+special dividends, the pro forma solvency ratio at 31 December 2024 was 226 per cent.
+Given the uncertain economic and geo-political outlook and the extremely tight credit spreads 
+experienced in the year, our investment strategy continues to be low risk, securing our pension 
+payments to policyholders whilst investing in a purposeful way to create long-term social value. At 
+31 December 2024, over 99 per cent of the value of our debt securities are rated investment grade and 
+we continue to manage exposure carefully.’
+Reinet’s investment in Pension Corporation is carried at an estimated fair value of € 3 715 million at 
+31 March 2025 (31 March 2024: € 3 436 million). This value takes into account Pension Corporation’s 
+adjusted equity own funds value at 31 December 2024 of £ 6.2 billion (31 December 2023: £ 6.3 billion), 
+corresponding valuation multiples drawn from industry data for a selected UK insurance peer group as 
+at 31 March 2025, and a discount of 10 per cent which takes into account the illiquid nature of Reinet’s 
+investment.
+The investment in Pension Corporation increased in value by € 279 million which includes an increase 
+of some € 253 million in respect of the increase in market multiples over the year, together with an 
+increase of some € 172 million due to the movement on Pension Corporation’s adjusted equity own 
+funds value and adjusting for dividends paid in 2024. The impact of the strengthening of sterling 
+against the euro in the year under review amounted to an increase in value of € 75 million.
+The investment in Pension Corporation represents some 53.7 per cent of Reinet’s NAV at 31 March 2025, 
+compared to 55.6 per cent at 31 March 2024.
+Pension Corporation continues to believe that sustainability is fundamental to the delivery of its 
+purpose to pay policyholders now and for decades to come; and that stewardship is not just about 
+helping it fulfil its purpose, it is also about shaping a brighter, more sustainable future for generations 
+to come. It has maintained its signatory status to the UK Stewardship Code, evidencing its continued 
+commitment to the 12 core principles of good stewardship set out by the Financial Reporting Council.
+Further information on Pension Corporation and its sustainability reporting is available at 
+www.pensioncorporation.com
+12 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+BUSINESS OVERVIEW
+CONTINUED
+MANAGEMENT REPORT
+PRIVATE EQUITY AND RELATED PARTNERSHIPS
+Where Reinet invests in funds managed by third parties, its philosophy is to partner with the managers of such funds and to share in fees 
+generated by funds under management. This is the case with funds managed by Trilantic Capital Partners, TruArc Partners and Prescient 
+Investment Management China. Under the terms of the investment advisory agreement (the ‘Investment Advisory Agreement’), entered into 
+by the Fund Manager and Reinet Investment Advisors Limited (the ‘Investment Advisor’), Reinet pays no management fee to the Investment 
+Advisor on such investments except in the case where no fee or a reduced fee below 1 per cent is paid to the third-party manager. In such cases, 
+the aggregate fee payable to the Investment Advisor and the third-party manager is capped at 1 per cent.
+TRILANTIC CAPITAL PARTNERS
+Trilantic Capital Partners (‘Trilantic’) is composed of Trilantic North America and Trilantic 
+Europe, two separate and independent private equity investment advisors focused on making 
+controlling and significant minority interest investments in companies in their respective 
+geographies. Trilantic North America currently targets investments in the business services and 
+consumer sectors, and currently manages five fund families. Trilantic Europe primarily targets 
+investments in the industrials, consumer and leisure, telecommunication, media and technology, 
+business services and healthcare sectors, and currently manages three fund families.
+Reinet and its minority partner invest in certain of the Trilantic general partnerships (‘Trilantic 
+Management’). Reinet and its minority partner, through Reinet TCP Holdings Limited, invest 
+in two of the current funds under Trilantic’s management. Reinet also directly invests in three 
+additional funds under Trilantic’s management. The terms of investment applicable to Reinet’s 
+investment in the Trilantic funds provide that Reinet will not pay any management fees or carried 
+interest. In addition, Reinet receives a share of the carried interest payable on the realisation of 
+investments held in the funds, once a hurdle rate has been achieved.
+Reinet TCP Holdings Limited invests in Trilantic Capital Partners IV L.P. (‘Fund IV’) and 
+Trilantic Capital Partners IV (Europe) L.P.; these funds are in the process of realising the 
+remaining underlying investments. 
+Reinet invests in Trilantic Capital Partners V (North America) L.P. (‘Fund V’) which is in the 
+process of realising the remaining underlying investments.
+Reinet also invests in Trilantic Capital Partners VI Parallel (North America) L.P. (collectively 
+with its parallel vehicles, ‘Fund VI’) and Trilantic Energy Partners II Parallel (North America) 
+L.P. (collectively with its parallel vehicles, ‘TEP II’). These US-based funds are focused on North 
+American opportunities with TEP II being especially focused on the energy industry sector.
+Charlie Ayres, Chairman of Trilantic North America and the Executive Committee of Trilantic 
+Capital Partners, commented:
+‘In 2024, we focused on strategic growth initiatives at our portfolio companies and have been 
+positioning many assets for monetisation over the next 18 months. We know liquidity is of primary 
+focus for our investors and the industry as a whole. We believe our flexible capital model allowed 
+us to be active in deploying capital at an attractive time and we believe we will be able to similarly 
+be successful in monetising assets when market conditions improve.
+In 2024, Fund VI completed one new investment, and Fund V and Fund VI portfolio companies 
+completed 19 add-on acquisitions.
+Fund VI currently has 18 platforms and one new investment in process. In the Fund V portfolio, 
+we are actively working on monetising mature assets that have a reasonable path to exit.
+The vast majority of our portfolio companies continue to demonstrate stable growth. With two 
+exceptions, our active companies remain under-levered compared to market availability, with 
+what we believe to be healthy balance sheets and ample liquidity through 2025 and beyond.
+We remain focused on value creation, rooted in helping our portfolio companies drive profitable 
+revenue growth, exhibit prudent cost management and make attractive add-on acquisitions. These 
+attributes have resulted in steady, consistent investment returns with a low loss ratio over a 20-year 
+period.
+We remain confident in our ability to manage through uncertain macroeconomic and unstable 
+geo-political environments. As mentioned, we are highly focused on generating liquidity for our 
+investors and expect to report on our progress in the coming months.’
+REINET INVESTMENTS S.C.A. | 13
+ANNUAL REPORT 2025
+TRILANTIC CAPITAL PARTNERS 
+CONTINUED
+Vittorio Pignatti-Morano, Chairman of Trilantic Europe, commented:
+‘2024 was a year of transition characterised by a rapid, and welcomed, fall in inflation from its 
+peak levels of 10.6 per cent in October 2022, which resulted from the energy shock induced by 
+the interruption of gas supply from Russia, combined with the post Covid restocking. A strong 
+deflationary monetary policy did the trick of bringing inflation back to roughly 2.2 per cent in 
+just two years. Interest rates quickly rose from zero in July 2022 to 4.5 per cent at the beginning 
+of 2024 to then gradually fall back to 3.15 per cent at the end of the year. But while this virtuous 
+process helped mitigate inflation, it came at a price. The real economy underwent many stresses, 
+with, for instance, a weakening of consumer confidence.
+The outlook for Europe in 2025 is relatively clearer in terms of monetary policy. However, GDP 
+growth in Europe is expected to be influenced by the US tariff war. The decline in interest rates and 
+economic activity is pushing banks, which have never had so much regulatory capital available, to 
+start lending more at lower credit spreads. This is allowing portfolio companies to refinance loans 
+and favours new investments. With low or no growth in demand in most of the traditional sectors, 
+corporate earnings are unlikely to grow so new transactions must be done at lower multiples or in 
+high growth verticals.
+We executed two exits including the successful listing of a leading independent commodity and 
+financial broker, on Nasdaq in April 2024.’
+Reinet’s investment in Trilantic Management and the above funds is carried at the estimated fair 
+value of € 424 million at 31 March 2025 (31 March 2024: € 443 million) of which € 3 million 
+(31 March 2024: € 3 million) is attributable to the minority partner. The estimated fair value 
+is based on audited valuation data provided by Trilantic Management at 31 December 2024 
+adjusted for changes in the value of listed investments included in the portfolios and cash 
+movements up to 31 March 2025.
+The decrease in the estimated fair value is due to net capital distributions of € 17 million together 
+with decreases in the estimated fair values of underlying investments and the weakening of the 
+US dollar against the euro in the year, offset by capital contributions of € 5 million. 
+During the year under review, gains of € 13 million (31 March 2024: € 34 million) were realised. 
+In addition, carried interest of €  nil (31 March 2024: €  3  million) and current income of 
+€ 3 million (31 March 2024: € 4 million) were received.
+Further information on Trilantic is available at www.trilantic.com
+14 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+BUSINESS OVERVIEW
+CONTINUED
+MANAGEMENT REPORT
+TRUARC PARTNERS FUNDS, CO-INVESTMENT OPPORTUNITIES AND 
+MANAGEMENT COMPANY
+TruArc Partners LP (‘TruArc’) is a middle market focused investment management firm led by a 
+team that has worked together since 2005 and has deployed over $ 2.9 billion of capital. TruArc 
+focuses on companies in attractive sub-sectors of Specialty Manufacturing and Business Services. 
+The TruArc investment team works closely with its operating partners and portfolio management 
+teams in an effort to generate value through a transformational growth strategy focused on both 
+organic growth and acquisitions.
+Reinet is invested in Snow Phipps II, Snow Phipps III, TruArc Fund IV, in two co-investment 
+opportunities alongside Snow Phipps III, and in the management company.
+During the year, Reinet committed to invest an additional € 39 million ($ 42 million) in TruArc 
+Structured Opportunities Fund, LP as part of the final close, bringing its total commitment to 
+€ 55 million ($ 60 million).
+TruArc Structured Opportunities Fund intends to offer resources and capital in close partnership 
+with controlling shareholders and management to support the growth of these investee entities. 
+TruArc’s bespoke capital solutions will seek to deliver flexible capital to middle market entities 
+in North America, also predominantly in the Speciality Manufacturing and Business Services 
+sectors by investing across the capitalisation from structured debt to non-control equity.
+In May 2025, Reinet made a commitment of $ 345 million to TruArc Fund V.
+Ogden Phipps, Co-Managing Partner of TruArc Partners, commented:
+‘TruArc had a productive 2024 across all facets of the business. Despite a slower mergers and 
+acquisitions environment, we completed the acquisition of a new platform, bringing the total to 
+eight in Fund IV. Each company is well underway with executing their growth plans, making 
+investments with the objective of seeking to drive transformational growth. Our consistent 
+and repeatable approach to value creation includes commercially focused initiatives to expand 
+addressable markets, optimise revenue mix, and expand channels, as well as operationally focused 
+investments to optimise resource allocation and leverage technology enablement. A hallmark of 
+our investment approach is to execute an acquisition strategy to expand geographically, enter new 
+markets, add products, services, and technologies, and build scale strategically. During 2023 we 
+completed 14 add-on acquisitions across the TruArc-managed portfolio companies that align with 
+these “buy and build” objectives. We are confident in the abilities of our management teams to 
+lead our portfolio companies while they navigate market dynamics and seek to build value through 
+transformational growth across our portfolio.
+In 2024 we also formally launched our Structured Opportunities strategy, which expands our 
+capabilities and allows us to provide customised securities to Specialty Manufacturing and Business 
+Services companies in need of flexible capital to facilitate strategic goals and address the unique 
+and complex needs of each transaction. We are delighted to report that year one in operation was 
+very productive for Structured Opportunities, as we were able to complete two investments through 
+what we believe is highly complementary strategy to our core Private Equity strategy.’
+Reinet’s investment is carried at an estimated fair value of € 354 million at 31 March 2025 
+(31 March 2024: € 372 million), based on the audited valuation data provided by TruArc at 
+31 December 2024 adjusted for cash movements up to 31 March 2025.
+The decrease in the estimated fair value reflects capital distributions of € 55 million together with 
+the weakening of the US dollar against the euro in the year, offset by capital contributions of 
+€ 21 million and increases in estimated fair values of underlying investments. 
+Further information on TruArc Partners is available at www.truarcpartners.com
+REINET INVESTMENTS S.C.A. | 15
+ANNUAL REPORT 2025
+COATUE FUNDS
+Coatue Management L.L.C. (‘Coatue’) is a global investment firm focused on technology-related 
+investment opportunities led by its founder, Mr Philippe Laffont. Coatue invests in public and 
+private markets with an emphasis on technology, media, telecommunications, the consumer and 
+healthcare sectors.
+Reinet is invested in Coatue Structured Offshore Feeder Fund LP and Coatue Tactical Solutions 
+CT Offshore Fund B LP (together the ‘Coatue Structured Funds’).
+The Coatue Structured Funds seek to invest in structured investments in both publicly listed and 
+privately held technology companies, focusing on investments that offer downside protection 
+while retaining upside potential. The Coatue Structured Funds focus on privately negotiated 
+transactions leveraging Coatue’s sector experience and platform resources to source proprietary 
+transactions. Coatue seeks to employ a strategy that will opportunistically fund both offensive 
+and defensive transactions such as mergers and acquisitions, and establishing paths toward 
+accelerating organic growth. Coatue believes there is a substantial universe of potential investment 
+opportunities and that the market could produce significant structured capital opportunities.
+Coatue generally focuses on companies that it believes are: 1) powered by a strong underlying 
+trend; 2) established winners or breakout leaders within a category or trend; 3) pursuing a large 
+total addressable market; 4) operating business models with strong unit economics; and 5) led by 
+visionary founders and experienced management teams.
+Reinet’s investment is carried at an estimated fair value of € 198 million at 31 March 2025 
+(31 March 2024: € 73 million), based on the audited valuation data provided by Coatue at 
+31 December 2024 adjusted for cash movements up to 31 March 2025.
+The increase in the estimated fair value reflects capital contributions of € 104 million together 
+with increases in the value of underlying investments, offset by the weakening of the US dollar 
+against the euro in the year.
+Further information on Coatue is available at www.coatue.com
+16 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+BUSINESS OVERVIEW
+CONTINUED
+ASIAN PRIVATE EQUITY COMPANIES AND PORTFOLIO FUNDS
+Milestone China Opportunities fund
+Reinet is invested in Milestone China Opportunities Fund III L.P. (‘Milestone III’), a fund 
+managed by Milestone Capital. Milestone III is in the process of realising its remaining 
+underlying investments. 
+Yunli Lou, Managing Partner of Milestone Capital, commented:
+‘During 2024, Milestone Capital continued working closely with our portfolio companies to achieve 
+exits. We achieved full exits from a listed cosmetics e-commerce platform, a listed biotech company 
+and a medical consumable company.
+During 2024, China’s economy saw continued drag from the property sector and from overall 
+deflationary pressure. Full year GDP was $ 18.5 trillion, up by 5.7 per cent year-on-year. CPI again 
+grew by 0.2 per cent year-on-year in 2024, the lowest increase since 2009. Property development 
+investment declined by 10.6 per cent year-on-year and property sales declined by 17.1 per cent 
+year-on-year. Starting in September 2024, policymakers held extensive meetings with the aim of 
+implementing a more proactive fiscal policy and a moderately loose monetary policy. Supported by 
+the improved sentiment, capital markets recovered meaningfully. The Shanghai Composite Index 
+increased by 12.7 per cent for the year 2024, while the Hang Seng Index grew by 17.7 per cent for 
+the year 2024.’
+The investment in Milestone III is held at the estimated fair value of € 3 million (31 March 2024: 
+€  13  million) based on audited financial information provided by Milestone Capital at 
+31 December 2024 adjusted for cash movements up to 31 March 2025.
+The decrease in the estimated fair value reflects capital distributions of € 10 million in the year. 
+Further information on Milestone is available at www.mcmchina.com
+REINET INVESTMENTS S.C.A. | 17
+ANNUAL REPORT 2025
+Prescient China funds and management company
+Reinet is invested in the Prescient China Equity Fund, the Prescient China Balanced Fund, the 
+Prescient China Growth Enhanced Absolute Return Fund and the management company.
+The Prescient China Equity Fund uses a systematic, quantitative approach to seek long-term 
+capital growth by investing primarily in China ‘A’ shares listed on the Shanghai and Shenzhen 
+Stock Exchanges by virtue of Prescient’s Qualified Foreign Institutional Investor status granted 
+by the China Securities Regulatory Commission.
+Prescient China Balanced Fund invests in equities following a similar strategy to the Prescient 
+China Equity Fund and also in bonds, cash and derivatives with the objective of generating 
+inflation-beating returns at acceptable risk levels.
+Prescient China Growth Enhanced Absolute Return Fund aims to achieve long-term capital 
+growth at significantly lower return volatility than conventional multi-asset China investment 
+strategies. The fund will predominantly invest in mainland Chinese equities, bonds, cash, money 
+market instruments and derivatives.
+All funds are managed by a subsidiary of Prescient Limited (‘Prescient’), a South African fund 
+manager, with the team based in Shanghai.
+Liang Du, Portfolio Manager of Prescient, commented:
+‘The past financial year was a highly successful one for Prescient, driven by significant positive 
+momentum in China’s markets. After years of trading at a discount, China’s valuations saw 
+notable improvement, largely due to progressive policy reforms. The Chinese government has 
+made substantial strides in bolstering corporate governance, with a focus on encouraging stock 
+buybacks, enhancing shareholder returns, and reinforcing long-term support for a vibrant 
+equity market. These efforts, coupled with stronger economic growth and rising corporate 
+earnings, fuelled a robust rally across Chinese markets.
+All funds managed by Prescient benefited from this favourable macroeconomic environment, 
+delivering impressive financial results and outperformance relative to competitors. While the 
+new US administration presents challenges to the global market, particularly in its stance on 
+China, these developments may also present unique opportunities for the Chinese market in 
+the longer term. Overall, Prescient remains committed to advancing its strategic objectives 
+and continues to provide steady, expert management of investments in China, navigating both 
+opportunities and risks with long-term expertise in the Chinese market.’
+Reinet’s total investment is carried at an estimated fair value of € 141 million based on unaudited 
+financial information provided by Prescient at 31 March 2025 (31 March 2024: € 124 million). 
+The increase in estimated fair value mainly reflects increases in the value of the underlying fund 
+investments, offset by the weakening of the US dollar against the euro in the year. 
+Further information on Prescient is available at www.prescient.co.za
+18 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+BUSINESS OVERVIEW
+CONTINUED
+Asia Partners funds
+Reinet is invested in Asia Partners I LP and Asia Partners II LP.
+Asia Partners I LP was launched in 2021, and is the inaugural fund of Asia Partners Fund 
+Management Pte. Ltd (‘Asia Partners’), a Singapore-based growth equity investment firm. 
+Asia Partners II LP, a successor fund, was launched in April 2022.
+Asia Partners bases its investment strategy on the long-term growth potential of Southeast Asia, 
+the rapid growth of innovative technology and technology-enabled businesses in the region, and 
+target investments in the $ 20 million to $ 80 million range, often described as the ‘Series C/D 
+Gap’ between early-stage venture capital and the public capital markets.
+Oliver Rippel, Co-Founder and Partner of Asia Partners, commented:
+‘Asia Partners remains committed to Southeast Asia’s strong long-term growth prospects. Despite 
+ongoing turbulence in the global trading system and new US tariffs, the region’s outlook for 
+2025 is broadly positive. This resilience is underpinned by robust domestic demand, a rebound 
+in tourism, and rising foreign direct investment, particularly as companies diversify supply 
+chains and rapid adoption in high-tech industries. The region’s favourable demographics, 
+especially a large and growing population of young consumers, continue to drive robust domestic 
+demand and a thriving digital economy.
+We continue to see significant potential for growth equity to further accelerate Southeast Asia’s 
+economic development. By supporting the region’s emerging entrepreneurs, we aim to help them 
+scale their businesses and transition into sizeable, publicly listed companies, contributing to 
+Southeast Asia’s position as a dynamic and innovative economic hub.’
+The investment in Asia Partners funds is held at the estimated fair value of €  34  million 
+(31 March 2024: € 34 million) based on audited financial information provided by Asia Partners 
+at 31 December 2024 adjusted for cash movements up to 31 March 2025.
+The estimated fair value reflects capital contributions of € 3 million, offset by decreases in the 
+value of underlying investments together with the weakening of the US dollar against the euro 
+in the year.
+Further information on Asia Partners is available at www.asiapartners.com
+REINET INVESTMENTS S.C.A. | 19
+ANNUAL REPORT 2025
+SPECIALISED INVESTMENT FUNDS
+NanoDimension funds and co-investment opportunities
+ND Capital (‘NanoDimension’) is a venture capital firm founded in 2002 that invests in 
+disruptive technologies in and at the intersection of the life and physical sciences, accelerated 
+by data sciences. Their core belief is that scientific disciplines will continue to converge, 
+and that some of the biggest breakthroughs will occur at the intersection of two or more 
+disciplines. The focus of each fund is to invest in and support the establishment, technology 
+development and scale up, growth and commercialisation of portfolio companies. They believe 
+that these disruptive technologies address some of the biggest societal problems. Investments 
+range from molecular diagnostics, cell and gene therapies, organs on chip, DNA synthesis 
+and DNA editing, energy storage and electrical propulsion systems for aviation. They invest 
+predominantly across the United States and Europe with additional investments in Canada, 
+Denmark and the United Kingdom.
+Aymeric Sallin, Founder of NanoDimension, commented:
+‘The venture capital (‘VC’) landscape in 2024 was characterised by a cautious yet strategic 
+approach, influenced by macroeconomic factors, regulatory shifts, and evolving investor 
+priorities. Deal volumes declined approximately 30 per cent in 2022 and an additional 
+approximate 40 per cent in 2023, with this trend continuing in 2024. In 2024, artificial 
+intelligence, healthcare, and renewable energy sectors led in VC, while fintech and defence
+technology also saw notable funding. Later stage rounds remain tough, but valuations have 
+stabilised versus the lows of 2023. In 2024, the United States witnessed a modest rebound 
+in VC-backed initial public offerings, with 25 going public, marking a slight increase from 
+approximately 20 in 2022 and 2023.
+Our commitment to leading innovation across industries continues to bear fruit with the 
+realisation of demonstrable transformative solutions championed by our funds. In the past year 
+alone, one portfolio company achieved a breakthrough in their Phase 3 trial with an impressive 
+94 per cent overall acute leukaemia patient survival rate at one year. Another is commercially 
+launching its fully electric flight trainer with a coast-to-coast demonstration flight across the 
+United States. A further investment secured a landmark FDA approval for the first-ever at-home 
+PCR test platform, revolutionising accessible diagnostics. We look forward to supporting these 
+businesses in realising their commercial success.’
+Reinet is a limited partner in NanoDimension II L.P., NanoDimension III L.P., NanoDimension 
+IV L.P. and ND Capital Opportunity Fund I L.P., and is invested in one co-investment 
+opportunity alongside NanoDimension II L.P.
+At 31 March 2025, the estimated fair value of Reinet’s investment amounted to € 64 million 
+(31 March 2024: € 107 million) based on audited valuation data provided by NanoDimension 
+as at 31 December 2024 adjusted for movements in listed investments and cash movements up 
+to 31 March 2025.
+The decrease in the estimated fair value reflects distributions of € 2 million together with decreases 
+in the value of underlying investments and the weakening of the US dollar against the euro in the 
+year, offset by capital contributions of € 10 million.
+Further information on NanoDimension is available at www.nd.capital
+Other fund investments
+This includes small, specialist funds investing in private equity businesses and start-up ventures.
+Other fund investments are valued in total at their estimated fair value of € nil at 31 March 2025 
+(31 March 2024: € 1 million) based on the latest available valuation statements received from 
+the fund managers. 
+The decrease in the estimated fair value reflects the realisation of underlying investments.
+20 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+BUSINESS OVERVIEW
+CONTINUED
+UNITED STATES LAND DEVELOPMENT AND MORTGAGES
+Reinet has invested in certain real estate development projects and related businesses located 
+in the United States (including Florida, North Carolina and South Carolina). Reinet has also 
+purchased mortgage debt associated with such developments from financial institutions, usually 
+at significant discounts to face value.
+The core land development process encompasses land planning, attaining entitlements from 
+governmental bodies and installation of community infrastructure. Other investments in 
+mitigation banks facilitate the preservation of land to offset the loss of wetlands necessitated by 
+public improvements, such as highway construction, and other privately-sponsored developments.
+Bill Lanius, Chief Executive Officer of United States land development and mortgages, commented:
+‘Our business is correlated to the housing industry which we serve by developing properties 
+for new home construction. In addition to local market conditions, industry performance is 
+reflective of the macroeconomic environment within the US. Over the past few years, steep price 
+inflation has been experienced concurrent with rising mortgage rates. Although both measures 
+have since moderated, home affordability has been meaningfully constrained and continues 
+to dampen customer demand. Conversely, our principal land position is in Florida, a state 
+where housing markets have been supported by a trend of inbound migration in recent years. 
+Management continues to monitor such economic conditions, including proposed tariffs and 
+other governmental policies that may affect our portfolio and is prepared to adjust our business 
+strategy to navigate the inherent business challenges.
+To summarise this past fiscal year, we continued our steady progression of monetising 
+designated assets and distributing surplus capital. Of note was a key financing transaction 
+that generated significant liquidity and which was accretive to investment value. We enter 
+the new fiscal year with a favourable backlog of executed contracts as an important source of 
+future revenue generation.’
+The investment is carried at the estimated fair value of €  30  million as at 31  March  2025 
+(31 March 2024: € 21 million). The current valuation is based on audited and unaudited financial 
+statements as at 31 December 2024 adjusted for cash movements up to 31 March 2025.
+The increase in the estimated fair value reflects increases in the valuation of underlying assets, 
+offset by repayments received during the year of € 1 million together with the weakening of the 
+US dollar against the euro during the year.
+OTHER INVESTMENTS
+Other investments are carried at their estimated fair value of € 55 million at 31 March 2025 
+(31 March 2024: € 75 million).
+The decrease in the estimated fair value reflects distributions of €  1  million together with 
+decreases in the valuation of underlying investments and the weakening of the US dollar against 
+the euro in the year. 
+REINET INVESTMENTS S.C.A. | 21
+ANNUAL REPORT 2025
+COMMITTED DURING THE YEAR
+Commitments made in the year amounted to € 39 million and cancelled commitments in respect of fully exited funds amounted to € 36 million.
+TOTAL COMMITMENTS
+Funding commitments are entered into in various currencies including sterling and US dollar and are converted into euro using 31 March 2025 
+exchange rates.
+The table below summarises Reinet’s investment commitments as at 31 March 2025.
+31 March
+2024(1)
+€ m
+Exchange
+rate
+effects(2)
+€ m
+Committed
+ during the 
+year(3)
+€ m
+Funded
+during the
+year(3)
+€ m
+31 March
+2025(3)
+€ m
+31 March 
+2025
+ %
+Private equity and related partnerships
+Trilantic Capital Partners 
+Funds and related general partners(4) 93 – – (5) 88 21.1
+TruArc Partners
+Funds, co-investment opportunities and 
+management company 122 (1) 39 (21) 139 33.3
+Coatue funds 209 (1) – (103) 105 25.2
+Asian private equity companies and 
+portfolio funds
+Asia Partners funds 37 – – (3) 34 8.2
+Specialised investment funds
+NanoDimension funds and 
+co-investment opportunities 47 – – (11) 36 8.6
+Other fund investments 33 1 (34) – – –
+United States land development and 
+mortgages 5 – – – 5 1.2
+Other investments 13 – (2) (1) 10 2.4
+559 (1) 3 (144) 417 100.0
+(1) Commitments calculated using 31 March 2024 exchange rates.
+(2) Reflects exchange rate movements between 31 March 2024 and 31 March 2025.
+(3) Amounts calculated using 31 March 2025 exchange rates, which may differ from actual exchange rates on the transaction date.
+(4) Commitments noted represent only Reinet’s share of the investments at 31 March 2025, additional commitments payable by the minority partner amount to € 3 million in respect of Trilantic. 
+22 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+BUSINESS OVERVIEW
+CONTINUED
+CASH AND LIQUID FUNDS
+Reinet holds cash on deposit principally in European-based banks 
+and in liquidity funds holding highly rated short-term instruments.
+Reinet’s liquidity is measured by its ability to meet potential cash 
+requirements, including unfunded commitments on investments 
+and the repayment of borrowings, and at 31 March 2025 can be 
+summarised as follows:
+Cash and liquid funds € 1 819 m
+Cash required for unfunded commitments
+(refer to table on previous page) (€ 417 m)
+BANK BORROWINGS
+BORROWINGS
+At 31 March 2024, Reinet had a fixed-rate £ 100 million margin loan 
+due to Citibank N.A., with a maturity date in August 2024; Reinet 
+repaid £ 50 million to Citibank N.A. in respect of the fixed-rate margin 
+loan and the remaining loan balance of £ 50 million was extended for 
+three years on a floating-rate basis, with an option to convert to a fixed
+rate in future.
+In addition, at 31 March 2024, Reinet had a fixed-rate £ 100 million 
+margin loan due to Bank of America, N.A., with a maturity date in 
+March 2025.
+In January  2025, both loans were fully repaid using available cash 
+resources.
+Some 11.1 million BAT shares were pledged as collateral in respect of 
+the two loans, these shares were released following the repayment of the 
+loans and sold in January 2025 as part of an after market accelerated 
+bookbuild process (see page 8).
+Reinet had facility agreements in place with Citibank N.A. and Bank 
+of America, N.A. No funds had been drawn under these facilities and 
+in January 2025, following the repayment of the loans, both facility 
+agreements were cancelled.
+OTHER LIABILITIES
+Minority interest, fees payable and other liabilities, net of other assets 
+comprise:
+31 March 2025
+€ m
+31 March 2024
+€ m
+Minority interest (5) (4)
+Management fee (23) (19)
+Performance fee (5) (90)
+Tax provisions (6) (4)
+Accruals and other payables, 
+net of other receivables (8) (11)
+BAT dividend receivable – 33
+Total other liabilities (47) (95)
+The minority interest liability is in respect of a minority partner’s 
+share in the gains and losses not yet distributed arising from the 
+estimated fair value movement of investments in which they have 
+interests.
+Tax provisions relate to realised and unrealised gains arising from the 
+investments in Trilantic Capital Partners together with withholding 
+and corporate taxes relating to the investment in United States land 
+development and mortgages.
+A provision of € 5 million has been made in respect of a performance 
+fee as at 31  March  2025 (31  March  2024: €  90  million) as the 
+conditions required to pay a fee had been met at the year-end date. 
+In order for a performance fee to be payable at 31 March 2025, the 
+volume weighted average market price of the Company’s share 
+determined by taking into account volume and price information 
+on the Luxembourg Stock Exchange, Euronext Amsterdam and the 
+Johannesburg Stock Exchange over the last 20 trading days of the 
+financial year under review would need to exceed €  22.60. The 
+volume weighted average market price of the Company’s share was 
+€ 22.84 for the last 20 trading days of the financial year, and as such 
+a performance fee is payable.
+The performance fee and management fee are payable to Reinet 
+Investment Advisors Limited. 
+REINET INVESTMENTS S.C.A. | 23
+ANNUAL REPORT 2025
+INCOME STATEMENT
+The income statement set out below differs from the format used in the IFRS reporting on page 46, it is not prepared under IFRS rules and is 
+presented to provide investors with a more comprehensive picture of the movement in the estimated fair value of assets held by Reinet.
+Year ended
+31 March 2025
+Year ended
+31 March 2024
+€ m € m € m € m
+Income
+BAT dividends 98 130
+Pension Corporation dividend 235 57
+Interest and other investment income 47 31
+Realised gain on sale of BAT shares 631 –
+Realised loss on sale of other investments (7) (9)
+Carried interest earned on investments – 3
+Total income 1 004 212
+Expenses
+Management fee (54) (48)
+Performance fee (5) (90)
+Operating expenses, foreign exchange and transaction-related costs (15) (7)
+Interest and related financing expenses (6) (6)
+Tax expense (2) (1)
+Total expenses (82) (152)
+Realised investment income, net of expenses 922 60
+Fair value adjustments
+BAT (363) (202)
+Pension Corporation 279 649
+Other investments 8 20
+Borrowings (11) (12)
+Total fair value adjustments (87) 455
+835 515
+Effect of exchange rate changes on cash balances (38) 4
+Net profit 797 519
+Minority interest (2) –
+Profit attributable to the shareholders of the Company 795 519
+24 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+BUSINESS OVERVIEW
+CONTINUED
+INCOME
+Dividend income from BAT recorded during the year ended 
+31  March  2025 amounted to €  98  million (£  82  million) 
+(31 March 2024: € 130 million (£ 112 million)). Dividend income 
+received from BAT during the year represents the second, third and 
+fourth 2024 quarterly dividends paid.
+Dividend income from Pension Corporation amounting to 
+some € 85 million (£ 73 million) was received in May 2024 and 
+€ 150 million (£ 125 million) was received in September 2024, for a 
+total of € 235 million (£ 198 million) (31 March 2024: € 57 million 
+(£ 50 million)). 
+Interest income is earned on bank deposits, liquidity funds, 
+investments and loans made to underlying investments. 
+Realised gain on BAT shares is in respect of 5 million shares sold in 
+December 2024 for gross proceeds of € 179 million (£ 148 million) 
+and 43.3 million shares sold in January 2025 through an after market 
+accelerated bookbuild process for gross proceeds of € 1 448 million 
+(£ 1 221 million).
+Realised loss on sale of other investments is in respect of investments 
+held in other fund investments and other investments, offset by 
+realised gains in respect of investments held in Trilantic Capital 
+Partners, TruArc Partners and Milestone funds. 
+Carried interest of €  nil (31  March  2024: €  3  million) was 
+attributable to Reinet in respect of investments realised by Trilantic 
+Capital Partners.
+EXPENSES
+The management fee for the year ended 31 March 2025 amounts to 
+€ 54 million and is based on Reinet Fund’s NAV of € 6 591 million 
+at 30  September  2024 and €  6  185  million at 31  March  2024 
+(31  March  2024: €  48  million, based on Reinet Fund’s NAV 
+of € 5 616 million at 30 September 2023 and € 5 721 million at 
+31 March 2023).
+A performance fee of €  5  million is payable for the year ended 
+31 March 2025 (31 March 2024: € 90 million). The performance 
+fee is calculated as 10 per cent of the Cumulative Total Shareholder 
+Return as defined in the Company’s prospectus, published on 
+10  October  2008 as last amended on 25  August  2020, including 
+dividends paid, over the period since completion of the rights issue in 
+December 2008 up to 31 March 2025, less the sum of all performance 
+fees paid in respect of previous periods.
+Operating expenses of € 15 million include € 1 million in respect of 
+charges from Reinet Investments Manager S.A. (the ‘General Partner’), 
+transaction fees in respect of the BAT share sales of € 9 million and 
+other expenses which amounted to € 5 million.
+The net tax expense of € 2 million includes corporate and withholding 
+taxes payable in respect of gains realised on Trilantic Capital Partners, 
+together with deferred tax provisions related to unrealised gains, 
+expected distributions and accrued interest in respect of Trilantic 
+Capital Partners, TruArc Partners and United States land development 
+and mortgages.
+FAIR VALUE ADJUSTMENTS
+The investment in the 48.3  million BAT shares sold during the 
+year increased in value by € 268 million up to the respective dates 
+of sale reflecting the increase in the share price on the London 
+Stock Exchange from £  24.06 at 31  March  2024 together with 
+the strengthening of sterling against the euro during the period. 
+The overall increase of €  268  million includes a realised gain 
+of €  631  million net of the reversal of the unrealised gain of 
+€ 363 million on the BAT shares at 1 April 2024.
+The investment in Pension Corporation increased in value by 
+€  279  million which includes an increase of some €  253  million 
+in respect of the increase in market multiples, together with an 
+increase of some € 172 million due to the movement on Pension 
+Corporation’s adjusted equity own funds and adjusting for dividends 
+paid in 2024. The impact of the strengthening of sterling against the 
+euro in the year under review amounted to an increase in value of 
+€ 75 million (refer to pages 10 and 11 for more detail).
+The unrealised fair value adjustment of €  8  million in respect of 
+other investments includes an increase in the estimated fair value 
+of other listed investments, Coatue funds, Prescient China funds 
+and US land development and mortgages, offset by decreases in the 
+estimated fair value of Trilantic Capital Partners, TruArc Partners, 
+NanoDimension funds and other investments (see detailed analysis 
+on page 52). The above amounts include the effect of changes in 
+foreign exchange rates in the year under review.
+Unrealised losses on borrowings of € 11 million during the year were 
+in respect of changes in the estimated fair value of the Citibank 
+N.A. and Bank of America, N.A. loans prior to their prepayment 
+in January 2025.
+MINORITY INTEREST
+The minority interest expense arises in respect of the minority 
+partner’s share in the earnings of Reinet TCP Holdings Limited. 
+REINET INVESTMENTS S.C.A. | 25
+ANNUAL REPORT 2025
+CASH FLOW STATEMENT
+The summarised cash flow statement set out below differs from the format used in the IFRS reporting on page 48 and is presented to provide 
+investors with a more comprehensive picture of the movement in cash and liquid funds.
+Year ended
+31 March 2025
+Year ended
+31 March 2024
+€ m € m € m € m
+Investing activities
+Purchase of investments, net of repayments (143) (116)
+Proceeds from sales of investments 1 713 84
+Net cash and liquid funds from/(used in) investing activities 1 570 (32)
+Financing activities
+Dividend paid (64) (55)
+Net movements in bank borrowings (240) –
+Net cash and liquid funds used in financing activities (304) (55)
+Operating activities
+Dividends received 366 186
+Carried interest earned on investments – 3
+Interest and related financing expenses (6) (6)
+Interest income 26 16
+Operating and related expenses (152) (46)
+Taxation paid – (1)
+Net cash and liquid funds generated by operating activities 234 152
+Net cash inflow 1 500 65
+Opening cash and liquid funds position 357 288
+Effects of exchange rate changes on cash balances (38) 4
+Closing cash and liquid funds position(1) 1 819 357
+(1) Includes cash and liquid funds held in the Company, Reinet Fund and its subsidiaries.
+INVESTING ACTIVITIES
+Investments totalling €  143  million were made during the year, 
+including Trilantic Capital Partners, TruArc Partners, Coatue funds, 
+Asia Partners funds, NanoDimension funds, and other investments. 
+Amounts invested were partially offset by repayments in respect of 
+loans received from United States land development and mortgages.
+Proceeds from the sale of investments were in respect of BAT, Trilantic 
+Capital Partners, TruArc Partners, Milestone China Opportunities 
+funds and NanoDimension funds.
+FINANCING ACTIVITIES
+A dividend of some €  63.6  million was paid to shareholders in 
+September 2024.
+Loans were repaid to Citibank N.A. and Bank of America, N.A. in 
+January 2025.
+OPERATING ACTIVITIES
+Dividends received from BAT during the year ended 31 March 2025 
+amounted to €  131  million (£  111  million) (31  March  2024: 
+€ 129 million (£ 112 million)). The dividends received from BAT 
+during the year represent the first, second, third and fourth 2024 
+quarterly dividends.
+Dividends received from Pension Corporation during the year 
+amounted to €  235  million (£  198  million) (31  March  2024: 
+€ 57 million (£ 50 million)).
+Interest of € 6 million was paid in respect of the sterling-denominated 
+loans. 
+Interest income relates to cash on deposit in banks and liquidity 
+funds. 
+Cash and liquid funds increased by € 1 462 million over the year 
+to € 1 819 million as the amounts received in respect of dividends 
+from and sales of investments exceeded amounts paid in respect of 
+investments, dividends, management fee, performance fee and other 
+operating expenses. 
+26 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+BUSINESS OVERVIEW
+CONTINUED
+RISKS AND UNCERTAINTIES
+Reinet’s current investments and future investment strategy are 
+subject to a number of risks and uncertainties. The General Partner 
+and Fund Manager have established policies and procedures to 
+identify and monitor these risks.
+Responsibility for investment risk and treasury risk is borne by the 
+Board of the Fund Manager. The day-to-day treasury position is 
+monitored by the Chief Executive Officer and the Chief Financial 
+Officer and policy decisions in respect of the investment of cash 
+resources are taken by the Board of the Fund Manager.
+Investment decisions are the responsibility of the Fund Manager, 
+acting on the advice of the Investment Advisor, as appropriate.
+Reinet’s activities expose it to a variety of financial risks including 
+market risk (ie currency risk, fair value interest rate risk, cash flow 
+interest rate risk and price risk), credit risk and liquidity risk; these 
+risks are detailed in note 5 to the consolidated financial statements 
+on page 53 of this report.
+As 2025 progresses, geo-political tensions and economic risks are 
+again heightened. Market uncertainty has been impacted by the 
+continued effects of the Ukraine crisis, turmoil in the Middle East, 
+the possibility of changes in global trade tariffs, relatively high 
+interest rates and sticky inflation. Whilst inflation and interest 
+rates have been trending downwards, there is the risk that they may 
+increase again. The extent and impact of these ongoing world-wide 
+factors remain highly uncertain. As a result, higher levels of risk 
+and uncertainty exist at this time and markets are likely to remain 
+volatile for some time, and thereby continue to have an influence 
+on the value and prospects of the investments held by Reinet Fund.
+Other principal risks are as follows:
+LEGAL AND COMPLIANCE RISKS
+Laws and regulations governing the operations of the Company and 
+Reinet Fund may affect their business, investments and results of 
+operations.
+The Company is required to comply with certain regulatory 
+requirements applicable to a Luxembourg securitisation company, 
+and Reinet Fund is required to comply with certain regulatory 
+requirements that are applicable to a Luxembourg specialised 
+investment fund. The Company is also required to comply with 
+regulations applicable to a company admitted to listing and trading 
+on the Luxembourg Stock Exchange and Euronext Amsterdam, and 
+with a secondary listing on the Johannesburg Stock Exchange.
+Additional laws and regulations may apply to the portfolio assets in 
+which Reinet makes investments, and those laws and regulations, as 
+well as those applicable to Reinet, may restrict the ability of Reinet 
+to make certain types of investments in certain countries or affect 
+the returns available from those investments.
+Laws and regulations and their interpretation and application may 
+also change from time to time and such laws and regulations or 
+those changes could have a material adverse effect on the business, 
+investments and results of operations of Reinet. In addition, a 
+failure to comply with applicable laws or regulations, as interpreted 
+and applied, or to maintain any necessary regulatory licences, by 
+any of the General Partner, Fund Manager or Investment Advisor, 
+could have a material adverse effect on the business, investments 
+and results of operations of Reinet. Where investee companies are 
+subject to regulation, failure to obtain appropriate licences or to 
+comply with regulatory requirements may impact the valuation of 
+the underlying investment.
+Additional laws and regulations may apply to shareholders’ 
+ownership of the Company’s shares, including as a result of Reinet 
+Fund’s direct and indirect investments.
+The United States’ Foreign Account Tax Compliance Act (‘FATCA’) 
+imposes reporting and other requirements on payers and recipients 
+of certain categories of income starting 1 July 2014. Non-US entities 
+which do not comply with FATCA may be subject to withholding 
+tax on certain categories of income. The Company and its controlled 
+affiliates have taken the steps they considered necessary to be and 
+remain compliant with FATCA.
+Under FATCA, the Company or its affiliates may be required to 
+report to the US Internal Revenue Service (‘IRS’), directly or 
+through their respective tax authority co-operating with the IRS, 
+information about financial transactions made by US taxpayers 
+and other specified entities or individuals, and could be required to 
+impose withholding tax, documentation and reporting requirements 
+on such transactions. The additional administrative requirements of 
+FATCA may result in increased compliance costs and could have an 
+adverse effect on the business, investments and results of operations 
+of Reinet.
+The Common Reporting Standard (‘CRS’), developed by the 
+Organisation for Economic Co-operation and Development, is a 
+global standard for the automatic exchange of financial information 
+between tax authorities worldwide. Under the CRS, the Company 
+and/or its affiliates may be required to identify and report to their 
+respective tax authority information on certain accounts held directly 
+or indirectly by tax residents in other participating CRS countries, 
+which may subsequently be disclosed to foreign tax authorities. The 
+Company and its affiliates have taken the steps they considered 
+necessary to be and remain compliant with the obligations imposed 
+by the CRS. The additional administrative requirements of the CRS 
+may result in increased compliance costs for Reinet.
+The Company must comply with the X Principles of the 
+Luxembourg Stock Exchange, which in their fifth version require the 
+implementation of an appropriate sustainability policy, which shall 
+set out measures taken for its implementation as well as transparent 
+and detailed reporting. As per principle 9, it is recommended for 
+reporting purposes to prepare and publish the material sustainability 
+performance indicators relating to the Company’s business activities, 
+which shall include ambitious targets and environmental, social 
+and governance commitments. This, together with the anticipated 
+implementation of the European Union (‘EU’) corporate and 
+social responsibility directive and its concept of double materiality 
+assessment may result in an increase in compliance costs for Reinet.
+REINET INVESTMENTS S.C.A. | 27
+ANNUAL REPORT 2025
+OPERATIONAL RISKS
+The Company does not have any operations of its own. All 
+operations are carried out by Reinet Fund.
+The Company’s principal source of earnings is returns in the form of 
+income and capital gains from the investments made through Reinet 
+Fund and its subsidiaries.
+The ability of Reinet Fund to make cash distributions to the 
+Company will depend on a number of factors, including, among 
+others, the actual results of operations and financial condition of 
+Reinet Fund, its subsidiaries and investee companies, restrictions 
+on cash distributions that are imposed by applicable law or the 
+constitutional documents of Reinet Fund, the terms of any future 
+financing agreements entered into by Reinet Fund or its subsidiaries, 
+the timing and amount of cash generated by investments that are 
+made by Reinet Fund, any contingent liabilities to which Reinet 
+Fund may be subject, the amount of income generated by Reinet 
+Fund and other factors that the Fund Manager deems relevant.
+DIVIDEND
+The Company relies on distributions from Reinet Fund as its 
+principal source of income from which it may pay dividends.
+A cash dividend of some € 63.6 million or € 0.35 per share (excluding 
+treasury shares held) was paid in September 2024, following approval 
+at the annual general meeting held on 27 August 2024.
+The General Partner has proposed a cash dividend of € 0.37 per share 
+subject to shareholder approval at the annual general meeting, 
+which is scheduled to take place in Luxembourg on Tuesday, 
+26 August 2025.
+There is no Luxembourg withholding tax payable on dividends 
+which may be declared by the Company.
+In 2013 the Company sought clarification from the South African 
+Revenue Service (‘SARS’) as to the treatment of any dividends to 
+be declared by the Company and paid to holders of depository 
+receipts issued by Reinet Securities SA in respect of the Company’s 
+ordinary shares. This ruling was renewed for a further five years on 
+8  March  2018 and again on 17  October  2023 in respect of any 
+dividends to be declared by the Company and paid to holders of 
+the Company’s ordinary shares listed on the Johannesburg Stock 
+Exchange. 
+The dividend will be payable in accordance with the following 
+schedule, subject to shareholder approval:
+The last day to trade the Company’s shares cum-dividend in Europe 
+will be Wednesday, 10  September  2025 and in South Africa, 
+Tuesday, 9  September  2025. The Company’s shares will trade 
+ex-dividend from Thursday, 11 September 2025 in Europe and from 
+Wednesday, 10 September 2025 in South Africa. The record date for 
+the Company’s shares in Europe and in South Africa will be Friday, 
+12 September 2025.
+The dividend on the Company’s shares in Europe will be paid on 
+Wednesday, 17 September 2025 and is payable in euro.
+The dividend on the Company’s shares in South Africa will be paid 
+in South African rand on Wednesday, 17 September 2025. Further 
+details regarding the dividend payable to South African holders may 
+be found in a separate announcement dated 27 May 2025 on the 
+Johannesburg Stock Exchange News Service.
+28 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+CORPORATE GOVERNANCE
+INTRODUCTION
+Reinet Investments S.C.A. (the ‘Company’) recognises the 
+importance of appropriate corporate governance procedures in 
+the management and oversight of its business. The Company 
+acknowledges the obligations placed upon it as a public company 
+with a listing on the Luxembourg Stock Exchange, Euronext 
+Amsterdam and a secondary listing on the Johannesburg Stock 
+Exchange. Notably, the Company is subject to the fifth version of 
+the X Principles of Corporate Governance of the Luxembourg Stock 
+Exchange (the ‘X Principles’) in so far as applicable to the Company.
+The Company’s corporate governance principles are described 
+in the Company Prospectus, in the statutes of the Company (the 
+‘Statutes’), as well as in the Corporate Governance Charter adopted 
+by the Company, all of which are available on the Company’s 
+website, www.reinet.com. The requirements of the Statutes, the 
+principles set out in the Company Prospectus and the Corporate 
+Governance Charter (together with the policies and procedures 
+described therein) adequately establish the framework of corporate 
+governance within which the Company operates.
+The Company, a partnership limited by shares (société en commandite 
+par actions) under the laws of Luxembourg, gives its shareholders 
+exposure to Reinet Fund S.C.A., F.I.S. (‘Reinet Fund’), a specialised 
+investment fund. (The Company and Reinet Fund together with 
+Reinet Fund’s subsidiaries are referred to as ‘Reinet’.)
+The Company was formerly known as Richemont S.A., which was 
+a subsidiary of Compagnie Financière Richemont SA (‘CFR SA’), 
+a Swiss company with significant luxury goods interests (CFR SA, 
+together with its subsidiaries are referred to as ‘Richemont’). The 
+Company separated from its former parent on 20 October 2008, 
+which saw the luxury businesses transferred to CFR SA. Following 
+the separation and subsequent restructuring steps, the Company 
+effectively retained part of Richemont’s former interests in British 
+American Tobacco p.l.c. (‘BAT’) together with cash and certain 
+smaller investments.
+MANAGEMENT
+As a partnership limited by shares, the Company is managed by a 
+general partner rather than a board of directors. The general partner 
+is Reinet Investments Manager S.A. (the ‘General Partner’), a limited 
+company (société anonyme) established in Luxembourg, which also 
+owns 1  000 management shares in the Company and which has 
+unlimited liability for any obligations of the Company that cannot 
+be met from the assets of the Company.
+Both the General Partner and Reinet Fund Manager S.A. (the ‘Fund 
+Manager’) are owned and controlled by Rupert family interests.
+During the year ended 31 March 2025, the board of directors of 
+the General Partner (the ‘Board of Directors’) met on five occasions. 
+All quorums were met in all meetings. The statutes of the General 
+Partner require that the Board of Directors consists of a minimum 
+of three directors.
+The General Partner is not acting as general partner for any 
+partnership other than the Company.
+BOARD OF DIRECTORS OF THE GENERAL 
+PARTNER
+The directors of the General Partner are:
+JOHANN RUPERT
+Chairman
+South African, born 1950
+Mr Rupert was appointed to the Board of Directors in 2008.
+Mr Rupert studied economics and company law at the University 
+of Stellenbosch, South Africa. After working for the Chase 
+Manhattan Bank and Lazard Frères in New York, he founded 
+Rand Merchant Bank in 1979. In 1985 he joined Rembrandt. 
+He founded Richemont in 1988 and became Group Chief 
+Executive. Appointed as Executive Chairman in September 2002, 
+he also served as Group Chief Executive Officer during the 
+periods from October  2003 to September  2004 and from 
+April 2010 to March 2013. He was Chairman of CFR SA up to 
+September  2013, when he indicated his intention to step down 
+from the board of that company during a sabbatical year. He was 
+re-elected as Chairman of CFR SA in September 2014. He is also 
+Non-Executive Chairman of Remgro Limited and is the Managing 
+Partner of Compagnie Financière Rupert.
+Mr Rupert holds honorary doctorates in Law, Economics and 
+Commerce, is Chairman of the Peace Parks Foundation and the 
+Michelangelo Foundation.
+WILHELM VAN ZYL
+Chief Executive Officer
+British & South African, born 1965
+Mr van Zyl was appointed to the Board of Directors in 2014 and 
+appointed Chief Executive Officer with effect from January 2015.
+Mr van Zyl holds a BCom degree from the University of Stellenbosch 
+and qualified as a Fellow member of the Institute and Faculty of 
+Actuaries (United Kingdom) in 1994. He is also a Fellow member 
+of the Actuarial Society of South Africa and completed the Harvard 
+AMP program in 2005. Mr van Zyl was group actuary of the financial 
+services group Metropolitan Holdings from 2001 and headed up 
+its corporate business from 2006. In 2008 he was appointed as a 
+director and chief executive of Metropolitan Holdings.
+Following the listing of MMI Holdings (renamed Momentum 
+Metropolitan Holdings) in 2010, resulting from the merger between 
+Metropolitan and Momentum, he was appointed as a director and 
+deputy group chief executive with oversight of the group’s health, 
+international, investments and employee benefit operations. He 
+currently also serves on the boards of Pension Insurance Corporation 
+plc, Pension Insurance Corporation Group Limited, Prescient 
+Investment Management China Limited and is also a director of 
+the Investment Advisor and of various subsidiaries of Reinet Fund.
+REINET INVESTMENTS S.C.A. | 29
+ANNUAL REPORT 2025
+ALAN GRIEVE
+Non-Executive Director
+British & Swiss, born 1952
+Mr Grieve was appointed to the Board of Directors in 2008. He 
+retired as Chief Executive Officer in December 2014.
+Mr Grieve served as Chief Financial Officer from 2008 to 2011 and 
+as Chief Executive Officer from 2012 to 2014. He remains on the 
+Board of Directors as a Non-Executive Director of both the General 
+Partner and Fund Manager.
+Mr Grieve was appointed to the board of directors of Richemont 
+S.A. (the predecessor company to Reinet Investments S.C.A.) 
+in 2004. Mr Grieve holds a degree in business administration 
+from Heriot-Watt University, Edinburgh and is a member of the 
+Institute of Chartered Accountants of Scotland. Prior to joining 
+Richemont’s predecessor companies in 1986, he worked with the 
+international auditing firms now known as PricewaterhouseCoopers 
+and Ernst & Young. He served as Richemont’s Company Secretary 
+from 1988 to 2004 and as Director of Corporate Affairs from 2004 
+to 2016. 
+JOSUA MALHERBE
+Non-Executive Director
+British & South African, born 1955
+Mr Malherbe was appointed to the Board of Directors in 2009.
+Mr Malherbe qualified as a chartered accountant in South Africa 
+in 1984 having commenced his career with a predecessor firm to 
+PricewaterhouseCoopers. He then joined the Corporate Finance 
+Department of Rand Merchant Bank in 1985 and was a general 
+manager of the bank before moving to Rembrandt Group Limited 
+in 1990, also being involved with Richemont at that time.
+He was appointed as Director – Investments of Rembrandt in 1993 
+and served in this position until the formation of VenFin Limited 
+in 2000 where he served as Chief Executive Officer until 2006. 
+Thereafter he held the position of Deputy Chairman of VenFin 
+Limited until November  2009 at which time Remgro Limited 
+acquired all the shares in VenFin Limited.
+He was appointed as a Non-Executive Director to the board of 
+CFR SA in September 2010. He also serves as a director on boards 
+of a number of companies, including Remgro Limited and Pension 
+Insurance Corporation Group Limited. 
+SWEN GRUNDMANN
+Non-Executive Director
+Dutch, born 1968
+Mr Grundmann was appointed to the Board of Directors in 
+November 2024.
+Mr Grundmann holds a law degree from the Faculty of Law of 
+the University of Amsterdam. He held the position of Company 
+Secretary of both the General Partner and Fund Manager from 
+2009 to January 2023. He has been Reinet’s General Counsel and 
+responsible for its legal affairs from 2011 to January 2023 and serves 
+on the boards of a number of companies in which Richemont or 
+Reinet hold an interest. He is also the Company Secretary and 
+Director of Corporate Affairs at Richemont.
+He is a member of the Dutch Association of Corporate Litigation.
+REINET FUND
+The Company owns the entire ordinary share capital of Reinet 
+Fund, a specialised investment fund established as a partnership 
+limited by shares (société en commandite par actions) under the laws 
+of Luxembourg.
+As a partnership limited by shares, Reinet Fund is managed by 
+a general partner rather than a board of directors. The general 
+partner is the Fund Manager, a limited company (société anonyme) 
+established in Luxembourg, which also owns 1  000 management 
+shares in Reinet Fund and which has unlimited liability for any 
+obligations of Reinet Fund that cannot be met from the assets of 
+Reinet Fund.
+BOARD OF DIRECTORS OF THE FUND 
+MANAGER
+The directors of the Fund Manager are:
+JOHANN RUPERT
+Chairman
+(For biographical details see page 28)
+WILHELM VAN ZYL
+Chief Executive Officer
+(For biographical details see page 28)
+ALAN GRIEVE
+Non-Executive Director
+(For biographical details see above)
+DIANE LONGDEN
+Chief Financial Officer
+British & Luxembourger, born 1961
+Ms Longden was appointed to the board of directors in 
+September 2012.
+Ms Longden is a Fellow of the Institute of Chartered Accountants in 
+England and Wales and holds a Masters in Business Administration 
+from the Sacred Heart University, John F. Welch College of Business 
+in Luxembourg. Prior to joining Reinet in 2009, Ms Longden 
+worked in the accountancy profession and international insurance 
+industry. She is also a director of various subsidiaries of Reinet Fund.
+CAROLINE APOSTOL
+General Counsel – Company Secretary
+French, born 1980
+Ms Apostol was appointed to the board of directors in November 2024.
+Ms Apostol joined Reinet as General Counsel and Company 
+Secretary in January  2023 and was appointed to the Board of 
+Directors in November  2024. Ms Apostol is a qualified lawyer 
+in Luxembourg and holds a master’s degree in law, a diplôme 
+de juriste conseil d’entreprise (DJCE), a Postgraduate diploma 
+in business law (DESS droit des affaires) from the Université 
+Montpellier I (France), and a master’s degree in European laws 
+(LL.M.) from Stockholm University (Sweden). Prior to joining 
+Reinet, Ms Apostol worked in two major independent law firms 
+and in private equity and real estate firms in Luxembourg.
+She is a member of ALCO (Association of Luxembourg Compliance 
+Officers).
+30 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+CORPORATE GOVERNANCE
+CONTINUED
+BOARD COMMITTEES AND MANAGEMENT
+The Company is managed by a general partner and as such it has 
+no board of directors, executive management or employees. As a 
+consequence, aspects of corporate governance which relate, amongst 
+others, to the composition, organisation and proceedings of the board 
+of directors and executive management, the establishment of board 
+committees and related processes of a public company established in 
+Luxembourg are not directly applicable to the Company.
+BOARD OF OVERSEERS
+In accordance with Luxembourg law, a board of overseers (Collège 
+des Commissaires) has been appointed to review the activities of the 
+Company (the ‘Board of Overseers’). The Board of Overseers’ role 
+is one of oversight and control in addition to the specific powers 
+conferred upon the Board of Overseers by virtue of the Statutes. It 
+has no executive responsibility for the management of the Company 
+except that the Board of Overseers may be consulted by the General 
+Partner on such matters as the General Partner may determine and 
+no action of the General Partner that may exceed its powers shall be 
+valid unless authorised by the Board of Overseers.
+The Board of Overseers of the Company has also been appointed as 
+the board of overseers of Reinet Fund. Each of the members of the 
+Board of Overseers is independent from the General Partner and the 
+Fund Manager.
+The members of the Board of Overseers may not be directors or 
+employees of the General Partner or of the principal shareholder 
+of the General Partner or any entity in which the Company has a 
+material direct or indirect interest.
+The Board of Overseers reports each year to the annual general 
+meeting of shareholders on the results of the mandate entrusted to 
+it, making such recommendations as it considers appropriate.
+Every second year the Board of Overseers conducts a self-assessment 
+of its role, accountability, composition and effectiveness. 
+A self-assessment was performed in respect of the year ended 
+31 March 2024.
+In addition to its role as defined by law, the Board of Overseers also 
+acts as the audit committee of the Company and Reinet Fund. 
+The functions of the Board of Overseers include notably:
+• Monitoring the financial reporting process; 
+• Reviewing the financial statements and the sustainability report 
+of the Company and Reinet Fund in order to ensure that they 
+are fair, accurate and complete; 
+• Monitoring the Company’s and Reinet Fund’s compliance with 
+applicable legal and regulatory obligations; 
+• Monitoring the statutory audit of the Company and Reinet Fund; 
+• Reviewing and monitoring the independence of the approved 
+statutory auditor and approving permissible non-audit services 
+as required; 
+• Monitoring the effectiveness of internal control, risk 
+management procedures and sustainability information; and 
+• Assessing the quality of the internal audit of the Company 
+and Reinet Fund. 
+During the year under review, the Board of Overseers met physically 
+on three occasions and in addition four meetings were held by 
+conference calls. All the members attended all of the conference 
+calls. Subsequent to the year-end, the Board of Overseers also met 
+on 25 April 2025 and on 13 May 2025 to review and discuss with 
+the approved statutory auditor the statutory and consolidated 
+financial statements of the Company and recommended that these 
+be presented to the annual general meeting of shareholders of the 
+Company for approval.
+Mr John Li is the chairman of the Board of Overseers.
+The members of the Board of Overseers are:
+JOHN LI
+Chairman
+Mauritian & Luxembourger, born 1960
+Mr Li was appointed to the Board of Overseers in August 2015.
+Mr Li is a non-executive director and a partner of The Directors’ 
+Office, a company of independent and non-executive directors. 
+Previously he was a managing partner of KPMG Luxembourg 
+and a member of the KPMG global investment management 
+leadership team, as well as chairman of the supervisory board for 
+KPMG Luxembourg. Mr Li is a Fellow of the Institute of Chartered 
+Accountants in England and Wales and a former member of the 
+Board of the Institut Luxembourgeois des Administrateurs (Institute 
+of Directors in Luxembourg) for 12 years. His expertise lies in 
+investment funds, banking and wealth management.
+YVES PRUSSEN
+Luxembourger, born 1947
+Mr Prussen was appointed to the Board of Overseers in 
+September 2009.
+Mr Prussen graduated as a doctor at law in 1971 and holds a 
+diploma from the ‘Institut d’Etudes Politiques’ of the University 
+of Grenoble. During the same year he became a member of the 
+Luxembourg Bar and since 1975 has been a partner in Elvinger 
+Hoss Prussen, a Luxembourg legal firm. Mr Prussen is a member of 
+the International Bar Association, the Luxembourg Section of the 
+International Fiscal Association and the Luxembourg Association 
+for Arbitration. He is the author of various publications in the 
+field of tax law, arbitration, securities laws and the law relating to 
+undertakings for collective investments.
+STUART ROBERTSON
+British & Swiss, born 1955
+Mr Robertson was appointed to the Board of Overseers in 
+October 2018.
+Mr Robertson is a member of the Institute of Chartered Accountants 
+of Scotland and EXPERTsuisse. He had three decades’ experience 
+with KPMG auditing financial institutions and also advising them 
+in areas of risk and regulation, transformation, and M&A. He 
+served on both the Executive Committee and the Board of Directors 
+of KPMG Switzerland for 12 years. He also served as the KPMG 
+Global Financial Services Deal Advisory leader for 11 years. He 
+retired from KPMG at the end of September 2018. He served as 
+a board member and audit chair of EFG International AG from 
+2018 to 2025.
+REINET INVESTMENTS S.C.A. | 31
+ANNUAL REPORT 2025
+STUART ROWLANDS
+British & Luxembourger, born 1952
+Mr Rowlands was appointed to the Board of Overseers in 
+August 2016.
+Mr Rowlands was the Head of Financial Risk at the European 
+Investment Bank (‘EIB’), the development bank of the EU, based in 
+Luxembourg, until his retirement on 30 June 2018. He joined the EIB 
+in 1988 and worked in various senior roles involving internal audit, 
+credit risk, infrastructure funding and project finance. Previously, 
+Mr Rowlands was with PricewaterhouseCoopers Luxembourg 
+and during this time spent two years with the European Court of 
+Auditors, also based in Luxembourg. Mr Rowlands is a Fellow of 
+the Institute of Chartered Accountants in England and Wales and 
+a member of the Institute of Internal Auditors and an INSEAD 
+– certified independent director. His expertise lies in financial and 
+credit risk management, internal audit and corporate governance.
+APPOINTMENT OF THE MEMBERS OF THE 
+BOARD OF OVERSEERS
+The Statutes provide for a Board of Overseers composed of at 
+least three members. The members of the Board of Overseers 
+are appointed by a resolution of the annual general meeting of 
+shareholders by a simple majority of the votes cast. The annual 
+general meeting of shareholders fixes the term of their office. They 
+may be re-elected. Their appointment is not subject to the approval 
+of the General Partner.
+REMUNERATION
+Neither the Company nor Reinet Fund has any employees. Rather, 
+both entities pay fees to their respective managers, the General 
+Partner and the Fund Manager, in respect of the management 
+services provided.
+The Company is managed by its General Partner. In accordance with 
+the Statutes, the Company reimburses the General Partner for its 
+expenses incurred in the ordinary course of business, including but 
+not limited to the remuneration of its staff, costs attributable to its 
+directors’ remuneration, taxes, rentals and any other disbursements, 
+and pays an annual administration fee equal to 10 per cent of such 
+expenses. During the year ended 31  March  2025, the Company 
+paid €  1.5  million to the General Partner in respect of the costs 
+that it had incurred, out of which € 0.4 million related to the costs 
+attributable to its directors’ remuneration, and € 0.1 million to the 
+related administration fee.
+The Company’s wholly-owned subsidiary, Reinet Fund, is managed 
+by the Fund Manager. Reinet Fund reimburses the Fund Manager 
+for its expenses incurred in the ordinary course of business 
+including but not limited to the remuneration of its staff, costs 
+attributable to its directors’ remuneration, taxes, rentals and any 
+other disbursements, and pays an annual administration fee equal 
+to 10 per cent of such expenses. Any such amounts payable to the 
+Fund Manager are deductible from any management fees payable to 
+the Investment Advisor (see Significant Agreements).
+The annual general meeting of shareholders sets the remuneration 
+of the members of the Board of Overseers. An annual compensation 
+of €  70  000 per annum for each of the members of the Board 
+of Overseers was approved at the annual general meeting of 
+shareholders held on 27 August 2024.
+SHAREHOLDINGS AND LOANS
+Details of shareholdings by members of the Board of Directors of 
+the General Partner are given in note 13 to the consolidated financial 
+statements on page 68 of this report.
+As noted previously, the General Partner holds 1 000 management 
+shares in the Company.
+The Company has procedures in place requiring persons connected 
+with the Company, Reinet Fund, the General Partner, the Fund 
+Manager and the Investment Advisor not to trade in the Company’s 
+securities during closed periods in advance of the release of financial 
+information in respect of the Company or at other times when 
+they may be in possession of price-sensitive information. Approval 
+of transactions involving the Company’s securities is required 
+from Mr Rupert, Mr Malherbe or Mr van Zyl and transactions by 
+persons discharging managerial responsibilities are disclosed on the 
+Company’s website and information relating to such transactions is 
+published in a manner that ensures the effective dissemination of 
+information to the public.
+There were no loans outstanding to members of the Board 
+of Directors of the General Partner during the year or at 
+31 March 2025.
+At 31  March  2025, the Company owed €  1.1  million to the 
+General Partner and Reinet Fund owed € 10.1 million to the Fund 
+Manager.
+SIGNIFICANT AGREEMENTS
+The Company is managed by its General Partner. The Company 
+reimburses the General Partner for its expenses incurred in 
+the ordinary course of business, including but not limited to 
+the remuneration of its staff, costs attributable to its directors’ 
+remuneration, taxes, rentals and any other disbursements, and pays 
+an annual administration fee equal to 10 per cent of such expenses 
+(see Remuneration). 
+The Company’s wholly-owned subsidiary, Reinet Fund, is managed 
+by the Fund Manager. Reinet Fund reimburses the Fund Manager 
+for its expenses incurred in the ordinary course of business including 
+but not limited to the remuneration of its staff, costs attributable to its 
+directors’ remuneration, taxes, rentals and any other disbursements, 
+and pays an annual administration fee equal to 10 per cent of such 
+expenses (see Remuneration).
+Under the terms of the Investment Advisory Agreement dated 
+9 October 2008, as amended on 24 May 2010, 10 November 2011, 
+7 December 2018 and 1 October 2020 between Reinet Fund and 
+the Investment Advisor, Reinet Fund pays both management fees 
+and performance fees to the Investment Advisor.
+32 | REINET INVESTMENTS S.C.A.
+REINET INVESTMENTS S.C.A.
+MANAGEMENT REPORT
+CORPORATE GOVERNANCE
+CONTINUED
+Mr van Zyl, who is a director of the General Partner, is also a 
+member of the board of directors of the Investment Advisor.
+The management fee is payable to the Investment Advisor at a rate 
+of 1 per cent per annum on the NAV of Reinet Fund, excluding 
+cash and interests in funds managed by third parties. It is calculated 
+semi-annually based on the closing NAV at the end of the previous 
+six-month period.
+The management fee in respect of cash is calculated at a rate of 
+one quarter of 1 per cent per annum.
+No management fee is payable in respect of funds managed by third 
+parties except where the fee payable to the third party has been 
+negotiated to a level below 1 per cent per annum and below the 
+level payable by other investors in a fund. In such circumstances, the 
+difference between the fee payable to the third-party manager and 
+1 per cent is payable to the Investment Advisor. 
+Investments as a limited partner in funds under the management 
+of a management company in which Reinet Fund is an investor 
+are not treated as being managed by third parties; the management 
+fee is payable at 1 per cent per annum to the Investment Advisor. 
+However, such a fee payable to the Investment Advisor is reduced 
+by any management fee paid by Reinet Fund to the management 
+company, net of income received by Reinet Fund on its investment 
+in the management company in terms of its share of the 
+management fees earned by (but not carried interest attributable 
+to) the management company.
+The management fee for the year under review amounted to 
+€ 54 million, of which € 12 million is paid to the Fund Manager.
+As detailed in the Company Prospectus, issued when the Company 
+was established in 2008 as part of the Richemont reorganisation 
+which was approved by the former Richemont unitholders, the 
+performance fee in any period is to be calculated as 10 per cent of the 
+Cumulative Total Shareholder Return at the end of the Performance 
+Measurement Period, adjusted for all dividends and returns of capital 
+to the Company’s shareholders, less the sum of all performance fees 
+paid in previous Performance Measurement Periods. Following 
+a subsequent revision, the Cumulative Total Shareholder Return 
+will be the difference between the volume weighted average market 
+price of the Company’s shares on the Luxembourg Stock Exchange, 
+Euronext Amsterdam and the Johannesburg Stock Exchange over 
+the last 20 trading days of each financial year of the Company 
+less the Initial Price, calculated as the volume weighted average 
+market price of the Company’s shares on the Luxembourg Stock 
+Exchange over the first 60 trading days following the third day after 
+the conclusion of the rights issue in December  2008. The Initial 
+Price, calculated over the trading period from 22 December 2008 to 
+19 March 2009, is € 7.1945.
+A performance fee of € 5 million is payable as of 31 March 2025 
+(31 March 2024: € 90 million).
+The Investment Advisor shall be entitled to all accrued but unpaid 
+management fees and performance fees should the Fund Manager 
+(acting on the instructions of the Board of Overseers) terminate 
+the Investment Advisory Agreement with notice. Such entitlement 
+will not arise where the Fund Manager (acting on the instructions 
+of the Board of Overseers) is entitled to, and does, terminate the 
+Investment Advisory Agreement immediately or if the Investment 
+Advisory Agreement terminates automatically.
+CONFLICTS OF INTEREST
+Individuals who are involved in the management of the Company, 
+the General Partner or the Fund Manager may also be involved in 
+the management of other industrial and investment companies, 
+including but not limited to CFR SA and Remgro Limited.
+There is a possibility that these individuals may have a conflict of 
+interest between the duties they owe to the Company or Reinet 
+Fund and the duties they owe to the other entities relying upon 
+their expertise. Such a conflict may arise in relation to, in particular, 
+proposed investment opportunities. The Company and Reinet 
+Fund will be managed to avoid any such conflicts of interest in all 
+possible circumstances, as is also formalised in a conflicts of interest 
+policy which was adopted by the Boards of the General Partner and 
+Fund Manager. If a conflict of interest in relation to an investment 
+opportunity would arise between any entities affiliated with Rupert 
+family interests the opportunity to co-invest may be offered to the 
+appropriate entities (taking into consideration, among other things, 
+the investment objective, policies and restrictions of each of those 
+entities). Specifically, in terms of the Company Prospectus and the 
+conflicts of interest policy it is expected that any investments in 
+luxury goods businesses will be made by CFR SA.
+CAPITAL STRUCTURE
+At 31 March 2025, the Company had 195 941 286 ordinary shares 
+and 1 000 management shares of no par value in issue.
+At 31 March 2025, the Company held 14 151 395 ordinary shares 
+as treasury shares. The voting and dividend rights attached to 
+treasury shares are suspended. Therefore, the total number of voting 
+rights at 31 March 2025 was 181 790 891.
+SIGNIFICANT SHAREHOLDERS
+The General Partner holds 1  000 management shares in the 
+Company, being 100 per cent of the management shares in issue.
+The Anton Rupert Trust, the Anton Rupert Descendants Trust and 
+affiliated parties hold some 48.8 million ordinary shares representing 
+24.93 per cent of the Company’s issued share capital.
+The group of parties regarded as being affiliated to the Anton 
+Rupert Trust and the Anton Rupert Descendants Trust includes 
+entities and persons which are not necessarily closely connected 
+with persons discharging managerial responsibilities within the 
+Company, as defined in Article 3 paragraph 1 of the EU Regulation 
+No 596/2014 on Market Abuse (the ‘Market Abuse Regulation’). 
+As a consequence, share dealings by such entities or persons are not 
+disclosed as dealings by connected parties in terms of the Market 
+Abuse Regulation.
+REINET INVESTMENTS S.C.A. | 33
+ANNUAL REPORT 2025
+On 6 February 2025, M&G Plc notified the Company that accounts 
+under its management held 5.06 per cent of the voting rights in the 
+Company increasing above the 5 per cent threshold.
+On 23 January 2025, the Public Investment Corporation notified 
+the Company that it held 14.956 per cent of the voting rights in the 
+Company, decreasing below the 15 per cent threshold.
+On 7 August 2024, M&G Plc notified the Company that accounts 
+under its management held 4.99 per cent of the voting rights in the 
+Company decreasing below the 5 per cent threshold.
+On 28  June  2021, Allan Gray Proprietary Limited notified the 
+Company that accounts under its management held 4.97 per cent 
+of the voting rights in the Company, falling below the 5 per cent 
+threshold.
+On 27 April 2020, GIC Private Limited notified the Company that 
+on 22 April 2020 its holding of the voting rights in the Company 
+fell below the 3 per cent threshold, to 2.97 per cent.
+Old Mutual Investment Group (Pty) Ltd informed the Company 
+that as from 27  April  2016 its holding on behalf of its clients 
+exceeded 3 per cent of the voting rights in the Company.
+As at the date of this report, the Company has not received any other 
+notifications of significant shareholdings in excess of 3 per cent of 
+the shares in issue.
+SHAREHOLDERS’ MEETINGS AND VOTING 
+RIGHTS
+Shareholders’ meetings may be convened by the General Partner or 
+by the Board of Overseers. All shareholders are invited to attend and 
+speak at all general meetings of shareholders. Any shareholder may 
+appoint another person, who need not be a shareholder, to represent 
+them at the meeting.
+Other than as required by law, resolutions to be approved at a 
+meeting of shareholders will be passed by an absolute majority 
+of those present and voting. There is no quorum requirement 
+for a meeting convened to consider the business ordinarily to be 
+considered by a shareholders’ meeting. The business ordinarily to be 
+considered at a shareholders’ meeting is the approval of the statutory 
+and consolidated financial statements as presented by the General 
+Partner; the consideration and approval of the appropriation 
+of the result of the year as proposed by the General Partner; the 
+appointment, removal and remuneration of the Board of Overseers; 
+and the discharge to be given to the General Partner and to the 
+members of the Board of Overseers. All other business at an annual 
+general meeting shall be considered only upon a proposal of the 
+General Partner unless otherwise provided for in the law.
+Any other matter which does not fall within the scope of an annual 
+general meeting, as set out above, shall be dealt with by way of an 
+extraordinary meeting. An extraordinary meeting shall require that 
+50 per cent of shareholders of each class of shares is represented, 
+failing which the meeting must be reconvened in accordance with the 
+notice requirements laid down by the law. Resolutions proposed at 
+such a meeting shall be passed by a vote in favour of at least two-thirds 
+of the votes cast, provided that no resolution tabled at such a meeting 
+shall be validly passed unless approved by the General Partner.
+The annual general meeting of shareholders of the Company was 
+held on 27 August 2024. Out of a total of 195 941 286 ordinary 
+shares and 1 000 management shares in issue, a total of 136 484 757 
+ordinary shares (some 69.66 per cent of the total voting rights) and 
+all the 1 000 management shares were represented. The proposals of 
+the General Partner in respect of the resolutions considered at the 
+meeting were approved by an overwhelming majority of the votes.
+The notice of the 2025 annual general meeting of shareholders is 
+given on pages 83 to 85 of this report.
+FINANCIAL REPORTING, INTE

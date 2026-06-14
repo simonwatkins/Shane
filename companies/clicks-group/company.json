@@ -1,0 +1,138 @@
+{
+  "name": "Clicks Group Limited",
+  "jse_code": "CLS",
+  "a2x_code": "CLS",
+  "isin": "ZAE000134854",
+  "adr_ticker": "CLCGY",
+  "adr_cusip": "18682W205",
+  "registration_number": "1996/000645/06",
+  "income_tax_number": "9061/745/71/8",
+  "sector": "Retail — Health, Wellness & Beauty + Pharmaceutical Wholesale/Distribution",
+  "reporting_currency": "ZAR",
+  "financial_year_end": "31 August",
+  "registered_address": "Cnr Searle and Pontac Streets, Cape Town, 8001",
+  "ir_website": "https://www.clicksgroup.co.za/results/",
+  "media_centre": "https://www.clicksgroup.co.za/media-centre/press-releases/",
+  "integrated_report_landing": "https://www.clicksgroup.co.za/iar2025/",
+  "document_url_patterns": {
+    "uploads_root": "https://www.clicksgroup.co.za/wp-content/uploads/<YYYY>/<MM>/",
+    "annual_results_announcement": "https://www.clicksgroup.co.za/wp-content/uploads/<YYYY>/10/CGL-<YYYY>-Annual-results-announcement.pdf",
+    "annual_results_analyst_booklet": "https://www.clicksgroup.co.za/wp-content/uploads/<YYYY>/10/CGL-<YYYY>-Annual-results-analyst-booklet-1.pdf",
+    "annual_results_analyst_presentation": "https://www.clicksgroup.co.za/wp-content/uploads/<YYYY>/10/CGL-<YYYY>-Annual-results-analyst-presentation.pdf",
+    "interim_results_announcement": "https://www.clicksgroup.co.za/wp-content/uploads/<YYYY>/04/CGL-<YYYY>-Interim-results-announcement-1.pdf",
+    "interim_results_analyst_booklet": "https://www.clicksgroup.co.za/wp-content/uploads/<YYYY>/04/CGL-<YYYY>-Interim-results-analyst-booklet.pdf",
+    "interim_results_analyst_presentation": "https://www.clicksgroup.co.za/wp-content/uploads/<YYYY>/04/CGL-<YYYY>-Interim-results-analyst-presentation.pdf",
+    "note": "Naming is inconsistent year-to-year (e.g. FY2024 interims use 'CGL-2024-Interims-...', FY2025 use 'CGL-2025-Interims-...', FY2026 use 'CGL-2026-Interim-results-...'). Always scrape https://www.clicksgroup.co.za/results/ for the live links rather than assuming the filename. Annual results post ~late October (Oct folder), interims ~late April (Apr folder)."
+  },
+  "operating_segments": [
+    "Retail: Clicks (health, wellness & beauty + pharmacy), The Body Shop, UniCare, Sorbet (corporate + franchise), 180 Degrees (marketing/media)",
+    "Distribution: UPD (United Pharmaceutical Distributors) — full-range pharmaceutical wholesaler + bulk/preferred-supplier distribution"
+  ],
+  "key_people": {
+    "chairman": "Mfundiso Njeke (MJN Njeke), independent non-executive (appointed chairman 30 January 2025)",
+    "ceo": "Bertina Engelbrecht (CEO since January 2022; first black female to lead a JSE-listed retail group)",
+    "cfo": "Gordon Traill (GD Traill, CA, British)",
+    "auditors": "KPMG Inc.",
+    "jse_sponsor": "Investec Bank Limited",
+    "ir_consultants": "Tier 1 Investor Relations (ir@tier1ir.co.za)"
+  },
+  "notes": "Top-40 JSE company; market-leading health & beauty retailer and #1 retail pharmacy in SA (24.9% market share at H1 FY2026). ClubCard is SA's largest retail loyalty programme (~12.9m active members, ~84% of Clicks sales). UPD is SA's leading pharmaceutical wholesaler. Medium-term target: 1,200 stores. Closest listed competitor: Dis-Chem (JSE: DCP). Disposed of Unicorn Pharmaceuticals in FY2024; acquired 74% of Mr First Aid (Oct 2025).",
+  "download_note": "Original PDFs archived 2026-06-07 via browser download (FY2025 + H1 FY2026 results announcements and analyst booklets), each with a pdftotext -layout sidecar. Binary channel in this sandbox is the connected browser (Claude in Chrome): web_fetch returns text only, and bash curl is proxy-blocked (403). Still outstanding: results-presentation slide decks, FY2025 Integrated Annual Report and full AFS.",
+  "onboarded": "2026-06-07",
+  "documents": {
+    "clicks-annual-results-fy2025-20251023.pdf": {
+      "type": "annual_results",
+      "period": "FY2025",
+      "date_published": "2025-10-23",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/clicks-group/annual-reports/clicks-annual-results-fy2025-20251023.pdf",
+      "text_path": "companies/clicks-group/annual-reports/clicks-annual-results-fy2025-20251023.txt",
+      "text_source": "pdftotext -layout",
+      "source_url": "https://www.clicksgroup.co.za/wp-content/uploads/2025/10/CGL-2025-Annual-results-announcement.pdf",
+      "pages": 18,
+      "file_size_mb": 0.92,
+      "original_saved": true,
+      "analysed": true
+    },
+    "clicks-interim-results-h1fy2026-20260423.pdf": {
+      "type": "interim_results",
+      "period": "H1 FY2026",
+      "date_published": "2026-04-23",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/clicks-group/interim-reports/clicks-interim-results-h1fy2026-20260423.pdf",
+      "text_path": "companies/clicks-group/interim-reports/clicks-interim-results-h1fy2026-20260423.txt",
+      "text_source": "pdftotext -layout",
+      "source_url": "https://www.clicksgroup.co.za/wp-content/uploads/2026/04/CGL-2026-Interim-results-announcement-1.pdf",
+      "pages": 16,
+      "file_size_mb": 1.47,
+      "original_saved": true,
+      "analysed": true
+    },
+    "clicks-annual-results-analyst-booklet-fy2025-20251023.pdf": {
+      "type": "investor_presentation",
+      "period": "FY2025",
+      "date_published": "2025-10-23",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/clicks-group/investor-presentations/clicks-annual-results-analyst-booklet-fy2025-20251023.pdf",
+      "text_path": "companies/clicks-group/investor-presentations/clicks-annual-results-analyst-booklet-fy2025-20251023.txt",
+      "text_source": "pdftotext -layout",
+      "source_url": "https://www.clicksgroup.co.za/wp-content/uploads/2025/10/CGL-2025-Annual-results-analyst-booklet-1.pdf",
+      "pages": 40,
+      "file_size_mb": 6.44,
+      "original_saved": true,
+      "analysed": false
+    },
+    "clicks-interim-results-analyst-booklet-h1fy2026-20260423.pdf": {
+      "type": "investor_presentation",
+      "period": "H1 FY2026",
+      "date_published": "2026-04-23",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/clicks-group/investor-presentations/clicks-interim-results-analyst-booklet-h1fy2026-20260423.pdf",
+      "text_path": "companies/clicks-group/investor-presentations/clicks-interim-results-analyst-booklet-h1fy2026-20260423.txt",
+      "text_source": "pdftotext -layout",
+      "source_url": "https://www.clicksgroup.co.za/wp-content/uploads/2026/04/CGL-2026-Interim-results-analyst-booklet.pdf",
+      "pages": 36,
+      "file_size_mb": 6.68,
+      "original_saved": true,
+      "analysed": false
+    },
+    "clicks-businessday-news-analysis-engelbrecht-20260210.txt": {
+      "type": "press_coverage",
+      "period": "FY2026",
+      "date_published": "2026-02-10",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/clicks-group/press-releases/clicks-businessday-news-analysis-engelbrecht-20260210.txt",
+      "text_path": "companies/clicks-group/press-releases/clicks-businessday-news-analysis-engelbrecht-20260210.txt",
+      "text_source": "web_fetch (Business Day, premium) — Nompilo Zulu",
+      "source_url": "https://www.businessday.co.za/companies/company-strategy/2026-02-10-news-analysis-clicks-stays-the-course-under-bertina-engelbrecht/",
+      "original_saved": false,
+      "analysed": true
+    },
+    "clicks-financialmail-finance-ghost-conundrum-20260430.txt": {
+      "type": "press_coverage",
+      "period": "H1 FY2026",
+      "date_published": "2026-04-30",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/clicks-group/press-releases/clicks-financialmail-finance-ghost-conundrum-20260430.txt",
+      "text_path": "companies/clicks-group/press-releases/clicks-financialmail-finance-ghost-conundrum-20260430.txt",
+      "text_source": "web_fetch (Financial Mail, premium) — The Finance Ghost",
+      "source_url": "https://www.financialmail.businessday.co.za/investing/2026-04-30-the-finance-ghost-the-clicks-conundrum/",
+      "original_saved": false,
+      "analysed": true
+    }
+  },
+  "next_expected_results": {
+    "type": "FY2026 Annual Results",
+    "expected_date": "2026-10-23",
+    "notes": "Year to 31 August 2026; published ~late October. Guidance: diluted HEPS +4% to +9% vs FY2025."
+  },
+  "coverage_gaps": [
+    "Results-presentation slide PDFs (-analyst-presentation.pdf) and results webcasts not yet captured (analyst BOOKLETS are now archived).",
+    "FY2025 Integrated Annual Report (/iar2025/) and full Annual Financial Statements not yet captured (only SENS short-form + analyst booklets). Remuneration report not yet captured.",
+    "Dis-Chem (DCP) FY2026 results now captured under companies/dischem (see jse-dischem) for competitor read-across."
+  ],
+  "analyst_notes": [],
+  "skill_path": ".claude/skills/jse-clicks-group/SKILL.md",
+  "skill_generated": true,
+  "last_updated": "2026-06-07T16:15:34Z"
+}

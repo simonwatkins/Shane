@@ -1,0 +1,94 @@
+{
+  "name": "Dis-Chem Pharmacies Limited",
+  "jse_code": "DCP",
+  "isin": "ZAE000227831",
+  "registration_number": "2005/009766/06",
+  "sector": "Retail — Pharmacy / Health & Beauty + Pharmaceutical Wholesale & Distribution",
+  "reporting_currency": "ZAR",
+  "financial_year_end": "End February (year to 28/29 February)",
+  "ir_website": "https://dischemgroup.com/investors/financial-results/",
+  "results_and_presentations": "https://dischemgroup.com/investors/results-and-presentations/",
+  "investor_email": "investorrelations@dischem.co.za",
+  "document_hosting": {
+    "host": "thevault.exchange (linked from dischemgroup.com financial-results page via obfuscated 'the-vault' redirect links)",
+    "group_id": "6262",
+    "direct_url_pattern": "https://thevault.exchange/?get_group_doc=6262/<docid>-<DocName>.pdf",
+    "examples": {
+      "FY2026 AFS": "https://thevault.exchange/?get_group_doc=6262/1780031707-FY2026AnnualFinancialStatements.pdf",
+      "FY2026 Analyst Presentation": "https://thevault.exchange/?get_group_doc=6262/1780031786-FY2026AnalystPresentation.pdf"
+    },
+    "note": "The dischemgroup.com/investors/financial-results page lists docs by year tab (2026, 2025, ...) and by ANNUAL vs INTERIM. Anchor href is a base64-encoded /wp-json/the-vault/... redirect to thevault.exchange. To download: click the anchor (it navigates the tab to the thevault.exchange PDF), then fetch same-origin OR use the PDF viewer's download button. The viewer download bypasses Chrome's per-site 'multiple downloads' gate; scripted blob-downloads of a 2nd file from thevault.exchange are gated until the user clicks Allow."
+  },
+  "operating_segments": [
+    "Retail: Dis-Chem pharmacy stores (health, beauty, personal care, dispensary) + Baby City (baby) + The Local Choice (TLC) franchise model",
+    "Wholesale: Dis-Chem Distribution / CJ Distribution — supplies own stores + external independent pharmacies and TLC franchisees",
+    "Emerging: 'X, bigly labs' (data/analytics/AI + ecosystem) and Dis-Chem Life (financial services, launched Nov 2025)"
+  ],
+  "key_people": {
+    "chairman": "J.S. Mthimunye (independent non-executive, per FY2026 AFS)",
+    "ceo": "Rui Manuel Morais (CEO since July 2023; previously CFO 2012-2023)",
+    "cfo": "Julia Denise Pope (CA(SA), British; CFO since 2023)",
+    "founders": "Ivan & Lynette Saltzman (IL & LF Saltzman). IL Saltzman to retire 30 June 2026; SE Saltzman appointed non-exec 27 Feb 2026",
+    "auditors": "Forvis Mazars (signing partner Danielle Keeve) — note: relatively recent auditor"
+  },
+  "notes": "JSE: DCP. SA's #2 retail pharmacy (closest competitor to Clicks/CLS). Founder-led heritage now under professional management (Morais). FY2026 reported earnings depressed by heavy upfront 'ecosystem' investment (R445m incl X, bigly labs R330m + Dis-Chem Life) and the absence of a prior-year once-off property gain — core retail PBT (ex those) +27.1%. Subsidiaries in Namibia (Swakopmund, Walvis Bay, Wernhill) and Botswana (Airport, Game City). Better Rewards loyalty programme relaunched FY2026.",
+  "download_note": "Originals downloaded 2026-06-07 via browser (Claude in Chrome) into the workspace, each with a pdftotext -layout sidecar: FY2026 AFS (audited, 87pp) + FY2026 Analyst Presentation (40pp). Binary channel = browser (web_fetch is text-only; bash curl is proxy-blocked). H1 FY2026 interim docs not yet captured (see manifest coverage_gaps).",
+  "onboarded": "2026-06-07",
+  "documents": {
+    "dischem-annual-financial-statements-fy2026-20260529.pdf": {
+      "type": "annual_results",
+      "period": "FY2026",
+      "date_published": "2026-05-29",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/dischem/annual-reports/dischem-annual-financial-statements-fy2026-20260529.pdf",
+      "text_path": "companies/dischem/annual-reports/dischem-annual-financial-statements-fy2026-20260529.txt",
+      "text_source": "pdftotext -layout",
+      "source_url": "https://thevault.exchange/?get_group_doc=6262/1780031707-FY2026AnnualFinancialStatements.pdf",
+      "pages": 87,
+      "file_size_mb": 3.18,
+      "original_saved": true,
+      "analysed": true
+    },
+    "dischem-analyst-presentation-fy2026-20260529.pdf": {
+      "type": "investor_presentation",
+      "period": "FY2026",
+      "date_published": "2026-05-29",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/dischem/investor-presentations/dischem-analyst-presentation-fy2026-20260529.pdf",
+      "text_path": "companies/dischem/investor-presentations/dischem-analyst-presentation-fy2026-20260529.txt",
+      "text_source": "pdftotext -layout",
+      "source_url": "https://thevault.exchange/?get_group_doc=6262/1780031786-FY2026AnalystPresentation.pdf",
+      "pages": 40,
+      "file_size_mb": 12.8,
+      "original_saved": true,
+      "analysed": true
+    },
+    "dischem-fy2026-results-coverage-businessexplainer-20260603.txt": {
+      "type": "press_coverage",
+      "period": "FY2026",
+      "date_published": "2026-06-03",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/dischem/press-releases/dischem-fy2026-results-coverage-businessexplainer-20260603.txt",
+      "text_path": "companies/dischem/press-releases/dischem-fy2026-results-coverage-businessexplainer-20260603.txt",
+      "text_source": "web_fetch (Business Explainer)",
+      "source_url": "https://businessexplainer.co.za/companies/2026/06/03/dis-chem-grows-revenue-despite-consumer-pressure/",
+      "original_saved": false,
+      "analysed": true
+    }
+  },
+  "next_expected_results": {
+    "type": "H1 FY2027 Interim Results",
+    "expected_date": "2026-10-31",
+    "notes": "Six months to ~end August 2026; published ~late October."
+  },
+  "coverage_gaps": [
+    "FY2026 SENS short-form results announcement (summary financial-summary table) not captured — the full audited AFS IS captured; grab the lighter SENS short-form from sharedata/Moneyweb if needed.",
+    "H1 FY2026 interim results + interim presentation not captured (IR page year tab 2026, INTERIM section, thevault.exchange group 6262).",
+    "FY2026 Integrated Annual Report (IAR) and remuneration report not yet published/captured.",
+    "Prior-year (FY2025) AFS + presentation not captured for multi-year trend building."
+  ],
+  "analyst_notes": [],
+  "skill_path": ".claude/skills/jse-dischem/SKILL.md",
+  "skill_generated": true,
+  "last_updated": "2026-06-07T16:15:34Z"
+}

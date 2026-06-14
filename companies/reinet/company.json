@@ -1,0 +1,42 @@
+{
+  "name": "Reinet Investments S.C.A.",
+  "jse_code": "RNI",
+  "isin": "LU0383812293",
+  "sector": "Investment Holding / Diversified Financials",
+  "reporting_currency": "EUR",
+  "trading_currency_jse": "ZAR",
+  "trading_currency_primary": "EUR",
+  "primary_listing": "Luxembourg Stock Exchange",
+  "secondary_listing": "JSE (secondary); also Euronext Amsterdam",
+  "financial_year_end": "March",
+  "ir_url": "https://www.reinet.com/investor-relations/",
+  "results_url": "https://www.reinet.com/investor-relations/reports.html",
+  "governance_note": "Investment entity under IFRS 10; key metric is NAV, not revenue/EBITDA. Managed by Reinet Investments Manager S.A. (General Partner) with Reinet Investment Advisors Limited as Investment Advisor. Linked to the Rupert family / Richemont restructuring of 2008. Largest single asset is unlisted Pension Insurance Corporation Group (~53.7% of NAV at 31 Mar 2025).",
+  "rand_hedge": true,
+  "last_updated": "2026-06-08T00:00:00Z",
+  "documents": {
+    "Reinet_Annual_Report_FY2025_extracted-text.txt": {
+      "date_downloaded": "2026-06-08T00:00:00Z",
+      "original_saved": false,
+      "analysed": true,
+      "type": "annual_report",
+      "period": "FY2025",
+      "date_published": "2025-05-23",
+      "path": "companies/reinet/annual-reports/Reinet_Annual_Report_FY2025_extracted-text.txt",
+      "text_source": "web_fetch -> text (binary PDF download blocked by sandbox proxy)",
+      "source_url": "https://senspdf.jse.co.za/documents/2025/JSE/ISSE/RNIE/ARMar25.pdf",
+      "_provenance": "Reinet Investments S.C.A. Annual Report at 31 March 2025 (year ended 31 Mar 2025). Text extracted via web_fetch on 2026-06-08; original PDF binary could not be saved (proxy blocked). Re-download from reinet.com or JSE SENS if binary required."
+    },
+    "Reinet_RNI_FY2025_Analysis_Jun2026.docx": {
+      "date_downloaded": "2026-06-08T00:00:00Z",
+      "original_saved": true,
+      "analysed": true,
+      "type": "analyst_note",
+      "period": "FY2025",
+      "date_published": "2026-06-08",
+      "path": "companies/reinet/analyst-notes/Reinet_RNI_FY2025_Analysis_Jun2026.docx",
+      "text_source": "internal fund note",
+      "_provenance": "Internal analyst note (Cowork), 8 June 2026 - FY2025 results analysis: NAV, BAT exit, Pension Corporation concentration, risk flags."
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Naspers Limited",
+  "jse_code": "NPN",
+  "a2x_code": "NPN",
+  "isin": "ZAE000015889",
+  "adr_ticker": "NPSNY",
+  "related_entity": {
+    "name": "Prosus N.V.",
+    "listings": "Euronext Amsterdam & JSE: PRX",
+    "isin": "NL0013654783",
+    "relationship": "Naspers holds the controlling economic interest in Prosus (the international internet/ecommerce + Tencent holding). Prosus holds Naspers shares (cross-holding). Group results are presented at the Prosus level; Naspers releases a parallel summary. Naspers funds its own buyback by selling Prosus shares.",
+    "registered_office": "Gustav Mahlerplein 5, Symphony Offices, 1082 MS Amsterdam, Netherlands"
+  },
+  "sector": "Technology / Consumer Internet — holding company (Tencent stake + global ecommerce: food delivery, classifieds, fintech, edtech/retail)",
+  "reporting_currency": "USD",
+  "trading_currencies": {
+    "naspers": "ZAR (JSE: NPN)",
+    "prosus": "EUR (Euronext Amsterdam) / ZAR (JSE: PRX)"
+  },
+  "financial_year_end": "31 March",
+  "registered_address": "40 Heerengracht, Cape Town, 8001, South Africa",
+  "ir_website": "https://www.naspers.com/investors",
+  "prosus_ir_website": "https://www.prosus.com/investors",
+  "results_archive_naspers": "https://www.naspers.com/investors/results-reports-events/results-reports-and-events-archive",
+  "results_archive_prosus": "https://www.prosus.com/investors/financial-information/results",
+  "sens_pattern": "https://senspdf.jse.co.za/documents/<YYYY>/jse/isse/PRXE/<TAG>.pdf  (e.g. 1H26 for H1 FY2026 full interim report)",
+  "document_url_patterns": {
+    "prosus_latest_results_root": "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/results-reports-and-events-archive/latest-results/<period>/",
+    "naspers_latest_results_root": "https://www.naspers.com/~/media/Files/N/Naspers-Corp-V2/results-reports-and-events-archive/latest-results/<period>/",
+    "period_slugs": "fy-2025, hy2026 (note: Prosus uses 'hy2026', Naspers uses 'hy-2026' — inconsistent). Always scrape the results archive page for live links.",
+    "examples": {
+      "hy2026_short_form": "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/results-reports-and-events-archive/latest-results/hy2026/hy2026-short-form-release.pdf",
+      "hy2026_media_release": "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/results-reports-and-events-archive/latest-results/hy2026/hy2026-media-release.pdf",
+      "hy2026_statements": "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/results-reports-and-events-archive/latest-results/hy2026/hy2026-summary-consolidated-financial-statements.pdf",
+      "fy2025_naspers_summary": "https://www.naspers.com/~/media/Files/N/Naspers-Corp-V2/results-reports-and-events-archive/latest-results/fy-2025/fy2025-summary-consolidated-financial-statement.pdf",
+      "fy2025_naspers_remuneration": "https://www.naspers.com/~/media/Files/N/Naspers-Corp-V2/results-reports-and-events-archive/latest-results/fy-2025/naspers-remuneration-report-2025.pdf",
+      "fy2025_prosus_booklet": "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/results-reports-and-events-archive/latest-results/fy-2025/prosus-financial-results-fy25-booklet.pdf"
+    }
+  },
+  "reporting_calendar": {
+    "annual_results": "Year to 31 March; published ~late June (e.g. FY2025 published ~23 June 2025).",
+    "interim_results": "Six months to 30 September; published ~late November (H1 FY2026 published 24 November 2025).",
+    "capital_markets_day": "25 June 2025 (three-year ecommerce plan: 2x revenue, 3x aEBITDA)."
+  },
+  "key_holdings": [
+    "Tencent (HKEX: 0700) — 23.5% at 30 Sept-period reporting; ~80-85% of see-through NAV",
+    "iFood (Brazil food delivery — wholly owned crown jewel; BRL)",
+    "Just Eat Takeaway.com / JET (Europe food delivery; acquired Oct 2025, ~EUR4.2bn)",
+    "OLX + La Centrale (classifieds; EUR/multi)",
+    "PayU (payments/fintech; India INR + EMEA)",
+    "eMAG (e-retail Romania; RON)",
+    "Listed minorities: Meituan, Swiggy, Delivery Hero, Meesho, Despegar, Remitly"
+  ],
+  "key_people": {
+    "chair": "JP (Koos) Bekker",
+    "ceo": "Fabricio Bloisi (CEO of Naspers & Prosus since mid-2024)",
+    "cfo": "Nico Marais CA(SA)",
+    "auditor": "Deloitte",
+    "jse_sponsor": "Investec Bank Limited",
+    "company_secretary": "L Bagwandeen"
+  },
+  "currency_exposure": "Presents in USD. Underlying NAV currency mix: CNY/HKD via Tencent (~80-85%); BRL via iFood; EUR/RON via JET, OLX, eMAG; INR via PayU/Swiggy. Naspers share price is ZAR-translated, so a weaker rand flatters reported NPN returns and vice versa, independent of asset performance.",
+  "notes": "Top JSE company by weight. Two-legged value: (1) Tencent stake, (2) global ecommerce ecosystem (now all operated businesses profitable). Persistent holdco discount to NAV (~30-35%); open-ended buyback since June 2022 (>US$41bn returned, free-float -30%, discount narrowed ~25pp). FY2026 full-year results due ~late June 2026 — NOT yet released as of 7 June 2026. Closest 'comparable' is itself vs Prosus arbitrage; not a conventional SA retailer/bank.",
+  "download_note": "Binary PDF channel is proxy-blocked in this sandbox (bash curl -> 403, matching Clicks/Dischem notes). Captured TEXT sidecars via mcp__workspace__web_fetch (returns extracted PDF text). Saved: H1 FY2026 short-form (interim-reports), FY2025 Naspers summary consolidated financial statements + FY2025 remuneration report (annual-reports). Binary originals NOT saved (need Claude-in-Chrome browser download). Outstanding: FY2025 Prosus results booklet/presentation, HY2026 full statements + media release, FY2026 full-year results (due ~late June 2026).",
+  "onboarded": "2026-06-07T00:00:00Z",
+  "documents": {
+    "naspers-prosus-interim-results-short-form-h1fy2026-20251124.txt": {
+      "type": "interim_results",
+      "period": "H1 FY2026",
+      "date_published": "2025-11-24",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/naspers/interim-reports/naspers-prosus-interim-results-short-form-h1fy2026-20251124.txt",
+      "text_path": "companies/naspers/interim-reports/naspers-prosus-interim-results-short-form-h1fy2026-20251124.txt",
+      "text_source": "mcp__workspace__web_fetch (application/pdf -> extracted text)",
+      "source_url": "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/results-reports-and-events-archive/latest-results/hy2026/hy2026-short-form-release.pdf",
+      "original_saved": false,
+      "analysed": true
+    },
+    "naspers-summary-consolidated-financial-statements-fy2025-20250623.txt": {
+      "type": "annual_results",
+      "period": "FY2025",
+      "date_published": "2025-06-23",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/naspers/annual-reports/naspers-summary-consolidated-financial-statements-fy2025-20250623.txt",
+      "text_path": "companies/naspers/annual-reports/naspers-summary-consolidated-financial-statements-fy2025-20250623.txt",
+      "text_source": "mcp__workspace__web_fetch (application/pdf -> extracted text; full doc saved to file)",
+      "source_url": "https://www.naspers.com/~/media/Files/N/Naspers-Corp-V2/results-reports-and-events-archive/latest-results/fy-2025/fy2025-summary-consolidated-financial-statement.pdf",
+      "original_saved": false,
+      "analysed": true
+    },
+    "naspers-remuneration-report-fy2025.txt": {
+      "type": "remuneration_report",
+      "period": "FY2025",
+      "date_published": "2025-06-23",
+      "date_downloaded": "2026-06-07T00:00:00Z",
+      "path": "companies/naspers/annual-reports/naspers-remuneration-report-fy2025.txt",
+      "text_path": "companies/naspers/annual-reports/naspers-remuneration-report-fy2025.txt",
+      "text_source": "mcp__workspace__web_fetch (application/pdf -> extracted text; full doc saved to file)",
+      "source_url": "https://www.naspers.com/~/media/Files/N/Naspers-Corp-V2/results-reports-and-events-archive/latest-results/fy-2025/naspers-remuneration-report-2025.pdf",
+      "original_saved": false,
+      "analysed": true
+    }
+  },
+  "next_expected_results": {
+    "type": "FY2026 Annual Results (year to 31 March 2026)",
+    "expected_date": "2026-06-23",
+    "notes": "Published ~late June. FY2026 guidance: Ecommerce revenue US$7.3-7.5bn; Ecommerce aEBITDA US$1.1-1.2bn (ex-JET). NOT yet released as of 2026-06-07."
+  },
+  "coverage_gaps": [
+    "Binary original PDFs NOT saved (sandbox curl proxy-blocked 403; use Claude-in-Chrome to archive originals).",
+    "FY2025 Prosus results booklet + results presentation not captured.",
+    "HY2026 full condensed interim statements + media release not saved (only short-form captured).",
+    "FY2026 full-year results (year to 31 March 2026) due ~late June 2026 - capture on release.",
+    "FY2025 Integrated Annual Report not captured."
+  ],
+  "analyst_notes": [],
+  "skill_path": ".claude/skills/jse-naspers/SKILL.md",
+  "skill_generated": true,
+  "last_updated": "2026-06-07T16:15:34Z"
+}

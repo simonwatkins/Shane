@@ -30,5 +30,59 @@
   },
   "notes": "David Jones sold/separated (2023). Melbourne Bourke Street property sold FY2025 (A$223.5m, R792m profit). Share buyback programme commenced Sept 2025. Note: distinct from Australian 'Woolworths Group' (ASX:WOW) — unrelated company.",
   "download_note": "Source PDFs could not be saved as binaries (workspace proxy blocks the IR domain). Catalogued as extracted text via web fetch, consistent with manifest text_source convention.",
-  "onboarded": "2026-06-05"
+  "onboarded": "2026-06-05",
+  "documents": {
+    "whlfy25.pdf": {
+      "date_downloaded": "2026-06-05T00:00:00Z",
+      "original_saved": true,
+      "analysed": false,
+      "type": "annual_financial_statements",
+      "period": "FY2025",
+      "date_published": "2025-09-01",
+      "path": "companies/woolworths/annual-reports/whlfy25.pdf",
+      "text_path": "companies/woolworths/annual-reports/woolworths-afs-fy2025.txt",
+      "text_source": "web_fetch (application/pdf -> extracted text)",
+      "file_size_mb": 5.71,
+      "source_url": "https://www.woolworthsholdings.co.za/wp-content/uploads/2025/09/whlfy25.pdf",
+      "_provenance": "Annual Financial Statements 2025 (52 weeks to ~29 June 2025). Day-of-month inferred from /2025/09/ upload path."
+    },
+    "woolworths-remuneration-report-fy2025.txt": {
+      "date_downloaded": "2026-06-05T00:00:00Z",
+      "original_saved": false,
+      "analysed": false,
+      "type": "remuneration_report",
+      "period": "FY2025",
+      "date_published": "2025-09-01",
+      "path": "companies/woolworths/annual-reports/woolworths-remuneration-report-fy2025.txt",
+      "text_path": "companies/woolworths/annual-reports/woolworths-remuneration-report-fy2025.txt",
+      "text_source": "web_fetch (application/pdf -> extracted text)",
+      "source_url": "https://www.woolworthsholdings.co.za/wp-content/uploads/2025/09/Remuneration_Report_2025.pdf",
+      "_provenance": "Extracted from the 2025 Integrated Annual Report. Text-only; binary not saved."
+    },
+    "woolworths-interim-fy2026-sfa.txt": {
+      "date_downloaded": "2026-06-05T00:00:00Z",
+      "original_saved": false,
+      "analysed": true,
+      "type": "interim_results",
+      "period": "H1 FY2026",
+      "date_published": "2026-03-03",
+      "path": "companies/woolworths/interim-reports/woolworths-interim-fy2026-sfa.txt",
+      "text_path": "companies/woolworths/interim-reports/woolworths-interim-fy2026-sfa.txt",
+      "text_source": "web_fetch (SENS short-form announcement)",
+      "source_url": "https://www.woolworthsholdings.co.za/wp-content/uploads/2026/03/whlfy26.pdf",
+      "_provenance": "Unaudited interim results, 26 weeks ended 28 Dec 2025. Text-only; binary not saved."
+    },
+    "Woolworths_Holdings_WHL_Forward_View_Jun2026.docx": {
+      "date_downloaded": "2026-06-05T00:00:00Z",
+      "original_saved": true,
+      "analysed": true,
+      "type": "analyst_note",
+      "period": "FY2026",
+      "date_published": "2026-06-05",
+      "path": "companies/woolworths/analyst-notes/Woolworths_Holdings_WHL_Forward_View_Jun2026.docx",
+      "text_source": "internal fund note",
+      "_provenance": "Internal analyst note (Cowork), June 2026."
+    }
+  },
+  "last_updated": "2026-06-07T16:21:49Z"
 }

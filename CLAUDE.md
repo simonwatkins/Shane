@@ -44,7 +44,10 @@ paramount.
 JSE Financial Reports/                ← research root (this folder)
 ├── CLAUDE.md                         ← this file
 ├── README.md                         ← architecture & deployment guide
-├── manifest.json                     ← master index of all companies & documents
+├── manifest.json                     ← GENERATED index — do NOT hand-edit (see "Manifest" below)
+├── _manifest_globals.json            ← hand-managed global state: watchlist, last_global_refresh
+├── tools/
+│   └── manifest.py                   ← deterministic generator/validator for manifest.json
 ├── .claude/
 │   └── skills/                       ← all skills load from here in Cowork
 │       ├── jse-company-discovery/SKILL.md
@@ -72,6 +75,29 @@ JSE Financial Reports/                ← research root (this folder)
 `.claude/skills/jse-<slug>/SKILL.md` (not a separate top-level `skills/` folder), or
 they will not auto-trigger.
 
+## Manifest (generated artifact — never hand-edit)
+
+`manifest.json` is **generated**, not authored. The source of truth is each
+`companies/<slug>/company.json` (per-company metadata **and** its `documents` records)
+plus the files actually on disk. The manifest is a pure function of those inputs.
+
+**Rules:**
+
+1. **Never edit `manifest.json` by hand or with free-form writes.** That is what caused
+   repeated truncation/corruption. To change it, change a `company.json` and regenerate.
+2. **To add/update a document:** either edit the relevant `company.json` `documents` block,
+   or use the helper, then the manifest is rebuilt for you:
+   - `python3 tools/manifest.py add-doc <slug> --folder <folder> --file <name> --type <t> --period <p> --date-published <YYYY-MM-DD> [--source-url ... --text-source ... --original-saved]`
+3. **After any change to a `company.json` or after dropping files in a company folder:**
+   run `python3 tools/manifest.py rebuild`.
+4. **Before relying on the manifest / committing:** run `python3 tools/manifest.py validate`.
+5. Writes are **atomic + validated + backed up** (`.manifest-backups/`), so a partial write
+   can never land. Global-only state (watchlist, `last_global_refresh`) lives in
+   `_manifest_globals.json`.
+6. The generator **surfaces gaps** rather than hiding them: `_untracked_files` (files on disk
+   with no metadata record) and `_missing_files` (records pointing at absent files) appear per
+   company and in `_integrity_warnings`. Treat these as a to-do list, not an error.
+
 ## Available Skills
 
 These are installed under `.claude/skills/` and trigger automatically by context:
@@ -83,9 +109,10 @@ These are installed under `.claude/skills/` and trigger automatically by context
   statements, SENS, presentations) from the sources mapped in `company.json`. Saves
   locally with consistent naming and updates the manifest. Fully automatic — uses web
   fetch and browser automation; never asks the user to download.
-- **jse-manifest-manager** — Maintains `manifest.json`, the single source of truth:
-  what we have, what's missing, what's due for refresh, the reporting calendar, and
-  the watchlist.
+- **jse-manifest-manager** — Maintains the index. The per-company `company.json` files are
+  the source of truth; `manifest.json` is **generated** from them via `tools/manifest.py`
+  (never hand-edited). Surfaces what we have, what's missing, what's due for refresh, the
+  reporting calendar, and the watchlist. See the "Manifest" section above.
 - **jse-skill-builder** — Auto-generates a company-specific skill after discovery so
   future lookups are instant, and updates it when a website changes.
 - **jse-analyst** — Reads locally downloaded documents and produces standardised
