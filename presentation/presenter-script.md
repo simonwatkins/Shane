@@ -1,7 +1,7 @@
 # An All-Weather Analyst — Presenter Script & Run of Show
 
 **Talk:** Bringing Claude into the investment process · **Runtime:** 45 minutes incl. Q&A
-**Presenter:** Simon Watkins · **Deck:** `an-all-weather-analyst-v2.pptx` (35 slides: 27 main + 8 backup)
+**Presenter:** Simon Watkins · **Deck:** `an-all-weather-analyst-v3.pptx` (37 slides: 29 main + 8 backup)
 **Audience:** Mixed — PMs, analysts, leadership at AllWeather
 
 > This is the working script. The deck itself carries a condensed version of these
@@ -75,38 +75,49 @@ spine is now front-and-centre, not buried in Q&A).
 |---|---|---|---|
 | 0:00–0:30 | 1 | Title + the promise | Warm open; thank them for trust |
 | 0:30–1:30 | 2 | Who I am (Trayport) | Land the humility line |
-| **1:30–3:00** | 3 | Agenda — **and kick off Demo A** | Paste prompt, hit enter, **leave it running** |
-| 3:00–6:15 | 4–5 | How we got here + the paradigm shift | The "shift is real" beat |
-| 6:15–9:00 | 6–8 | What Claude / Cowork / connectors are | Brisk — concept already landed |
-| 9:00–12:00 | 9–10 | Helps vs humans · Claude vs Copilot | "Why now"; be even-handed |
-| 12:00–15:30 | 11–13 | The workspace I built + trust principles | Glance at Demo A on slide 14 |
-| 15:30–17:00 | 14 | What "agentic" means (Demo A running) | Sets up the dumb zone |
-| 17:00–19:00 | 15–16 | Skills demystified + a real SKILL.md | "Just a document" |
-| 19:00–22:30 | 17–18 | The limits + how we stay honest | The credibility core |
-| **22:30–25:30** | 19 | **Harvest Demo A** — cited result | The "it works" moment; take a Q |
-| **25:30–32:00** | 20–22 | **Build a skill live: mining → Excel** | The crescendo; 6-min cap |
-| 32:00–36:15 | 23–25 | Data sourcing · roadmap · SharePoint | Compress; point don't read |
-| 36:15–37:15 | 26 | What you'll have in your hands | Introduce the guides |
-| 37:15–45:00 | 27 | The ask + Q&A | 3 asks, then open floor |
+| **1:30–2:30** | 3 | **Three objectives** | State the frame; you bookend it on slide 28 |
+| **2:30–3:30** | 4 | Agenda — **and kick off Demo A** | Paste prompt, hit enter, **leave it running** |
+| 3:30–6:00 | 5–6 | How we got here + the paradigm shift | The "shift is real" beat |
+| 6:00–8:30 | 7–9 | What Claude / Cowork / connectors are | Brisk — concept already landed |
+| 8:30–11:30 | 10–11 | Helps vs humans · Claude vs Copilot | "Why now"; be even-handed |
+| 11:30–15:00 | 12–14 | The workspace I built + trust principles | Glance at Demo A on slide 15 |
+| 15:00–16:30 | 15 | What "agentic" means (Demo A running) | Sets up the dumb zone |
+| 16:30–18:30 | 16–17 | Skills demystified + a real SKILL.md | "Just a document" |
+| 18:30–22:00 | 18–19 | The limits + how we stay honest | The credibility core |
+| **22:00–25:00** | 20 | **Harvest Demo A** — cited result | The "it works" moment; take a Q |
+| **25:00–31:00** | 21–23 | **Build a skill live: mining → Excel** | The crescendo; 6-min cap; land the "codify once, reuse everywhere" line |
+| 31:00–35:30 | 24–26 | Data sourcing · roadmap · SharePoint | Compress; point don't read |
+| 35:30–36:30 | 27 | What you'll have in your hands | Introduce the guides |
+| **36:30–37:30** | 28 | **Three objectives, revisited** | The bookend/payoff — mirror slide 3 |
+| 37:30–45:00 | 29 | The ask + Q&A | 3 asks, then open floor |
 
-**Staging trick:** Demo A starts at minute ~2 and is harvested at minute ~23 — about
-20 minutes of background runtime. Nobody watches a spinner.
+**Staging trick:** Demo A starts at minute ~2.5 and is harvested at minute ~22 — about
+19 minutes of background runtime. Nobody watches a spinner.
+
+**Bookend:** slide 3 states the three objectives; slide 28 returns to them and shows each was
+delivered. The keeper thread to plant on slide 3, prove in the mining build (slides 21–22), and
+land on slide 28: **codify your expertise once, reuse it everywhere — expertise that compounds.**
 
 ---
 
 ## 3. Demo staging
 
 **Demo A — background analysis (Clicks vs Dis-Chem).** Local documents only (no live
-web — venue Wi-Fi risk). Kick off on slide 3; harvest on slide 19. Exact prompt and the
+web — venue Wi-Fi risk). Kick off on slide 4; harvest on slide 20. Exact prompt and the
 pre-generated fallback are in `demo-prompts-and-examples.md` and `fallback/`.
 
-**Demo B — live build (mining skill → Excel).** On slides 20–22. Write the prompt *with*
+**Demo B — live build (mining skill → Excel).** On slides 21–23. Write the prompt *with*
 the room for engagement, then paste the rehearsed version. Pre-built fallback skill and a
 sample workbook are in `fallback/` in case generation misfires. **Hard cap: 6 minutes.**
 
 ---
 
 ## 4. Segment-by-segment script
+
+> Note: the deck gained two slides since this section was first drafted — a **Three objectives**
+> slide at 3 and a **revisited** bookend at 28 — so everything from the old slide 3 shifted down
+> by one. The headings below are grouped by theme; for exact per-slide numbering use the full
+> spoken script in `presentation-script.md`, which is authoritative.
 
 ### Open + intro (slides 1–2)
 Thank them for their time *and their trust* — you're asking them to let a new kind of tool

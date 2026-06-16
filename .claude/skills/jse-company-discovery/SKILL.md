@@ -37,7 +37,7 @@ Search the web for:
 Establish:
 - **Full legal name** (e.g. "Shoprite Holdings Limited")
 - **JSE code** (e.g. "SHP")
-- **Sector** (Banking, Retail, Mining, Telco, Property, Insurance, Industrial, Other)
+- **Sector** (Banking, Retail, Mining, Telco, Property, Insurance, Industrial, Other) — also save this as `icb_sector`, the routing key `jse-analyst` uses to auto-load the matching `jse-sector-<x>` lens (e.g. "Mining" → `jse-sector-mining`)
 - **Reporting currency** (ZAR unless otherwise)
 - **Financial year-end** month
 - **Dual listings** if any (LSE, ASX, etc.)
@@ -87,6 +87,7 @@ The `company-slug` is lowercase, hyphenated (e.g. "shoprite", "pick-n-pay",
   "slug": "shoprite",
   "jse_code": "SHP",
   "sector": "Retail",
+  "icb_sector": "Retail",
   "sub_sector": "Food Retail",
   "reporting_currency": "ZAR",
   "financial_year_end": "June",

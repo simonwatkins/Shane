@@ -94,8 +94,13 @@ Read in priority order (use the pdf / pptx / xlsx skills as appropriate):
 
 ### Step 3: Extract Standardised Metrics
 
-Apply the sector-appropriate framework. Load the company's skill (if generated) and the
-sector reference at `references/sector-metrics.md` to get the right metrics list.
+Apply the sector-appropriate framework. First determine the company's sector from its
+`company.json` `icb_sector` field (fall back to the free-text `sector` field if absent), then
+load, in order: (a) the matching **sector lens skill** `jse-sector-<icb_sector>` if one exists
+(e.g. `icb_sector: "Mining"` → `jse-sector-mining`) — this carries the value drivers, KPI
+interpretation, valuation lenses and risk flags for the sector; (b) the company's own skill
+(if generated); and (c) the sector reference at `references/sector-metrics.md` for the bare
+metric list. The sector lens is the interpretation layer on top of that metric list.
 
 #### General Framework (all companies)
 
@@ -128,6 +133,13 @@ sector reference at `references/sector-metrics.md` to get the right metrics list
 Load `references/sector-metrics.md` and add the primary + secondary metrics for the
 company's sector (Banking, Retail (Food / General), Mining, Telco, Property/REIT,
 Insurance, Industrials).
+
+**Sector lens skills (bolt-ons).** Where a dedicated `jse-sector-<x>` skill exists it extends
+this step beyond the metric list with interpretation, the correct valuation lenses (Step 4) and
+extra risk flags (Step 6). Routing is by the `icb_sector` field on `company.json`, set at
+onboarding by `jse-company-discovery`. Currently available: `jse-sector-mining` (icb_sector
+"Mining"). Add more lenses over time; absent a lens, use the metric list plus the general
+framework.
 
 ### Step 4: Valuation Context (when enough data is available)
 
