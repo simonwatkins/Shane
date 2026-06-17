@@ -1,0 +1,55 @@
+CAPITEC BANK HOLDINGS LIMITED — FY2026 RESULTS PRESENTATION (key facts extract)
+Year ended 28 February 2026 | Presented 22 April 2026
+SOURCE: https://www.capitecbank.co.za/globalassets/pages/investor-relations/financial-results/2026/audited-results/results_presentation_2026.pdf
+(Structured extract of the figures cited in fund analysis; full deck at URL above.)
+
+GROUP KPIs (incl. AvaFin unless noted)
+- Headline earnings: R16.8bn, +23% (FY2025: R13.7bn)
+- Return on equity: 31% (FY2025: 29%)
+- Credit loss ratio: 8.1% (FY2025: 7.5%) — stated "within through-the-cycle target"
+- Net interest income: R24.080bn, +19% (FY2025: R20.185bn)
+- Credit impairment charge: R9.974bn, +21% (FY2025: R8.258bn)
+- Net interest income after credit impairments: R14.106bn, +18%
+- Net transaction & commission income (incl. VAS & Connect): R21.525bn, +16% (FY2025: R18.535bn)
+- Total net insurance income: R5.224bn, +38% (FY2025: R3.777bn)
+- Non-interest income: R28.328bn, +19%; = 67% of income from operations after credit impairments (FY2025: 67%)
+- Income from operations after credit impairments: R42.434bn, +19%
+- Operating expenses: R20.238bn, +12% (FY2025: R18.061bn)
+- Taxation: R5.342bn, +34%
+- Fintech (VAS + Capitec Connect): R6.1bn, +38%
+
+HEADLINE EARNINGS MIX (R16.8bn)
+- Personal Banking 41% | Insurance 27% | Fintech (VAS + Connect) 26% | Business Banking 5% | AvaFin 1%
+
+CLIENTS / VOLUMES
+- 26m total active (+7%); 25.2m Personal Banking; 9.9m fully banked (+12%); 15m active on app (+19%); 12m VAS (+15%); 4.5m insurance (+11%)
+- High earners (>R50k pm) +21%; 11m young adults (18-35), 54% market share
+- Half of all payments now digital (+25%); e-commerce incl. Capitec Pay +32% to 643m txns; Pay wallets +103% to 335m txns; international/cross-border +29% to 85.6m txns
+
+CREDIT
+- Retail loan book growth 9.4%; Personal Banking loan disbursements +27% to R68.7bn; group total disbursements +34% to R98.3bn (per company press release)
+- Credit Card book +32%; Credit Card sales +44%
+- Personal Banking net transaction income = 62% of PB income after credit impairments
+
+CAPITEC CONNECT (largest MVNO)
+- 1.5m active clients in last 3 months (+67%); data usage 40.5 PB (+202%); R330m saved through lower data prices; launched device sales (Apple/Samsung)
+
+INSURANCE
+- Funeral Cover 16.6m lives (+13%); claims ratio 43.5% (from 44.9%); Life Cover lives +129% to 221 000
+- 4.5m insurance clients
+
+BUSINESS BANKING
+- Businesses/entrepreneurs +71% to 456 000; merchant turnover R98.6bn (FY25: R63.9bn); scored lending book +118% to R3.1bn; scored disbursements +134% to R3.2bn
+
+AvaFin (international consumer lending — Poland, Mexico, Czechia, Spain, Latvia; consolidated from 1 May 2024)
+- Loan disbursements EUR629m (FY25: EUR474m partial)
+
+BALANCE SHEET / CAPITAL
+- NAV (total equity) R59.513bn (+17%); 116 099 843 ordinary shares
+- CET1 / capital adequacy "well above regulatory minima"; healthy liquidity coverage; organic growth funded without capital raises (exact CET1 % in AFS — not in summary)
+- 866 branches, 8 771 cash devices; headcount 17 236 (FY25: 16 525)
+
+GUIDANCE / CONTEXT
+- Trading statement 11 Feb 2026 guided HEPS +20% to +25% (14 294c–14 890c); actual 14 606c (+23%, mid-range)
+- Audit: unmodified (Deloitte & Touche + KPMG), 21 April 2026
+- CEO: Graham Lee (from 19 Jul 2025), succeeding Gerrie Fourie (retired 18 Jul 2025)
