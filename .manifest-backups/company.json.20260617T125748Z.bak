@@ -63,18 +63,7 @@
       "path": "companies/shoprite/analyst-notes/Shoprite_Holdings_SHP_FY2025_Analysis_Jun2026.docx",
       "text_source": "internal fund note",
       "_provenance": "Internal analyst note (Cowork), June 2026."
-    },
-    "Shoprite_Holdings_SHP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
-      "type": "analyst_note",
-      "period": "Outlook-Jun2026",
-      "date_published": "2026-06-17",
-      "date_downloaded": "2026-06-17T12:57:48Z",
-      "path": "companies/shoprite/analyst-notes/Shoprite_Holdings_SHP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-      "text_path": "companies/shoprite/analyst-notes/Shoprite_Holdings_SHP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-      "original_saved": true,
-      "analysed": true,
-      "text_source": "internal fund note"
     }
   },
-  "last_updated": "2026-06-17T12:57:48Z"
+  "last_updated": "2026-06-07T16:21:49Z"
 }

@@ -1,13 +1,12 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-17T12:57:48Z",
+  "generated_at": "2026-06-08T12:05:49Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
-  "last_global_refresh": "2026-06-17",
+  "last_global_refresh": null,
   "watchlist": [
     "clicks-group",
     "dischem",
-    "gold-fields",
     "naspers",
     "reinet",
     "richemont",
@@ -15,7 +14,7 @@
     "spar",
     "woolworths"
   ],
-  "company_count": 10,
+  "company_count": 9,
   "reporting_calendar": [
     {
       "company": "spar",
@@ -218,39 +217,6 @@
         }
       },
       "document_count": 3
-    },
-    "gold-fields": {
-      "name": "Gold Fields Limited",
-      "jse_code": "GFI",
-      "sector": "Basic Materials — Mining (Gold)",
-      "financial_year_end": "31 December",
-      "reporting_currency": "USD (US dollars); JSE-listed, ZAR share price & dividends",
-      "onboarded": "2026-06-17",
-      "documents": {
-        "Gold_Fields_GFI_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
-          "date_downloaded": "2026-06-17T00:00:00Z",
-          "original_saved": true,
-          "analysed": true,
-          "type": "analyst_note",
-          "period": "12-18 month outlook (Jun 2026)",
-          "date_published": "2026-06-17",
-          "path": "companies/gold-fields/analyst-notes/Gold_Fields_GFI_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-          "source_url": "internal",
-          "_provenance": "Internal IC briefing: 12-18m outlook, management risks, management incentives, and Strait-of-Hormuz Scenarios A (open) vs B (closed). Built from GF FY2025 results, Q1 2026 update, and macro research (gold/Brent/Hormuz)."
-        },
-        "Gold_Fields_GFI_Scenario_Model_Jun2026.xlsx": {
-          "date_downloaded": "2026-06-17T00:00:00Z",
-          "original_saved": true,
-          "analysed": true,
-          "type": "analyst_model",
-          "period": "FY2026e-FY2027e",
-          "date_published": "2026-06-17",
-          "path": "companies/gold-fields/analyst-notes/Gold_Fields_GFI_Scenario_Model_Jun2026.xlsx",
-          "source_url": "internal",
-          "_provenance": "Formula-driven companion scenario model (gold price / AISC / FX -> Revenue, EBITDA, FCF) under Hormuz-open vs Hormuz-closed; calibrated to FY2025 actuals (98.3%)."
-        }
-      },
-      "document_count": 2
     },
     "mr-price": {
       "name": "Mr Price Group Limited",
@@ -492,7 +458,7 @@
       "sector": "Retail",
       "financial_year_end": "June (52/53-week retail calendar)",
       "reporting_currency": "ZAR",
-      "last_updated": "2026-06-17T12:57:48Z",
+      "last_updated": "2026-06-07T16:21:49Z",
       "documents": {
         "shoprite-annual-report-fy2025-20250902.pdf": {
           "date_downloaded": "2026-06-05T00:00:00Z",
@@ -518,20 +484,9 @@
           "path": "companies/shoprite/analyst-notes/Shoprite_Holdings_SHP_FY2025_Analysis_Jun2026.docx",
           "text_source": "internal fund note",
           "_provenance": "Internal analyst note (Cowork), June 2026."
-        },
-        "Shoprite_Holdings_SHP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
-          "type": "analyst_note",
-          "period": "Outlook-Jun2026",
-          "date_published": "2026-06-17",
-          "date_downloaded": "2026-06-17T12:57:48Z",
-          "path": "companies/shoprite/analyst-notes/Shoprite_Holdings_SHP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-          "text_path": "companies/shoprite/analyst-notes/Shoprite_Holdings_SHP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-          "original_saved": true,
-          "analysed": true,
-          "text_source": "internal fund note"
         }
       },
-      "document_count": 3
+      "document_count": 2
     },
     "spar": {
       "name": "The SPAR Group Limited",

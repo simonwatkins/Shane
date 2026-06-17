@@ -1,0 +1,71 @@
+{
+  "name": "Gold Fields Limited",
+  "jse_code": "GFI",
+  "other_listings": "NYSE: GFI (ADR); JSE primary",
+  "isin": null,
+  "registration_number": null,
+  "lei": null,
+  "sec_cik": "0001172724",
+  "sector": "Basic Materials — Mining (Gold)",
+  "reporting_currency": "USD (US dollars); JSE-listed, ZAR share price & dividends",
+  "financial_year_end": "31 December",
+  "registered_address": "150 Helen Road, Sandown, Sandton, 2196, South Africa",
+  "ir_website": "https://www.goldfields.com/investors.php",
+  "reports_landing": "https://www.goldfields.com/integrated-annual-reports.php",
+  "sens_source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001172724&type=6-K (Form 6-K mirrors SENS)",
+  "document_url_patterns": {
+    "sec_6k_filings": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001172724&type=6-K",
+    "integrated_annual_report": "https://www.goldfields.com/pdf/investors/integrated-annual-reports/<YYYY>/iar-<YYYY>-interactive.pdf",
+    "annual_financial_statements": "https://www.goldfields.com/pdf/investors/integrated-annual-reports/<YYYY>/afs-<YYYY>.pdf",
+    "quarterly_results": "https://www.goldfields.com/pdf/investors/quarterly-reports/<YYYY>/<file>.pdf",
+    "sens_pdf": "https://senspdf.jse.co.za/documents/<YYYY>/jse/isse/GFIE/<file>.pdf"
+  },
+  "results_calendar": {
+    "fy_results": "Mid-to-late February (FY2025 reported 19-20 Feb 2026)",
+    "q1_operational_update": "Early May (Q1 2026 reported 7 May 2026)",
+    "interim_h1_results": "August (H1 trading statement early Aug)",
+    "q3_operational_update": "November (Q3 2025 reported 5 Nov 2025)",
+    "integrated_annual_report": "Late March (2025 IAR ~30 Mar 2026)",
+    "agm": "May (2026 AGM 21 May 2026)"
+  },
+  "operating_assets": [
+    "South Deep (South Africa) — sole SA mine, ~90.2% owned, long-life mechanised",
+    "Tarkwa (Ghana) — large open-pit; mining leases expire April 2027 (renewal not automatic)",
+    "Damang (Ghana) — handed back to the State 18 April 2026",
+    "St Ives, Agnew, Granny Smith, Gruyere (Australia) — Gruyere 100% since Gold Road buy-out Oct 2025",
+    "Cerro Corona (Peru) — moving to stockpile/tailings processing; LOM to ~2031",
+    "Salares Norte (Chile) — commercial production Aug 2025; ultra-low-cost growth engine",
+    "Windfall (Canada) — ex-Osisko Mining (acq. Oct 2024); pre-build, FID guided mid-2026, first gold ~H1 2029"
+  ],
+  "key_people": {
+    "chairman": "John MacKenzie (from May 2026; succeeded Yunus Suleman)",
+    "ceo": "Mike Fraser (since January 2024)",
+    "cfo": "Alex Dall (permanent from March 2025)"
+  },
+  "notes": "USD reporter, Dec year-end. FY2025 record: revenue US$8,751m (+68%), adjusted EBITDA US$5,637m, attributable profit US$3,567m (incl. ~US$808m one-off Gruyere gain), normalised profit US$2,684m, AISC US$1,645/oz, attributable production 2.438Moz, adjusted FCF US$2,970m (+391%), net debt 0.26x EBITDA. FY2026 guidance: 2.40-2.60Moz, AISC US$1,800-2,000/oz, capex US$1.9-2.1bn. Statutory identifiers (ISIN/registration/LEI) left null pending verification. Identify Gold Fields ≠ Gold Road Resources (acquired) and ≠ GoldFields the US property firm.",
+  "onboarded": "2026-06-17",
+  "documents": {
+    "Gold_Fields_GFI_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
+      "date_downloaded": "2026-06-17T00:00:00Z",
+      "original_saved": true,
+      "analysed": true,
+      "type": "analyst_note",
+      "period": "12-18 month outlook (Jun 2026)",
+      "date_published": "2026-06-17",
+      "path": "companies/gold-fields/analyst-notes/Gold_Fields_GFI_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
+      "source_url": "internal",
+      "_provenance": "Internal IC briefing: 12-18m outlook, management risks, management incentives, and Strait-of-Hormuz Scenarios A (open) vs B (closed). Built from GF FY2025 results, Q1 2026 update, and macro research (gold/Brent/Hormuz)."
+    },
+    "Gold_Fields_GFI_Scenario_Model_Jun2026.xlsx": {
+      "date_downloaded": "2026-06-17T00:00:00Z",
+      "original_saved": true,
+      "analysed": true,
+      "type": "analyst_model",
+      "period": "FY2026e-FY2027e",
+      "date_published": "2026-06-17",
+      "path": "companies/gold-fields/analyst-notes/Gold_Fields_GFI_Scenario_Model_Jun2026.xlsx",
+      "source_url": "internal",
+      "_provenance": "Formula-driven companion scenario model (gold price / AISC / FX -> Revenue, EBITDA, FCF) under Hormuz-open vs Hormuz-closed; calibrated to FY2025 actuals (98.3%)."
+    }
+  }
+}

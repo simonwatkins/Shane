@@ -49,13 +49,16 @@ JSE Financial Reports/                ← research root (this folder)
 ├── tools/
 │   └── manifest.py                   ← deterministic generator/validator for manifest.json
 ├── .claude/
+│   ├── agents/                       ← subagents (isolated contexts) load from here
+│   │   ├── jse-report-downloader.md  ← heavy download worker; invoked by its dispatcher skill
+│   │   └── jse-analyst.md            ← heavy analysis worker; invoked by its dispatcher skill
 │   └── skills/                       ← all skills load from here in Cowork
 │       ├── jse-company-discovery/SKILL.md
-│       ├── jse-report-downloader/SKILL.md
+│       ├── jse-report-downloader/SKILL.md   ← thin dispatcher → jse-report-downloader subagent
 │       ├── jse-manifest-manager/SKILL.md
 │       ├── jse-skill-builder/SKILL.md
 │       ├── jse-analyst/
-│       │   ├── SKILL.md
+│       │   ├── SKILL.md                      ← thin dispatcher → jse-analyst subagent
 │       │   └── references/sector-metrics.md
 │       └── jse-<company-slug>/SKILL.md   ← auto-generated, one per company
 └── companies/
@@ -74,6 +77,31 @@ JSE Financial Reports/                ← research root (this folder)
 **Important path note for Cowork:** auto-generated company skills must be written to
 `.claude/skills/jse-<slug>/SKILL.md` (not a separate top-level `skills/` folder), or
 they will not auto-trigger.
+
+## Subagents (isolated execution — protects context)
+
+The two heaviest jobs — **downloading** and **analysing** — run as **subagents** in
+`.claude/agents/`, each in its own isolated context window. This stops the downloader's
+noisy output (browser DOM, redirect chains, header dumps, validation logs) and the
+analyst's bulky reading (full PDFs) from crowding the main thread or each other.
+
+- `jse-report-downloader` and `jse-analyst` each exist as **two files**: a **thin
+  dispatcher skill** (`.claude/skills/.../SKILL.md`) that keeps the original trigger
+  phrases, and the **subagent** (`.claude/agents/<name>.md`) that holds the full
+  operating procedure.
+- The skill triggers as before, then **delegates the work via the Task tool** to its
+  subagent. Only the subagent's concise return summary (saved/gaps, or the finished
+  analysis) re-enters the main context.
+- **Subagents cannot ask the user anything.** Any user interaction (e.g. the analyst's
+  choice of deliverable format) is handled by the dispatcher in the main context BEFORE
+  delegating. Subagents also cannot spawn other subagents — they return a signal
+  (`MISSING_DOCUMENTS`, `NEEDS_ONBOARDING`, `NEEDS_REDISCOVERY`) and the main agent
+  orchestrates the next step.
+- Subagents **inherit this `CLAUDE.md`** (identity, principles, SA context, formatting)
+  and the session model, and may invoke other skills (pdf/pptx/xlsx, the
+  `jse-sector-<x>` lens, etc.).
+- The other skills (`jse-company-discovery`, `jse-skill-builder`,
+  `jse-manifest-manager`) remain ordinary skills running in the main context.
 
 ## Manifest (generated artifact — never hand-edit)
 
@@ -108,7 +136,9 @@ These are installed under `.claude/skills/` and trigger automatically by context
 - **jse-report-downloader** — Downloads documents (annual reports, interims, trading
   statements, SENS, presentations) from the sources mapped in `company.json`. Saves
   locally with consistent naming and updates the manifest. Fully automatic — uses web
-  fetch and browser automation; never asks the user to download.
+  fetch and browser automation; never asks the user to download. **Runs as a dispatcher
+  skill that delegates the work to the `jse-report-downloader` subagent** (isolated
+  context); the full two-phase download procedure lives in `.claude/agents/`.
 - **jse-manifest-manager** — Maintains the index. The per-company `company.json` files are
   the source of truth; `manifest.json` is **generated** from them via `tools/manifest.py`
   (never hand-edited). Surfaces what we have, what's missing, what's due for refresh, the
@@ -118,7 +148,10 @@ These are installed under `.claude/skills/` and trigger automatically by context
 - **jse-analyst** — Reads locally downloaded documents and produces standardised
   analysis: metrics, period comparisons, valuation context, risk flags, management
   commentary. Works only on local files; triggers the downloader if documents are
-  missing.
+  missing. **Runs as a dispatcher skill: it confirms the deliverable format with the
+  user (in the main context), then delegates the heavy reading/analysis to the
+  `jse-analyst` subagent** (isolated context); the full analysis procedure and Citation
+  Standard live in `.claude/agents/`.
 
 ## Workflow
 
@@ -129,6 +162,11 @@ When the investment manager **mentions a company**:
 3. If **no** → `jse-company-discovery` (onboard) → `jse-skill-builder` (write its
    skill) → `jse-report-downloader` (fetch everything) → `jse-analyst` (initial
    analysis). The PM just says "tell me about Capitec" and gets a full analysis.
+
+   The chain is unchanged, but `jse-report-downloader` and `jse-analyst` now **dispatch
+   to subagents** (see "Subagents" above): each runs its heavy work in an isolated
+   context and hands back only a summary. The analyst confirms the deliverable format
+   with you first, then delegates.
 
 When asked to **"check for updates" / "what's new" / "morning update"**:
 

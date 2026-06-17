@@ -35,10 +35,14 @@ When the PM says *"Tell me about Capitec"*:
 4. `jse-skill-builder` — writes `.claude/skills/jse-capitec/SKILL.md` encoding what it
    learned.
 5. `jse-report-downloader` — downloads the latest annual report, interims, trading
-   statements and presentations; updates the manifest.
+   statements and presentations; updates the manifest. Runs as a **dispatcher skill that
+   delegates to the `jse-report-downloader` subagent**, so the browser/HTTP/validation
+   work stays in an isolated context.
 6. `jse-analyst` — reads the PDFs, extracts banking-sector metrics (NII, credit loss
    ratio, CET1, ROE, NIM, cost-to-income), compares periods, adds valuation context,
-   flags risks, summarises commentary.
+   flags risks, summarises commentary. Runs as a **dispatcher skill** that confirms the
+   output format with you, then **delegates the heavy reading/analysis to the
+   `jse-analyst` subagent**.
 7. The PM gets a complete analysis — no searching, downloading, or uploading.
 
 **Next time** Capitec is mentioned, the manifest shows it's tracked, the Capitec skill
@@ -52,13 +56,17 @@ JSE Financial Reports/          ← research root
 ├── CLAUDE.md                   ← always-loaded identity, principles, workflow
 ├── README.md                   ← this file
 ├── manifest.json               ← master index (starts empty)
-├── .claude/skills/             ← skills auto-load from here
-│   ├── jse-company-discovery/
-│   ├── jse-report-downloader/
-│   ├── jse-manifest-manager/
-│   ├── jse-skill-builder/
-│   ├── jse-analyst/  (+ references/sector-metrics.md)
-│   └── jse-<company>/          ← auto-generated, one per company
+├── .claude/
+│   ├── agents/                 ← subagents (isolated contexts)
+│   │   ├── jse-report-downloader.md   ← heavy download worker
+│   │   └── jse-analyst.md             ← heavy analysis worker
+│   └── skills/                 ← skills auto-load from here
+│       ├── jse-company-discovery/
+│       ├── jse-report-downloader/  ← thin dispatcher → subagent
+│       ├── jse-manifest-manager/
+│       ├── jse-skill-builder/
+│       ├── jse-analyst/  (+ references/sector-metrics.md)  ← thin dispatcher → subagent
+│       └── jse-<company>/          ← auto-generated, one per company
 └── companies/                  ← downloaded documents + company.json per company
 ```
 
