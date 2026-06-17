@@ -8,7 +8,7 @@ the most. Estimated total prep time: **one full rehearsal day + ~3 hours of setu
 ## A. Decisions to lock first (15 min — do today)
 
 - [ ] **Confirm the fund's name** — deck currently reads *AllWeather Capital*; your brief
-  said *AllWeather Fund Management*. Tell me which and I'll change it everywhere.
+  said *AllWeather Capital*. Tell me which and I'll change it everywhere.
 - [ ] **Confirm the 85% Trayport figure** matches Trayport's current approved external
   wording (public sources say "over 85% of European utilities' derivatives trading").
 - [ ] **Add your UK retail-energy / Automated Trading detail** to slide 2 (I left this to

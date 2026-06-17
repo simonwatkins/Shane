@@ -74,18 +74,7 @@
       "original_saved": true,
       "analysed": true,
       "text_source": "internal fund note"
-    },
-    "Shoprite_Holdings_SHP_Hormuz_Scenario_Model_Jun2026.xlsx": {
-      "type": "analyst_note",
-      "period": "Outlook-Jun2026",
-      "date_published": "2026-06-17",
-      "date_downloaded": "2026-06-17T13:21:06Z",
-      "path": "companies/shoprite/analyst-notes/Shoprite_Holdings_SHP_Hormuz_Scenario_Model_Jun2026.xlsx",
-      "text_path": "companies/shoprite/analyst-notes/Shoprite_Holdings_SHP_Hormuz_Scenario_Model_Jun2026.xlsx",
-      "original_saved": true,
-      "analysed": true,
-      "text_source": "internal fund model"
     }
   },
-  "last_updated": "2026-06-17T13:21:06Z"
+  "last_updated": "2026-06-17T12:57:48Z"
 }
