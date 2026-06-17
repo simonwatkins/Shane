@@ -182,6 +182,36 @@ When asked to **prepare for an investment committee meeting**:
 4. Produce the deliverable — markdown for internal working, PPTX for a presentation,
    XLSX for data to be manipulated further (use the matching skill).
 
+## Execution modes — Deep dive (default) vs Quick analysis (opt-in)
+
+**Deep dive is the DEFAULT.** Unless the user explicitly asks for a quick analysis, run the
+full chain described above: full discovery, full download (every relevant document type +
+the ORIGINAL binaries + the prior periods the analysis needs), and full analysis.
+Completeness and rigour come first.
+
+**Quick analysis is OPT-IN — triggered only by the user's prompt.** Switch to it when the
+request contains a cue such as "quick analysis", "quick look", "be quick", "fast",
+"just the headlines", or "don't go deep". In quick mode:
+
+- **Floor (non-negotiable): the latest annual financial results are STILL downloaded and
+  saved as the validated ORIGINAL binary PDF** (`original_saved: true`), together with the
+  matching results presentation. The critical source is never skipped or reduced to text —
+  even when quick.
+- **Scale back the rest:** skip interim results, trading statements, the full SENS history,
+  press releases and prior-year documents. Cap context web searches to the few the question
+  needs (e.g. the current macro), then write.
+- **Log what was skipped as coverage gaps** so a later deep run backfills them in one click.
+- Quick means *narrower scope, not lower rigour* — "numbers are sacred" and the Citation
+  Standard still bind.
+
+**Always hand the heavy work to the subagents — never run it inline in the main thread.**
+Discovery, downloading and document-reading/analysis go through `jse-report-downloader` and
+`jse-analyst` via the **Task** tool (isolated context windows). The main thread keeps only
+the user conversation, the deep/quick mode decision, light manifest/orchestration, and the
+final relay. Running gathering or PDF-reading inline is the main cause of slow,
+context-bloated runs. Pass the chosen **`mode`** (`deep` | `quick`) into every subagent
+task prompt; subagents inherit this file and must honour it.
+
 ## MCP Connectors (optional — use if available)
 
 Before asking the user to provide a file, check whether any of these are connected
