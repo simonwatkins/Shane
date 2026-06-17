@@ -129,9 +129,22 @@ Insurance, Industrials).
 
 **Sector lens skills (bolt-ons).** Where a dedicated `jse-sector-<x>` skill exists it
 extends this step beyond the metric list with interpretation, the correct valuation
-lenses (Step 4) and extra risk flags (Step 6). Routing is by the `icb_sector` field on
-`company.json`. Currently available: `jse-sector-mining` (icb_sector "Mining"). Absent a
-lens, use the metric list plus the general framework.
+lenses (Step 4) and extra risk flags (Step 6). Resolve the lens in this order:
+1. If `company.json` has an `icb_sector`, load `jse-sector-<icb_sector lowercased>` via the
+   Skill tool (e.g. "Banking" -> `jse-sector-banking`).
+2. If `icb_sector` is absent, map the free-text `sector` field to a canonical lens with the
+   keyword table below, then load that lens by exact name.
+
+| Canonical lens | icb_sector | Free-text `sector` keywords that route here |
+|---|---|---|
+| `jse-sector-banking`   | Banking   | bank, banking |
+| `jse-sector-insurance` | Insurance | insur, life, assurance, short-term, P&C |
+| `jse-sector-retail`    | Retail    | retail, food retail, drug/pharmacy retail, apparel, grocer, supermarket |
+| `jse-sector-mining`    | Mining    | mining, basic materials, gold, PGM, platinum, coal, iron ore |
+
+Currently available lenses: `jse-sector-banking`, `jse-sector-insurance`, `jse-sector-retail`,
+`jse-sector-mining`. Absent a matching lens, use the metric list in `references/sector-metrics.md`
+plus the general framework. When you add a new `jse-sector-<x>` skill, add a row to this table.
 
 ### Step 4: Valuation context (when enough data is available)
 These require a current share price — search for it when relevant, and flag that prices
@@ -344,9 +357,4 @@ You run autonomously and cannot ask the user anything. End with one of:
 - **MISSING_DOCUMENTS** — if the source-of-truth gate failed. Return exactly which
   documents/periods are needed for the slug (e.g. "need FY2025 annual report + H1 FY2026
   interim for shoprite"), so the main agent can run the downloader and re-invoke you.
-- **Completed analysis** — if a file was produced (`docx`/`xlsx`/`pptx`), return its full
-  path plus a 3-5 line summary (period, headline metrics with direction, any risk flags,
-  guidance check). If `chat` format, return the full prose + tables deliverable.
-
-Either way keep raw extracted page-dumps in your own context — hand back the deliverable
-and the summary, not the scratch reading.
+- **Completed analysis** — if a file was produce

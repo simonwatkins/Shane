@@ -3,6 +3,7 @@
   "slug": "shoprite",
   "jse_code": "SHP",
   "sector": "Retail",
+  "icb_sector": "Retail",
   "sub_sector": "Food Retail",
   "reporting_currency": "ZAR",
   "financial_year_end": "June (52/53-week retail calendar)",

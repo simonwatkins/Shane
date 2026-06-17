@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-17T18:46:32Z",
+  "generated_at": "2026-06-17T17:48:45Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
   "last_global_refresh": "2026-06-17",
@@ -218,13 +218,7 @@
           "analysed": true
         }
       },
-      "document_count": 6,
-      "_untracked_files": [
-        "companies/clicks-group/annual-reports/clicks-integrated-annual-report-fy2025-20251023.pdf",
-        "companies/clicks-group/annual-reports/clicks-integrated-annual-report-fy2025-20251023.txt",
-        "companies/clicks-group/annual-reports/clicks-remuneration-report-fy2025-20251023.pdf",
-        "companies/clicks-group/annual-reports/clicks-remuneration-report-fy2025-20251023.txt"
-      ]
+      "document_count": 6
     },
     "dischem": {
       "name": "Dis-Chem Pharmacies Limited",
@@ -398,15 +392,10 @@
     "gold-fields": {
       "name": "Gold Fields Limited",
       "jse_code": "GFI",
-      "sector": "Basic Materials - Mining (Gold)",
+      "sector": "Basic Materials — Mining (Gold)",
       "financial_year_end": "31 December",
       "reporting_currency": "USD (US dollars); JSE-listed, ZAR share price & dividends",
       "onboarded": "2026-06-17",
-      "coverage_gaps": [
-        "FY2025 Annual Financial Statements ORIGINAL PDF outstanding - https://www.goldfields.com/pdf/investors/integrated-annual-reports/2025/afs-2025.pdf (8.9MB, verified 200/application/pdf/%PDF). Not saved: workspace egress allowlist 403s the domain AND harness blocks base64 transit from browser. Retry from an environment with direct outbound HTTP.",
-        "FY2025 Results Presentation ORIGINAL PDF outstanding - https://www.goldfields.com/reports/q4-2026/pdf/presentation.pdf (6.8MB, verified 200/application/pdf). Same two environment blocks.",
-        "Quick-mode skips (backfill on a deep run): FY2025 Integrated Annual Report PDF, H1 2025 interim, trading statements, full SENS/6-K history, prior-year (FY2024) documents."
-      ],
       "documents": {
         "Gold_Fields_GFI_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
           "date_downloaded": "2026-06-17T00:00:00Z",
@@ -842,8 +831,5 @@
       },
       "document_count": 4
     }
-  },
-  "_integrity_warnings": [
-    "clicks-group: 4 file(s) on disk have NO metadata record in company.json"
-  ]
+  }
 }
