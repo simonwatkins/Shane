@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-17T19:17:44Z",
+  "generated_at": "2026-06-17T18:46:32Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
   "last_global_refresh": "2026-06-17",
@@ -16,7 +16,7 @@
     "spar",
     "woolworths"
   ],
-  "company_count": 13,
+  "company_count": 12,
   "reporting_calendar": [
     {
       "company": "spar",
@@ -62,56 +62,6 @@
     }
   ],
   "companies": {
-    "anglo-american": {
-      "name": "Anglo American plc",
-      "jse_code": "AGL",
-      "sector": "Basic Materials - Mining (Diversified, copper-led)",
-      "financial_year_end": "31 December",
-      "reporting_currency": "USD (US dollars); LSE-primary in GBp, JSE-listed in ZAR",
-      "onboarded": "2026-06-17",
-      "coverage_gaps": [
-        "FY2025 results ORIGINAL PDF + results presentation outstanding (egress allowlist 403). Figures sourced from the 20 Feb 2026 RNS and the fund's existing Anglo model. Re-save on a deep run.",
-        "Quick-mode skips (backfill on a deep run): FY2025 Integrated Annual Report, H1 2026 interim, trading statements, full RNS/SENS history, FY2024 comparatives as originals, investor presentations.",
-        "No company-specific 'jse-anglo-american' skill generated yet (jse-skill-builder) - create on a deep run so future lookups are instant.",
-        "key_people chairman/CFO and statutory identifiers unverified - confirm on a deep run."
-      ],
-      "documents": {
-        "Anglo_American_AAL_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
-          "date_downloaded": "2026-06-17T00:00:00Z",
-          "original_saved": true,
-          "analysed": true,
-          "type": "analyst_note",
-          "period": "12-18 month outlook (FY2026e-FY2027e)",
-          "date_published": "2026-06-17",
-          "path": "companies/anglo-american/analyst-notes/Anglo_American_AAL_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-          "source_url": "internal",
-          "_provenance": "Internal IC briefing (quick mode): 12-18m outlook, management risks, management incentives, and Strait-of-Hormuz Scenario A (stays closed) vs B (opens in weeks). Built from Anglo FY2025 results (RNS 20 Feb 2026), Q1 2026 update, the fund's existing Anglo model, and current macro (copper/iron ore/Brent/Hormuz/remuneration) research."
-        },
-        "Anglo_American_AAL_2yr_Outlook_Bull_Bear_Iran_Jun2026.docx": {
-          "date_downloaded": "2026-06-14T00:00:00Z",
-          "original_saved": true,
-          "analysed": true,
-          "type": "analyst_note",
-          "period": "2-year outlook (FY2026e-FY2028e)",
-          "date_published": "2026-06-14",
-          "path": "Anglo_American_AAL_2yr_Outlook_Bull_Bear_Iran_Jun2026.docx",
-          "source_url": "internal",
-          "_provenance": "Earlier IC briefing (14 Jun 2026): bull/bear 3-year growth projections, Anglo Teck merger, Iran-war impact. Companion model: Anglo_American_Growth_Projections_Jun2026.xlsx. Superseded for the Hormuz-scenario view by the 17 Jun 2026 12-18m memo."
-        },
-        "Anglo_American_Growth_Projections_Jun2026.xlsx": {
-          "date_downloaded": "2026-06-14T00:00:00Z",
-          "original_saved": true,
-          "analysed": true,
-          "type": "analyst_model",
-          "period": "FY2026e-FY2028e",
-          "date_published": "2026-06-14",
-          "path": "Anglo_American_Growth_Projections_Jun2026.xlsx",
-          "source_url": "internal",
-          "_provenance": "Formula-driven bull/base/bear growth projection model accompanying the 14 Jun 2026 memo (commodity deck -> EBITDA/FCF/net debt; Teck overlay tab)."
-        }
-      },
-      "document_count": 3
-    },
     "capitec": {
       "name": "Capitec Bank Holdings Limited",
       "jse_code": "CPI",
@@ -270,7 +220,6 @@
       },
       "document_count": 6,
       "_untracked_files": [
-        "companies/clicks-group/analyst-notes/clicks-quick-analysis-20260617.docx",
         "companies/clicks-group/annual-reports/clicks-integrated-annual-report-fy2025-20251023.pdf",
         "companies/clicks-group/annual-reports/clicks-integrated-annual-report-fy2025-20251023.txt",
         "companies/clicks-group/annual-reports/clicks-remuneration-report-fy2025-20251023.pdf",
@@ -895,6 +844,6 @@
     }
   },
   "_integrity_warnings": [
-    "clicks-group: 5 file(s) on disk have NO metadata record in company.json"
+    "clicks-group: 4 file(s) on disk have NO metadata record in company.json"
   ]
 }

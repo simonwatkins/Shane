@@ -1,0 +1,93 @@
+{
+  "name": "Anglo American plc",
+  "jse_code": "AGL",
+  "other_listings": "LSE: AAL (primary); JSE: AGL (secondary); also OTC ADR (AAUKF/NGLOY)",
+  "isin": null,
+  "registration_number": null,
+  "lei": null,
+  "sec_cik": null,
+  "sector": "Basic Materials - Mining (Diversified, copper-led)",
+  "icb_sector": "Mining",
+  "reporting_currency": "USD (US dollars); LSE-primary in GBp, JSE-listed in ZAR",
+  "financial_year_end": "31 December",
+  "registered_address": "17 Charterhouse Street, London EC1N 6RA, United Kingdom",
+  "ir_website": "https://www.angloamerican.com/investors",
+  "reports_landing": "https://www.angloamerican.com/investors/annual-reporting",
+  "sens_source": "https://www.angloamerican.com/media/regulatory-news (RNS/SENS); JSE AGL via senspdf.jse.co.za",
+  "document_url_patterns": {
+    "annual_reporting_landing": "https://www.angloamerican.com/investors/annual-reporting",
+    "results_centre": "https://www.angloamerican.com/investors/results-and-presentations",
+    "rns_regulatory_news": "https://www.angloamerican.com/media/regulatory-news"
+  },
+  "results_calendar": {
+    "fy_results": "Late February (FY2025 reported 20 Feb 2026)",
+    "q1_production_report": "Late April (Q1 2026 reported 28 Apr 2026; guidance maintained)",
+    "interim_h1_results": "Late July / early August",
+    "q3_production_report": "Late October",
+    "agm": "Late April (2026 AGM held 29 Apr 2026)"
+  },
+  "operating_assets": [
+    "Copper: Collahuasi & Los Bronces (Chile), Quellaveco (Peru) - core growth engine",
+    "Premium Iron Ore: Kumba Iron Ore (South Africa, ~70% held, JSE: KIO) + Minas-Rio (Brazil)",
+    "Manganese: 40% Samancor JV",
+    "Crop Nutrients: Woodsmith polyhalite project (UK) - slowed pre-FID, Mitsubishi up to 25%",
+    "De Beers (~85%) - IN FORMAL SALE PROCESS (diamonds)",
+    "Steelmaking coal - being sold to Dhilmar (up to $3.88bn, agreed 18 May 2026)",
+    "Nickel - being sold to MMG (up to $500m)"
+  ],
+  "key_people": {
+    "ceo": "Duncan Wanblad (since April 2022)",
+    "chairman": "to verify on deep run",
+    "cfo": "to verify on deep run"
+  },
+  "corporate_actions": {
+    "anglo_teck_merger": "All-share merger of equals with Teck Resources (announced 9 Sep 2025). 1.3301 Anglo shares per Teck share; Anglo holders ~62.4% / Teck ~37.6%. Creates 'Anglo Teck' (HQ Vancouver, primary-listed London), >70% copper, ~$800m/yr synergies. $4.5bn special dividend (~$4.19/sh) to Anglo holders pre-completion. Approvals: shareholders, BC Supreme Court, Investment Canada Act, South Korea CLEARED; China (SAMR) antitrust outstanding. Completion guided Sep 2026-Mar 2027.",
+    "valterra_platinum": "PGMs demerged as Valterra Platinum (May 2025); residual stake sold Sep 2025.",
+    "de_beers": "~85% stake in formal sale; lead bidder a consortium led by ex-De Beers MD Gareth Penny backed by Qatari funds (Mayhoola, Al Mirqab); targeted ~H2 2026."
+  },
+  "notes": "USD reporter, Dec year-end. PRIMARY listing is LSE (AAL); JSE secondary (AGL). FY2025 (per RNS 20 Feb 2026): revenue $18,546m (+4.5%), underlying EBITDA $6,417m (+1.5%), attributable LOSS $(3,700)m (driven by $2.3bn De Beers impairment; cumulative De Beers writedowns ~$6.8bn over two years), underlying EPS continuing 80c, capex $3,322m, attributable FCF $790m, net debt $8,571m (-19.3%), net debt/EBITDA 1.3x, DPS 23c (-64.1%), ROCE 12.0%. Segment EBITDA: Copper $3,983m (695kt, -10%), Premium Iron Ore $2,873m (60.8Mt), Manganese $127m, Crop Nutrients $(66)m, De Beers $(511)m. FY2026 copper guidance trimmed to 700,000-760,000t (from 760,000-820,000t). Statutory identifiers (ISIN/registration/LEI/CIK) left null pending verification on a deep run.",
+  "onboarded": "2026-06-17",
+  "onboard_mode": "quick",
+  "download_note": "2026-06-17 (quick mode): FY2025 ORIGINAL results binary NOT saved to disk in this environment. Workspace bash egress is an allowlist proxy that 403s external domains (confirmed today: HEAD https://www.angloamerican.com/investors/annual-reporting -> HTTP 403, X-Proxy-Error: blocked-by-allowlist), so curl/requests cannot reach Anglo's IR PDFs; same limitation documented for Gold Fields the same day. FY2025 headline figures verified instead against the published FY2025 results (RNS, 20 Feb 2026) and the fund's existing Anglo model. Retry the original-binary save from an environment with direct outbound HTTP (deep run).",
+  "coverage_gaps": [
+    "FY2025 results ORIGINAL PDF + results presentation outstanding (egress allowlist 403). Figures sourced from the 20 Feb 2026 RNS and the fund's existing Anglo model. Re-save on a deep run.",
+    "Quick-mode skips (backfill on a deep run): FY2025 Integrated Annual Report, H1 2026 interim, trading statements, full RNS/SENS history, FY2024 comparatives as originals, investor presentations.",
+    "No company-specific 'jse-anglo-american' skill generated yet (jse-skill-builder) - create on a deep run so future lookups are instant.",
+    "key_people chairman/CFO and statutory identifiers unverified - confirm on a deep run."
+  ],
+  "documents": {
+    "Anglo_American_AAL_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
+      "date_downloaded": "2026-06-17T00:00:00Z",
+      "original_saved": true,
+      "analysed": true,
+      "type": "analyst_note",
+      "period": "12-18 month outlook (FY2026e-FY2027e)",
+      "date_published": "2026-06-17",
+      "path": "companies/anglo-american/analyst-notes/Anglo_American_AAL_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
+      "source_url": "internal",
+      "_provenance": "Internal IC briefing (quick mode): 12-18m outlook, management risks, management incentives, and Strait-of-Hormuz Scenario A (stays closed) vs B (opens in weeks). Built from Anglo FY2025 results (RNS 20 Feb 2026), Q1 2026 update, the fund's existing Anglo model, and current macro (copper/iron ore/Brent/Hormuz/remuneration) research."
+    },
+    "Anglo_American_AAL_2yr_Outlook_Bull_Bear_Iran_Jun2026.docx": {
+      "date_downloaded": "2026-06-14T00:00:00Z",
+      "original_saved": true,
+      "analysed": true,
+      "type": "analyst_note",
+      "period": "2-year outlook (FY2026e-FY2028e)",
+      "date_published": "2026-06-14",
+      "path": "Anglo_American_AAL_2yr_Outlook_Bull_Bear_Iran_Jun2026.docx",
+      "source_url": "internal",
+      "_provenance": "Earlier IC briefing (14 Jun 2026): bull/bear 3-year growth projections, Anglo Teck merger, Iran-war impact. Companion model: Anglo_American_Growth_Projections_Jun2026.xlsx. Superseded for the Hormuz-scenario view by the 17 Jun 2026 12-18m memo."
+    },
+    "Anglo_American_Growth_Projections_Jun2026.xlsx": {
+      "date_downloaded": "2026-06-14T00:00:00Z",
+      "original_saved": true,
+      "analysed": true,
+      "type": "analyst_model",
+      "period": "FY2026e-FY2028e",
+      "date_published": "2026-06-14",
+      "path": "Anglo_American_Growth_Projections_Jun2026.xlsx",
+      "source_url": "internal",
+      "_provenance": "Formula-driven bull/base/bear growth projection model accompanying the 14 Jun 2026 memo (commodity deck -> EBITDA/FCF/net debt; Teck overlay tab)."
+    }
+  }
+}

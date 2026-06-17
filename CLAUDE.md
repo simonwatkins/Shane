@@ -204,6 +204,29 @@ request contains a cue such as "quick analysis", "quick look", "be quick", "fast
 - Quick means *narrower scope, not lower rigour* — "numbers are sacred" and the Citation
   Standard still bind.
 
+**Quick-mode performance defaults (keep a quick run to a few minutes, not many).** A quick
+run's wall-clock is bounded by the *slowest* subagent, so trim every worker:
+
+- **Read narrow, not deep.** Work the analysis from the concise SENS results announcement
+  (short-form, ~15–20pp) plus the latest interim results — these carry the outlook, guidance,
+  KPIs and risk summary. Do **not** read the full Integrated Annual Report (often
+  multi-hundred-KB of text) in quick mode unless a question specifically requires it; for
+  incentive questions, read the dedicated Remuneration Report section, not the whole IAR.
+- **Budget each subagent to ≈8–10 tool calls.** Tell it to grep the text sidecar ONCE to
+  locate the relevant sections, then read only those line ranges with offset/limit — never
+  re-read whole files.
+- **Fan out only where work is genuinely independent** (e.g. financials/outlook,
+  remuneration, market context). Don't over-split; each worker's return re-enters the main
+  context and costs tokens.
+- **Pre-warm document tooling in parallel.** If the deliverable is docx/pptx/xlsx, launch the
+  dependency install (e.g. `npm install docx`) in the SAME batch as the subagent tasks so
+  it's ready when they return — never serially afterwards.
+- **Skip the visual PDF/image render for standard layouts.** `validate.py` already confirms
+  the file opens; only convert to PDF/images to eyeball layout when the format is novel or
+  image-heavy.
+- **Batch your own bookkeeping.** Create the task list in one pass and batch status updates;
+  many separate small tool calls add real wall-clock latency.
+
 **Always hand the heavy work to the subagents — never run it inline in the main thread.**
 Discovery, downloading and document-reading/analysis go through `jse-report-downloader` and
 `jse-analyst` via the **Task** tool (isolated context windows). The main thread keeps only
