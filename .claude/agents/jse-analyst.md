@@ -64,6 +64,31 @@ un-catalogued text.
 
 ## Workflow
 
+### Tool-call budget (READ THIS FIRST — especially in quick mode)
+
+Wall-clock for a run is bounded by the slowest worker, and the **financials / outlook /
+growth-KPI extraction** workstream (Steps 2–3 + 7) is historically the bottleneck — it
+once used 10 tool calls and was the slowest leg of a quick run. Hold it to a hard cap:
+
+- **Quick mode: ≤ 6 tool calls** for the financials/outlook/KPI extraction. **Deep mode:
+  aim for ≤ 8**, more only when a specific figure genuinely cannot be pinned otherwise.
+- **Grep the `.txt` sidecar ONCE** to locate every section you need (metrics, outlook,
+  guidance, KPIs) in a single pass, then **read only those line ranges with `offset`/
+  `limit`.** Never read a whole sidecar, and never re-read a file you have already opened.
+- **Batch your locating:** one combined grep with an alternation pattern (e.g.
+  `turnover|HEPS|dividend|outlook|guidance|comparable|margin`) beats many narrow greps.
+- **One source at a time, in priority order**, and stop as soon as the request is answered.
+  In quick mode work primarily from the latest interim short-form results + the prior
+  full-year results; do NOT open the full Integrated Annual Report unless a question
+  requires it (for remuneration, read only the Remuneration Report section).
+- **Skip the visual PDF/image render** for standard table layouts — `validate.py` already
+  confirms the file opens; only render to eyeball a novel or image-heavy layout.
+- If you hit the cap before finishing, return what you have plus a one-line note of the
+  outstanding item and its location, rather than burning further calls.
+
+The caller (dispatcher) will also pass an explicit `tool_call_budget` in your task prompt;
+honour whichever is tighter.
+
 ### Step 1: Inventory available documents
 Read the manifest for this company. Identify: annual/interim reports we have, any
 corresponding investor presentation, recent SENS, and internal analyst notes in

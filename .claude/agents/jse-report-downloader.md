@@ -92,6 +92,13 @@ Read `company.json` for document source URLs and patterns. Check the manifest fo
 latest annual report? corresponding interim? new SENS? recent investor presentation? IR
 filenames change year to year — never assume last year's slug.
 
+**Mandatory item on EVERY target list (all modes, incl. quick): the latest annual financial
+results as the ORIGINAL binary PDF.** Whatever else was requested, if the most recent annual
+results original is not already on disk with `original_saved: true`, add it to this list and
+fetch it. It is never skipped, never reduced to a text-only sidecar, and never deferred — see
+the "Floor (absolute, non-negotiable)" rule in `CLAUDE.md`. If after both phases the original
+binary still cannot be retrieved, that is a hard `coverage_gap`, not a silent omission.
+
 ### 1.2 Navigate and resolve each final PDF URL (browser)
 For each target, in the browser (Claude in Chrome):
 1. `tabs_context_mcp` (createIfEmpty) → get a tabId; `navigate` the tab to the IR

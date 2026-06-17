@@ -48,6 +48,10 @@ Call the **Task** tool with `subagent_type: "jse-analyst"` and a prompt containi
 - the **analysis request** (full results review / specific metric / period comparison /
   IC notes / risk scan);
 - the **output format chosen in Step 0** (`docx` / `chat` / `xlsx` / `pptx`).
+- the execution **`mode`** (`deep` | `quick`) and an explicit **`tool_call_budget`** for
+  the financials/outlook/KPI extraction — **6 in quick mode, 8 in deep** (the subagent caps
+  itself to whichever is tighter; see its "Tool-call budget" section). When you fan out
+  several workers, give each its own budget so the slow financials leg cannot stall the run.
 
 The subagent enforces the source-of-truth gate, reads the local originals + sidecars,
 loads the matching `jse-sector-<x>` lens, extracts the standardised metrics, does
@@ -71,5 +75,4 @@ Reading several multi-hundred-page PDFs to extract and reconcile figures is the 
 biggest consumer of context in this workspace — and it used to run in the same thread that
 also had to hold the downloader's output. Isolating analysis in its own subagent means the
 main thread keeps only the question, the format choice, and the finished deliverable. The
-subagent inherits this project's `CLAUDE.md`, so "numbers are sacred", full sourcing, and
-the SA reporting context still bind it.
+subagent inherits this project's `CLAUDE.md`, so "numbers

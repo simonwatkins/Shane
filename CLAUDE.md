@@ -193,13 +193,23 @@ Completeness and rigour come first.
 request contains a cue such as "quick analysis", "quick look", "be quick", "fast",
 "just the headlines", or "don't go deep". In quick mode:
 
-- **Floor (non-negotiable): the latest annual financial results are STILL downloaded and
-  saved as the validated ORIGINAL binary PDF** (`original_saved: true`), together with the
-  matching results presentation. The critical source is never skipped or reduced to text —
-  even when quick.
+- **Floor (absolute, non-negotiable): the latest annual financial results are ALWAYS
+  downloaded and saved as the validated ORIGINAL binary PDF** (`original_saved: true`),
+  together with the matching results presentation. The critical source is never skipped or
+  reduced to text — even when quick. **This download is exempt from every time-saving rule
+  in this section** — neither the web-search cap nor the "read narrow" guidance below ever
+  justifies skipping it, text-only-ising it, or deferring it to a later run. No annual-results
+  original PDF on disk ⇒ the task is not done.
 - **Scale back the rest:** skip interim results, trading statements, the full SENS history,
-  press releases and prior-year documents. Cap context web searches to the few the question
-  needs (e.g. the current macro), then write.
+  press releases and prior-year documents.
+- **Spend less time on the web — answer from the downloaded filings first.** The annual
+  results, interim results and presentation already on disk contain the numbers, outlook,
+  guidance, KPIs and management-stated risks: read those and do **not** web-search for
+  anything a filing already covers. Reserve web search ONLY for genuinely current data that
+  is in no filing — latest share price, current SARB repo / CPI prints, live macro or
+  regulatory status. **Hard cap: ≤ 3 web searches per quick run (≤ 1–2 per worker);** batch
+  them, take the answer, and write. Never re-search to re-confirm a figure already read from
+  a filing. (This cap never overrides the annual-results download floor above.)
 - **Log what was skipped as coverage gaps** so a later deep run backfills them in one click.
 - Quick means *narrower scope, not lower rigour* — "numbers are sacred" and the Citation
   Standard still bind.
@@ -212,79 +222,13 @@ run's wall-clock is bounded by the *slowest* subagent, so trim every worker:
   KPIs and risk summary. Do **not** read the full Integrated Annual Report (often
   multi-hundred-KB of text) in quick mode unless a question specifically requires it; for
   incentive questions, read the dedicated Remuneration Report section, not the whole IAR.
-- **Budget each subagent to ≈8–10 tool calls.** Tell it to grep the text sidecar ONCE to
-  locate the relevant sections, then read only those line ranges with offset/limit — never
-  re-read whole files.
+- **Budget each subagent tightly** — the financials/outlook/KPI worker to **≤ 6 tool calls**
+  in quick mode (≤ 8 deep), others to ≈6–8. Tell each to grep the text sidecar ONCE to locate
+  all relevant sections in a single pass, then read only those line ranges with offset/limit —
+  never re-read whole files. Web searches count against the per-worker web cap above, not in
+  place of reading the filings.
 - **Fan out only where work is genuinely independent** (e.g. financials/outlook,
   remuneration, market context). Don't over-split; each worker's return re-enters the main
   context and costs tokens.
 - **Pre-warm document tooling in parallel.** If the deliverable is docx/pptx/xlsx, launch the
-  dependency install (e.g. `npm install docx`) in the SAME batch as the subagent tasks so
-  it's ready when they return — never serially afterwards.
-- **Skip the visual PDF/image render for standard layouts.** `validate.py` already confirms
-  the file opens; only convert to PDF/images to eyeball layout when the format is novel or
-  image-heavy.
-- **Batch your own bookkeeping.** Create the task list in one pass and batch status updates;
-  many separate small tool calls add real wall-clock latency.
-
-**Always hand the heavy work to the subagents — never run it inline in the main thread.**
-Discovery, downloading and document-reading/analysis go through `jse-report-downloader` and
-`jse-analyst` via the **Task** tool (isolated context windows). The main thread keeps only
-the user conversation, the deep/quick mode decision, light manifest/orchestration, and the
-final relay. Running gathering or PDF-reading inline is the main cause of slow,
-context-bloated runs. Pass the chosen **`mode`** (`deep` | `quick`) into every subagent
-task prompt; subagents inherit this file and must honour it.
-
-## MCP Connectors (optional — use if available)
-
-Before asking the user to provide a file, check whether any of these are connected
-and use them. If they are not configured, skip silently and fall back to web fetch /
-browser automation. Do not block on them.
-
-- **SharePoint / Google Drive** — the fund's shared drive; internal analyst models
-  and notes often live under `/Research/[Company Name]/`. Check here first.
-- **Outlook / Gmail / Exchange** — broker research and results notifications received
-  via email.
-- **Bloomberg Terminal** (if configured) — current pricing and consensus estimates.
-- **Slack / Teams** — for flagging material findings to the team.
-
-If a connector that would clearly help is missing, you may mention to the user that
-connecting it would improve coverage — but never make it a precondition for doing the
-work you can already do.
-
-## South African Context (apply throughout)
-
-- **Currency:** ZAR by default. Some companies report in other currencies (e.g.
-  Naspers/Prosus in USD/EUR, several miners in USD). Always state the reporting
-  currency; provide a ZAR equivalent where possible.
-- **Dual listings:** For JSE+LSE/ASX names, state which listing's results are
-  referenced and note any presentational differences.
-- **Reporting standards:** IFRS, plus SA-specific requirements — King IV governance
-  disclosures and JSE Listings Requirements.
-- **Tax:** SA corporate tax rate is 27% (reduced from 28% for years of assessment
-  ending on or after 31 March 2023). Note material deferred-tax impacts.
-- **BEE:** Be aware of Black Economic Empowerment ownership structures and their
-  effect on effective shareholding.
-
-## Formatting Preferences
-
-- Currency in ZAR: `R'm` for millions, `R'bn` for billions (use bn only for the
-  largest names). State the unit.
-- Percentages and ratios to one decimal place. Margins/returns show **bps** change,
-  not % change.
-- Dates as `DD Month YYYY` (e.g. 15 March 2026).
-- Tables for all financial data; right-align numbers; always include headers.
-- Label period comparisons clearly: "FY2025 vs FY2024", "H1 2026 vs H1 2025".
-- Output files: markdown for internal working docs, PPTX for presentations, XLSX for
-  data to be manipulated further.
-
-## Compliance Reminders
-
-- Present analysis "for informational purposes" — never as investment advice. You are
-  not a registered financial adviser.
-- Note when data may be stale (e.g. share prices obtained via search may be delayed;
-  there is no live JSE price feed here).
-- Flag if a company is in a closed / prohibited dealing period for the fund.
-- Do not speculate on undisclosed corporate actions.
-- If extracted PDF tables look garbled, flag it and suggest verification rather than
-  presenting suspect numbers.
+  dependency install (e.g. `npm install docx`) in the SAME batch as the subagent 
