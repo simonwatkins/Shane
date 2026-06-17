@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-17T20:29:00Z",
+  "generated_at": "2026-06-17T20:28:49Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
   "last_global_refresh": "2026-06-17",
@@ -725,7 +725,7 @@
       "sector": "Retail",
       "financial_year_end": "June (52/53-week retail calendar)",
       "reporting_currency": "ZAR",
-      "last_updated": "2026-06-17T20:28:49Z",
+      "last_updated": "2026-06-17T20:28:48Z",
       "documents": {
         "shoprite-annual-report-fy2025-20250902.pdf": {
           "date_downloaded": "2026-06-05T00:00:00Z",
@@ -784,20 +784,12 @@
           "original_saved": true,
           "analysed": true,
           "text_source": "internal fund note"
-        },
-        "Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx": {
-          "type": "analyst_note",
-          "period": "Outlook-Jun2026",
-          "date_published": "2026-06-17",
-          "date_downloaded": "2026-06-17T20:28:49Z",
-          "path": "companies/shoprite/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx",
-          "text_path": "companies/shoprite/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx",
-          "original_saved": true,
-          "analysed": true,
-          "text_source": "internal fund model"
         }
       },
-      "document_count": 6
+      "document_count": 5,
+      "_untracked_files": [
+        "companies/shoprite/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx"
+      ]
     },
     "spar": {
       "name": "The SPAR Group Limited",
@@ -807,7 +799,7 @@
       "financial_year_end": "late September (52/53-week retail calendar)",
       "reporting_currency": "ZAR",
       "skill_generated": false,
-      "last_updated": "2026-06-17T20:28:50Z",
+      "last_updated": "2026-06-07T16:21:49Z",
       "next_expected_results": {
         "type": "H1 FY2026 Interim Results",
         "expected_date": "2026-06-10",
@@ -849,31 +841,13 @@
           "text_path": "companies/spar/analyst-notes/spar-research-note-2026-2027.md",
           "text_source": "internal fund note",
           "_provenance": "Internal analyst note (Cowork), prepared 5 June 2026."
-        },
-        "Shoprite_vs_Spar_Hormuz_Comparative_Outlook_Jun2026.docx": {
-          "type": "analyst_note",
-          "period": "Outlook-Jun2026",
-          "date_published": "2026-06-17",
-          "date_downloaded": "2026-06-17T20:28:50Z",
-          "path": "companies/spar/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Outlook_Jun2026.docx",
-          "text_path": "companies/spar/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Outlook_Jun2026.docx",
-          "original_saved": true,
-          "analysed": true,
-          "text_source": "internal fund note"
-        },
-        "Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx": {
-          "type": "analyst_note",
-          "period": "Outlook-Jun2026",
-          "date_published": "2026-06-17",
-          "date_downloaded": "2026-06-17T20:28:50Z",
-          "path": "companies/spar/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx",
-          "text_path": "companies/spar/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx",
-          "original_saved": true,
-          "analysed": true,
-          "text_source": "internal fund model"
         }
       },
-      "document_count": 5
+      "document_count": 3,
+      "_untracked_files": [
+        "companies/spar/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx",
+        "companies/spar/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Outlook_Jun2026.docx"
+      ]
     },
     "woolworths": {
       "name": "Woolworths Holdings Limited",
@@ -940,6 +914,8 @@
     }
   },
   "_integrity_warnings": [
-    "clicks-group: 6 file(s) on disk have NO metadata record in company.json"
+    "clicks-group: 6 file(s) on disk have NO metadata record in company.json",
+    "shoprite: 1 file(s) on disk have NO metadata record in company.json",
+    "spar: 2 file(s) on disk have NO metadata record in company.json"
   ]
 }

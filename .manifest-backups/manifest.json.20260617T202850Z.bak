@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-17T20:29:00Z",
+  "generated_at": "2026-06-17T20:28:50Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
   "last_global_refresh": "2026-06-17",
@@ -860,20 +860,12 @@
           "original_saved": true,
           "analysed": true,
           "text_source": "internal fund note"
-        },
-        "Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx": {
-          "type": "analyst_note",
-          "period": "Outlook-Jun2026",
-          "date_published": "2026-06-17",
-          "date_downloaded": "2026-06-17T20:28:50Z",
-          "path": "companies/spar/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx",
-          "text_path": "companies/spar/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx",
-          "original_saved": true,
-          "analysed": true,
-          "text_source": "internal fund model"
         }
       },
-      "document_count": 5
+      "document_count": 4,
+      "_untracked_files": [
+        "companies/spar/analyst-notes/Shoprite_vs_Spar_Hormuz_Comparative_Model_Jun2026.xlsx"
+      ]
     },
     "woolworths": {
       "name": "Woolworths Holdings Limited",
@@ -940,6 +932,7 @@
     }
   },
   "_integrity_warnings": [
-    "clicks-group: 6 file(s) on disk have NO metadata record in company.json"
+    "clicks-group: 6 file(s) on disk have NO metadata record in company.json",
+    "spar: 1 file(s) on disk have NO metadata record in company.json"
   ]
 }
