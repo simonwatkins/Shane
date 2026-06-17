@@ -1,0 +1,87 @@
+DISCOVERY LIMITED — Audited Consolidated Annual Results for the year ended 30 June 2025 and Cash Dividend Declaration
+SENS release date: 11 September 2025 08:00
+JSE share code: DSY  ISIN: ZAE000022331 | DSBP ISIN: ZAE000158564 | Debt code: DSYI
+Source (SENS short-form, full text): https://www.sharenet.co.za/v3/sens_display.php?tdate=20250911080000&seq=6
+Full audited AFS PDF (JSE): https://senspdf.jse.co.za/documents/2025/JSE/ISSE/DSY/FY2025.pdf
+Company results page: https://www.discovery.co.za/corporate/financial-results
+TEXT EXTRACT (faithful) — original binary not saved (tooling: PDF behind subscription/JSE link not retrievable via allowed web_fetch as binary)
+
+KEY FINANCIAL RESULTS — YEAR ENDED 30 JUNE 2025
+                                                             Unit        June 2025     June 2024    Change
+Group earnings (1)
+Normalised profit from operations                            R million      15 210        11 761     29%
+Profit attributable to ordinary shareholders                 R million       9 471         7 468     27%
+Normalised headline earnings                                 R million       9 781         7 511     30%
+Headline earnings                                            R million       9 625         7 384     30%
+Basic earnings per share                                     Cents         1 402.2       1 110.3     26%
+Basic headline earnings per share                            Cents         1 447.0       1 117.0     30%
+Basic normalised headline earnings per share                 Cents         1 470.4       1 136.2     29%
+
+Returns, cash conversion and dividends
+Normalised return on equity (1)                              %                15.4          13.5
+Annualised return on opening embedded value (RoEV)           %                15.7          13.2
+Final dividend per share                                     Cents        201.00000     152.00000     32%
+Cash conversion (1,2)                                        %                  77            65
+
+Growth drivers
+Income from non-insurance business lines (2)                 R million       6 643         5 906     12%
+New business annualised premium income (API) (2)             R million      26 486        26 958     (2%)
+
+Financial position and embedded value
+Net asset value (1)                                          R million      65 699        54 451     21%
+Embedded value                                               R million     126 554       110 354     15%
+Basic embedded value per share                               R              189.85        166.95     14%
+Financial leverage ratio (FLR) (1)                           %                16.8          20.3
+(1) Prior year restated — refer section D.1.1 of Annual Results.
+(2) Refer Annexure A; New business API +8% excluding Sasolmed in prior year.
+
+BUSINESS UNIT PERFORMANCE
+                                            Normalised profit    % change       New business    % change
+                                            from operations      (CY vs PY)     API June 2025   (CY vs PY)
+R million                                   June 2025
+Discovery Health                                  4 259            7%               9 573         (14%)
+Discovery Life                                    5 525           14%               3 203         (10%)
+Discovery Invest                                  1 987           29%               3 430           4%
+Discovery Insure (1)                                817          229%               1 361          (2%)
+Discovery Bank                                      (68)         (85%)
+Other initiatives and central costs                (515)          91%                 546          33%
+Discovery SA                                     12 005           22%              18 113          (8%)
+VitalityHealth                                    1 188          173%               2 851           3%
+VitalityLife                                        637           70%               2 499          28%
+Vitality Network                                    554            4%
+VHI-Ping An Health Insurance (PAHI)               1 206            7%               3 023          22%
+VHI-Other                                          (291)         (25%)
+Other initiatives and central costs (2)             (89)         (54%)
+Vitality (UK and VG) composite                    3 205           70%               8 373          16%
+Normalised profit from operations                15 210           29%
+New business API (3)                                                              26 486          (2%)
+(1) Includes Discovery Insure's share of equity-accounted profits of associates.
+(2) Prior year Vitality other initiatives/central costs include closure costs of VitalityInvest.
+(3) New business API +8% excluding Sasolmed in prior year.
+
+COMMENTARY (verbatim highlights):
+- Group: 29% growth in normalised operating profit to R15 210m; cash conversion now 77%; HE and normalised HE both +30%; normalised ROE up to 15.4% from 13.5%.
+- EV increased to R126.6bn, a 15.7% RoEV; increasing contribution from non-covered businesses; favourable exchange rates and economic basis assumptions in aggregate.
+- Total new business API declined 2% but +8% excluding the large Sasolmed take-on in the prior year.
+- Capital ratios remained strong across every regulated business; debt across the Group decreased; FLR reduced to 16.8%. PAHI paid its second consecutive annual dividend at a 35% payout (previously 30%).
+- "Discovery has emerged strongly from its cycle of significant investment ... positioned the Group for a new distinct phase of scaled organic growth, with focused execution through its recently formed global composite, Vitality, and its domestic business, Discovery South Africa."
+
+DISCOVERY SOUTH AFRICA (22% growth in normalised profit from operations):
+- Discovery Bank: "continued to deliver high-quality growth. Total clients increased by 30%, advances by 39% and deposits by 26%, resulting in strong revenue growth, and its first profitable period during the second half of the financial year, ahead of plan."
+- Discovery Health: operating profit +7%, with further investment into technology, innovation and AI.
+- Discovery Life: normalised operating profit +14% mainly driven by an exceptional claims experience. New business declined 10% in total and 2% for Individual Life.
+- Discovery Invest: +29% operating profit on strong growth in AUM and certain one-off benefits.
+- Discovery Insure: pricing/claims management + benign weather → significant claims-ratio improvement and +229% operating profit.
+
+VITALITY (70% growth in normalised profit from operations):
+- VitalityHealth: profits +173%, driven by effective pricing actions, a stabilising claims environment and rigorous claims and expense management.
+- VitalityLife: operating profit recovered strongly, +70%, new business +28%.
+- Ping An Health Insurance (PAHI): strong operating and investment result, +22% pre-tax profit, notwithstanding a sizeable COVID-19 reserve release in the prior year. Discovery's equity-accounted share, after tax and costs, +7% (prior year benefited from a tax gain).
+- Vitality Network: integrated new business API by partners +24% to almost US$2 billion. Earnings +4% (7% in US$).
+- VHI-Other: losses improved 25% to R291m, following lower losses in Vitality USA and successful integration of WellSpark Health.
+
+DIVIDEND: Final gross cash dividend 201.00000 cents (160.80000 c net of 20% DWT) per ordinary share, out of income reserves. Shares in issue at declaration: 679 680 841. LDT 14 Oct 2025; ex 15 Oct 2025; record 17 Oct 2025; payment 20 Oct 2025.
+
+AUDIT: Results announcement itself not audited; financial info extracted from audited AFS audited by joint independent auditors KPMG Inc. and Deloitte & Touche, who expressed an UNMODIFIED audit opinion.
+BOARD: ME Tucker (UK) Chairperson; A Gore Group CEO; DM Viljoen Group CFO (and Debt officer). Company secretary AC Ceba. Sponsor: Nedbank CIB.
+Signed: ME Tucker (Chairperson) & A Gore (Group CEO), 10 September 2025.

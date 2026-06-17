@@ -1,0 +1,1827 @@
+https://www.discovery.co.za/assets/discoverycoza/corporate/investor-relations/2025/results-booklet.pdf
+→ https://www.discovery.co.za/assets/discoverycoza/corporate/investor-relations/2025/results-booklet.pdf
+Content-Type: application/pdf;charset=UTF-8
+
+and cash dividend declaration
+for the six months ended 31 December 2024
+Unaudited 
+Interim Results
+DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+Discovery Limited
+Registration number 1999/007789/06
+Contents
+ Notes to the condensed consolidated 
+financial statements
+15 A.1. Segment information
+24 A.2. Normalised profit from operations
+24 A.3. Earnings, headline earnings and normalised 
+headline earnings
+26 A.4. Revenue from non-insurance activities
+26 A.5. Borrowings at amortised cost 
+28 A.6. Fair value hierarchy
+B Other significant items in these results
+32 B.1. Exchange rates to South African Rand used in the 
+preparation of these results
+32 B.2. Capital management, financial leverage ratio and 
+covenants
+34 B.3. Impact of actuarial basis changes within the SA Life 
+and UK Life operating segments
+34 B.4. Acquisition of WellSpark
+35 B.5. Domestic Medium Term Notes
+35 B.6. Cash and cash equivalents
+35 B.7. Consolidation of Discovery Unit Trusts
+36 B.8. Material transactions with related parties
+36 B.9. Major customers and other Discovery entities not 
+part of Discovery Group
+36 B.10. Changes in directorate
+36 B.11. Events after reporting date and dividend declaration 
+in respect of the six months ended 31 December 2024 
+Insurance and reinsurance contracts 
+related disclosure
+38 C.1.1 Insurance and reinsurance contracts disclosures 
+and reconciliations
+41 C.1.2.1 Summary of insurance contracts issued and 
+reinsurance contracts held
+42 C.1.2.2 Movement in insurance contract balances: GMM
+46 C.1.2.3 Movement in insurance contract balances: VFA
+48 C.1.2.4 Movement in reinsurance contract balances: GMM
+52 C.1.2.5 Insurance revenue
+54 C.1.2.6 Net investment result
+58 C.1.2.7 Effect of contracts initially recognised in the period
+C
+1 Results commentary
+8 Group statement of financial position
+9 Group income statement
+10 Group statement of other comprehensive income 
+11 Group statement of cash flows 
+12 Group statement of changes in equity 
+A
+D Adoption of new standards and 
+interpretations and restatements
+62 D.1.1. Restatement as a result of prior period errors identified
+65 D.1.2. Restatements for prior period corrections and changes 
+in presentation of specified items in the statement of 
+cash flows and associated restated notes
+E Accounting policies
+70 E.1. New Accounting Standards and amendments to 
+published Accounting Standards not yet effective
+70 E.2. Normalised headline earnings
+71 E.3. Basis of preparation
+Embedded value statement
+74 Table 1: Group embedded value
+76 Table 2: Value of in-force covered business
+77 Table 3: Group embedded value earnings
+78 Table 4: Components of Group embedded value earnings
+79 Table 5: Experience variances
+80 Table 6: Methodology and assumption changes
+81 Table 7: Embedded value of new business
+82 Table 8: Embedded value economic assumptions
+84 Table 9: Embedded value sensitivity
+84 Table 10: Value of new business sensitivity
+Annexure A
+87 New business annualised premium income
+88 Income from non-insurance business lines
+88 Cash conversion ratio
+ibc Administration
+E
+D
+B
+DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+1
+COMMENTARY
+1. GROUP OVERVIEW AND SALIENT RESULTS
+Salient Group results for the period ended 31 December 2024
+The period under review was characterised by increased geo-political complexities. Global inflation rates have moderated, however, 
+the easing of interest rates has been stalled by increased uncertainty around global policy shifts and trade tensions, with consumers 
+and economic growth remaining constrained in many regions. In South Africa (SA), confidence increased following the positive election 
+outcome, the programmes driving energy and logistics reforms, and the continued constructive engagement around the National Health 
+Insurance (NHI) Act to facilitate a viable journey to universal healthcare coverage in SA. The fiscal environment in the United Kingdom (UK) 
+remains constrained with a knock-on impact of the National Health Service (NHS) backlogs keeping the demand for and utilisation of 
+private medical insurance (PMI) elevated. China has continued to face macroeconomic and growth constraints, however, bond and equity 
+markets delivered a strong performance over the period following some signs of stabilisation.
+Discovery Group achieved strong growth in the period ended 31 December 2024, with 
+normalised operating profit up 27% to R7 020 million, headline earnings up 34% to 
+R4 267 million and normalised headline earnings up 34% to R4 350 million. New business 
+annualised premium income (API) declined 12% to R12 534 million, but increased 6% 
+excluding the Sasolmed closed medical scheme take-on in the prior period.
+Unit
+31 December
+2024
+31 December
+2023 % Change
+Group earnings
+Normalised profit from operations1 R million 7 020 5 536 27%
+Normalised headline earnings1 R million 4 350 3 256 34%
+Headline earnings1 R million 4 267 3 196 34%
+Basic earnings per share1 Cents 637.1 483.3 32%
+Basic headline earnings per share1 Cents 642.9 484.1 33%
+Basic normalised headline earnings per share1 Cents 655.4 493.1 33%
+Returns, cash conversion and dividends
+Normalised return on equity (RoE) % 15.0% 12.6% +2.4%
+Annualised return on embedded value (RoEV) % 19.0% 12.1% +6.9%
+Dividend per share Cents 87 65 34%
+Cash conversion ratio2 % 75% 75% 0%
+Growth drivers
+Income from non-insurance business lines R million 3 181 2 786 14%
+New business API2 R million 12 534 14 278 (12%)*
+31 December
+2024
+30 June 
+2024
+% Change
+(annualised)
+Balance sheet and embedded value
+Net asset value R million 64 644 57 719 25%
+Embedded value R million 119 616 110 354 17%
+Basic embedded value per share R 179.47 166.95 16%
+Financial leverage ratio (FLR) % 18.1% 20% lower by 1.9%
+1 Refer to D.1.1 
+2 Refer to Annexure A
+* +6% when excluding Sasolmed in prior period
+2 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+Strong in-period performance in the growth phase, with consistent growth 
+across the two composites
+Discovery has emerged from its cycle of significant investment. That phase focused on creating new avenues for long-term growth, 
+through globalising its capabilities and footprint and building new growth ventures, most notably, Discovery Bank. This has positioned the 
+Group for a new distinct phase of scaled organic growth, with focused execution through its newly formed global composite, Vitality, and 
+its domestic business, Discovery South Africa. 
+Over the period, the Group executed its growth strategy delivering growth in normalised profit from operations of 27%. Both composites 
+achieved normalised profit from operations of 27%, with strong contributions across the Group. Headline and normalised headline 
+earnings both increased by 34%, as the cost of financing less investment returns remained broadly unchanged. The normalised return on 
+equity increased to 15% annualised, from 12.6% in the prior period.
+The Group’s embedded value increased to R120 billion, which represents a 19% annualised return on embedded value (RoEV). This 
+included a positive contribution from experience variances over the period, reflecting the competitive dynamics of the Shared-value 
+Insurance model, a strong improvement from non-covered businesses, as well as a favourable economic basis and exchange rate.
+The Vitality Shared-value Insurance model is a key driver of performance
+The strong performance demonstrates the effective deployment of the Vitality Shared-value Insurance model and its applicability and 
+efficacy across the different industries and markets. The Group is driving continued improvement in key value drivers as it leverages its 
+data and technology assets to evolve the model through Vitality AI. This platform will allow greater and more precise understanding of 
+individuals’ health risks and determine the exact actions to improve health outcomes, quantifying the impact on health and mortality. 
+These will be delivered through engaging, hyper-personalised product experiences to encourage healthier behaviour. 
+The Group is financially resilient in a complex and uncertain environment
+Capital ratios remained strong across every business and liquidity at each regulated entity, and at the centre, remains well in excess of the 
+required buffers. The cash conversion ratio remained steady at 75% of after-tax normalised operating profit compared with the prior 
+period, notwithstanding the strong growth in normalised profit from operations. Favourable claims experience in Discovery Life and 
+Discovery Insure, as well as the increased use of financial reinsurance funding for VitalityLife, mitigated the expected dilution impact from 
+Discovery Health’s slower inherent growth and high intrinsic cash conversion rate. The cash conversion ratio is expected to normalise back 
+within the Group’s 60% to 70% range for the full financial year. This strong underlying cash generation facilitated a further c.R1 billion of 
+financing repayments within Discovery Life and c.R500 million net debt repayments by the Group. 
+Summary of profit from operations and new business performance by composite for the 
+current period:
+Normalised 
+profit from
+ operations % change 
+New 
+business API % change 
+Discovery Health 2 023 +8% 4 714 (31%)
+Discovery Life 2 612 +15% 1 463 (4%)
+Discovery Invest 904 +46% 1 735 +7%
+Discovery Insure 401 >100% 659 (1%)
+Discovery Bank (145) (57%)
+Other initiatives and central costs1 (275) >100% 448 +22%
+Discovery SA composite 5 520 +27% 9 019 (18%)
+VitalityHealth 599 +14% 1 326 +2%
+VitalityLife 327 +8% 1 101 +18%
+Vitality Network 339 +15%
+Ping An Health Insurance (PAHI) 424 +23% 1 088 +6%
+VHI Other (149) (14%)
+Other initiatives and central costs (40) (33%)
+Vitality (UK and VG) composite 1 500 +27% 3 515 +8%
+Normalised profit from operations 7 020 +27%
+New business API 12 534 (12%)*
+1 Refer to Annexure A 
+* +6% when excluding Sasolmed in prior period
+COMMENTARY continued
+3
+DISCOVERY HEALTH
+DISCOVERY BANK
+Unit
+December
+2024
+December
+2023 % Change
+Net non-interest revenue (NIR)1 R million 611 411 49%
+Net interest income (NII) R million 489 366 34%
+Total revenue R million 1 100 777 42%
+Operating profit before new business acquisition costs R million 69 (154) (145%)
+Normalised loss from operations R million (145) (339) (57%)
+Retail deposits R billion 21.2 16.7 27%
+Advances R billion 7.8 5.7 37%
+Average interest-earnings assets (IEA) R billion 21 623 15 811 37%
+Credit loss ratio (CLR)2 % 3.3 3.2 3%
+Number of accounts Number 2 608 023 1 933 839 35%
+Number of clients Number 1 092 386 825 069 32%
+1 Refer to A.1
+2 CLR calculated as the expected credit loss (ECL) charge on the year-end advances balance, as disclosed in the Group’s full- year 2024 financial reporting
+Discovery Bank (DB) increased revenues by 42% and improved its operating loss before new business acquisition costs by 145%, 
+returning a profit of R69 million. The overall loss was 57% better than the prior period and the Bank achieved monthly break-even in 
+December, ahead of plan. 
+Discovery Bank’s total client base grew 32%. Non-interest revenue (NIR) continued to grow steadily, increasing 49%, driven by the 
+growth in clients as well as fee income per client, through increased product take-up and engagement levels. Payment volumes 
+increased 47% and spend values increased 42% compared to the prior period.
+The Bank remained focused on high-quality growth and customer primacy, given challenging macro-economic conditions. Deposits 
+increased by 27% and advances by 37%, driven mainly by the launch of home loans, which ended the period at R802 million. Net 
+interest income (NII) grew by 34% resultant from an increase in deposits and lower cost of funding.
+Unit
+December
+2024
+December
+2023 % Change
+Normalised profit from operations R million 2 023 1 874 8%
+New business API R million 4 714 6 835 (31%)
+Revenue1 R million 5 746 5 206 11%
+Non-scheme revenue as % of total revenue % 15.8% 13.1% 21%
+Lives under administration Million 3.96 3.85 3%
+1 Refer to A.1
+Discovery Health (DH) achieved an 8% increase in operating profit while continuing strategic investments in technology, innovation, 
+artificial intelligence, and personalised healthcare. Innovations such as the launch of Personal Health Pathways and the Active Smart 
+plan within the Discovery Health Medical Scheme (DHMS), are driving continued product differentiation and managing the forces that 
+drive up healthcare costs. New business increased 9%, excluding the Sasolmed closed medical scheme take-on in the prior period 
+(decreased 31%, including Sasolmed). During the period, DH administered the Discovery Health Medical Scheme (DHMS) and 
+18 closed medical schemes, all of which performed strongly. Revenue from non-medical scheme products continued to grow, 
+accounting for 15.8% of total DH revenue and underscoring opportunities in adjacent markets.
+DHMS demonstrated resilience amid low growth in the open medical scheme market and challenging macro-economic conditions, 
+maintaining a 57.9% market share among open medical schemes. Unaudited 2024 solvency remains robust at 31.0%, well above the 
+25% regulatory requirement.
+2. BUSINESS-SPECIFIC PERFORMANCE
+DISCOVERY SA 
+Discovery SA increased normalised operating profit by 27% to R5 520 million. The composite focused on driving quality new business at 
+appropriate margins, with new business increasing 6% to R9 019 million, excluding the prior period take-on of the Sasolmed closed 
+medical scheme (decreased 18%, including Sasolmed). 
+4 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+COMMENTARY continued
+Unit
+December
+2024
+December
+2023 % Change
+Normalised profit from operations R million 401 20 >100%
+Personal lines R million 372 2 >100%
+Equity accounted profits (/losses) R million 29 18 53%
+Operating margin Personal lines % 12.1% 0.1% >100%
+New business API Personal lines R million 659 666 (1%)
+Insurance revenue R million 3 078 2 792 10%
+Discovery Insure’s (DI) personal lines business delivered operating profit of R372 million, as the operating margin increased significantly to 
+12%, compared with 0% in the prior period. This demonstrates the continued focus on building a margin resilient to increased weather 
+unpredictability, through pricing discipline and claims efficiency initiatives, particularly on the motor vehicle book, which experienced a 
+significant reduction in accident and theft claims frequency. In addition to these improvements, severe weather in the prior period resulted 
+in elevated claims while benign weather conditions in the current period resulted in the loss ratio being c2.5% lower than expected. The 
+business remains focused on driving management actions to ensure margin resilience. Furthermore, DI continues to leverage the Sharedvalue Insurance model to optimise pricing, while ensuring selective retention and new business, resulting in insurance revenue (earned 
+premiums) increasing 10%, despite slightly lower new business. 
+DISCOVERY LIFE
+Unit
+December
+2024
+December
+2023 % Change
+Normalised profit from operations R million 904 620 46%
+Assets under administration R billion 166.9 144.8 15%
+Insurance revenue + fee income R million 3 198 2 678 19%
+Assets under management R billion 115.0 99.0 16%
+% linked assets in Discovery funds % 80.6% 80.2% 0.4%
+Net client cash flows R billion 2.4 1.1 118%
+New business API R million 1 735 1 629 7%
+Discovery Invest increased operating profit by 46% to R904 million. Assets under management grew 16% as a result of strong market 
+performance and positive net inflows. Growth in higher margin offshore and single premiums tranche products drove increased fee income. 
+As disclosed in the Group’s full-year 2024 financial reporting, the earnings profile of guaranteed endowments was amended to provide a 
+more accurate estimate of the ongoing profit release profile over the duration of a policy, resulting in a R68 million earnings rebase during 
+this period. Additionally, the business generated an asset liability match (ALM) gain following changes to the management of the portfolio, 
+amounting to R85 million. Excluding the rebase and one-off ALM gain, profit grew by 19%, in line with revenue growth.
+DISCOVERY INVEST
+DISCOVERY INSURE
+Unit
+December
+2024
+December
+2023 % Change
+Normalised profit from operations R million 2 612 2 267 15%
+New business API R million 1 463 1 519 (4%)
+Premium income3 R million 9 388 8 808 7%
+Insurance revenue R million 9 286 8 595 8%
+Solvency ratio1 % 183% 180% +3%
+Total VNB margin % 3.6% 4.3% (0.7%)
+New business net value 
+(New business CSM2 + RA2 – less onerous new business) R million 886 965 (8%)
+1 Including Invest
+2 CSM = contractual service margin, RA = risk adjustment
+3 Six-monthly premium income
+Discovery Life (DL) grew operating profits by 15% to R2 612 million through strong claims performances in both the Individual Life (+12%) 
+and Group Life (+61%) segments. This offset a significant reduction in the insurance finance income and expense (IFIE), which is impacted by 
+the lower systematic interest rates at the start of the financial year.
+New business API volumes decreased by 4% compared to the prior period, primarily due to a reduction in Group Life new business volumes. 
+DL maintained its leading position in the affluent retail protection market with a market share of 27%.
+The Discovery Life Limited embedded value (including Invest) delivered an annualised RoEV of 21%, driven by positive variances and lower 
+interest rates at the end of the period. Claims experience, in particular, delivered a significant positive variance to the embedded value. 
+Leadership remains focused on managing the negative policy alterations experience and are implementing a well-defined mitigation strategy.
+The VNB margin for Individual Life increased to 5.4% at December 2024 from 5.0% at June 2024, primarily due to efficient expense controls 
+and reduced interest rates. The improvement in the Individual Life VNB margin was offset by the decline in the Group Life new business 
+margin, given lower Group Life new business volumes, which tend to be lumpy in nature. The combined Individual and Group Life VNB 
+margin was 3.6%.
+Discovery Life maintained strong solvency and liquidity positions, with a solvency coverage ratio of 183% and liquidity coverage of 196%. DL 
+cash generation (including Invest) was strong, increasing to R1 523 million (prior period R1 093 million), before a R981 million net repayment 
+of financing arrangements (prior period R322 million).
+Unit
+December
+2024
+December
+2023 % Change
+Normalised profit from operations1 £ million 14.1 13.0 8%
+R million 327 304 8%
+New business API £ million 47.6 39.9 19%
+R million 1 101 935 18%
+Premium income £ million 217 197 10%
+R million 5 016 4 607 9%
+Insurance revenue £ million 162.4 145.3 12%
+R million 3 758 3 404 10%
+Solvency ratio % 196% 232% (16%)
+Lives covered Number 852 154 782 296 9%
+Total VNB margin % 0.9% (2.8%) >100%
+New business net value 
+(New business CSM + RA – less onerous new business)2 £ million 24.3 (0.2) >100%
+R million 562 (5) >100%
+1 Refer to D.1.1 
+2 New business net value excludes the impact of new reinsurance contracts attaching to the in-force book in the period. The total CSM and RA on all contracts 
+incepted in the period was R312 million (£13.3 million)
+VitalityLife’s (VL) operating profit increased by 8% to £14.1 million (increased 8% to R327 million). VL maintained its positive sales 
+trajectory from the second half of the previous year, with new business API increasing 19%, despite a stagnant UK market. New 
+business (excluding automatic contribution increases) increased by 39%, driven by the combination of advanced price optimisation 
+and the Shared-value Insurance model, which also benefited new business quality. Together with disciplined expense management, 
+these actions resulted in a significant improvement in new business value generated, resulting in a higher combined contractual 
+service margin (CSM) and risk adjustment (RA) balance at the end of the period. 
+VitalityLife’s underlying business performance was robust, with favourable lapse rates and claims experience reflecting the continued 
+engagement in Vitality – driving positive actuarial dynamics. Lives covered increased by 9%, while earned premiums increased by 
+10%, highlighting strong retention performance.
+Unit
+December
+2024
+December
+2023 % Change
+Normalised profit from operations £ million 25.9 22.5 15%
+R million 599 527 14%
+Insurance revenue £ million 394 340 16%
+R million 9 112 7 960 14%
+New business API1 £ million 57.3 55.5 3%
+R million 1 326 1 300 2%
+Lives covered Number 1 044 267 989 492 6%
+1 Refer to Annexure A 
+VitalityHealth’s (VH) operating profit increased 15% to £25.9 million (14% to R599 million), despite continued investment in healthcare 
+risk management capabilities, primary care assets, and digital servicing, to achieve cost efficiencies.
+The business has actioned significant price increases to new business and renewal premiums over the past 18 months to mitigate 
+the increased private medical insurance utilisation, following ongoing challenges at the National Health Service (NHS). 
+Notwithstanding the high increases combined with challenging macro-economic conditions, advanced price optimisation supported 
+new business growth of 3% as well as strong retention of in-force business, resulting in a 16% increase in insurance revenue (earned 
+premiums). Premiums have now caught up with recent claims experience, which appears to have stabilised.
+5
+The Vitality composite‘s normalised operating profit increased by 27% to R1 500 million and new business API increased by 8% to 
+R3 515 million, despite a slightly stronger average rand exchange rate. Following the establishment of the composite in 2024, there has 
+been a strong focus on delivering the global operating model to efficiently scale the business with operational leverage. 
+VITALITY HEALTH
+VITALITY LIFE
+VITALITY (UNITED KINGDOM AND VITALITY GLOBAL)
+6 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+COMMENTARY continued
+VITALITY GLOBAL 
+VITALITY NETWORK
+VHI OTHER
+Unit
+December
+2024
+December
+2023 % Change
+Revenue US$ million 54.1 50.3 8%
+R million 970 942 3%
+Normalised profit from operations US$ million 18.9 15.8 20%
+R million 339 296 15%
+Operating margin % 35% 31% +4%
+Integrated API by Insurance Partners US$ million 910 807 13%
+R billion 16.3 15.1 8%
+Number of lives Million 6.2 4.9 26%
+Vitality Network’s (VN) operating profit increased by 20% to US$18.9 million (15% to R339 million), outpacing the 8% revenue growth. 
+Performance-based revenues increased 14% to US$25.6 million, aligned with the 13% growth in integrated API. VN’s other revenue, 
+comprising solutions services, licence fees, infrastructure, technology and maintenance fees increased 2%, in line with costs, to 
+US$35.2 million, leading to strong margin expansion from 31% to 35%.
+Membership grew by 26% to 6.2 million, demonstrating the global relevance of the Vitality Shared-value Insurance model. VN began 
+the roll-out of its new mobile app experience in three markets – a.s.r in The Netherlands, IGI Life in Pakistan, and Saludsa in Ecuador. 
+The app was well received by members and will be enhanced with assets developed through Vitality AI. 
+Vitality USA acquired WellSpark in November 2024, progressing its strategy to expand from its traditional focus on the employee 
+wellness market towards the significantly larger addressable market of integrated digital health and care. The acquisition included a 
+multi-year contract to provide the Vitality platform to a leading health plan administrator, and will enable Vitality USA to provide a 
+broad set of customised wellbeing, coaching and disease prevention services. The business has also made several sales to health 
+plans, including to BlueCross BlueShield plans, and has expanded to the significant Medicare Advantage market. 
+Amplify Health continued its delivery of products and solutions within the Asia-Pacific markets. The business had successful 
+deployments of nine health-tech solutions across multiple Asia-pacific markets, across all its main products and is making progress 
+towards its aim of deploying an integrated suite of its products to the largest AIA markets as well as to external clients. 
+PING AN HEALTH INSURANCE (PAHI)
+Unit
+December
+2024
+December
+2023
+% 
+Change
+December
+2024
+December
+2023
+% 
+Change
+PAHI after-tax operating profit (25%), after 
+Discovery’s costs R million 424 344 23% 1 204 868 39%
+New business (100%)1 RMB million 1 743 1 591 10% 3 994 3 720 7%
+New business (25%)1 R million 1 088 1 027 6% 2 547 2 408 6%
+Earned premium (100%)1 RMB million 8 286 7 130 16% 15 904 14 057 13%
+Earned premium (25%)1 R million 5 173 4 604 12% 10 112 9 134 11%
+Lives1 Million 29.1 26.2 11% 29.1 26.2 11%
+Profit before income and gains (100%) RMB million 306 357 (14%) 1 420 1 122 27%
+Investment income and gains (100%) RMB million 599 202 196% 1 018 518 97%
+PAHI pre-tax profit (100%) RMB million 906 559 62% 2 439 1 640 49%
+1 PAHI own licence business
+* PAHI full year calendar performance has been included to align with the Chinese industry comparable reporting
+The Group’s share of PAHI’s after-tax operating profit increased by 23% to R424 million (and by 39% to R1 204 million over the 
+12-month period), notwithstanding the positive tax benefit in the prior period. PAHI’s pre-tax result increased 62% following strong 
+gains from Chinese bond and equity market movements in the period. A particularly low claims ratio in the prior period resulted in 
+the profit before income and gains declining 14% in the period, however, this increased by 27% over the 12-month calendar year, 
+resulting in a net margin of 12%, compared with 10% in the prior year. PAHI’s comprehensive solvency ratio increased to 339% in 
+Q4 2024 (306% in Q4 2023). 
+New business on the PAHI insurance licence increased by 10% over the six-month period (and by 7% over the 12-month period), 
+driven by a rise in new business through non-Ping An Life channels and a market shift towards higher-end products. Own licence 
+earned premiums grew by 16% over the six-month period (and by 13% over the 12-month period, outpacing the industry, which grew 
+by 5.5% over the same period), supported by continued growth in new business and consistently improving retention rates. The total 
+number of directly insured lives increased by 11% as of December 2024, reaching over 29 million lives. PAHI remains focused on 
+driving growth in own-licence business. Reinsurance business did increase strongly over the period, however, as previously 
+highlighted, PAHI generates only marginal value from this line of business.
+Interim-results period PAHI Full-year (12-month) period*
+7
+PROSPECTS AND DIVIDEND 
+Discovery’s growth strategy is based on the efficacy, repeatability, and scalability of its model through organic growth and global 
+partnerships. The Group is well positioned for sustained growth after a phase of investment in its two powerful and focused composites; 
+Discovery SA and Vitality, with strong platforms in each, resulting in growth in earnings, cash generation, and return on equity, as well as 
+lower leverage. Following the strong performance to date, the Group expects growth in profit from operations in 2025 to exceed the 
+Group’s medium-term ambition of 15% to 20%. This will be driven in particular by a second-half recovery in the UK, compared with the 
+second half of the prior year.
+In terms of the Group’s dividend policy, the annual ordinary dividend is expected to be covered approximately five times by normalised 
+headline earnings, with interim ordinary dividends expected to be paid in the range of 30% to 40% of the expected total annual ordinary 
+dividend. In line with this, the Group has declared its interim ordinary dividends for the period at 87 cents per share, consistent with the 
+growth in normalised headline earnings.
+NOTES TO ANALYSTS
+Any forecast financial information contained in this announcement has not been reviewed or reported on by the Company’s external 
+auditors. Discovery has published supplemental unaudited information on the website. For this and other results information, visit 
+https://www.discovery.co.za/corporate/investor-relations and go to Financial and annual reports.
+On behalf of the Board
+ME Tucker A Gore
+Chairperson Group Chief Executive
+Sandton
+3 March 2025
+8 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+GROUP STATEMENT OF FINANCIAL POSITION
+at 31 December 2024
+R million
+December
+2024
+June
+2024
+Assets
+Goodwill 5 366 5 292 
+Intangible assets 7 745 7 239 
+Property and equipment 3 415 3 581
+Assets arising from insurance contracts issued 49 606 41 816
+Assets arising from reinsurance contracts held 941 837
+Deferred tax asset 5 468 5 631
+Assets arising from contracts with customers 3 160 2 598
+Investment in equity-accounted investees 8 961 8 189
+Financial assets
+– Loans and advances to customers at amortised cost 7 859 6 028
+– Investments at amortised cost 10 777 11 100
+– Investments at fair value through comprehensive income 16 –
+– Investments at fair value through profit or loss 180 732 165 671
+– Derivative financial instruments at fair value through profit or loss 88 43
+Contract receivables and other receivables 6 332 6 729
+Non-current assets held for sale 140 136
+Current tax asset 87 250
+Cash and cash equivalents 19 359 18 971
+TOTAL ASSETS 310 052 284 111
+Equity
+Capital and reserves
+Ordinary share capital and share premium 11 357 10 667
+Perpetual preference share capital 779 779
+Other reserves 9 272 6 275
+Retained earnings 43 239 39 998
+Equity attributable to equity holders of the Company 64 647 57 719
+Non-controlling interest (3) *
+TOTAL EQUITY 64 644 57 719
+Liabilities
+Liabilities arising from insurance contracts issued 112 839 105 070
+Liabilities arising from reinsurance contracts held 7 501 5 396
+Deferred tax liability 9 661 8 184
+Contract liabilities to customers 723 512
+Third-party interest in consolidated funds 33 831 31 456
+Financial liabilities
+– Borrowings at amortised cost 21 154 21 662
+– Other financial payables at amortised cost 6 866 8 007
+– Deposits from customers 21 163 18 467
+– Investment contracts at fair value through profit or loss 28 951 25 710
+– Derivative financial instruments at fair value through profit or loss 70 31
+Provisions 546 449
+Other payables 1 742 1 216
+Current tax liability 361 232
+TOTAL LIABILITIES 245 408 226 392
+TOTAL EQUITY AND LIABILITIES 310 052 284 111
+* Amount less than R500 000. 
+9
+GROUP INCOME STATEMENT
+for the six months ended 31 December 2024
+R million
+December
+2024
+Restated1
+December
+2023
+June
+2024
+Insurance revenue 27 774 25 153 51 857
+Insurance service expenses (23 681) (22 045) (46 145)
+Net expenses from reinsurance contracts (816) (607) (915)
+Insurance service result 3 277 2 501 4 797
+Net financial result from insurance finance income and expense (6 006) (2 870) (7 245)
+– Net finance expense from insurance contracts (5 807) (2 710) (6 902)
+– Net finance expense from reinsurance contracts (199) (160) (343)
+Investment income using the effective interest rate method 461 412 860
+Net fair value gains on financial assets at fair value through profit or loss 12 637 6 670 16 245
+Fair value adjustment to liabilities under investment contracts (1 919) (691) (2 142)
+Third-party interest: fair value adjustment to liabilities under investment contracts (2 401) (1 149) (2 873)
+Other gains on financial instruments (9) 5 5
+Net insurance and investment results 6 040 4 878 9 647
+Fee income from administration businesses 7 314 6 903 14 093
+Vitality income 2 618 2 135 4 655
+Net banking fee and commission income 731 581 1 398
+– Banking fee and commission income 1 036 845 1 872
+– Banking fee and commission expense (305) (264) (474)
+Net banking interest and similar income 489 366 779
+– Banking interest and similar income using the effective interest rate 1 105 869 1 840
+– Banking interest and similar expense using the effective interest rate (616) (503) (1 061)
+Other income 936 779 1 380
+Non-insurance revenue and income 12 088 10 764 22 305
+Net income 18 128 15 642 31 952
+Non-insurance acquisition costs (600) (456) (988)
+Expected credit losses (118) (93) (183)
+Marketing and administration expenses (10 533) (9 627) (19 644)
+Operating profit 6 877 5 466 11 137
+(Loss)/gain on dilution and disposal of equity-accounted investments (26) – 22
+Share of net profits from equity-accounted investments 399 278 975
+Profit before financing and income tax 7 250 5 744 12 134
+Interest expenses on borrowings and lease liabilities (1 094) (1 025) (2 036)
+Foreign exchange gains/(losses) 13 (40) (87)
+Profit before income tax 6 169 4 679 10 011
+Income tax expense (1 840) (1 401) (2 647)
+Profit for the period/year 4 329 3 278 7 364
+Profit attributable to: 
+– Ordinary shareholders 4 285 3 239 7 283
+– Preference shareholders 47 44 91
+– Non-controlling interest (3) (5) (10)
+4 329 3 278 7 364
+Earnings per share for profit attributable to ordinary shareholders 
+of the company during the year (cents): 
+– Basic 637.10 483.3 1 082.7 
+– Diluted 633.90 480.8 1 076.3 
+1 The comparative information for 31 December 2023 has been restated for the correction of prior period errors in line with and as disclosed in the annual financial 
+statements for the year ended 30 June 2024. Refer to D.1.1 for more details.
+10 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+GROUP STATEMENT OF OTHER COMPREHENSIVE INCOME
+for the six months ended 31 December 2024
+R million
+December
+2024
+Restated1
+December
+2023
+June
+2024
+Profit for the period/year 4 329 3 278 7 364
+Income and expenses that will be reclassified to profit or loss when specific 
+conditions are met:
+Currency translation differences 577 (371) (823)
+Unrealised gains/(losses) 589 (383) (846)
+Tax on unrealised gains/(losses) (12) 12 23
+Cash flow hedges (40) (70) (61)
+– Unrealised losses (40) (72) (65)
+– Gains reclassified to profit or loss – 2 4
+Net finance income from insurance contracts issued 2 611 1 496 2 672
+– Unrealised income 3 565 2 001 3 595
+– Tax on unrealised income (954) (505) (923)
+Net finance expense from reinsurance contracts held (117) (456) (221)
+– Unrealised expense (158) (609) (290) 
+– Tax on unrealised expense 41 153 69
+Share of other comprehensive income from equity-accounted investments 301 18 (236)
+– Change in fair value of debt instruments at fair value through other 
+comprehensive income 49 (1) 45
+– Currency translation differences 252 19 (281)
+Total income and expenses that will be reclassified to profit or loss when 
+specific conditions are met 3 332 617 1 331
+Income and expenses that will not be reclassified to profit or loss:
+Share of other comprehensive (loss)/income from equity-accounted
+investment
+– Change in fair value of equity instruments at fair value through other 
+comprehensive income (5) (2) 17
+Total income and expenses that will not be reclassified to profit or loss (5) (2) 17
+Other comprehensive income for the period/year, net of tax 3 327 615 1 348
+Total comprehensive income for the period/year 7 656 3 893 8 712
+Attributable to:
+– Ordinary shareholders 7 612 3 849 8 625
+– Preference shareholders 47 44 91
+– Non-controlling interest (3) – (4)
+Total comprehensive income for the period/year 7 656 3 893 8 712
+1 The comparative information for 31 December 2023 has been restated for the correction of prior period errors in line with and as disclosed in the annual financial 
+statements for the year ended 30 June 2024. Refer to D.1.1 for more details.
+11
+GROUP STATEMENT OF CASH FLOWS
+for the six months ended 31 December 2024
+R million
+December
+2024
+Restated1
+December
+2023
+June
+2024
+Cash flows from operating activities 3 546 (221) 2 733
+Cash (utilised)/generated from operations (1 397) 2 862 2 997 
+Interest received 1 245 1 104 2 325 
+Interest paid (1 494) (1 305) (2 627) 
+Taxation paid (758) (792) (1 522) 
+Net movement in operating assets and liabilities1 5 950 (2 090) 1 560
+– (Increase)/decrease in operating assets (7 666) 940 (7 513) 
+– Increase/(decrease) in operating liabilities 13 616 (3 030) 9 073
+Cash flows from investing activities (1 304) (1 221) (1 886)
+Purchase of property and equipment (120) (246) (414)
+Proceeds from disposal of property and equipment 3 – 29
+Purchase of intangible assets (875) (800) (1 789) 
+Acquisition of business, net of cash acquired (304) – –
+Additional investment in equity-accounted investments (11) (176) (17) 
+Dividends received from equity-accounted investments 3 1 305 
+Cash flows from financing activities (1 938) (1 150) (780)
+Purchase of treasury shares – – (131)
+Dividends paid to ordinary shareholders (1 026) (739) (1 178)
+Dividends paid to preference shareholders (47) (44) (91)
+Proceeds from borrowings 1 765 500 2 005 
+Repayment of borrowings (2 630) (867) (1 385)
+Net increase/(decrease) in cash and cash equivalents 304 (2 592) 67 
+Cash and cash equivalents at beginning of the period/year 18 965 19 138 19 138 
+Effects of exchange rate changes on cash and cash equivalents 90 (175) (240)
+Cash and cash equivalents at end of the period/year 19 359 16 371 18 965 
+Reconciliation to statement of financial position
+Cash and cash equivalents 19 359 16 371 18 971 
+Bank overdraft included in borrowings at amortised cost – – (6)
+Cash and cash equivalents at end of the period/year 19 359 16 371 18 965
+1 To align the layout of the Group statement of cash flows for 31 December 2024 with the structure used for 30 June 2024, and to correct prior period errors, certain 
+items have been reclassified within the statement. The most significant reclassification relates to changes in the net movement of operating assets and liabilities. These 
+adjustments and corrections are consistent with, and disclosed in, the annual financial statements for the year ended 30 June 2024. For further details, refer to D.1.2, 
+item 2: Change in Presentation of the Group statement of cash flows. The comparative information for 31 December 2023 has also been restated to reflect the changes 
+in structure and the correction of prior period errors.
+12 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024 13
+Attributable to equity holders of the company Attributable to equity holders of the company
+R million
+Share capital 
+and 
+share 
+premium
+Perpetual 
+preference 
+share 
+capital
+Share-based 
+payment 
+reserve
+Investment 
+reserve1
+Insurance
+ finance
+reserve
+Foreign 
+currency 
+translation 
+reserve
+Hedging 
+reserve
+Retained 
+earnings Total
+Noncontrolling 
+interest
+Total 
+equity
+Six months ended 31 December 2024
+At beginning of the period – July 2024 10 667 779 1 433 81 (733) 5 514 (20) 39 998 57 719 – 57 719 
+Total comprehensive income for the period – 47 – 44 2 494 829 (40) 4 285 7 659 (3) 7 656 
+Profit for the period – 47 – – – – – 4 285 4 332 (3) 4 329 
+Other comprehensive income – – – 44 2 494 829 (40) – 3 327 – 3 327 
+Transactions with owners 690 (47) (330) – – – – (1 044) (731) – (731)
+Share issue 626 – – – – – – – 626 – 626 
+Increase in treasury shares (626) – – – – – – – (626) – (626)
+Delivery of treasury shares 690 – (672) – – – – (18) – – – 
+Employee share option schemes:
+– Value of employee services, net of tax – – 342 – – – – – 342 – 342 
+Dividends paid to preference shareholders – (47) – – – – – – (47) – (47)
+Dividends paid to ordinary shareholders – – – – – – – (1 026) (1 026) – (1 026)
+At end of the period 11 357 779 1 103 125 1 761 6 343 (60) 43 239 64 647 (3) 64 644 
+Six months ended 31 December 2023
+At beginning of the period – July 2023 10 351 779 1 190 19 (3 184) 6 624 41 33 900 49 720 4 49 724
+Total comprehensive income for the period – 44 – (3) 1 040 (357) (70) 3 239 3 893 – 3 893
+Profit for the period – 44 – – – – – 3 239 3 283 (5) 3 278
+Other comprehensive income – – – (3) 1 040 (357) (70) – 610 5 615
+Transactions with owners 443 (44) (132) – – – – (744) (477) – (477)
+Share issue 432 – – – – – – – 432 – 432 
+Increase in treasury shares (432) – – – – – – – (432) – (432) 
+Delivery of treasury shares 443 – (438) – – – – (5) – – – 
+Employee share option schemes:
+– Value of employee services, net of tax – – 306 – – – – – 306 – 306 
+Dividends paid to preference shareholders – (44) – – – – – – (44) – (44)
+Dividends paid to ordinary shareholders – – – – – – – (739) (739) – (739)
+At end of the period 10 794 779 1 058 16 (2 144) 6 267 (29) 36 395 53 136 4 53 140
+1 This relates to fair value adjustments on those equity instruments designated at fair value through other comprehensive income (FVOCI) and those debt instruments 
+measured at FVOCI, in terms of IFRS 9 Financial Instruments. 
+GROUP STATEMENT OF CHANGES IN EQUITY
+for the six months ended 31 December 2024
+SECTION A
+Notes to the condensed 
+consolidated financial 
+statements
+15 A.1 Segment information
+24 A.2 Normalised profit from operations
+24 A.3 Earnings, headline earnings and 
+normalised headline earnings
+26 A.5 Borrowings at amortised cost 
+28 A.6 Fair value hierarchy
+26 A.4 Revenue from non-insurance activities
+14 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+15
+A.1 SEGMENT INFORMATION
+Discovery’s operating segments are reported in a manner consistent with the internal reporting provided to the chief operating 
+decision-maker (CODM). The CODM has been identified as the Group Executive Committee who makes strategic decisions 
+regarding these businesses. 
+An operating segment is a component of an entity:
+(a) That engages in business activities from which it may earn revenues and incur expenses, including revenues and expenses 
+relating to transactions with other components of the same entity.
+(b) Whose operating results are regularly reviewed by the entity’s CODM to make decisions about resources to be allocated to 
+the segment and assess its performance; and
+(c) For which discrete financial information is available.
+An operating segment may engage in business activities for which it has yet to earn revenues, for example, start-up operations 
+may be operating segments before earning revenues.
+Discovery will report separately information about an operating segment that meets any of the following quantitative thresholds: 
+(a) Its reported revenue, including both sales to external customers and intersegment sales or transfers, is 10 percent or more of 
+the combined revenue, internal and external, of all operating segments.
+(b) The absolute amount of its reported profit or loss is 10 percent or more of the greater, in absolute amount, of (i) the 
+combined reported profit of all operating segments that did not report a loss and (ii) the combined reported loss of all 
+operating segments that reported a loss; and 
+(c) Its assets are 10 percent or more of the combined assets of all operating segments. 
+Operating segments that do not meet any of the quantitative thresholds may be considered reportable, and separately disclosed, 
+if management believes that information about the segment would be useful to users of the financial statements. 
+Discovery may combine information about operating segments that do not meet the quantitative thresholds with information 
+about other operating segments that do not meet the quantitative thresholds to produce a reportable segment only if the 
+operating segments have similar economic characteristics. 
+The Group has identified its reportable segments based on a combination of products and services offered to customers and the 
+location of the markets served.
+A. Notes to the condensed consolidated financial statements 
+DISCLOSURE
+for the six months ended 31 December 2024
+16 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+A. Notes to the condensed consolidated financial statements continued
+A.1 SEGMENT INFORMATION continued
+The following summary describes the operations of each of the Group’s reportable segments:
+SA Health
+ Administers and provides managed care services 
+to medical schemes in South Africa.
+ Renders administration services to other business 
+segments within the Group.
+ Together with Medical Services Organisation 
+International (MSO), a subsidiary company, 
+delivers health insurance, healthcare risk 
+management and third-party administration 
+services within rest of Africa markets.
+ Offers non-medical scheme-related products such 
+as Gap Cover for unexpected medical costs and 
+Flexicare – which provides quality, affordable 
+access to primary healthcare for employees unable 
+to access medical scheme benefits.
+SA Life
+Offers a range of insurance and financial solutions 
+to the Group’s clients against the financial impact 
+of lifestyle-changing events in South Africa.
+SA Invest
+Offers, through a range of investment fund choices, 
+including Discovery managed unit trusts, a 
+comprehensive and flexible range of investment 
+choices. These products are sold through a number 
+of investment wrappers, including Discovery Life 
+policies, and are offered to individuals in South Africa. 
+In 2023, Invest launched Cogence with BlackRock, 
+which is a shared-value discretionary fund manager.
+SA Insure
+Offers a range of personal line insurance (motor, 
+building, household content and portable 
+possessions) to the Group’s SA clients against the 
+financial impact of loss or damage. The segment 
+also includes SA Insure’s equity-accounted interests 
+including Cambridge Mobile Telematics (CMT). 
+SA Bank
+Offers retail banking solutions, including deposits 
+and loans and advances, to clients in the South 
+African market. The Bank is still in a start-up phase. 
+UK Health
+Offers consumer-engaged private medical 
+insurance products to employer groups and 
+individuals in the UK. All contracts in this segment 
+are short-term insurance contracts.
+UK Life
+Offers a risk-only life assurance product. All 
+contracts in this segment are long-term assurance 
+contracts offered to both employer groups and 
+individuals in the UK.
+All other 
+segments
+Includes those segments that do not meet the quantitative thresholds set out in IFRS 8 Operating Segments and 
+cannot be aggregated with another reportable segment. It includes the following operating segments: 
+ Discovery SA:
+– SA Vitality, which offers health and lifestyle benefits with selected partners to the Group’s SA clients.
+– SA Insure commercial: provides commercial short-term risk insurance products to the South African 
+market. Discovery announced that it is exiting this business with all remaining covers terminated by 
+31 August 2024.
+– Discovery Umbrella: offers pension and provident fund solutions that encourage employees to reach their 
+retirement goals with unique rewards, benefits and digital engagement.
+– SA Distribution: provides sales and distribution services in respect of all SA products.
+– Discovery Central Services, performing various shared services, treasury and administrative functions to 
+entities within the Discovery Group. 
+– Other new group initiatives, including Discovery Green, as well as unallocated central costs.
+ Vitality: 
+– Vitality Corporate Services (VCSL): provides administration, distribution and management services for 
+entities within the UK Composite
+– Vitality Health International, leverages Discovery Health and Vitality’s intellectual property to create 
+strategic partnerships through equity-accounted interests in health insurance and health technology and 
+solutions businesses, which includes the equity-accounted interests in Ping An Health Insurance and 
+Amplify Health.
+– Vitality Network, which provides a Vitality platform to international insurance businesses.
+– Includes immaterial interests in equity-accounted interests, UK Invest (closed down), as well as unallocated 
+central costs.
+17
+A.1 SEGMENT INFORMATION continued
+The Group Executive Committee assesses the performance of the reportable segments based on normalised profit/loss from 
+operations. Items that are excluded from normalised profit/loss from operations are separately disclosed in the segment information to 
+reconcile to the segment results and Group income statement. The segment information is presented on the same basis as reported to 
+the CODM. 
+The segment total is then adjusted for accounting reclassifications and entries required to produce results compliant with the IFRS 
+Accounting Standards, i.e. IFRS reporting adjustments. These adjustments include the following:
+(a) Unit trusts that the Group controls in terms of IFRS 10 Consolidated Financial Statements are consolidated into Discovery’s results for 
+IFRS purposes. The IFRS reporting adjustments include the effects of consolidating the unit trusts into Discovery’s results, effectively 
+being the income and expenses relating to units held by third parties. 
+(b) The effects of eliminating intercompany transactions on consolidation and normalised operating profit adjustments; and
+(c) The effects of reclassifying items to align to the IFRS Group income statement.
+The following changes were made to the Segment information presented for the year ended 30 June 2024, with the results for the 
+current reporting period presented in a consistent manner. The comparative information previously presented for 31 December 2023 
+has been restated accordingly:
+1. Since 1 July 2023, Discovery has undertaken an improvement project for segmental information. The key objective of this project is 
+to ensure that segmental information reflects how the Discovery Group is managed while also meeting the objectives and 
+requirements of IFRS 8 Operating Segments.
+2. In line with current management view of intra-segment transactions, SA Health has been restated to reduce other income by 
+R140 million, with a corresponding decrease in marketing and administration expenses. This change in management view of SA 
+Health segment information had no resultant change in the Group income statement.
+3. ‘All other segments’ changed its management view of which costs it considers being a refund of expenses incurred (included within 
+marketing and administration expenses) versus whether those costs are for services provided (included in Vitality Income). ‘All other 
+segments’ have been accordingly adjusted to increase Vitality income with R145 million with an equal increase in marketing and 
+administration expenses. This change in management view of the ‘All other segments’ had no resultant change in the Group income 
+statement.
+4. SA Insure segmental information has been restated in line with the correction of the error as noted in note D.1.1. Item 2B. 
+The change did not affect the reported normalised profit from operations.
+As disclosed in the Discovery Limited Annual Financial Statements for the year ended 30 June 2024, Discovery has noted the IFRIC 
+decision Disclosure of Revenues and Expenses for Reportable Segments (IFRS 8 Operating Segments), finalised in June 2024.
+Changes from 1 July 2024
+1. In response to the IFRIC decision, the improvement project, and JSE Proactive Monitoring observations, the Discovery Group has 
+expanded its segmental reporting disclosures. In particular, the adjustments consider whether the information reviewed by the 
+Chief Operating Decision Maker (CODM), as well as required disclosures of specified transactions included within the measurement 
+of normalised profit from operations comply with IFRS 8.23.
+As a result, Discovery has implemented the following changes:
+ To reflect material items of income and expense, marketing and administration expenses have been disaggregated to separately 
+present staff costs, which represent a material component of these expenses. The staff costs shown in the segment are net of 
+allocations to the insurance service expense. A separate note (A.1.2) has been included in the segmental information for this 
+disclosure.
+ Discovery has included a separate note (A.1.1) to clearly present items of revenue and other income arising from internal 
+transactions with other segments.
+To implement the changes as disclosed in note A.1.1. for internal transactions, Discovery has revised the presentation of 
+intersegment charges, recoveries, revenues, and income:
+ Prior to 1 July 2024 – Intercompany recoveries, recharges, other income, and intercompany revenues were offset within 
+marketing and administration expenses, with the net expense reflected in the segment.
+ Effective from 1 July 2024 – The presentation of these items within segmental information now aligns more closely with the 
+financial statements of the respective business lines.
+ These changes have been enabled through the new financial reporting system and required significant development to ensure 
+the accuracy of the information. As permitted by IFRS 8.29, prior-year segmental information has not been restated due to the 
+cost and effort required to reperform the changes for the prior period. Refer to Note A.1.1 for further details, ensuring that the 
+results for the six months ended 31 December 2024 are comparable to those for the six months ended 31 December 2023.
+2. Prior to 1 July 2024, VCSL was included as part of the UK Health segment alongside Vitality Health. Effective from 1 July 2024 (with 
+restatement of comparative information), VCSL, as the central services company within the UK, has been excluded from the UK 
+Health segment and instead included in All Other Segments. This treatment aligns VCSL with the treatment of Discovery Central 
+Services. This change, together with the other changes noted earlier, had no impact on the normalised profit from operations for 
+the UK Health segment.
+3. The CODM has revised their view of SA Bank costs related to health and lifestyle benefits to align more closely with the treatment in 
+Discovery Bank’s separate statutory accounts. These costs were previously disclosed within marketing and administration expenses 
+and are now included within the Net Banking fee and commission income of SA Bank. The comparative information has been 
+restated accordingly to reflect this revised treatment resulting in a decrease of R 156million in the Net banking and commission 
+income, with an equal and opposite decrease in marketing and administration expenses. This change in management view had no 
+resultant change in the Group income statement.
+18 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024 19
+R million Note(s)
+SA
+Health
+SA
+Life
+SA
+Invest
+SA
+Insure
+SA
+Bank
+UK
+Health
+UK
+Life
+All other
+segments
+Segment
+total
+IFRS 
+reporting
+adjustments
+IFRS
+total
+31 December 2024
+Income statement
+Insurance revenue 236 9 286 2 209 3 078 – 9 112 3 758 95 27 774 – 27 774 
+– Contracts measured under the General measurement model/Variable fee approach – 7 437 2 209 – – – 3 758 – 13 404 – 13 404 
+– Contracts measured under Premium allocation approach 236 1 849 – 3 078 – 9 112 – 95 14 370 – 14 370 
+Insurance service expenses (146) (7 837) (1 327) (2 690) – (8 280) (3 290) (111) (23 681) – (23 681)
+– Claims and benefits (94) (5 788) (295) (1 568) – (5 367) (1 693) (74) (14 879) – (14 879)
+– Insurance service expense and other (27) (990) (522) (672) – (1 957) (173) (33) (4 374) – (4 374)
+– Insurance acquisition cash flows (25) (1 059) (510) (450) – (956) (1 424) (4) (4 428) – (4 428)
+Insurance service result (pre-reinsurance) 90 1 449 882 388 – 832 468 (16) 4 093 – 4 093 
+Net expenses from reinsurance contracts (1) (530) – (52) – – (239) 6 (816) – (816)
+– Reinsurance expense (1) (1 876) – (66) – (2) (4 270) (33) (6 248) – (6 248)
+– Insurance claims recovered from reinsurers – 1 346 – 14 – 2 4 031 39 5 432 – 5 432 
+Insurance service result 89 919 882 336 – 832 229 (10) 3 277 – 3 277
+Net financial result from insurance finance income and expense – 1 350 (7 454) – – – 145 – (5 959) (47) (6 006)
+– Net finance income/(expense) from insurance contracts – 1 421 (7 454) – – – 273 – (5 760) (47) (5 807)
+– Net finance expense from reinsurance contracts – (71) – – – – (128) – (199) – (199)
+Investment income using the effective interest rate method 9 2 42 123 – 51 44 8 279 182 461 
+Net fair value gains/(losses) on financial instruments at fair value through profit or loss 6 267 8 216 8 (1) 60 – 1 317 9 873 2 764 12 637 
+Fair value adjustments to liabilities under investment contracts – – (602) – – – – (1 317) (1 919) – (1 919)
+Third-party interest: fair value adjustments to liabilities under investment contracts – – – – – – – – – (2 401) (2 401)
+Intersegment funding – 237 (237) – – – – – – – – 
+Other losses on financial instruments – – – – (9) – – – (9) – (9)
+Net insurance and investment results 104 2 775 847 467 (10) 943 418 (2) 5 542 498 6 040 
+Fee income from administration businesses A.1.1 4 744 – 989 – – 17 – 1 630 7 380 (66) 7 314 
+Vitality income A.1.1 – – – – – 16 128 2 741 2 885 (267) 2 618 
+Net banking fee and commission income – – – – 611 – – (30) 581 150 731 
+– Banking fee and commission income – – – – 1 036 – – – 1 036 – 1 036 
+– Banking fee and commission expense – – – – (425) – – (30) (455) 150 (305)
+Net banking interest and similar income – – – – 489 – – – 489 – 489 
+– Banking interest and similar income using the effective interest rate – – – – 1 105 – – – 1 105 – 1 105 
+– Banking interest and similar expense using the effective interest rate – – – – (616) – – – (616) – (616)
+Other income A.1.1 882 61 – 16 21 10 – 7 161 8 151 (7 215) 936 
+Non-insurance revenue and income 5 626 61 989 16 1 121 43 128 11 502 19 486 (7 398) 12 088 
+Net income 5 730 2 836 1 836 483 1 111 986 546 11 500 25 028 (6 900) 18 128 
+Non-insurance acquisition costs – – (486) – – – – (114) (600) – (600)
+Expected credit losses – – – – (118) – – – (118) – (118)
+Marketing and administration expenses A.1.2 (3 707) (224) (446) (118) (1 138) (387) (221) (11 473) (17 714) 7 181 (10 533)
+Share of net profits from equity-accounted investments – – – 36 – – 2 386 424 (25) 399 
+Normalised profit/(loss) from operations A.2 2 023 2 612 904 401 (145) 599 327 299 7 020 256 7 276 
+Investment income earned on shareholder investments and cash 43 14 5 – – – – 120 182 (182) – 
+Intercompany investment income – – – – – – – 681 681 (681) – 
+Net fair value gains/(losses) on financial assets at fair value through profit or loss – 41 35 – – – – 2 78 (78) – 
+(Loss)/gain from dilution of equity accounted investments – – – (26) – – – – (26) – (26)
+Amortisation of intangibles from business combinations – – – (25) – – – (29) (54) 54 – 
+Market rentals related to Head Office building adjusted for finance costs and depreciation – – – – – – – (44) (44) 44 – 
+Restructuring costs – – – – – – – (46) (46) 46 – 
+Interest expenses on borrowings and lease liabilities (1) – – – – (10) (104) (839) (954) (140) (1 094)
+Intercompany finance expenses on borrowings (222) – – – – – (225) (234) (681) 681 – 
+Foreign exchange (losses)/gains (2) 3 (6) – – – – 18 13 – 13 
+Profit/(loss) before income tax 1 841 2 670 938 350 (145) 589 (2) (72) 6 169 – 6 169 
+Income tax expense (497) (715) (401) (101) 32 (147) (31) 20 (1 840) – (1 840)
+Profit/(loss) for the period 1 344 1 955 537 249 (113) 442 (33) (52) 4 329 – 4 329 
+Profit attributable to:
+– Ordinary shareholders 1 347 1 955 537 249 (113) 442 (33) (99) 4 285 – 4 285 
+– Preference shareholders – – – – – – – 47 47 – 47 
+– Non-controlling interest (3) – – – – – – – (3) – (3)
+A. Notes to the condensed consolidated financial statements continued
+A.1 SEGMENT INFORMATION continued
+20 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024 21
+R million Note(s)
+SA
+Health
+SA
+Life
+SA
+Invest
+SA
+Insure
+SA
+Bank
+UK
+Health
+UK
+Life
+All other
+segments
+Segment
+total
+IFRS 
+reporting
+adjustments
+IFRS
+total
+31 December 2023 Restated
+Income statement
+Insurance revenue 193 8 595 1 866 2 792 – 7 960 3 404 343 25 153 – 25 153
+– Contracts measured under the General measurement model/Variable fee approach – 6 859 1 866 – – – 3 404 – 12 129 – 12 129
+– Contracts measured under Premium allocation approach 193 1 736 – 2 792 – 7 960 – 343 13 024 – 13 024 
+Insurance service expenses (139) (7 489) (1 174) (2 756) – (7 197) (2 914) (376) (22 045) – (22 045)
+– Claims and benefits (77) (5 700) (202) (1 838) – (4 297) (1 576) (236) (13 926) – (13 926)
+– Insurance service expense and other (41) (819) (525) (491) – (2 051) (74) (68) (4 069) – (4 069)
+– Insurance acquisition cash flows (21) (970) (447) (427) – (849) (1 264) (72) (4 050) – (4 050)
+Insurance service result (pre-reinsurance) 54 1 106 692 36 – 763 490 (33) 3 108 – 3 108
+Net expenses from reinsurance contracts – (410) – 19 – (5) (212) 1 (607) – (607)
+– Reinsurance expense – (1 800) – (249) – (5) (2 675) (135) (4 864) – (4 864)
+– Insurance claims recovered from reinsurers – 1 390 – 268 – – 2 463 136 4 257 – 4 257
+Insurance service result 54 696 692 55 – 758 278 (32) 2 501 – 2 501
+Net financial result from insurance finance income and expense – 1 318 (3 939) – – – 98 – (2 523) (347) (2 870)
+– Net finance income/(expense) from insurance contracts – 1 414 (3 939) – – – 162 – (2 363) (347) (2 710)
+– Net finance expense from reinsurance contracts – (96) – – – – (64) – (160) – (160)
+Investment income using the effective interest rate method – 10 26 103 – 83 41 10 273 139 412 
+Net fair value (losses)/gains on financial instruments at fair value through profit or loss (4) 520 3 911 4 – 56 – 424 4 911 1 759 6 670
+Fair value adjustments to liabilities under investment contracts – (1) (260) – – – – (430) (691) – (691)
+Third-party interest: fair value adjustments to liabilities under investment contracts – – – – – – – – – (1 149) (1 149)
+Intersegment funding – (121) 121 – – – – – – – – 
+Other gains on financial instruments – – – – 5 – – – 5 – 5 
+Net insurance and investment results 50 2 422 551 162 5 897 417 (28) 4 476 402 4 878
+Fee income from administration businesses A.1.1 4 452 – 812 4 – 14 – 1 621 6 903 – 6 903 
+Vitality income A.1.1 – – – – – 7 131 2 142 2 280 (145) 2 135 
+Net banking fee and commission income – – – – 411 – – 14 425 156 581 
+– Banking fee and commission income – – – – 809 – – – 809 36 845 
+– Banking fee and commission expense – – – – (398) – – 14 (384) 120 (264)
+Net banking interest and similar income – – – – 366 – – – 366 – 366 
+– Banking interest and similar income using the effective interest rate – – – – 869 – – – 869 – 869 
+– Banking interest and similar expense using the effective interest rate – – – – (503) – – – (503) – (503)
+Other income A.1.1 549 1 – 11 – 11 – 67 639 140 779 
+Non-insurance revenue and income 5 001 1 812 15 777 32 131 3 844 10 613 151 10 764 
+Net income 5 051 2 423 1 363 177 782 929 548 3 816 15 089 553 15 642
+Non-insurance acquisition costs – – (402) – – – – (54) (456) – (456)
+Expected credit losses – – – – (93) – – – (93) – (93)
+Marketing and administration expenses A.1.2 (3 177) (156) (341) (176) (1 028) (402) (244) (3 782) (9 306) (321) (9 627)
+Share of net profits from equity-accounted investments – – – 19 – – – 283 302 (24) 278 
+Normalised profit/(loss) from operations A.2 1 874 2 267 620 20 (339) 527 304 263 5 536 208 5 744
+Investment income earned on shareholder investments and cash 54 13 6 – – – – 66 139 (139) – 
+Intercompany investment income – – – – – – – 823 823 (823) – 
+Net fair value gains/(losses) on financial assets at fair value through profit or loss – 29 27 – – – – – 56 (56) – 
+Amortisation of intangibles from business combinations – – – (24) – – – (28) (52) 52 – 
+Market rentals related to Head Office building adjusted for finance costs and depreciation – – – – – – – (59) (59) 59 – 
+Restructuring costs – – – – – – – (20) (20) 20 – 
+Interest expenses on borrowings and lease liabilities (11) (1) – – – (8) (112) (749) (881) (144) (1 025)
+Intercompany finance expenses on borrowings (201) – – – – – (227) (395) (823) 823 – 
+Foreign exchange gains/(losses) 1 (4) (12) – – – – (25) (40) – (40)
+Profit/(loss) before income tax 1 717 2 304 641 (4) (339) 519 (35) (124) 4 679 – 4 679
+Income tax expense (470) (612) (228) (1) 108 (92) (5) (101) (1 401) – (1 401)
+Profit/(loss) for the period 1 247 1 692 413 (5) (231) 427 (40) (225) 3 278 – 3 278
+Profit attributable to:
+– Ordinary shareholders 1 252 1 692 413 (5) (231) 427 (40) (269) 3 239 – 3 239
+– Preference shareholders – – – – – – – 44 44 – 44 
+– Non-controlling interest (5) – – – – – – – (5) – (5)
+A. Notes to the condensed consolidated financial statements continued
+A.1 SEGMENT INFORMATION continued
+22 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024 23
+A.1 SEGMENT INFORMATION continued 
+A.1.1 Revenues and income with other operating segments
+The net income presented within each respective segment includes the following items of revenue and income derived from 
+transactions with other operating segments of the Group:
+R million
+SA
+Health
+SA
+Life
+SA
+Invest
+SA
+Insure
+SA
+Bank
+UK
+Health
+UK
+Life
+All other
+segments
+Segment 
+total
+31 December 2024
+Fee income from administration businesses – – – – – – – 60 60
+Vitality income – – – – – – – 267 267
+Other income 116 60 – 12 21 – – 7 006 7 215
+Total 116 60 – 12 21 – – 7 333 7 542
+A.1.2 Material items of expenses
+Additional information on material items of expenses included within the marketing and administration expenses: 
+R million
+SA
+Health
+SA
+Life
+SA
+Invest
+SA
+Insure
+SA
+Bank
+UK
+Health
+UK
+Life
+All other
+segments
+Segment 
+total
+31 December 2024
+Depreciation and amortisation (74) – (9) (20) (191) – (28) (639) (961)
+Derecognition of intangible assets and property and equipment – – – (4) – – – (21) (25)
+Staff costs (1 440) (116) (124) (40) (483) – – (3 902) (6 105)
+Other expenses1 (2 193) (108) (313) (54) (464) (387) (193) (6 911) (10 623)
+Total: Marketing and administration expenses (3 707) (224) (446) (118) (1 138) (387) (221) (11 473) (17 714)
+31 December 2023
+Depreciation and amortisation (79) – (7) (35) (175) (3) (23) (634) (956)
+Derecognition of intangible assets and property and equipment – – – (3) – – – (5) (8)
+Staff costs (1 274) (52) (85) (36) (467) – – (3 698) (5 612)
+Other expenses1 (1 824) (104) (249) (102) (386) (399) (221) 555 (2 730)
+Total: Marketing and administration expenses (3 177) (156) (341) (176) (1 028) (402) (244) (3 782) (9 306)
+1 Included in SA Health other expenses are IT systems and consumables of R778 million (2023: R721 million)
+Changes since 1 July 2024: As noted earlier, Discovery changed the presentation of intercompany recoveries, recharges, other income 
+and intercompany revenues. If the information for the six months ended 31 December 2024 was presented on a similar basis to the
+results for the six months ended 31 December 2023, the ‘Total: Marketing and administration expenses’ would have been reduced by 
+the value equal to the ‘Total’ as disclosed in Note A.1.1.
+A. Notes to the condensed consolidated financial statements continued
+A.3 EARNINGS, HEADLINE EARNINGS AND NORMALISED HEADLINE EARNINGS
+24 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+A.2 NORMALISED PROFIT FROM OPERATIONS The following table shows the main components of the normalised profit from operations for the six months ended 31 December 2024:
+A. Notes to the condensed consolidated financial statements continued
+R million
+December
+2024
+Restated
+December
+2023
+% 
+Change
+June
+2024
+Discovery Health 2 023 1 874 8 3 972 
+Discovery Life 2 612 2 267 15 4 765 
+Discovery Invest 904 620 46 1 522 
+Discovery Insure – Personal lines 401 20 >100 248 
+Discovery Bank (145) (339) (57) (454)
+Other initiatives and central costs* (275) (87) >100 (336)
+Normalised profit from Discovery SA 5 520 4 355 27 9 717 
+VitalityHealth 599 527 14 435 
+VitalityLife 327 304 8 375 
+Closure costs of VitalityInvest* – (57) (100) (75)
+Vitality Health International – Ping An Health Insurance* 424 344 23 1 124 
+Vitality Health International – Other* (149) (173) (14) (386)
+Vitality Network* 339 296 15 533 
+Other initiatives and central costs* (40) (60) (33) (119)
+Normalised profit from Vitality 1 500 1 181 27 1 887 
+Normalised profit from operations 7 020 5 536 27 11 604 
+* Presented in ‘All other segments’ on the Segment information disclosure note in section 1.1.
+R million
+December
+2024
+Restated1
+December
+2023
+June
+2024
+Number of shares used in calculation
+Weighted number of shares in issue ('000) 663 795 660 270 661 071 
+Diluted weighted number of shares ('000) 667 131 663 670 665 016 
+Earnings per share (cents):
+– basic 637.1 483.3 1 082.7 
+– diluted 633.9 480.8 1 076.3 
+Headline earnings per share (cents):
+– basic 642.9 484.1 1 089.4 
+– diluted 639.7 481.7 1 083.0
+Normalised headline earnings per share (cents):
+– basic 655.4 493.1 1 108.6 
+– diluted 652.1 490.6 1 102.1 
+Weighted average number of ordinary shares
+Issued ordinary shares at 1 July 661 021 658 424 658 424 
+Effect of share options exercised and vesting of share awards 2 774 1 846 2 647
+Weighted average number of ordinary shares (basic) 663 795 660 270 661 071
+Effect of share options exercised and vesting of share awards 3 336 3 400 3 945 
+Weighted average number of ordinary shares (diluted) 667 131 663 670 665 016
+EARNINGS RECONCILIATION
+Profit attributable to the ordinary shareholders 4 285 3 239 7 283 
+Adjusted for:
+– Profit attributable to non-forfeitable dividend share plan (56) (49) (125) 
+Basic earnings attributable to the ordinary shareholders (basic and 
+diluted) 4 229 3 190 7 158
+1 The comparative information for 31 December 2023 has been restated for the correction of prior period errors in line with and as disclosed in the annual 
+financial statements for the year ended 30 June 2024. Refer to D.1.1 for more details. 
+A.3 EARNINGS, HEADLINE EARNINGS AND NORMALISED HEADLINE EARNINGS 
+continued
+HEADLINE EARNINGS RECONCILIATION
+Headline earnings per share is disclosed per the JSE Listings Requirements and is calculated in accordance with the circular titled 
+Headline Earnings issued by SAICA, as amended from time to time. Headline earnings per share is based on the net profit after 
+tax attributable to ordinary shareholders adjusted for items of a capital nature and the weighted average number of ordinary 
+shares in issue.
+R million
+December 2024 
+Restated
+December 2023 June 2024
+ Gross Tax Net Gross Tax Net Gross Tax Net 
+Basic earnings attributable to 
+the ordinary shareholders 4 229 3 190 7 158
+Adjusted for:
+IAS 38: Impairment of intangibles – – – – – – 8 (2) 6 
+IAS 16: (Gain)/loss on disposal 
+of property and equipment (1) – (1) – – – (1) – (1)
+IAS 16: Loss on derecognition 
+of property and equipment 4 (1) 3 3 (1) 2 10 (3) 7 
+IAS 36: Impairment of property 
+and equipment – – – – – – 14 – 14 
+IAS 38: Loss on derecognition of 
+intangible assets 21 (5) 16 5 (1) 4 45 (10) 35 
+IAS 28: Loss/(gain) on the dilution and 
+disposal of equity-accounted 
+investments 26 (6) 20 – – – (22) 5 (17)
+Headline earnings 
+(basic and diluted) 4 267 3 196 7 202
+NORMALISED HEADLINE EARNINGS RECONCILIATION
+Normalised headline earnings is calculated per Discovery’s policy as set out in the Accounting Policies in note E.2. Management 
+considers that normalised headline earnings is an appropriate alternative performance measure to enhance the comparability 
+and understanding of the financial performance of the Group.
+R million
+December 2024 
+ Restated
+December 2023 June 2024
+ Gross Tax Net Gross Tax Net Gross Tax Net 
+Headline earnings 4 267 3 196 7 202
+Adjusted for:
+– Amortisation of intangible assets 
+arising from business combinations 29 (7) 22 28 (7) 21 56 (15) 41 
+– Restructuring costs 46 (10) 36 20 (5) 15 48 (11) 37
+Adjustments attributable to
+equity-accounted investments:
+– Amortisation of intangible assets 
+arising from business combinations 25 – 25 24 – 24 49 – 49
+Normalised headline earnings 
+(basic and diluted) 4 350 3 256 7 329
+25
+26 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+A.4 REVENUE FROM NON-INSURANCE ACTIVITIES
+A.5 BORROWINGS AT AMORTISED COST
+R million Reference
+December
+2024
+June
+2024
+Borrowing from banks and listed debt 17 081 17 511
+– UK borrowings A.5.1. 3 615 3 549
+– South African borrowings A.5.2. 13 466 13 962
+Bank overdraft in underlying liabilities of consolidated Unit Trusts – 6
+Lease liabilities 4 073 4 145
+– 1 Discovery Place (1 DP) 3 194 3 246
+– Other lease liabilities 879 899
+Total borrowings at amortised cost 21 154 21 662
+A.5.1 UK borrowings facilities 
+Carrying value
+million
+Facility amount
+GBP million Variable rate
+Capital repayment 
+and maturity date
+December 2024 June 2024
+GBP R GBP R
+25 SONIA + 275bps1 At maturity – 23 December 2025 25 590 25 589 
+75 SONIA + 300bps1 At maturity – 21 December 2025 75 1 773 74 1 714 
+55 SONIA + 285bps1 At maturity – 12 December 2025 53 1 252 54 1 246 
+153 3 615 153 3 549 
+1 Interest payable quarterly in arrears.
+Total finance costs in respect of the UK borrowings for the period ended 31 December 2024 was £4.2 million (R98 million) 
+(2023: £6.5 million (R153 million)).
+Discovery Group’s Revenue includes ‘Fee income from administration businesses’, ‘Vitality income’ and ‘Banking fee and 
+commission income’.
+The split of revenue per geographical region and reportable segment can be viewed in Note A.1 Segment information.
+The split of revenue according to the timing of satisfaction of performance obligations, i.e. ‘over time’ or a ‘point-in-time’ is as follows:
+R million
+December
+2024
+December
+2023
+June
+2024
+Fee income from administration businesses 7 314 6 903 14 093
+– Over time 7 314 6 886 14 070 
+– Point-in-time – 17 23
+Vitality income 2 618 2 135 4 655
+– Over time 1 756 1 362 3 178
+– Point-in-time 862 773 1 477 
+Banking fee and commission income 1 036 845 1 872 
+– Over time 361 471 836 
+– Point-in-time 675 374 1 036 
+A. Notes to the condensed consolidated financial statements continued
+27
+ DISCOVERY LIMITED
+Carrying value
+R million
+Facility amount
+R million Variable rate
+Interest 
+per
+annum
+Capital repayment
+and maturity date
+December 
+2024
+June 
+2024
+Listed DMTN1
+200 – 10.46%2 At maturity – 21 November 2024 – 202 
+800 3-month JIBAR + 191bps 8.40%3,4 At maturity – 21 November 2024 – 809 
+1 200 3-month JIBAR + 191bps 7.30%3,4 At maturity – 21 November 2024 – 1 215 
+700 3-month JIBAR + 180bps 8.49%3,4 At maturity – 21 August 2026 707 707 
+300 3-month JIBAR + 180bps 7.60%3,4 At maturity – 21 August 2026 303 304 
+792 3-month JIBAR + 173bps 7.98%3,4 At maturity – 21 May 2027 800 800 
+226 3-month JIBAR + 180bps 7.98%3,4 At maturity – 21 May 2029 228 228 
+576 3-month JIBAR + 140bps 7.50%3,4 At maturity – 21 November 2027 581 582 
+924 3-month JIBAR + 159bps 8.17%3,4 At maturity – 21 November 2029 933 935 
+1 0005 3-month JIBAR + 159bps 7.48%3,4 At maturity – 21 November 2029 1 014 – 
+7506 3-month JIBAR + 140bps 7.19%3,4 At maturity – 21 November 2027 760 – 
+Unlisted DMTN7
+2 5008 – 9.62%4 At maturity – 22 February 2025 2 526 2 525 
+1 650 – 9.55%4 At maturity – 10 March 2026 1 659 1 659 
+Other
+1 000 3-month JIBAR + 190bps 8.38%3,4 At maturity – 2 March 2028 1 000 999 
+500 3-month JIBAR + 190bps 7.51%3,4 At maturity – 2 March 2028 500 499 
+Total Discovery Limited borrowings 11 011 11 464
+1 DMTN refers to the Discovery Domestic Medium Term Note (DMTN) programme registered in 2017. As previously announced on SENS, with effect from 
+12 November 2024, Discovery increased the programme size from R10 billion to R12.5 billion to primarily facilitate issuances of Notes in advance of 
+refinancing maturing debt.
+2 Interest is payable semi-annually in arrears. 
+3 The interest rate has been fixed through interest rate swaps. 
+4 Interest payable quarterly in arrears.
+5 On 21 November 2024, an additional R1 billion was issued. Refer to B.5 Domestic Medium Term Notes. During the current period, the interest rate on the 
+total nominal value of the Notes has been fixed through interest rate swaps.
+6 On 21 November 2024, an additional R750 million was issued. Refer to B.5 Domestic Medium Term Notes. During the current period, the interest rate on the 
+total nominal value of the Notes has been fixed through interest rate swaps.
+7 During the financial year ended 30 June 2020, Discovery Limited refinanced R3.6 billion bank-syndicated loans through the issue of unlisted DMTN notes. The 
+notes, although underwritten by a bank until maturity, are structured to enable short-term issuances into the commercial paper market on an ongoing basis.
+8 On 21 February 2025, subsequent to the interim period, R1.1 billion matured and was settled using the excess proceeds from DMTN issuances earlier in the 
+financial year. The remaining R1.4 billion maturity has been extended to 21 May 2025 on the same terms.
+DISCOVERY CENTRAL SERVICES
+Carrying value
+R million
+Facility amount
+R million
+Interest rate 
+per annum
+Capital repayment and 
+maturity date
+December
+2024
+June
+2024
+1 400 9.97%1 At maturity – 20 December 2028 1 408 1 407 
+650 11.56%2 At maturity – 29 October 2027 352 396 
+691 3-month JIBAR + 190bps1,3 At maturity – 30 June 2027 695 695 
+1 500 3-month JIBAR + 145bps1 At maturity – 30 June 20264 – – 
+500 Prime rate less 145bps5 At maturity – 364-day notice – – 
+Total Discovery Central Services borrowings 2 455 2 498 
+1 Interest payable quarterly in arrears.
+2 Instalments of interest and capital are monthly. 
+3 The interest rate exposure has been capped at 7.98% through a derivative instrument.
+4 During the current period, the maturity date of this Revolving Credit Facility has been extended to 30 June 2026. This facility was not drawn down.
+5 The Revolving Credit Facility is a committed 364-day notice facility granted in November 2023. A commitment fee of 0.60% per annum is paid monthly in 
+arrears on the undrawn portion. This facility was reduced from R750 million to R500 million during the period and was not drawn down.
+Total finance costs in respect of South African borrowings and related hedges for the period ended 31 December 2024 was 
+R679 million (2023: R640 million).
+A.5 BORROWINGS AT AMORTISED COST continued
+A.5.2 South African borrowings
+CREDIT RATING
+In November 2024 Moody’s Investors Service (“Moody’s”) reaffirmed Discovery Limited’s global-scale long-term issuer rating of 
+Ba3 and upgraded the national-scale long-term issuer rating to Aa3.za from A1.za. The outlook remained unchanged as stable, 
+aligned to the outlook of the country.
+28 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+A. Notes to the condensed consolidated financial statements continued 
+A.6 FAIR VALUE HIERARCHY
+The Group’s financial instruments measured at fair value have been disclosed using a fair value hierarchy. The hierarchy has 
+three levels that reflect the significance of the inputs used in measuring fair value. These are as follows:
+Level 1: includes financial instruments that are measured using unadjusted, quoted prices in an active market for identical financial 
+instruments. Quoted prices are readily and regularly available from an exchange, dealer, broker, industry group, pricing service 
+or regulatory agency, and those prices represent actual and regularly occurring market transactions on an arm’s length basis.
+Level 2: includes financial instruments that are valued using techniques based significantly on observable market data.
+Instruments in this category are valued using:
+(a) Quoted prices for similar instruments or identical instruments in markets that are not considered to be active; or
+(b) Valuation techniques where all the inputs that have a significant effect on the valuation are directly or indirectly based on 
+observable market data.
+Level 3: includes financial instruments that are valued using valuation techniques that incorporate information other than 
+observable market data and where at least one input (which could have a significant effect on the instruments’ valuation) cannot 
+be based on observable market data.
+R million Level 1 Level 2 Level 3 Total
+31 December 2024
+Financial assets
+Financial instruments mandatorily at fair value through 
+profit or loss:
+– Equity portfolios 66 112 9 989 – 76 101
+– Debt portfolios 52 099 2 316 – 54 415
+– Money market portfolios – 13 485 – 13 485
+– Multi-asset portfolios – 36 731 – 36 731
+Financial instruments at fair value through other 
+comprehensive income:
+– Equity portfolios – – 16 16
+Derivative financial instruments at fair value:
+– Used as cash flow hedges – 16 – 16
+– Not designated as hedging instruments – 72 – 72
+Total financial assets 118 211 62 609 16 180 836
+Non-financial assets
+Non-current asset held for sale1 – – 140 140
+Total financial assets – – 140 140
+Financial liabilities
+Third-party interest in consolidated funds – 33 831 – 33 831
+Investment contracts at fair value through profit or loss – 28 951 – 28 951
+Derivative financial instruments at fair value:
+– Used as cash flow hedges – 66 – 66
+– Not designated as hedging instruments – 4 – 4
+Total financial liabilities – 62 852 – 62 852
+1 The fair value was determined from an agreed sales price between unrelated parties.
+There were no transfers between hierarchy levels during the current financial period.
+29
+A.6 FAIR VALUE HIERARCHY continued 
+R million Level 1 Level 2 Level 3 Total
+30 June 2024
+Financial assets
+Financial instruments mandatorily at fair value through 
+profit or loss:
+– Equity portfolios 52 145 8 089 16 60 250 
+– Debt portfolios 45 473 1 626 – 47 099
+– Money market portfolios – 15 786 – 15 786 
+– Multi-asset portfolios – 42 536 – 42 536 
+Derivative financial instruments at fair value:
+– Used as cash flow hedges – 14 – 14 
+– Not designated as hedging instruments – 29 – 29 
+Total financial assets 97 618 68 080 16 165 714
+Non-financial assets
+Non-current asset held for sale1 – – 136 136 
+Total financial assets – – 136 136 
+Financial liabilities
+Third-party interest in consolidated funds – 31 456 – 31 456 
+Investment contracts at fair value through profit or loss – 25 710 – 25 710 
+Derivative financial instruments at fair value:
+– Used as cash flow hedges – 24 – 24 
+– Not designated as hedging instruments – 7 – 7 
+Total financial liabilities – 57 197 – 57 197 
+1 The fair value was determined from an agreed sales price between unrelated parties.
+30 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+A.6 FAIR VALUE HIERARCHY continued
+Specific valuation techniques used to value financial instruments in level 2 and level 3
+ If a quoted market price is not available on a recognised stock exchange or from a broker for non-exchange-traded financial 
+instruments, the fair value of the instrument is estimated by the asset managers, using valuation techniques including the use 
+of recent arm’s-length market transactions, reference to the current fair value of another instrument that is substantially the 
+same, discounted cash flow techniques, option pricing models or other valuation techniques that provide a reliable estimate of 
+prices obtained in actual market transactions.
+Valuation techniques used in determining the fair value of assets and liabilities:
+Instruments Valuation technique
+Main inputs and assumptions 
+for level 2 and level 3 fair 
+value hierarchy items
+Within equity 
+portfolios, 
+Equity-linked
+notes
+The calculation of the daily value of the equity-linked investments is 
+made by the provider of the note. Discovery has procedures in place 
+to ensure that these prices are correct. Aside from the daily 
+reasonableness checks versus similar funds and movement since 
+the prior day’s price, the fund values are calculated with reference 
+to a specific formula or index, disclosed to the policyholders, which 
+is recalculated by Discovery in order to check if the price provided 
+by the provider is correct.
+– discount rate
+– spot price of the underlying
+Debt portfolios 
+and Money 
+market 
+instruments
+Money market instruments are valued by discounting the future 
+cash flows using a risk-adjusted discount rate.
+– discount rate, credit spread
+Multi-assets The fair values of financial liabilities arising on the consolidation of 
+mutual funds are determined using the quoted put (exit) price 
+provided by the fund manager and discounted for the applicable 
+notice period. The fair value of a financial liability with a demand 
+feature is not less than the amount payable on demand, discounted 
+from the first date on which the amount could be required to be 
+paid.
+– discount rate
+Investment 
+contracts at fair 
+value, including 
+third-party 
+interest in 
+consolidated 
+funds
+Unit-linked policies: assets that are linked to the investment contract 
+liabilities are accounted for by the Group. The investment contract 
+obliges the Group to use these assets to settle these liabilities. 
+Therefore, the fair value of third-party interest in consolidated funds 
+and investment contract liabilities is determined with reference to 
+the fair value of the underlying assets (i.e., amount payable on 
+surrender of the policies).
+Annuity: certain discounted cash flow models are used to determine 
+the fair value of the stream of future payments.
+– discount rate
+– spot price of the underlying
+Derivatives Standard derivative contracts are valued using market-accepted 
+models and quoted parameter inputs. More complex derivative 
+contracts are modelled using more sophisticated modelling 
+techniques applicable to the instrument. Techniques include:
+ Discounted cash flow model
+ Black-Scholes model
+ Combination technique models
+– discount rate
+– spot price of the underlying
+– correlation factors
+– volatilities
+– earnings yield
+– valuation multiples
+Unlisted equity 
+instruments at 
+fair value
+For unlisted equity instruments, a discounted cash flow 
+methodology is used. The discounted cash flow methodology values 
+an asset by determining the present value of its expected future net 
+cash flows. This valuation considers both historic experience and 
+future projected budgets. The valuation is stress tested by 
+considering earnings multiples, e.g., price-earnings multiple 
+(P/E ratio).
+– discount rate
+– growth rate
+– projected earnings
+– valuation multiples, e.g., 
+P/E ratio
+A. Notes to the condensed consolidated financial statements continued 
+SECTION B
+Other significant items in 
+these results
+32 B.1 Exchange rates to the South African Rand 
+used in the preparation of these results
+32 B.2 Capital management, financial leverage ratio 
+and covenants
+34 B.3 Impact of actuarial basis changes within the 
+SA Life and UK Life operating segments
+35 B.7 Consolidation of Discovery Unit Trusts
+35 B.5 Domestic Medium Term Notes
+35 B.6 Cash and cash equivalents
+36 B.8 Material transactions with related parties
+36 B.9 Major customers and other Discovery entities 
+not part of Discovery Group
+36 B.11 Events after reporting date and dividend 
+declaration in respect of the six 
+months ended 31 December 2024 
+36 B.10 Changes in directorate
+31
+34 B.4 Acquisition of WellSpark
+32 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+B.1 EXCHANGE RATES TO THE SOUTH AFRICAN RAND USED IN THE PREPARATION 
+OF THESE RESULTS
+Closing rates Average rates
+Exchange rate to SA rand
+December
+2024
+December
+2023
+June
+2024
+December
+2024
+December
+2023
+June
+2024
+US dollar 18.86 18.54 18.26 17.92 18.71 18.71
+Pound sterling 23.61 23.57 23.07 23.14 23.43 23.55
+Chinese Yuan 2.53 2.61 2.51 2.50 2.58 2.59
+B.2 CAPITAL MANAGEMENT, FINANCIAL LEVERAGE RATIO AND COVENANTS
+The Group’s capital is defined as capital and reserves attributable to shareholders, as presented in the Group statement of 
+financial position. The Group’s objectives when managing capital are:
+ To comply with the statutory capital and liquidity requirements in each of its regulated entities;
+ To maintain a capital and liquidity buffer in excess of the statutory requirements in order to reduce the risk of breaching the 
+statutory requirements;
+ To ensure that sufficient capital is available to fund the Group’s working capital and strategic capital requirements;
+ To achieve an optimal and efficient capital funding profile; and
+ To consider capital management needs both in the short term and over a five-year planning horizon.
+ Discovery has a Finance and Capital Committee that ensures alignment in strategic financial management between the centre and 
+subsidiaries within South Africa, UK and US. The committee is the governance body for all capital allocation activities across the 
+Group ultimately overseen by the Board.
+A range of capital-raising options are available to manage the capital structure of the Group, which includes the issue of new 
+shares, debt, financial reinsurance arrangements and other hybrid instruments.
+Regulatory capital
+For Group subsidiaries that operate in the insurance and financial services sectors, the relevant regulator specifies the minimum 
+amount and type of capital that must be held by each of the subsidiaries in addition to their insurance liabilities. The minimum 
+required capital must be maintained at all times throughout the period.
+ Discovery Life and Discovery Insure are regulated under the Insurance Act 18 of 2017 (Insurance Act), and the related Prudential 
+Standards, while VitalityHealth and VitalityLife are regulated under the European Solvency II regulatory regime.
+The table below summarises the capital requirements of insurance companies on a statutory basis, across the Group subsidiaries, 
+and the actual solvency capital held in relation to these requirements as at the end of the reporting period.
+31 December 2024 31 December 2023 June 2024
+Statutory
+capital
+requirements Cover
+Statutory
+capital
+requirements Cover
+Statutory
+capital
+requirements Cover
+Discovery Life R24 228 million 1.8 times R22 173 million 1.8 times R22 365 million 1.8 times
+Discovery Insure R1 141 million 2.0 times R1 191 million 1.5 times R1 222 million 1.6 times
+VitalityHealth £118.9 million 1.7 times £135.5 million 1.4 times £116 million 1.6 times
+R2 807 million R3 194 million R2 670 million
+VitalityLife £368.8 million 2.0 times £303.4 million 2.3 times £350 million 2.0 times
+R8 709 million R7 150 million R8 070 million
+Discovery Bank’s common equity tier 1 (CET1) ratio is 16.67% (30 June 2024: 17.63%, 31 December 2023: 17.07%). In addition to 
+the minimum regulatory requirement, the Bank holds an internal management buffer to cater for future unexpected growth and 
+volatility in risk-weighted exposures, as well as an estimation risk buffer.
+B. Other significant items in these results
+33
+B.2 CAPITAL MANAGEMENT, FINANCIAL LEVERAGE RATIO AND COVENANTS 
+continued
+Financial leverage ratio
+As part of the capital management process, the Group monitors its capital structure by utilising various measures, one of which is 
+the Financial Leverage Ratio (FLR). This ratio is calculated as total debt1 divided by total debt plus total equity. The Group’s strategy 
+is to maintain a prudent FLR of 28.0% per the Group Risk Appetite statement. However, the 28.0% measure is merely a risk 
+appetite indicator and does not necessarily indicate any form of a breach in terms of regulatory or covenant restrictions. 
+ The table below summarises the FLR position as at the end of the reporting period. With the adoption of IFRS 17, a significant 
+amount of equity has been reallocated to contractual service margin (CSM) and risk adjustment. In line with developing market 
+practice, this CSM balance, which is available for release to profit in future years or to absorb any adverse changes, is taken into 
+account in the calculation of the FLR. The current limit of 28% remains conservative.
+R million
+December
+2024
+June
+2024 
+Total debt1 17 081 17 517
+Total equity 64 644 57 719
+Total Contractual Service Margin (CSM)2 25 485 25 070
+Financial leverage ratio % (50% CSM factored in) 18.1% 20.0%
+1 Excluding all lease liabilities under IFRS 16 Leases of R4 073 million (30 June 2024: R4 145 million).
+2 CSM is net of reinsurance and net of tax.
+The FLR at 31 December 2024 is within Discovery’s risk appetite.
+Debt covenants
+ The following are the key debt covenant ratios and their proximity to minimum requirements as per the contractual financial 
+covenants.
+Debt covenant Minimum requirement
+December 
+2024
+June
+2024
+Group debt1 to EBITDA Ratio2 Less than 2.5 times 1.3 times 1.4 times
+Group financial indebtedness to embedded value 
+– Group financial indebtedness is as per Group debt in 
+the calculation above
+Less than 30% of Group 
+Embedded value
+15.0% 16.7%
+Discovery Life Statutory Capital Requirement (SCR) SCR cover must be more 
+than 1.1 times
+1.8 times 1.8 times
+Group embedded value Greater than R30 billion R119 616 million R110 354 million
+New business embedded value must not be negative Positive value of 
+new business for 
+3 consecutive 6-month 
+periods
+December 2024:
+R953 million
+June 2024: 
+R1 148 million
+December 2023:
+R684 million
+June 2024: 
+R1 148 million
+December 2023:
+R684 million
+June 2023:
+R500 million
+1 Group debt is contractually defined and means the aggregate consolidated financial indebtedness of the Group and excludes items such as the 1 Discovery 
+Place (Discovery head office building in Sandton, South Africa) lease and includes guarantees issued to third parties.
+2 EBITDA is contractually defined and specifically includes items such as dividends from associates, rental paid on 1 Discovery Place and excludes items 
+deemed extraordinary and specified Financial Reinsurance (FinRe) arrangements.
+34 DISCOVERY UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2024
+B. Other significant items in these results continued
+B.3 IMPACT OF ACTUARIAL BASIS CHANGES WITHIN THE SA LIFE AND UK LIFE 
+OPERATING SEGMENTS
+The actuarial bases of Discovery Life and VitalityLife are actively maintained to ensure that the most up to date view of best 
+estimate expectations of the future are accurately reflected.
+Financial risk assumptions are updated based on the current market prices as at the reporting date. Following the adoption of 
+IFRS 17, and given the election allowed for in the standard, the impact of changes to these assumptions is now accounted through 
+Other Comprehensive Income (OCI). Increases in discount rates have no impact on the CSM and do not directly impact the Group 
+income statement given the election of OCI.
+Non-economic assumptions and estimates may also be revised in accordance with developing experience and expectations of 
+future developments. Such basis changes are typically based on longer term observations of underlying trends and experience.
+Limited non-economic basis and methodology updates were made during the six months to 31 December 2024, with financial risk 
+assumptions being updated to reflect the latest market rates.
+Discovery Life
+Updates to assumptions that relate to financial risk, in particular, lower nominal and real yields at 31 December 2024, resulted in 
+an improvement in the present value of expected fulfilment cash flows (EFCF), particularly for the Individual Life business. This 
+contributed materially to the gain reflected in OCI for the period.
+A material component of SA Life segment earnings relates to the interest, accreted at a systematic rate, on EFCF, which is 
+reflected in insurance finance income or expense (IFIE). Changes in the assumptions that relate to financial indicators at 
+30 June 2024 did not materially impact the present value of EFCF but resulted in a decline in long-term projected inflation with a 
+consequent decline in systematic rates relative to those used in the 2024 financial year. As a result of these lower systematic 
+rates, IFIE reduced by approximately R200 million for the period to 31 December 2024. This reduction was offset by favourable 
+claims experience for the six months to 31 December 2024, resulting in strong overall earnings growth for the business.
+VitalityLife
+VitalityLife’s underlying performance was robust with new business value generation continuing from the second half of the 
+previous financial year. 
+The reserves are measured using the UK swap curve, with impacts arising from changes in the swap curve being reflected in OCI. 
+In the period, the UK swap curve increased across most durations. This resulted in a net favourable impact of £0.5 million 
+(R12 million) reflected in OCI for the year.
+Higher than expected inflation in the UK resulted in the level of policyholder premiums increasing by more than expected where 
+policies have an indexation feature. While the customers’ future benefits also increase in value, there is an overall positive impact 
+on future profitability with £6.4 million (R151 million) reflected in OCI for the year.
+B.4 ACQUISITION OF WELLSPARK
+In November 2024, The Vitality Group acquired 100% of the shares in WellSpark Health Inc. (‘WellSpark’), a United States-based 
+company specialising in customised wellbeing, coaching, and disease prevention services. This acquisition enables The Vitality 
+Group to leverage WellSpark’s specialised wellness product suite and established customer base. Combined with The Vitality 
+Group’s existing health and wellness offerings, this will enhance its market share. The acquisition of WellSpark satisfies the criteria 
+for a business combination as defined by IFRS 3 Business Combinations.
+The table below summarises the recognised fair values of the assets acquired, and liabilities assumed at the acquisition date, the 
+purchase consideration, and the resulting goodwill: 
+Group
+R million Amounts 
+Recognised assets, comprising of cash, cash equivalents, prepayments and accounts receivable 7 
+Recognised liabilities, comprising of taxes payable and accrued expenses (*)
+New identified asset acquired: Intangible asset, Customer relationships 291
+Total identifiable net assets acquired1 298 
+Consideration transferred, comprising of cash transferred 304
+Goodwill1 6
+* Amount less than R500 000.
+1 The amounts have been provisionally measured, pending further details about the facts and circumstances at the acquisition date. If new information within 
+one year of the acquisition date leads to adjustments or identifies additional provisions, the acquisition accounting will be updated.
+The goodwill recognised is attributable to the synergies expected from integrating WellSpark into the Group’s existing operations.
+For the period ended 31 December 2024, WellSpark contributed revenue of USD 1.4 million (ZAR 25.9 million) and a profit of 
+USD 0.5 million (ZAR 8.9 million) to the Group’s results. Acquisition-related costs incurred in connection with the transaction have 
+been expensed and are included in the marketing and administration expenses line item.
+35
+B.5 DOMESTIC MEDIUM TERM NOTES
+Discovery had R2.2 billion in Domestic Medium Term Notes (“notes”) maturing in November 2024. As a risk mitigation measure, it 
+raised R1.5 billion notes in May 2024 and to complete the refinancing of the maturing November 2024 notes and avail itself of 
+continued favourable debt markets, the Company raised a further R1.75 billion in November 2024. In summary, Discovery issued 
+R3.25 billion notes in total through the May 2024 and November 2024 issuances respectively, and settled maturing notes of 
+R2.2 billion in November 2024. To facilitate the timing of the respective issuances, in advance of settling the maturing notes, 
+Discovery also increased its notes programme size to R12.5 billion from R10 billion on the same terms and conditions. At 
+31 December 2024, Discovery had excess proceeds from the notes transactions outlined herein of R1.05 billion, which have 
+subsequently been applied towards maturing debt in February 2025.
+B.6 CASH AND CASH EQUIVALENTS
+Discovery’s cash flows from operating activities were R3 546 million (December 2023: R221 million outflow) driven by improved 
+organic cash generation, lower spend on new initiatives.
+The cash generated from operating activities has been offset by the following significant movements when compared to the prior 
+period:
+ The acquisition of WellSpark in November 2024 (see B.4) of R304 million, presented in cash outflows from investing activities.
+ Increased dividends paid to preference shareholders and ordinary shareholders of R1 073 million (December 2023: R783 million), 
+presented in cash outflows from financing activities
+ Net repayment of borrowings of R865 million (December 2023: R367 million).
+The net impact of the above is an increase in cash and cash equivalents of R304 million (December 2023: decrease of R2 592 million).
+The Group statement of cash flows includes cashflows relating to policyholders as well as those arising from the consolidated 
+Discovery Unit Trusts and therefore to assist in the understanding of cash flows not distorted by policyholder flows, a Group 
+shareholder free cash movement has been included in additional analyst information published on Discovery’s website. 
+Shareholder cash and cash equivalents
+R million Shareholder
+Unit-linked 
+investment 
+and insurance 
+contracts1 Total
+Cash and cash equivalents at beginning of the period 14 154 4 805 18 965
+Effects of exchange rate changes on cash and cash equivalents 90 – 90
+Increase in cash and cash equivalents 173 137 304
+Cash and cash equivalents at end of the period 14 417 4 942 19 359
+1 Includes cash held within specific portfolios to match specific insurance liabilities.
+Included in shareholder cash, is the cash held in the Group’s insurance entities which is used to fund new business and match 
+claims and other policyholder-related liabilities. This cash, together with the cash balances held by Discovery Bank of R5.7 billion 
+(June 2024: R4.8 billion), although unencumbered, is held for specific purposes and therefore not considered available for 
+distribution. The increase in cash and cash equivalents from these entities reflects in the Cash flow from operating activities in the 
+Group statement of cash flows.
+Cash available to support Group liquidity requirements, excluding the excess proceeds of R1.05 billion from the Notes 
+transactions outlined in B.5 Domestic Medium Term Notes, is R1.6 billion (June 2024: R2.1 billion). The Group also has an 
+undrawn revolving credit facility of R500 million at 31 December 2024. 
+B.7 CONSOLIDATION OF DISCOVERY UNIT TRUSTS
+Unit trusts that the Group controls in terms of IFRS 10 Consolidated Financial Statements are consolidated into Discovery’s results 
+for accounting purposes, which results in the recognition of the underlying assets and liabilities of each of the funds.
+ As these policies are linked, the consolidation of the Discovery Unit Trusts has no impact on the net asset value for shareholders. 
+Assets and liabilities of these Discovery Unit Trusts however increased by R1 997 million, compared to the prior financial year 
+ended 30 June 2024, with movements in the following line items on the Group’s statement of financial position:
+R million
+December 
+2024
+June
+2024 Movements
+Investments at fair value through profit or loss 30 529 28 192 2 337 
+Contract receivables and other receivables 386 1 184 (798) 
+Cash and ca
