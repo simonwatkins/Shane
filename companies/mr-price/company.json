@@ -60,6 +60,17 @@
       "text_path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
       "original_saved": true,
       "analysed": true
+    },
+    "Mr_Price_Group_MRP_Hormuz_Closed_vs_Open_12-18m_Outlook_Jun2026.docx": {
+      "type": "analyst_note",
+      "period": "12-18m Hormuz scenarios (A=closed/stress, b=open/relief)",
+      "date_published": "2026-06-18",
+      "date_downloaded": "2026-06-18T10:10:00Z",
+      "path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_Hormuz_Closed_vs_Open_12-18m_Outlook_Jun2026.docx",
+      "text_path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_Hormuz_Closed_vs_Open_12-18m_Outlook_Jun2026.docx",
+      "original_saved": true,
+      "analysed": true,
+      "_provenance": "Internal analyst note (jse-analyst subagent, docx via tools/build_note.py). Deep-dive 12-18m scenario/outlook; sector lens jse-sector-retail; anchored on FY2026 actuals (S1) + NKD (S2) + macro deck (S5). verify_deliverable + check_numbers gates passed."
     }
   },
   "next_expected_results": {
@@ -71,11 +82,13 @@
     "BINARY ORIGINALS OUTSTANDING (proxy 403). Backfill via Claude in Chrome: FY2026 annual results SENS, FY2026 results presentation + supplementary info (mrpricegroup.com/.../2026/06/), FY2026 AIR/AFS, FY2026 remuneration report, NKD acquisition SENS (9 Dec 2025 & 23 Feb 2026).",
     "FY2026 remuneration figures (Blair/CFO) sourced from prior-year press; verify exact FY2026 numbers in the FY2026 integrated/remuneration report.",
     "Balance-sheet detail (net cash ex-leases, NKD funding structure) not yet captured from primary AFS.",
-    "Interim H1 FY2026 (to 27 Sept 2025) PDF not yet archived."
+    "Interim H1 FY2026 (to 27 Sept 2025) PDF not yet archived.",
+    "ESG / sustainability metrics (emissions, energy/water, B-BBEE, governance) Not disclosed in on-disk FY2026 short-form release; backfill from FY2026 Integrated Annual Report / sustainability report for the Positive Outcomes Assessment.",
+    "FY2026 wage / safety / training / supplier-programme figures not in on-disk release; backfill from IAR."
   ],
   "analyst_notes": [
     "companies/mr-price/analyst-notes/mrprice-research-note-2026-2027.docx"
   ],
   "skill_generated": false,
-  "last_updated": "2026-06-18T08:21:05Z"
+  "last_updated": "2026-06-18T10:12:00Z"
 }

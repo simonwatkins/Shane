@@ -1,0 +1,25 @@
+{
+  "companies": ["OMU", "Peers"],
+  "rows": [
+    {"dimension": "Earnings momentum (RFO / NHE growth)", "a": 3, "b": 4,
+     "why_a": "RFO +13%, AHE +24% but flattered by Malawi & market returns; underlying ~7-9% ex-Malawi.",
+     "why_b": "Momentum NHE +41%, Sanlam/Discovery double-digit operating-profit growth on cleaner drivers."},
+    {"dimension": "New-business value (VNB & margin)", "a": 2, "b": 4,
+     "why_a": "VNB -52% to R850m; margin 1.2%, BELOW the 2-3% target after persistency-basis strengthening.",
+     "why_b": "Sanlam margin 2.22% (VNB -18%); OMU starts furthest below its own range."},
+    {"dimension": "Returns vs target (RoNAV / ROE / ROEV)", "a": 3, "b": 4,
+     "why_a": "RoNAV 15.2% just into 15-17% (14.0-14.5% ex-Malawi); ROEV 7.8%; RoGEV 4.1%.",
+     "why_b": "Momentum ROE 21.2%; Sanlam adj RoGEV ~15.4% annualised above hurdle - cleaner, higher returns."},
+    {"dimension": "Capital return (dividend + buyback)", "a": 4, "b": 3,
+     "why_a": "DPS +8% (in 6-9% range); R3bn buyback live (R1.3bn done); discretionary capital ~doubled to R6.1bn.",
+     "why_b": "Peers progressive dividends; OMU active buyback + strong remittances a genuine relative strength."},
+    {"dimension": "Strategic / growth optionality (bank ramp, cost programme)", "a": 4, "b": 3,
+     "why_a": "OM Bank live, deposits/customers ahead of plan, breakeven FY2028; R2.5bn cost programme started.",
+     "why_b": "Peers (Discovery Bank, SanlamAllianz) more advanced but OMU's self-help has larger reset upside."},
+    {"dimension": "Balance-sheet / solvency resilience", "a": 4, "b": 4,
+     "why_a": "Shareholder solvency 162% (155-185% target) though -2,000bps yoy on market moves; Level-1 B-BBEE.",
+     "why_b": "SA composites broadly well-capitalised; OMU sits comfortably mid-range, on par with peers."}
+  ],
+  "avg_note_a": "OMU: a value-reset story - capital return and bank optionality offset weak VNB and market-flattered earnings.",
+  "avg_note_b": "Peers: cleaner, higher-quality earnings momentum today, especially Momentum and Sanlam."
+}

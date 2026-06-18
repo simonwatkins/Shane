@@ -4,19 +4,42 @@
   "jse_code": "OMU",
   "isin": "ZAE000255360",
   "sector": "Insurance",
-  "icb_sector": "insurance",
+  "icb_sector": "Insurance",
   "sub_sector": "Life Insurance / Financial holding (life & savings, asset management, P&C insurance, banking)",
   "reporting_currency": "ZAR",
   "financial_year_end": "31 December",
-  "dual_listings": ["A2X", "NSX (Namibia)", "ZSE (Zimbabwe)", "MSE (Malawi)"],
+  "dual_listings": [
+    "A2X",
+    "NSX (Namibia)",
+    "ZSE (Zimbabwe)",
+    "MSE (Malawi)"
+  ],
   "ir_website": "https://www.oldmutual.com/investor-relations/",
   "document_sources": {
-    "annual_reports": {"url": "https://www.oldmutual.com/investor-relations/reporting-centre/reports/", "notes": "Group Annual Results booklet (Dec year-end), published mid-March."},
-    "interim_reports": {"url": "https://www.oldmutual.com/investor-relations/reporting-centre/results/", "notes": "Interim results (6 months to 30 June), published ~mid-September"},
-    "trading_statements": {"url": "https://www.oldmutual.com/investor-relations/", "notes": "SENS trading statements / pre-close updates"},
-    "sens": {"url": "https://www.moneyweb.co.za/tools-and-data/click-a-company/OMU/", "notes": "SENS via Moneyweb/Sharenet"},
-    "investor_presentations": {"url": "https://www.oldmutual.com/investor-relations/reporting-centre/results/", "notes": "Results presentation + Capital Markets Day (Q4 2025) deck"},
-    "press_releases": {"url": "https://www.oldmutual.com/news/", "notes": ""}
+    "annual_reports": {
+      "url": "https://www.oldmutual.com/investor-relations/reporting-centre/reports/",
+      "notes": "Group Annual Results booklet (Dec year-end), published mid-March."
+    },
+    "interim_reports": {
+      "url": "https://www.oldmutual.com/investor-relations/reporting-centre/results/",
+      "notes": "Interim results (6 months to 30 June), published ~mid-September"
+    },
+    "trading_statements": {
+      "url": "https://www.oldmutual.com/investor-relations/",
+      "notes": "SENS trading statements / pre-close updates"
+    },
+    "sens": {
+      "url": "https://www.moneyweb.co.za/tools-and-data/click-a-company/OMU/",
+      "notes": "SENS via Moneyweb/Sharenet"
+    },
+    "investor_presentations": {
+      "url": "https://www.oldmutual.com/investor-relations/reporting-centre/results/",
+      "notes": "Results presentation + Capital Markets Day (Q4 2025) deck"
+    },
+    "press_releases": {
+      "url": "https://www.oldmutual.com/news/",
+      "notes": ""
+    }
   },
   "key_metrics_framework": "insurance",
   "discovered_at": "2026-06-18T00:00:00Z",
@@ -27,6 +50,8 @@
       "date_downloaded": "2026-06-18T00:00:00Z",
       "original_saved": false,
       "analysed": true,
+      "analysis_date": "2026-06-18T10:15:00Z",
+      "analysis_summary": "FY2026/27 scenario & outlook note (deep). FY2025 anchor: RFO +13% to R9,821m, AHE +24% to R8,263m (both Malawi/market-flattered; ~7-9%/11-16% ex-Malawi), VNB -52% to R850m, VNB margin 1.2% (below 2-3% target), RoNAV 15.2% (low end of 15-17%; 14.0-14.5% ex-Malawi), RoGEV 4.1%, DPS +8%, solvency 162%, NCCF -R10.4bn (narrowed 55%). Unmodified joint audit. Net management tone cautiously confident/execution-focused; implies value-KPI upgrade over the reset window but no near-term EPS upgrade. Bull/Neutral/Bear FY2026 projections (e) for RFO, AHE/share, RoNAV, VNB margin, OM Bank loss, DPS. Peer verdict vs Sanlam/Discovery/Momentum/SBG-Liberty: HOLD (Neutral), GAIN (Bull), LOSE (Bear). Risk flags: earnings quality (Malawi/markets), persistency-basis change, solvency drift, NCCF still negative, OM Bank losses to FY2028. Sector lens: jse-sector-insurance. Deliverable: companies/old-mutual/analyst-notes/Old_Mutual_FY2026-27_Scenario_Outlook_Note.docx.",
       "type": "annual_results",
       "period": "FY2025",
       "date_published": "2026-03-17",
@@ -34,7 +59,7 @@
       "text_path": "companies/old-mutual/annual-reports/Old_Mutual_FY2025_Annual_Results_Booklet.txt",
       "text_source": "web_fetch (application/pdf -> extracted full text, 109k chars)",
       "source_url": "https://www.oldmutual.com/v3/assets/bltdd392fd32dda3ce8/blt16240806b39581ed/69b8ccfaccf6a3727ac58f77/2025_Annual_Results_booklet_Double.pdf",
-      "_provenance": "Group Annual Results for the year ended 31 December 2025. COVERAGE GAP: original binary PDF blocked by sandbox allowlist (oldmutual.com 403); full extracted text saved as sidecar. Deep-run backfill should re-download the binary via browser."
+      "_provenance": "Group Annual Results for the year ended 31 December 2025. COVERAGE GAP: original binary PDF blocked by sandbox allowlist (oldmutual.com 403); full extracted text saved as sidecar. Deep-run backfill should re-download the binary via browser, plus the standalone Embedded Value report / SFCR (primary value docs for a life insurer)."
     }
   }
 }

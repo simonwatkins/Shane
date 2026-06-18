@@ -1,0 +1,1638 @@
+{
+  "title": "OLD MUTUAL LIMITED  -  FY2026 / FY2027 SCENARIO & OUTLOOK NOTE",
+  "subtitle_lines": [
+    "JSE: OMU   -   Insurance (life & savings, asset management, P&C, banking)   -   Reports in ZAR   -   Dec year-end",
+    "Sector lens: jse-sector-insurance (life / composite engine)   -   Anchored to FY2025 audited actuals (released 17 Mar 2026)"
+  ],
+  "doc_title": "Forward Scenario Note: Bull / Bear / Neutral Regimes, Management Sentiment & Competitive Positioning",
+  "byline": "jse-analyst  -  18 June 2026  -  Internal research, for information only, not investment advice",
+  "footer": "Old Mutual FY2026/27 Scenario & Outlook  -  18 June 2026  -  Internal research, not investment advice",
+  "sections": [
+    {
+      "heading": "1.  Executive summary",
+      "blocks": [
+        {
+          "type": "para",
+          "runs": [
+            [
+              "The answer, up front. ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "Old Mutual enters FY2026 mid-reset: FY2025 was a 'steady operational' year of strategic re-tooling, not a growth year (S1, p.4, p.32). Headline operating momentum looks strong on paper - Results from Operations (RFO) +13% to R9,821m and adjusted headline earnings (AHE) +24% to R8,263m (S1, p.36) - but both were materially flattered by elevated Malawi returns and buoyant SA investment markets; management itself states that, normalising for a 30-50% Malawian kwacha devaluation, RFO growth would have been only 7-9% and AHE growth 11-16% (S1, p.33). The value engine actually went backwards: value of new business (VNB) fell 52% to R850m and the VNB margin dropped 130bps to 1.2%, BELOW the 2-3% medium-term target, after the Group strengthened persistency assumptions (S1, p.36-37). RoNAV of 15.2% just scraped into the 15-17% target band (14.0-14.5% ex-Malawi) (S1, p.36).",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "What it means for 2026/27. ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "The investable story is a self-help value reset, not a market-driven earnings ramp. Three levers carry the next two years: (i) restoring the VNB margin toward 2-3% via better business mix, retention and collections (S1, p.34, p.45); (ii) executing the R2.5bn cost-savings programme (R450m delivered in 2025) (S1, p.32); and (iii) ramping OM Bank toward FY2028 breakeven while the R3bn buyback (R1.3bn done) supports per-share metrics (S1, p.4, p.32). The macro backdrop is mildly constructive but not a tailwind: the SARB has just hiked to 7.00% (28 May 2026) with CPI projected at 4.4% (2026e) and GDP only 1.2% (2026e) (E2). Net: directionally flat-to-modestly-up earnings with high sensitivity to equity markets and the Malawi base unwinding.",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Management sentiment & peer read. ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "Net management tone is cautiously confident / execution-focused - heavy on 'on track', 'tracking well' and 'disciplined execution', but candid about a sub-target VNB margin and 'uncertain' global conditions (S1, p.32, p.34, p.41). The disclosed trajectory implies a modest UPGRADE to value-creation KPIs over the 3-year window but NO near-term earnings upgrade for 2026 (the Malawi/market base unwinds). Versus peers, OMU's reported earnings momentum lags cleaner compounders - Momentum normalised HEPS +41%, ROE 21.2%; Sanlam adjusted RoGEV ~15.4% annualised above hurdle (E3, E4) - but OMU offers more reset optionality (bank ramp, cost programme, active buyback). Relative verdict: HOLD share in Neutral, GAIN in Bull (self-help + market lift compound), LOSE in Bear (the VNB-margin gap and market-flattered base bite hardest).",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "label": "Coverage gap.",
+          "body": "The validated ORIGINAL binary PDF of the FY2025 Annual Results booklet is NOT yet on disk - oldmutual.com returned HTTP 403 to the sandbox, so analysis runs off the full extracted text sidecar (109k chars), original_saved:false. A deep re-download via browser is logged to backfill the binary and the standalone Embedded Value report / SFCR (the primary value documents for a life insurer)."
+        }
+      ]
+    },
+    {
+      "heading": "2.  FY2025 actuals - the sacred anchor",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Every forward figure in Sections 4-6 is anchored to these audited FY2025 actuals (joint auditors Deloitte & EY, unmodified opinion). All forward numbers are tagged (e) and show their working. Source S1 = Old Mutual Group Annual Results for the year ended 31 December 2025."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Metric (FY2025)",
+            "FY2025",
+            "FY2024",
+            "Change",
+            "Source"
+          ],
+          "col_widths": [
+            3200,
+            1500,
+            1500,
+            1100,
+            1060
+          ],
+          "header_fills": [
+            "NAVY",
+            "ACCENT",
+            "ACCENT",
+            "ACCENT",
+            "NAVY"
+          ],
+          "rows": [
+            [
+              "Results from operations (RFO), Rm",
+              "9,821",
+              "8,709",
+              "+13%",
+              "S1, p.36"
+            ],
+            [
+              "Adjusted headline earnings (AHE), Rm",
+              "8,263",
+              "6,685",
+              "+24%",
+              "S1, p.36"
+            ],
+            [
+              "AHE per share (cents)",
+              "189.8",
+              "150.6",
+              "+26%",
+              "S1, p.36"
+            ],
+            [
+              "Headline earnings, Rm (incl. Zimbabwe)",
+              "8,606",
+              "8,826",
+              "(2%)",
+              "S1, p.36"
+            ],
+            [
+              "HEPS (cents, incl. Zimbabwe)",
+              "201.6",
+              "202.7",
+              "(1%)",
+              "S1, p.36"
+            ],
+            [
+              "IFRS profit after tax, Rm",
+              "8,408",
+              "7,669",
+              "+10%",
+              "S1, p.36"
+            ],
+            [
+              "Value of new business (VNB), Rm",
+              "850",
+              "1,758",
+              "(52%)",
+              "S1, p.37"
+            ],
+            [
+              "VNB margin (%)",
+              "1.2%",
+              "2.5%",
+              "(130 bps)",
+              "S1, p.37"
+            ],
+            [
+              "RoNAV (%)",
+              "15.2%",
+              "12.7%",
+              "+250 bps",
+              "S1, p.36"
+            ],
+            [
+              "RoNAV excl. OM Bank (%)",
+              "18.8%",
+              "15.2%",
+              "+360 bps",
+              "S1, p.36"
+            ],
+            [
+              "Return on group equity value, RoGEV (%)",
+              "4.1%",
+              "n/d",
+              "n/d",
+              "S1, p.33"
+            ],
+            [
+              "Return on embedded value (covered) (%)",
+              "7.8%",
+              "n/d",
+              "n/d",
+              "S1, p.33"
+            ],
+            [
+              "Group equity value per share (R)",
+              "19.80",
+              "19.51",
+              "+2%",
+              "S1, p.36"
+            ],
+            [
+              "Total dividend per share (cents)",
+              "93",
+              "86",
+              "+8%",
+              "S1, p.36"
+            ],
+            [
+              "Gross flows, Rm",
+              "228,788",
+              "213,620",
+              "+7%",
+              "S1, p.36"
+            ],
+            [
+              "Net client cash flow (NCCF), Rm",
+              "(10,398)",
+              "(23,227)",
+              "+55% (outflow narrowed)",
+              "S1, p.36"
+            ],
+            [
+              "Funds under management (Rbn)",
+              "1,639.0",
+              "1,446.9",
+              "+13%",
+              "S1, p.36"
+            ],
+            [
+              "OM Insure net underwriting margin (%)",
+              "6.8%",
+              "6.2%",
+              "+60 bps",
+              "S1, p.36"
+            ],
+            [
+              "Shareholder solvency ratio (%)",
+              "162%",
+              "182%",
+              "(2,000 bps)",
+              "S1, p.36"
+            ],
+            [
+              "Discretionary capital (Rbn)",
+              "6.1",
+              "3.1",
+              "+97%",
+              "S1, p.36"
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Quality flag. ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "AHE +24% is low-quality growth: it leans on elevated Malawi returns (hyperinflationary economy) and strong SA shareholder investment returns, not on the value engine. Ex-Malawi, AHE growth was 11-16% and RFO 7-9% (S1, p.33). Headline earnings (which include Zimbabwe) actually fell 2% (S1, p.36). The Group's own value metric, RoGEV, was just 4.1% (S1, p.33) - well below the 14-16% medium-term target, signalling that 2025 created little embedded value despite the headline AHE jump.",
+              {}
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3.  Sector lens & medium-term targets (the 2026/27 yardstick)",
+      "blocks": [
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Sector lens: ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "jse-sector-insurance (life / composite engine). ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "OMU is read as a sum-of-the-parts composite: Life & Savings on embedded value + VNB; OM Insure on the net underwriting / combined ratio; Old Mutual Investments on AUM x fee margin; OM Bank on its path to profitability. The general-template metrics EBITDA, enterprise-value, net-debt/EBITDA and FCF are suppressed as meaningless for an insurer; 'EV' here means Embedded Value, never enterprise value. Earnings are read as 'experience vs assumptions' - and the FY2025 VNB collapse is precisely an assumption (persistency-basis) effect, not a volume collapse (S1, p.37, p.45).",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "text": "Medium-term targets set at the October 2025 Capital Markets Day are the explicit yardstick management will report against from 2026 (S1, p.7, p.34, p.44):"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Target (medium-term)",
+            "Target range",
+            "FY2025 actual",
+            "Status",
+            "Source"
+          ],
+          "col_widths": [
+            3000,
+            1700,
+            1700,
+            1300,
+            660
+          ],
+          "header_fills": [
+            "NAVY",
+            "ACCENT",
+            "ACCENT",
+            "ACCENT",
+            "NAVY"
+          ],
+          "rows": [
+            [
+              "RoNAV",
+              "15% to 17%",
+              "15.2%",
+              "Just in range",
+              "S1, p.7"
+            ],
+            [
+              "RoGEV",
+              "14% to 16%",
+              "4.1%",
+              "Below",
+              "S1, p.7"
+            ],
+            [
+              "VNB margin",
+              "2% to 3%",
+              "1.2%",
+              "Below",
+              "S1, p.7"
+            ],
+            [
+              "OM Insure net underwriting margin",
+              "5% to 8%",
+              "6.8%",
+              "In range",
+              "S1, p.4"
+            ],
+            [
+              "DPS growth (3-yr rolling)",
+              "6% to 9%",
+              "8%",
+              "In range",
+              "S1, p.4"
+            ],
+            [
+              "Gross flows / GWP growth",
+              "Nominal GDP +1%",
+              "Achieved",
+              "In range",
+              "S1, p.34"
+            ],
+            [
+              "Shareholder solvency",
+              "155% to 185%",
+              "162%",
+              "In range",
+              "S1, p.36"
+            ],
+            [
+              "OM Bank cluster profitability",
+              "By FY2028",
+              "Net loss R701m (e)",
+              "On track",
+              "S1, p.36, p.16"
+            ],
+            [
+              "Cost savings programme",
+              "R2.5bn",
+              "R450m delivered",
+              "Started",
+              "S1, p.32"
+            ],
+            [
+              "Share buyback",
+              "R3.0bn",
+              "R1.3bn done",
+              "In progress",
+              "S1, p.4"
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Read. ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "Two of the eight value KPIs (RoGEV, VNB margin) sit below range entering 2026 - these are exactly the metrics the reset is designed to fix, so closing them is the bull case and failing to is the bear case. RoNAV is in range only on a Malawi-flattered basis (14.0-14.5% ex-Malawi), so it is fragile. The OM Bank net loss of R701m (e) is the cluster figure read from the RFO trend chart (FY2023 -R271m, FY2024 -R951m, FY2025 -R701m); management reports the net loss improved 26% yoy with FY2028 breakeven targeted (S1, p.16).",
+              {}
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4.  Scenario projections - FY2026 & FY2027 under three regimes",
+      "blocks": [
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Method. ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "FY2025 actuals are the anchor (sacred). Each regime defines macro drivers, then translates them to directional + ranged implications for OMU's earnings levers. ALL forward figures are estimates (e) with working shown; where a number cannot be responsibly pinned, direction is given instead. AHE/RFO ranges flex around the FY2025 base (RFO R9,821m; AHE R8,263m; AHE/share 189.8c) and explicitly assume the elevated Malawi/market base partially unwinds, per management's own 7-9% RFO / 11-16% AHE ex-Malawi disclosure (S1, p.33).",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Neutral regime (base case) - the muddle-through reset"
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Macro (e). ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "SA GDP ~1.2% 2026e / 1.7% 2027e; SARB repo held near 7.00% then easing modestly into 2027; CPI ~4.4% then ~3.7%; ZAR broadly stable ~R18-19/USD; JSE equity markets flat-to-up mid-single-digit; benign credit & mortality experience continuing (E2). This is broadly the SARB's central path (E2).",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "bullets",
+          "items": [
+            [
+              [
+                "RFO: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "~R10.0-10.6bn (e) - roughly flat-to-+8% on R9,821m FY2025 (S1, p.36). Underlying SA operating gains (~7-9%, S1 p.33) are partly offset by the Malawi base normalising. Working: 9,821 x (1.02 to 1.08).",
+                {}
+              ]
+            ],
+            [
+              [
+                "AHE / AHE-per-share: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "AHE ~R8.0-8.7bn (e); AHE/share ~184-200c (e) vs 189.8c FY2025 - flat, as cost savings and bank-loss narrowing offset a lower investment-return tailwind. Working: 8,263 x (0.97 to 1.05); per share aided by buyback share-count reduction (4,353m WANOS FY2025, S1 p.37).",
+                {}
+              ]
+            ],
+            [
+              [
+                "RoNAV vs 15-17% target: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "~14.5-15.5% (e) - in/around the bottom of range as the Malawi flatter fades; below range risk if markets soften (S1, p.36).",
+                {}
+              ]
+            ],
+            [
+              [
+                "VNB & margin: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "VNB ~R1.0-1.3bn (e); margin ~1.4-1.8% (e) - recovering off the R850m / 1.2% trough as persistency actions land, but still BELOW the 2-3% target (S1, p.37, p.45).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Gross flows / NCCF: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Gross flows ~+5-7% (e, ~nominal GDP+1%); NCCF still a modest net outflow narrowing toward neutral from -R10.4bn (S1, p.36).",
+                {}
+              ]
+            ],
+            [
+              [
+                "OM Bank: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Net loss narrows to ~ -R450m to -R600m (e) from -R701m as the loan book and deposits scale, consistent with FY2028 breakeven (S1, p.16).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Dividend / buyback: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "DPS growth ~6-8% (e), in the 6-9% band; R3bn buyback completed through 2026 (R1.7bn remaining) (S1, p.4, p.32).",
+                {}
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Bull regime - self-help lands into a market tailwind"
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Macro (e). ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "SA GDP surprises to ~2%+; SARB cuts the repo toward ~6% as CPI settles at target; ZAR firms toward ~R17/USD; JSE equity markets rally double-digit; credit losses benign and persistency improves as consumer stress eases (two-pot withdrawals slow). A 'constructive SA' outcome management flags as plausible (S1, p.45).",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "bullets",
+          "items": [
+            [
+              [
+                "RFO: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "~R10.8-11.5bn (e), ~+10-17% - cost savings (toward R2.5bn run-rate), stronger flows-driven asset-management fees and lower bank losses compound a market lift. Working: 9,821 x (1.10 to 1.17).",
+                {}
+              ]
+            ],
+            [
+              [
+                "AHE / per share: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "AHE ~R9.0-9.8bn (e); AHE/share ~210-230c (e), helped by buyback share-count reduction. Working: 8,263 x (1.09 to 1.19).",
+                {}
+              ]
+            ],
+            [
+              [
+                "RoNAV: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "~16-18% (e) - comfortably within / above the 15-17% target as equity markets lift shareholder returns (S1, p.36).",
+                {}
+              ]
+            ],
+            [
+              [
+                "VNB & margin: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "VNB ~R1.5-2.0bn (e); margin recovers to ~2.0-2.5% (e) - back INTO the 2-3% target band as mix/retention/collections deliver (S1, p.45).",
+                {}
+              ]
+            ],
+            [
+              [
+                "OM Bank: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Loss narrows faster to ~ -R350m to -R500m (e); breakeven pulled toward FY2027/28 if deposit traction continues (S1, p.16).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Dividend / buyback: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "DPS growth at the top of the 6-9% band (~9%, e); scope for a further buyback tranche given discretionary capital of R6.1bn (S1, p.36).",
+                {}
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Bear regime - market reversal meets the unfinished reset"
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Macro (e). ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "Global shock (oil / geopolitics) keeps the SARB restrictive or forces a further hike toward ~8%+ (its severe scenario); CPI second-round effects push toward ~5-6%; ZAR weakens past ~R20/USD; JSE equities fall double-digit; consumer stress lifts lapses/persistency strain and credit losses; a Malawi kwacha devaluation crystallises (management's 30-50% sensitivity) (S1, p.33; E2).",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "bullets",
+          "items": [
+            [
+              [
+                "RFO: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "~R8.8-9.6bn (e), -2% to -10% - the Malawi base reverses (the 30-50% devaluation alone removes ~4-6pts of the reported growth, S1 p.33) and weaker markets cut shareholder returns. Working: 9,821 x (0.90 to 0.98).",
+                {}
+              ]
+            ],
+            [
+              [
+                "AHE / per share: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "AHE ~R6.8-7.8bn (e); AHE/share ~156-179c (e), down on FY2025's 189.8c as investment returns reverse. Working: 8,263 x (0.82 to 0.94).",
+                {}
+              ]
+            ],
+            [
+              [
+                "RoNAV: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "~12-14% (e) - BELOW the 15-17% target, exposing how Malawi-dependent the FY2025 15.2% was (14.0-14.5% ex-Malawi) (S1, p.33, p.36).",
+                {}
+              ]
+            ],
+            [
+              [
+                "VNB & margin: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "VNB stalls ~R0.7-1.0bn (e); margin stuck ~1.0-1.4% (e) as affordability-driven lapses re-strengthen persistency assumptions - the reset stalls (S1, p.37).",
+                {}
+              ]
+            ],
+            [
+              [
+                "OM Bank: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Loss narrowing slows; breakeven risk slips beyond FY2028 if growth investment is sustained into a weak book (S1, p.16).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Dividend / buyback: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "DPS growth at/below the 6% floor (e); buyback likely paused once 'no longer value accretive' per the stated condition (S1, p.32); solvency (162%, S1 p.36) cushions but drifts toward the 155% floor on market shocks.",
+                {}
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "text": "Scenario summary (all FY2026 figures are estimates (e), anchored to FY2025 actuals S1, p.36-37):"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Lever (FY2026e)",
+            "Bear",
+            "Neutral",
+            "Bull",
+            "Source / base"
+          ],
+          "col_widths": [
+            2300,
+            1700,
+            1700,
+            1700,
+            960
+          ],
+          "header_fills": [
+            "NAVY",
+            "RED",
+            "ACCENT2",
+            "ACCENT",
+            "NAVY"
+          ],
+          "rows": [
+            [
+              "RFO (Rm)",
+              "8,800-9,600",
+              "10,000-10,600",
+              "10,800-11,500",
+              "(e) base 9,821 S1 p.36"
+            ],
+            [
+              "AHE/share (c)",
+              "156-179",
+              "184-200",
+              "210-230",
+              "(e) base 189.8 S1 p.36"
+            ],
+            [
+              "RoNAV (%) vs 15-17%",
+              "12-14 (below)",
+              "14.5-15.5 (low)",
+              "16-18 (in/above)",
+              "(e) base 15.2 S1 p.36"
+            ],
+            [
+              "VNB margin (%) vs 2-3%",
+              "1.0-1.4",
+              "1.4-1.8",
+              "2.0-2.5",
+              "(e) base 1.2 S1 p.37"
+            ],
+            [
+              "OM Bank net loss (Rm)",
+              "~ -700 (stalls)",
+              "-450 to -600",
+              "-350 to -500",
+              "(e) base -701 S1 p.16"
+            ],
+            [
+              "DPS growth (%) vs 6-9%",
+              "<=6",
+              "6-8",
+              "~9",
+              "(e) base +8 S1 p.36"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "5.  Sentiment analysis - management tone & implied trajectory",
+      "blocks": [
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Net tone: cautiously confident / execution-focused. ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "FY2025 commentary is dominated by control-and-deliver language rather than bullish growth language - consistent with a 'strategic reset' year (S1, p.4, p.32). Positive markers cluster around execution and capital; cautionary markers cluster around the macro and the sub-target value KPIs.",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Tone",
+            "Verbatim / paraphrased evidence",
+            "Ref"
+          ],
+          "col_widths": [
+            1500,
+            5200,
+            1660
+          ],
+          "header_fills": [
+            "NAVY",
+            "ACCENT",
+            "NAVY"
+          ],
+          "rows": [
+            [
+              "Positive",
+              "\"Steady operational results in the year of strategic reset and focused execution\"",
+              "S1, p.4"
+            ],
+            [
+              "Positive",
+              "\"Management actions are on track relating to new business quality, collections and system implementations\"",
+              "S1, p.32"
+            ],
+            [
+              "Positive",
+              "\"Customer and deposit trends in OM Bank are tracking well, ahead of public marketing campaigns\"",
+              "S1, p.32"
+            ],
+            [
+              "Positive",
+              "Cost programme \"cascaded to cluster scorecards and incentives\"; R450m already delivered",
+              "S1, p.32"
+            ],
+            [
+              "Positive",
+              "\"the South African outlook has become more constructive\" (2026 Budget, fiscal discipline)",
+              "S1, p.45"
+            ],
+            [
+              "Cautionary",
+              "\"The global environment is likely to remain uncertain, shaped by uneven growth and ongoing heightened geopolitical risks\"",
+              "S1, p.45"
+            ],
+            [
+              "Cautionary",
+              "VNB margin fell to 1.2%, \"below our target range\" - candidly disclosed",
+              "S1, p.32"
+            ],
+            [
+              "Cautionary",
+              "\"We remain committed to restoring our value of new business margin\" - an admission it is not yet restored",
+              "S1, p.45"
+            ],
+            [
+              "Cautionary",
+              "Earnings \"significantly impacted by elevated returns... in Malawi\" - flags the low quality of the AHE beat",
+              "S1, p.33"
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Implied trajectory. ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "The disclosed trajectory implies a modest UPGRADE to value-creation KPIs (VNB margin, RoGEV) over the 3-year reset window - management explicitly frames targets as ones that 'may be revised upwards' in the later 'generating growth' phase (S1, p.7) - but it implies NO near-term earnings upgrade for FY2026: the reset is about quality and embedded value, not headline EPS, and the FY2025 AHE base is market/Malawi-flattered (S1, p.33). On market share, the language ('deepen market leadership in Southern Africa', OM Bank traction) points to a hold-to-modest-gain in core SA, gated on execution rather than promised (S1, p.6, p.32). Net: tone supports a re-rating on delivery, not an immediate earnings upgrade.",
+              {}
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "6.  Competitive positioning vs SA life / diversified insurers",
+      "blocks": [
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Peer set: ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "Sanlam (SLM), Discovery (DSY), Momentum Group (MTM/MMH), and the Liberty / Standard Bank Group insurance operations. OMU's own figures are FY2025 actuals from the filing on disk (S1); peer figures are from public results via web search (E3, E4, dated 18 Jun 2026, secondary/may be delayed).",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Dimension",
+            "Old Mutual (OMU)",
+            "Peers (SLM / DSY / Momentum / SBG-Liberty)",
+            "Source"
+          ],
+          "col_widths": [
+            2000,
+            2800,
+            3000,
+            760
+          ],
+          "header_fills": [
+            "NAVY",
+            "ACCENT",
+            "ACCENT2",
+            "NAVY"
+          ],
+          "rows": [
+            [
+              "Earnings momentum",
+              "RFO +13% / AHE +24% but market & Malawi-flattered (7-9% / 11-16% ex-Malawi)",
+              "Momentum NHE +41%, ROE 21.2%; Sanlam, Discovery double-digit operating-profit growth on cleaner drivers",
+              "S1 p.33-36; E3,E4"
+            ],
+            [
+              "New-business value",
+              "VNB -52%, margin 1.2% - BELOW own 2-3% target",
+              "Sanlam VNB -18%, margin 2.22% (H1); peers nearer/above their ranges",
+              "S1 p.37; E3"
+            ],
+            [
+              "Returns vs target",
+              "RoNAV 15.2% (low end); RoGEV 4.1%; ROEV 7.8%",
+              "Momentum ROE 21.2%; Sanlam adj RoGEV ~15.4% annualised, above hurdle",
+              "S1 p.33-36; E3,E4"
+            ],
+            [
+              "Capital return",
+              "DPS +8%; R3bn buyback (R1.3bn done); discretionary capital R6.1bn",
+              "Peers progressive dividends; OMU's active buyback a relative differentiator",
+              "S1 p.4,p.36; E3,E4"
+            ],
+            [
+              "Strategic momentum",
+              "OM Bank ramping (FY2028 breakeven); R2.5bn cost programme; reset upside",
+              "Discovery Bank & SanlamAllianz more mature; Momentum record earnings, ahead on delivery",
+              "S1 p.16,p.32; E3,E4"
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "Read. ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "On today's numbers OMU is the laggard of the SA diversified-life peer set on earnings quality and new-business value - Momentum and Sanlam are compounding cleaner, higher returns, and OMU is the only one with its VNB margin below its own target. OMU's offsetting edges are an active buyback (peers mostly run progressive dividends), a large untapped cost-savings pool, and OM Bank optionality. So the competitive verdict is regime-dependent.",
+              {}
+            ]
+          ]
+        },
+        {
+          "type": "scorecard",
+          "ref": "comparisons/old-mutual-vs-peers.json"
+        },
+        {
+          "type": "callout",
+          "label": "Relative verdict (share & earnings momentum vs peers).",
+          "body": "NEUTRAL regime: HOLD - OMU keeps pace on capital return and bank traction but its value KPIs still trail Momentum/Sanlam; no relative re-rating without VNB-margin proof. BULL regime: GAIN - self-help (cost savings, VNB recovery, buyback) compounds with a market lift and the bank inflects, closing the quality gap fastest from the lowest base. BEAR regime: LOSE - the market-flattered FY2025 base reverses hardest for OMU, the sub-target VNB margin and Malawi dependence are exposed, and the buyback (its key differentiator) is the first thing paused. OMU is the highest-beta reset story in the peer set: most to gain if execution + macro align, most to lose if they do not."
+        }
+      ]
+    },
+    {
+      "heading": "7.  Risk flags",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            [
+              [
+                "Audit opinion - CLEAN (low). ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Joint auditors Deloitte & Touche and Ernst & Young Inc. expressed an UNMODIFIED opinion on the FY2025 AFS (S1, p.45). No going-concern flag found.",
+                {}
+              ]
+            ],
+            [
+              [
+                "Earnings quality - MEDIUM. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "AHE +24% is materially inflated by elevated Malawi (hyperinflationary) returns and SA investment markets; ex-Malawi growth was 11-16% and headline earnings (incl. Zimbabwe) actually fell 2% (S1, p.33, p.36). RoGEV of just 4.1% confirms thin real value creation (S1, p.33).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Assumption / basis change - MEDIUM-HIGH. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "VNB -52% and margin -130bps driven by STRENGTHENED persistency assumptions plus a rise in the cost-of-non-hedgeable-risk charge from 2% to 3.5% (S1, p.33, p.37) - a quality/credibility flag exactly of the kind the insurance lens prizes spotting; it depressed return on embedded value to 7.8% (S1, p.33).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Persistency / affordability - MEDIUM. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "The basis strengthening reflects real consumer-stress lapse risk (amplified by two-pot withdrawals); a further deterioration is the central bear-case lever (S1, p.32, p.37).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Solvency drift - LOW-MEDIUM. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Shareholder solvency fell 2,000bps to 162% (regulatory 153%, -2,500bps) on market movements (lower yields, higher equity shocks); still mid-range (155-185%) but the yoy drop is large and market-sensitive (S1, p.33, p.36).",
+                {}
+              ]
+            ],
+            [
+              [
+                "NCCF still negative - MEDIUM. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Net client cash flow remained a R10.4bn OUTFLOW (improved 55% from -R23.2bn) - flows are recovering but not yet net-positive (S1, p.36).",
+                {}
+              ]
+            ],
+            [
+              [
+                "New-venture losses - MEDIUM. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "OM Bank still loss-making (~ -R701m (e) cluster), breakeven not until FY2028; R2bn committed investment into the bank across 2026-2027 (S1, p.16, p.36).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Restatement / re-presentation - LOW. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Prior year re-presented to exclude China and re-segment OM Bank into its own cluster; comparability noted but routine (S1, p.32, p.37).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Restructuring charge - LOW. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "R440m restructuring cost in FY2025 lifted shareholder operational costs +11%; ex-this, costs fell 15% - so it is invest-to-save, not deterioration (S1, p.33).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Coverage gap - PROCESS. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Original binary PDF + standalone Embedded Value report / SFCR not yet on disk (oldmutual.com 403); analysis runs off the text sidecar. Backfill logged.",
+                {}
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "8.  Positive Outcomes Assessment (ESG & Stakeholder) - non-financial lens",
+      "blocks": [
+        {
+          "type": "para",
+          "runs": [
+            [
+              "This section reflects AllWeather's 'Investing in positive outcomes' philosophy. It is informational only: it does NOT change, gate or tie-break the financial verdict above, and is reported on its own terms.",
+              {
+                "italic": true
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "ESG / impact"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            [
+              [
+                "Governance / transformation - strong, disclosed. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Level-1 B-BBEE rating held since 2019; 57% black senior managers (2024: 56%) and 43% female senior managers (2024: 42%) (S1, p.1). Unmodified joint audit (Deloitte & EY) supports governance quality (S1, p.45).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Green / impact investing - meaningful and growing. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "R221bn of funds under management invested in the Green Economy (2024: R179bn, +23%) (S1, p.1). As an asset owner/manager this is OMU's largest real-world ESG lever.",
+                {}
+              ]
+            ],
+            [
+              [
+                "Climate / emissions targets - NOT in this booklet. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "The results booklet carries impact-investment figures but not Scope 1/2/3 emissions or intensity targets; these sit in the separate sustainability/climate report. Not disclosed here - logged as a coverage gap.",
+                {}
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Stakeholder outcomes"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            [
+              [
+                "Customers - access & resilience. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Serves ~15 million customers for 180+ years; R1.5 trillion FUM (S1, p.1). OM Bank is explicitly framed as broadening affordable financial-services access via the branch network (95% of bank customers enrolled; deposits building) (S1, p.16). Stated purpose: 'supporting our customers' financial resilience' (S1, p.45).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Communities - education & affordable housing. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "R0.9bn invested in education (2024: R1.2bn - DOWN) and R2.6bn in low-income / affordable housing (2024: R1.3bn - UP, doubled) (S1, p.1).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Employees. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "27,832 employees (2024: 27,777) - broadly stable despite a R440m restructuring; ex-restructuring costs fell 15%, so the workforce was largely protected through the reset (S1, p.1, p.33).",
+                {}
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "runs": [
+            [
+              "AllWeather view: ",
+              {
+                "bold": true
+              }
+            ],
+            [
+              "On disclosed evidence OMU screens well on transformation (Level-1 B-BBEE, diverse senior management), impact investing (R221bn Green Economy, +23%) and financial-inclusion intent (OM Bank). The notable thin spot is the ABSENCE of emissions/climate targets in this results booklet (they live in a separate report not on disk), and a step-down in education spend. These are non-financial observations and do not alter the HOLD/GAIN/LOSE financial verdict.",
+              {}
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "9.  Management commentary - outlook & strategy",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            [
+              [
+                "Outlook (verbatim). ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "\"the South African outlook has become more constructive... We remain committed to restoring our value of new business margin by focusing on enhancing business mix, retention and collections, supported by cost savings... We will focus on disciplined execution of our reset strategic priorities\" (S1, p.45).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Capital allocation. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Progressive dividend guided by underlying cash generation (DPS +8%, 6-9% target); R3bn buyback (R1.3bn done) continuing 'while it remains value accretive'; R6.1bn discretionary capital (incl. R2.3bn ring-fenced for the buyback); R2bn committed to OM Bank over 2026-27 (S1, p.4, p.32, p.36).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Strategic initiatives. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "Two-phase framework (Unlock Value -> Generate Growth); four priorities - SA competitiveness, Southern Africa leadership, OM Bank 'right to win', selective growth-market pivots; devolved cluster operating model; R2.5bn cost programme (S1, p.6, p.32).",
+                {}
+              ]
+            ],
+            [
+              [
+                "Guidance for 2026. ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "From 2026, value-creation metrics will be reported against the medium-term targets (RoNAV 15-17%, RoGEV 14-16%, VNB margin 2-3%, OM Insure underwriting 5-8%, DPS growth 6-9%); OM Bank breakeven targeted FY2028 (S1, p.7, p.45).",
+                {}
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "10.  Questions for further research / management",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "VNB bridge: how much of the 52% VNB fall is the persistency-basis change vs genuine volume/mix, and what is the credible glide-path back into the 2-3% margin band by when?",
+            "Malawi dependence: quantify the FY2025 RFO and AHE contribution from Malawi and the hedging / repatriation plan, so 2026 can be modelled ex-Malawi.",
+            "OM Bank: capital and loss trajectory to FY2028 breakeven, and sensitivity of the R2bn 2026-27 investment to a weak-consumer (bear) scenario.",
+            "Solvency: drivers of the 2,000bps shareholder-solvency drop and the market-shock sensitivity of the 162% ratio toward the 155% floor.",
+            "Buyback: the explicit 'value-accretive' threshold (share price / embedded value) at which the remaining ~R1.7bn would be paused."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "11.  Provenance & verification appendix",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Master audit trail. Every key figure presented, its value, whether reported or derived (with working), source key, document location, URL and retrieval date. All OMU figures are from the FY2025 Annual Results booklet on disk (text sidecar; original-binary backfill pending)."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "#",
+            "Figure",
+            "Value",
+            "Reported / Derived",
+            "Src",
+            "Doc & page",
+            "Retrieved"
+          ],
+          "col_widths": [
+            400,
+            2100,
+            1200,
+            1900,
+            600,
+            1900,
+            1060
+          ],
+          "header_fills": [
+            "NAVY",
+            "NAVY",
+            "NAVY",
+            "NAVY",
+            "NAVY",
+            "NAVY",
+            "NAVY"
+          ],
+          "rows": [
+            [
+              "1",
+              "RFO FY2025",
+              "R9,821m",
+              "Reported (+13%)",
+              "S1",
+              "Group KPIs, p.36",
+              "2026-06-18"
+            ],
+            [
+              "2",
+              "AHE FY2025",
+              "R8,263m",
+              "Reported (+24%)",
+              "S1",
+              "Group KPIs, p.36",
+              "2026-06-18"
+            ],
+            [
+              "3",
+              "AHE/share FY2025",
+              "189.8c",
+              "Reported (+26%)",
+              "S1",
+              "Per-share, p.36",
+              "2026-06-18"
+            ],
+            [
+              "4",
+              "RFO ex-Malawi growth",
+              "7-9%",
+              "Reported sensitivity",
+              "S1",
+              "Overview, p.33",
+              "2026-06-18"
+            ],
+            [
+              "5",
+              "AHE ex-Malawi growth",
+              "11-16%",
+              "Reported sensitivity",
+              "S1",
+              "Overview, p.33",
+              "2026-06-18"
+            ],
+            [
+              "6",
+              "VNB FY2025",
+              "R850m",
+              "Reported (-52%)",
+              "S1",
+              "LoB KPIs, p.37",
+              "2026-06-18"
+            ],
+            [
+              "7",
+              "VNB margin FY2025",
+              "1.2%",
+              "Reported (-130bps)",
+              "S1",
+              "LoB KPIs, p.37",
+              "2026-06-18"
+            ],
+            [
+              "8",
+              "RoNAV FY2025",
+              "15.2%",
+              "Reported (+250bps)",
+              "S1",
+              "Group KPIs, p.36",
+              "2026-06-18"
+            ],
+            [
+              "9",
+              "RoNAV ex-Malawi",
+              "14.0-14.5%",
+              "Reported sensitivity",
+              "S1",
+              "Overview, p.33",
+              "2026-06-18"
+            ],
+            [
+              "10",
+              "RoGEV FY2025",
+              "4.1%",
+              "Reported",
+              "S1",
+              "Overview, p.33",
+              "2026-06-18"
+            ],
+            [
+              "11",
+              "ROEV (covered) FY2025",
+              "7.8%",
+              "Reported",
+              "S1",
+              "Overview, p.33",
+              "2026-06-18"
+            ],
+            [
+              "12",
+              "Total DPS FY2025",
+              "93c",
+              "Reported (+8%)",
+              "S1",
+              "Per-share, p.36",
+              "2026-06-18"
+            ],
+            [
+              "13",
+              "NCCF FY2025",
+              "(R10,398m)",
+              "Reported (+55% narrowed)",
+              "S1",
+              "LoB KPIs, p.36",
+              "2026-06-18"
+            ],
+            [
+              "14",
+              "Solvency (shareholder)",
+              "162%",
+              "Reported (-2,000bps)",
+              "S1",
+              "Group KPIs, p.36",
+              "2026-06-18"
+            ],
+            [
+              "15",
+              "Discretionary capital",
+              "R6.1bn",
+              "Reported (+97%)",
+              "S1",
+              "Group KPIs, p.36",
+              "2026-06-18"
+            ],
+            [
+              "16",
+              "OM Bank net loss FY2025",
+              "~ -R701m",
+              "Derived (read off RFO chart: FY23 -271, FY24 -951, FY25 -701)",
+              "S1",
+              "OM Banking, p.16",
+              "2026-06-18"
+            ],
+            [
+              "17",
+              "Buyback completed",
+              "R1.3bn of R3bn",
+              "Reported",
+              "S1",
+              "Overview, p.32",
+              "2026-06-18"
+            ],
+            [
+              "18",
+              "FY2026e RFO (Neutral)",
+              "R10.0-10.6bn (e)",
+              "Derived = 9,821 x (1.02-1.08)",
+              "S1",
+              "base p.36 + analyst",
+              "2026-06-18"
+            ],
+            [
+              "19",
+              "FY2026e AHE/share (Bear)",
+              "156-179c (e)",
+              "Derived = 189.8 x (0.82-0.94)",
+              "S1",
+              "base p.36 + analyst",
+              "2026-06-18"
+            ],
+            [
+              "20",
+              "FY2026e AHE/share (Bull)",
+              "210-230c (e)",
+              "Derived = 189.8 x (1.09-1.19) + buyback",
+              "S1",
+              "base p.36 + analyst",
+              "2026-06-18"
+            ],
+            [
+              "21",
+              "SARB repo rate",
+              "7.00% (28 May 2026)",
+              "Reported (web, may lag)",
+              "E2",
+              "TradingEconomics / SARB MPC",
+              "2026-06-18"
+            ],
+            [
+              "22",
+              "SA CPI 2026e / 2027e",
+              "4.4% / 3.7%",
+              "Reported (web, may lag)",
+              "E2",
+              "SARB MPC, May 2026",
+              "2026-06-18"
+            ],
+            [
+              "23",
+              "SA GDP 2026e / 2027e",
+              "1.2% / 1.7%",
+              "Reported (web, may lag)",
+              "E2",
+              "SARB MPC, May 2026",
+              "2026-06-18"
+            ],
+            [
+              "24",
+              "OMU consensus target",
+              "~R15.22 (R11.07-18.22)",
+              "Reported (web, may lag)",
+              "E1",
+              "Investing.com consensus",
+              "2026-06-18"
+            ],
+            [
+              "25",
+              "Sanlam VNB margin H1'25",
+              "2.22% (VNB -18%)",
+              "Reported (web, may lag)",
+              "E3",
+              "Sanlam interim 2025",
+              "2026-06-18"
+            ],
+            [
+              "26",
+              "Momentum NHE / ROE F2025",
+              "+41% to R6,260m / 21.2%",
+              "Reported (web, may lag)",
+              "E4",
+              "Momentum FY2025 results",
+              "2026-06-18"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "12.  Sources",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Company filings (held locally on disk):"
+        },
+        {
+          "type": "sources",
+          "items": [
+            {
+              "label": "S1 - Old Mutual Limited, Group Annual Results for the year ended 31 December 2025 (audited, unmodified; released 17 Mar 2026). Local: companies/old-mutual/annual-reports/Old_Mutual_FY2025_Annual_Results_Booklet.txt (text sidecar; original binary backfill pending - 403).",
+              "url": "https://www.oldmutual.com/v3/assets/bltdd392fd32dda3ce8/blt16240806b39581ed/69b8ccfaccf6a3727ac58f77/2025_Annual_Results_booklet_Double.pdf",
+              "link_text": "FY2025 Annual Results booklet"
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "text": "External (web search, accessed 18 June 2026 - secondary, may be delayed):"
+        },
+        {
+          "type": "sources",
+          "items": [
+            {
+              "label": "E1 - Old Mutual (JSE:OMU) analyst consensus target ~R15.22 (range R11.07-R18.22), neutral rating:",
+              "url": "https://uk.investing.com/equities/old-mutual-consensus-estimates",
+              "link_text": "Investing.com consensus"
+            },
+            {
+              "label": "E2 - SARB repo 7.00% (28 May 2026 hike); CPI 4.4% 2026e / 3.7% 2027e; GDP 1.2% 2026e / 1.7% 2027e:",
+              "url": "https://tradingeconomics.com/south-africa/interest-rate",
+              "link_text": "TradingEconomics / SARB MPC"
+            },
+            {
+              "label": "E3 - Sanlam interim results 2025 (RoGEV, VNB margin 2.22%, VNB -18%):",
+              "url": "https://www.sanlam.com/interim-results-2025",
+              "link_text": "Sanlam interim results 2025"
+            },
+            {
+              "label": "E4 - Momentum Group FY2025 results (NHE +41% to R6,260m, ROE 21.2%):",
+              "url": "https://www.momentumgroupltd.co.za/remote-assets/s3/clt_mmh_s3/docs/annual-res-2025/results-presentation-f2025.pdf",
+              "link_text": "Momentum Group FY2025 results"
+            }
+          ]
+        },
+        {
+          "type": "para",
+          "text": "Sector lens applied: jse-sector-insurance (life / composite engine). Prepared for information only; not investment advice. Share-price and macro figures sourced via web search may be delayed; all OMU financials are from the FY2025 filing on disk."
+        }
+      ]
+    }
+  ]
+}

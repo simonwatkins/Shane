@@ -7,13 +7,19 @@ description: >
   do", "what are [company]'s numbers", "analyse [company]'s results", "compare
   [company] to last year", "flag risks for [company]", "prepare IC notes for
   [company]", "pull [company]'s numbers", or any question about a company's financial
-  performance, metrics, valuation, or outlook. Trigger for HEPS extraction, SA-specific
-  metrics, and reporting-period comparisons. This skill works on documents already
+  performance, metrics, valuation, or outlook. ALSO trigger for any FORWARD-LOOKING or
+  conditional analytical request — "how would [company] perform if…", scenario / outlook /
+  forecast / projection / sensitivity / stress-test / bull-bear / "what happens to [company]
+  if [the rand weakens / load-shedding returns / rates rise]" — and for any request to
+  PRODUCE a report, note, model, or deck about a company. Trigger for HEPS extraction,
+  SA-specific metrics, and reporting-period comparisons. This skill works on documents already
   downloaded to the local workspace — it reads from companies/[slug]/ and never searches
   the web during analysis. If documents are missing, it triggers jse-report-downloader
   first. Output is held to a strict, verifiable Citation Standard: a Source tag on every
   table row, inline page-level footnotes, a per-figure Provenance & Verification appendix,
-  and a Sources list of full deep-link URLs.
+  and a Sources list of full deep-link URLs. Per AllWeather's "Investing in positive outcomes"
+  philosophy, every analysis also includes a labelled, informational ESG & stakeholder
+  positive-outcomes assessment that is non-financial and does not affect the financial conclusion.
 ---
 
 # JSE Analyst (dispatcher)
@@ -46,8 +52,13 @@ and honour it.
 Call the **Task** tool with `subagent_type: "jse-analyst"` and a prompt containing:
 - the company **slug**;
 - the **analysis request** (full results review / specific metric / period comparison /
-  IC notes / risk scan);
+  IC notes / risk scan / scenario-outlook / sensitivity);
 - the **output format chosen in Step 0** (`docx` / `chat` / `xlsx` / `pptx`).
+- the **resolved sector lens**: read `company.json` → `icb_sector`, normalise it
+  (case-insensitive; the subagent holds the canonical alias map) and tell the subagent which
+  `jse-sector-<key>` to load, OR that no dedicated lens exists for that sector (then it uses
+  the general framework and logs a `coverage_gap`). The subagent MUST name the lens it used in
+  the deliverable — this is one of its Definition-of-Done items.
 - the execution **`mode`** (`deep` | `quick`) and an explicit **`tool_call_budget`** for
   the financials/outlook/KPI extraction — **6 in quick mode, 8 in deep** (the subagent caps
   itself to whichever is tighter; see its "Tool-call budget" section). When you fan out

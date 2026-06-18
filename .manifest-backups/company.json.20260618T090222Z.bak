@@ -51,8 +51,7 @@
   "coverage_gaps": [
     "FY2025 Annual Financial Statements ORIGINAL PDF outstanding - https://www.goldfields.com/pdf/investors/integrated-annual-reports/2025/afs-2025.pdf (8.9MB, verified 200/application/pdf/%PDF). Not saved: workspace egress allowlist 403s the domain AND harness blocks base64 transit from browser. Retry from an environment with direct outbound HTTP.",
     "FY2025 Results Presentation ORIGINAL PDF outstanding - https://www.goldfields.com/reports/q4-2026/pdf/presentation.pdf (6.8MB, verified 200/application/pdf). Same two environment blocks.",
-    "Quick-mode skips (backfill on a deep run): FY2025 Integrated Annual Report PDF, H1 2025 interim, trading statements, full SENS/6-K history, prior-year (FY2024) documents.",
-    "2026-06-18: company.json was found TRUNCATED on disk at the documents block (invalid JSON, cut mid-3rd-doc). Restored from last-good backup .manifest-backups/company.json.20260618T090222Z.bak and re-added the on-disk analyst notes/model. Root cause likely a prior free-form write; use tools/manifest.py helpers going forward."
+    "Quick-mode skips (backfill on a deep run): FY2025 Integrated Annual Report PDF, H1 2025 interim, trading statements, full SENS/6-K history, prior-year (FY2024) documents."
   ],
   "documents": {
     "Gold_Fields_GFI_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
@@ -76,39 +75,6 @@
       "path": "companies/gold-fields/analyst-notes/Gold_Fields_GFI_Scenario_Model_Jun2026.xlsx",
       "source_url": "internal",
       "_provenance": "Formula-driven companion scenario model (gold price / AISC / FX -> Revenue, EBITDA, FCF) under Hormuz-open vs Hormuz-closed; calibrated to FY2025 actuals (98.3%)."
-    },
-    "Gold_Fields_GFI_Rand_Weakness_LoadShedding_Scenarios_Jun2026.docx": {
-      "date_downloaded": "2026-06-18T09:13:00Z",
-      "original_saved": true,
-      "analysed": true,
-      "type": "analyst_note",
-      "period": "FY2026e (SA-stress scenarios)",
-      "date_published": "2026-06-18",
-      "path": "companies/gold-fields/analyst-notes/Gold_Fields_GFI_Rand_Weakness_LoadShedding_Scenarios_Jun2026.docx",
-      "source_url": "internal",
-      "_provenance": "Internal IC note: rand-weakness & load-shedding scenarios (FY2026e), South Deep localisation. Built from FY2025 sacred actuals + calibrated scenario method."
-    },
-    "Gold_Fields_GFI_Rand_LoadShedding_FY2627_Scenarios_Jun2026.docx": {
-      "date_downloaded": "2026-06-18T00:00:00Z",
-      "original_saved": true,
-      "analysed": true,
-      "type": "analyst_note",
-      "period": "FY2026e-FY2027e (SA-stress scenarios)",
-      "date_published": "2026-06-18",
-      "path": "companies/gold-fields/analyst-notes/Gold_Fields_GFI_Rand_LoadShedding_FY2627_Scenarios_Jun2026.docx",
-      "source_url": "internal",
-      "_provenance": "Internal IC note (this run): rand-weakness & load-shedding scenario & sensitivity analysis extended to FY2026e AND FY2027e, with Base/Weak-rand/Load-shed/Combined columns. Sector lens jse-sector-mining. Built from FY2025 sacred actuals + companion live-formula model; verified (verify_deliverable + check_numbers)."
-    },
-    "Gold_Fields_GFI_Rand_LoadShedding_FY2627_Scenario_Model_Jun2026.xlsx": {
-      "date_downloaded": "2026-06-18T00:00:00Z",
-      "original_saved": true,
-      "analysed": true,
-      "type": "analyst_model",
-      "period": "FY2026e-FY2027e",
-      "date_published": "2026-06-18",
-      "path": "companies/gold-fields/analyst-notes/Gold_Fields_GFI_Rand_LoadShedding_FY2627_Scenario_Model_Jun2026.xlsx",
-      "source_url": "internal",
-      "_provenance": "Companion live-formula scenario model: USD/ZAR & load-shedding -> South Deep cost/volume -> group AISC/EBITDA/FCF, FY2026e-FY2027e, four scenarios. Calibrated to FY2025A EBITDA (98.3%). Recalc zero-error."
     }
   }
 }

@@ -70,3 +70,33 @@ position, Working capital as % of revenue.
 
 Secondary: Return on net operating assets (RONOA), Organic vs acquisition growth, Contract
 renewal rate, Geographic revenue split, Headcount and revenue per employee.
+
+## Technology / Consumer-Internet Holdings (Naspers / Prosus)
+
+Primary: NAV per share, Discount to NAV, Ecommerce revenue growth (organic / FX-neutral),
+Consolidated ecommerce trading profit / margin, Segment trading profit (Food Delivery,
+Classifieds, Fintech/PayU, Etail, Edtech), Core headline earnings, Tencent stake value /
+contribution.
+
+Secondary: Group/segment GMV, Take-rate, Buyback NAV-per-share accretion, Free float,
+Look-through gearing, Cash & funding runway. *(Lens: `jse-sector-tech`.)*
+
+## Investment Holding (Reinet & peers)
+
+Primary: NAV (total & per share), NAV total return %, Discount / premium to NAV, Portfolio
+composition (asset weights), Distributions.
+
+Secondary: NAV per share CAGR, Look-through gearing, Cash & undrawn commitments, Fee load
+(mgmt + performance ÷ NAV), Fair-value hierarchy mix (Level 1/2/3). *(Lens:
+`jse-sector-investment-holding`. Note: standard income-statement metrics are largely N/A —
+lead with the NAV bridge.)*
+
+## Luxury Goods (Richemont)
+
+Primary: Organic / like-for-like sales growth (constant FX), Sales growth by region
+(China/Asia, Americas, Europe, Japan), Sales growth by channel (retail / online / wholesale),
+Jewellery Maisons vs Specialist Watchmakers sales & operating margin, Gross margin, Operating
+margin.
+
+Secondary: Inventory days / channel inventory, Cash conversion / FCF, Retail vs wholesale mix,
+FX (CHF/EUR) translation impact, Store network. *(Lens: `jse-sector-luxury`.)*

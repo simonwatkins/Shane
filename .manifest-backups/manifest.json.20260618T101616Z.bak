@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-18T10:16:16Z",
+  "generated_at": "2026-06-18T10:13:46Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
   "last_global_refresh": "2026-06-17",
@@ -757,8 +757,6 @@
           "date_downloaded": "2026-06-18T00:00:00Z",
           "original_saved": false,
           "analysed": true,
-          "analysis_date": "2026-06-18T10:15:00Z",
-          "analysis_summary": "FY2026/27 scenario & outlook note (deep). FY2025 anchor: RFO +13% to R9,821m, AHE +24% to R8,263m (both Malawi/market-flattered; ~7-9%/11-16% ex-Malawi), VNB -52% to R850m, VNB margin 1.2% (below 2-3% target), RoNAV 15.2% (low end of 15-17%; 14.0-14.5% ex-Malawi), RoGEV 4.1%, DPS +8%, solvency 162%, NCCF -R10.4bn (narrowed 55%). Unmodified joint audit. Net management tone cautiously confident/execution-focused; implies value-KPI upgrade over the reset window but no near-term EPS upgrade. Bull/Neutral/Bear FY2026 projections (e) for RFO, AHE/share, RoNAV, VNB margin, OM Bank loss, DPS. Peer verdict vs Sanlam/Discovery/Momentum/SBG-Liberty: HOLD (Neutral), GAIN (Bull), LOSE (Bear). Risk flags: earnings quality (Malawi/markets), persistency-basis change, solvency drift, NCCF still negative, OM Bank losses to FY2028. Sector lens: jse-sector-insurance. Deliverable: companies/old-mutual/analyst-notes/Old_Mutual_FY2026-27_Scenario_Outlook_Note.docx.",
           "type": "annual_results",
           "period": "FY2025",
           "date_published": "2026-03-17",
@@ -766,15 +764,12 @@
           "text_path": "companies/old-mutual/annual-reports/Old_Mutual_FY2025_Annual_Results_Booklet.txt",
           "text_source": "web_fetch (application/pdf -> extracted full text, 109k chars)",
           "source_url": "https://www.oldmutual.com/v3/assets/bltdd392fd32dda3ce8/blt16240806b39581ed/69b8ccfaccf6a3727ac58f77/2025_Annual_Results_booklet_Double.pdf",
-          "_provenance": "Group Annual Results for the year ended 31 December 2025. COVERAGE GAP: original binary PDF blocked by sandbox allowlist (oldmutual.com 403); full extracted text saved as sidecar. Deep-run backfill should re-download the binary via browser, plus the standalone Embedded Value report / SFCR (primary value docs for a life insurer)."
+          "_provenance": "Group Annual Results for the year ended 31 December 2025. COVERAGE GAP: original binary PDF blocked by sandbox allowlist (oldmutual.com 403); full extracted text saved as sidecar. Deep-run backfill should re-download the binary via browser."
         }
       },
       "document_count": 1,
       "_missing_files": [
         "old-mutual-annual-results-fy2025-20260317.pdf"
-      ],
-      "_untracked_files": [
-        "companies/old-mutual/analyst-notes/Old_Mutual_FY2026-27_Scenario_Outlook_Note.docx"
       ]
     },
     "reinet": {
@@ -1106,7 +1101,6 @@
   "_integrity_warnings": [
     "clicks-group: 6 file(s) on disk have NO metadata record in company.json",
     "firstrand: 3 file(s) on disk have NO metadata record in company.json",
-    "old-mutual: 1 document record(s) point to files that do not exist on disk",
-    "old-mutual: 1 file(s) on disk have NO metadata record in company.json"
+    "old-mutual: 1 document record(s) point to files that do not exist on disk"
   ]
 }

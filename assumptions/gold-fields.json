@@ -1,0 +1,47 @@
+{
+  "slug": "gold-fields",
+  "name": "Gold Fields Limited",
+  "ticker": "JSE: GFI / NYSE: GFI",
+  "reporting_currency": "USD",
+  "year_end": "31 December",
+  "anchor_year": "FY2025A",
+  "anchor_note": "FY2025 figures are REPORTED ACTUALS (sacred) verified against the official Gold Fields FY2025 reviewed-results microsite / SEC Form 6-K, 19-20 Feb 2026. Forward FY2026e/FY2027e scenario drivers are analyst ESTIMATES (e).",
+  "source": "Gold Fields FY2025 reviewed results, SEC Form 6-K, 19-20 Feb 2026; FY2026 company guidance per same release.",
+  "actuals": {
+    "Revenue (US$m)": 8751,
+    "Revenue gold-only proxy (US$m)": 8523,
+    "Average realised gold price (US$/oz)": 3496,
+    "Adjusted EBITDA (US$m)": 5637,
+    "Attributable profit (US$m)": 3567,
+    "Normalised profit (US$m)": 2684,
+    "Attributable production (Moz)": 2.438,
+    "Group AISC (US$/oz)": 1645,
+    "AIC (US$/oz)": 1927,
+    "Adjusted FCF (US$m)": 2970,
+    "Sustaining capex (US$m)": 1029,
+    "Net debt / adj EBITDA (x)": 0.26,
+    "USD/ZAR (period avg)": 18.3,
+    "Total ordinary dividend (ZAR/share)": 25.5
+  },
+  "south_deep": {
+    "note": "South Deep is the SOLE South African mine, ~90.2% owned. It is the only Gold Fields asset whose costs are ZAR-denominated and the only asset on the Eskom grid. It is ~13-15% of group attributable ounces (~320koz of 2.438Moz, ramping toward a ~380koz/a run-rate). Australian costs are AUD; Ghana/Peru/Chile broadly USD-linked. This localises BOTH the rand-FX channel and the load-shedding channel to South Deep, muting group-level USD sensitivity vs a pure-SA miner.",
+    "south_deep_oz_share_of_group": 0.14,
+    "south_deep_zar_pure_cost_share_of_its_costs": 0.6,
+    "khanyisa_solar_mw": 50,
+    "khanyisa_cost_vs_grid": 0.085
+  },
+  "fy2026_company_guidance": {
+    "attributable_production_moz": "2.40-2.60",
+    "group_aisc_usd_oz": "1800-2000",
+    "capex_usd_bn": "1.9-2.1",
+    "source": "Gold Fields FY2025 results release / Q1 2026 update (7 May 2026)"
+  },
+  "calibration_check": "Model gold-only EBITDA proxy for FY2025A = (3496 - 1645) x 2.438 + 1029 = US$5,542m vs reported adjusted EBITDA US$5,637m = 98.3% (within 2%).",
+  "sensitivities": {
+    "gold_price_per_100oz_ebitda_usd_m": 250,
+    "group_aisc_per_100oz_ebitda_usd_m": -250,
+    "weak_rand_25_35pct_usd_ebitda_usd_m": 100,
+    "weak_rand_zar_ebitda_dividend_uplift_pct": "25-30",
+    "loadshed_stage46_usd_ebitda_usd_m": "-50 to -120"
+  }
+}

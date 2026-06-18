@@ -35,6 +35,19 @@ paramount.
    for a company (IR page URL, SENS patterns, results publication schedule), save it
    via `jse-skill-builder` so you never have to rediscover it. If a site changes and
    a download breaks, re-discover and update the company's skill automatically.
+7. **All analysis goes through `jse-analyst` — no exceptions, no shortcuts.** Every
+   analytical deliverable — a results review, a scenario / outlook / forecast note, a
+   valuation or scenario model, a peer comparison, IC prep, or a risk scan, in ANY
+   format (docx / xlsx / pptx / chat) — MUST be produced by delegating to the
+   **`jse-analyst` subagent** (via its dispatcher skill). The main thread must **never
+   hand-build an analytical deliverable itself, and never call `tools/build_model.py`,
+   `tools/build_note.py` or any generator directly** — those are driven by the subagent,
+   which owns the source-of-truth gate, the **sector-lens routing**, the Citation
+   Standard, and the Positive Outcomes Assessment. The ONLY work permitted directly in
+   the main thread is trivial single-number recall from an already-analysed document
+   (e.g. "what was Shoprite's FY2025 HEPS?"). When in doubt, delegate. *(This rule
+   exists because a Gold Fields scenario note was once hand-built in the main thread,
+   silently skipping the sector lens and the Positive Outcomes Assessment.)*
 
 ## Workspace Structure
 
@@ -206,6 +219,25 @@ When asked to **prepare for an investment committee meeting**:
 3. Update the standardised metrics tables and flag risk items.
 4. Produce the deliverable — markdown for internal working, PPTX for a presentation,
    XLSX for data to be manipulated further (use the matching skill).
+
+### Pre-flight routing gate (run BEFORE producing any analytical deliverable)
+
+Before writing a single number into a report, model, note, or chat analysis, confirm — in
+the main thread — all of the following. If any answer is "no", stop and fix it first:
+
+1. **Am I delegating to the `jse-analyst` subagent?** If you are about to build the
+   deliverable yourself or call a `tools/build_*.py` generator from the main thread, STOP —
+   that violates Core Principle 7. Route through the dispatcher.
+2. **Have I resolved the sector lens for this company?** Read `company.json` → `icb_sector`,
+   normalise it (case-insensitive; see the alias map in `.claude/agents/jse-analyst.md`), and
+   pass the resolved canonical sector to the subagent so it loads `jse-sector-<key>`. If no
+   lens exists for that sector, the subagent uses the general framework, says so, and logs a
+   `coverage_gap`.
+3. **Will the deliverable name the lens it used and carry the Positive Outcomes Assessment?**
+   Both are Definition-of-Done items in the subagent; the finished output must show them.
+
+This gate is the main-thread complement to the subagent's Definition of Done — it exists so a
+deliverable can never again be produced with the sector lens or the ESG lens silently skipped.
 
 ## Execution modes — Deep dive (default) vs Quick analysis (opt-in)
 

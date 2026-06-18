@@ -11,6 +11,7 @@
     "relationship": "Naspers holds the controlling economic interest in Prosus (the international internet/ecommerce + Tencent holding). Prosus holds Naspers shares (cross-holding). Group results are presented at the Prosus level; Naspers releases a parallel summary. Naspers funds its own buyback by selling Prosus shares.",
     "registered_office": "Gustav Mahlerplein 5, Symphony Offices, 1082 MS Amsterdam, Netherlands"
   },
+  "icb_sector": "Technology",
   "sector": "Technology / Consumer Internet — holding company (Tencent stake + global ecommerce: food delivery, classifieds, fintech, edtech/retail)",
   "reporting_currency": "USD",
   "trading_currencies": {

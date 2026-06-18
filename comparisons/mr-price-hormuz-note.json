@@ -1,0 +1,212 @@
+{
+  "title": "MR PRICE GROUP LIMITED  (JSE: MRP)",
+  "subtitle_lines": [
+    "Cash-based, omnichannel fashion-value retailer  -  reports in ZAR  -  FY ends late March (52/53-week calendar)",
+    "Sector lens: jse-sector-retail (General / Apparel sub-segment)"
+  ],
+  "doc_title": "12-18 Month Forward Outlook under Two Strait-of-Hormuz Scenarios",
+  "byline": "Deep-dive scenario / outlook note  -  18 June 2026  -  Internal research, for information only, not investment advice",
+  "footer": "Mr Price Group (MRP) - Hormuz Scenario Outlook - 18 June 2026 - Internal research, not investment advice",
+  "sections": [
+    {"heading": "0.  Scenario definitions (read first - do not invert)", "blocks": [
+      {"type": "para", "text": "This note answers one question: how does Mr Price Group perform over the next 12-18 months (i.e. across H1 FY2027 to end-FY2027, with a read into FY2028) under two opposite paths for the Strait of Hormuz. The scenarios use the USER's letters and definitions, which we state explicitly to avoid any confusion with the macro-deck's internal column labels:"},
+      {"type": "bullets", "items": [
+        [["Scenario A - the Strait stays CLOSED (the STRESS / closure path). ", {"bold": true}], ["Higher-for-longer oil, weaker rand, higher SARB rates and record fuel. This maps to the macro deck's 'B' column (Brent ~US$100/bbl, USD/ZAR ~17.5-18.0, SARB repo ~8.17%, inland-95 petrol ~R29.5-30.5/l). (S5)", {}]],
+        [["Scenario b - the Strait RE-OPENS and stays open (the NORMALISATION / relief path). ", {"bold": true}], ["Oil normalises, the rand firms, the SARB has room to cut, fuel eases. This maps to the macro deck's 'A' column (Brent ~US$72/bbl, USD/ZAR ~16.0->15.8, SARB repo ~6.67%->6.25%, inland-95 petrol ~R25.5->24.5/l). (S5)", {}]]
+      ]},
+      {"type": "callout", "label": "Mapping, stated plainly.", "body": "USER Scenario A (Strait closed = stress) = macro-deck column 'B'.  USER Scenario b (Strait open = relief) = macro-deck column 'A'.  Throughout this note, 'A' always means the closure/stress case and 'b' always means the re-opening/relief case. Mr Price is not an oil stock: the Strait reaches it indirectly, through the SA consumer's wallet and through rand-denominated imported cost of goods and freight."}
+    ]},
+    {"heading": "1.  The answer, up front", "blocks": [
+      {"type": "para", "text": "Mr Price enters the next 12-18 months from a position of structural strength relative to most SA general retailers, but it is not immune to either scenario. It is a predominantly CASH retailer (89.4% of group retail sales are cash, not credit (S1)) sitting on a net-cash balance sheet, which insulates it from the finance-cost and bad-debt channels that hurt geared or credit-heavy peers. Against that, roughly its entire merchandise base is imported and rand-denominated, so a weaker rand feeds directly into cost of goods and freight, and its core customer is the price-sensitive SA value shopper whose discretionary wallet is squeezed by fuel and rates. The new variable in both scenarios is the ~R9.66bn NKD acquisition (Europe), which consolidates from FY2027 and introduces euro translation, integration risk - and, in the closure case, a partial natural hedge. (S2, S6)"},
+      {"type": "para", "runs": [["Scenario A (Strait CLOSED / stress). ", {"bold": true}], ["The harder path for the SA consumer. Higher fuel and an ~8.17% repo squeeze discretionary income, while a ~R17.5-18.0 rand lifts MRP's imported COGS and pressures gross margin; finance income on the debtors' book stays subdued. But this is also where MRP's relative case is strongest: as the value-end, cash-based trade-down beneficiary it tends to GAIN share when the consumer retrenches, its net-cash balance sheet carries no rate-driven interest burden, and NKD's euro earnings become a modest rand hedge. We see low-single-digit retail sales growth, gross margin under mild pressure, trading margin broadly held by operating discipline, and statutory HEPS roughly flat-to-modestly-up - with NKD consolidation the swing factor. (S1, S5, S6)", {}]]},
+      {"type": "para", "runs": [["Scenario b (Strait OPEN / relief). ", {"bold": true}], ["The friendlier path. Lower fuel and a rate-cutting cycle (~6.67%->6.25% repo) restore discretionary spend; a firmer ~R16.0->15.8 rand eases imported COGS and supports gross margin; lower rates do reduce debtors' interest income (a small drag on 'other revenue', as already seen in FY2026 (S1)) but the volume and margin benefit dominates. We see mid-single-digit retail sales growth re-accelerating, gross-margin stability-to-expansion, trading-margin expansion on operating leverage, and HEPS growth pushing into the high-single to low-double digits. The catch is relative: a consumer-relief rally lifts credit-exposed discretionary peers off a lower base, so MRP may compound steadily yet not screen as the highest-beta name. (S1, S5, S6)", {}]]},
+      {"type": "para", "runs": [["Punchline. ", {"bold": true}], ["Mr Price is a resilience name, not a recovery option: it holds up better than credit-heavy peers if the Strait stays closed, and participates - if less explosively - if it re-opens. The two genuine swing factors are (i) imported-COGS / gross-margin sensitivity to the rand, and (ii) the execution and translation effect of NKD. Informational only; not advice.", {}]]}
+    ]},
+    {"heading": "2.  Mr Price today - FY2026 reported actuals (the anchor)", "blocks": [
+      {"type": "para", "text": "All figures below are reported actuals for the 52 weeks ended 28 March 2026 (FY2026), with the 52 weeks ended 29 March 2025 (FY2025) as the prior corresponding period (pcp). Source: FY2026 annual results SENS announcement and official supplementary information (S1). The binary original is not yet archived locally (proxy 403); figures are taken from the validated text sidecar of the official results and cross-checked against The Citizen's report of the same release - logged as a coverage gap (see Section 11). Margins move in basis points (bps)."},
+      {"type": "table",
+       "headers": ["Metric (FY2026, 52 wks to 28 Mar 2026)", "FY2026", "FY2025 (pcp)", "Change", "Source"],
+       "col_widths": [3360, 1860, 1860, 1500, 1340],
+       "header_fills": ["NAVY", "ACCENT", "ACCENT2", "ACCENT", "NAVY"],
+       "rows": [
+         ["Revenue", "R42.7bn", "~R40.9bn (e)", "+~4.3%", "S1, p.1"],
+         ["Retail sales", "R41.1bn", "~R39.4bn (e)", "+4.3%", "S1, p.1"],
+         ["Other revenue", "R1.3bn", "~R1.33bn (e)", "-1.9%", "S1, p.1"],
+         ["Operating profit", "R6.0bn", "~R5.75bn (e)", "+4.3%", "S1, p.1"],
+         ["Operating margin on revenue (e)", "14.1% (e)", "14.1% (e)", "~flat", "(e) S1"],
+         ["HEPS (statutory)", "1,453.9c", "1,424.0c (e)", "+2.1%", "S1, p.1"],
+         ["Diluted HEPS (statutory)", "1,411.8c", "1,378.7c (e)", "+2.4%", "S1, p.1"],
+         ["HEPS - normalised (ex NKD costs)", "+7.7% (basic +8.0%)", "n/a", "+7.7%", "S1, p.1"],
+         ["Final dividend per share", "592.8c", "593.5c", "-0.1%", "S1, p.1"],
+         ["Dividend policy (target)", "~63% of HE payout", "~63%", "-", "S1, p.1"]
+       ]},
+      {"type": "para", "text": "The gap between statutory HEPS (+2.1%) and normalised HEPS (+7.7%) is entirely explained by Mr Price expensing ALL once-off NKD transaction costs in FY2026, even though the deal closes post year-end and consolidates only from FY2027 (S1, S2). Normalised growth of ~+8% is the cleaner read of the underlying SA business's FY2026 performance; we use it as the base for the scenario walk."},
+      {"type": "para", "text": "Operating-model and balance-sheet markers that drive the scenario read:"},
+      {"type": "table",
+       "headers": ["Operating / structural marker (FY2026)", "FY2026", "pcp / note", "Source"],
+       "col_widths": [3760, 2160, 2360, 1540],
+       "header_fills": ["NAVY", "ACCENT", "ACCENT2", "NAVY"],
+       "rows": [
+         ["Cash sales as % of group retail sales", "89.4%", "Cash sales +4.4%", "S1, p.1"],
+         ["Credit sales growth", "+3.5%", "New accounts approved +11.0%", "S1, p.1"],
+         ["Online sales growth", "+4.9%", ">55% of online orders collected in store", "S1, p.1"],
+         ["Unit (volume) sales growth", "+0.5%", "RSP inflation 3.8%", "S1, p.1"],
+         ["New stores opened (FY2026)", "196", "Across 15 trading chains", "S1, p.1"],
+         ["Total store footprint", "3,182 stores", "Wtd-avg trading space +3.6%", "S1, p.1"],
+         ["Balance sheet character", "Net cash", "No rate-driven interest burden (e)", "(e) S1"],
+         ["Group structure", "~15 chains (Apparel + Home + Telecoms + FinServ)", "Yuppiechef digital", "S1, p.1"]
+       ]},
+      {"type": "para", "text": "Read: FY2026 was a defend-and-grind year. Unit (volume) sales rose only +0.5%, so the +4.3% retail-sales growth was carried by 3.8% retail-selling-price inflation plus +3.6% weighted-average space growth - i.e. like-for-like volume was roughly flat, against a tough H2 base inflated by FY2025's two-pot retirement withdrawals (S1). That MRP still delivered operating leverage (+8% normalised HEPS) on flat volumes in a soft discretionary market is the evidence behind management's 'agility / value-retailing DNA' claim, and the structural reason it should travel both scenarios better than higher-cost, credit-heavier peers (S1)."}
+    ]},
+    {"heading": "3.  Sector lens - how a value-apparel retailer reads (jse-sector-retail)", "blocks": [
+      {"type": "para", "text": "Sector lens: jse-sector-retail, General / Apparel sub-segment. For an apparel retailer the value equation is space x productivity x gross margin x markdown discipline, funded by the cash cycle; the swing factors are gross margin and markdown/full-price sell-through, and - critically here - the cash-vs-credit mix. Mr Price sits at the favourable end of every one of these axes."},
+      {"type": "table",
+       "headers": ["Retail KPI (lens)", "MRP reading (FY2026)", "Why it matters in the scenarios", "Source"],
+       "col_widths": [2360, 2660, 3320, 1140],
+       "header_fills": ["NAVY", "ACCENT", "ACCENT2", "NAVY"],
+       "rows": [
+         ["Cash vs credit mix", "89.4% cash; credit +3.5%", "Lowest exposure to NCA bad-debt and to rate-driven debtor stress; in Scenario A this is MRP's single biggest defensive edge vs credit retailers", "S1, p.1"],
+         ["LFL: volume vs price", "Units +0.5%; RSP infl 3.8%", "Near-flat real volume signals a stressed consumer already; relief (b) is where volume re-accelerates", "S1, p.1"],
+         ["Space growth & footprint", "+3.6% space; 196 new stores; 3,182 total", "Runway intact; new space the growth lever if trading density holds", "S1, p.1"],
+         ["Online / omnichannel", "Online +4.9%; >55% click-and-collect", "Margin-accretive vs pure last-mile because of in-store collection", "S1, p.1"],
+         ["Imported COGS / rand", "Predominantly imported, ZAR-denominated", "The key vulnerability: weak rand (A) lifts COGS and pressures gross margin even though MRP avoids the credit channel", "S1 + lens"],
+         ["Balance sheet / finance cost", "Net cash", "No rate-channel pain in Scenario A; conversely little rate-cut benefit in (b) - the rate channel is asymmetric in MRP's favour", "(e) S1"]
+       ]},
+      {"type": "para", "text": "The lens verdict: Mr Price is the textbook structurally-resilient SA general retailer - cash-based, net-cash, value-positioned, with a defensible omnichannel model - whose one material macro vulnerability is rand-driven imported COGS, not credit or leverage. That single fact shapes both scenarios below."}
+    ]},
+    {"heading": "4.  How the Strait reaches a value-apparel till", "blocks": [
+      {"type": "para", "text": "The transmission chain is identical in both scenarios; only the direction and magnitude flip. Hormuz status -> Brent crude -> USD/ZAR -> SARB repo & inflation -> fuel & disposable income -> MRP demand, imported COGS/freight, gross margin and finance line. Five domestic channels carry it:"},
+      {"type": "bullets", "items": [
+        [["Consumer wallet (fuel + rates). ", {"bold": true}], ["Higher pump prices and a higher repo cut discretionary income - the channel that most directly hits apparel demand. In Scenario A (petrol ~R29.5-30.5/l, repo ~8.17%) this squeezes MRP's value customer but also drives TRADE-DOWN into value chains, which historically favours MRP. In Scenario b (petrol ~R24.5-25.5/l, repo cutting to ~6.25%) discretionary spend recovers. (S5)", {}]],
+        [["Rand / imported COGS - MRP's key exposure. ", {"bold": true}], ["MRP's merchandise is overwhelmingly imported and rand-denominated, so the rand is the dominant cost channel. A weak rand in Scenario A (~17.5-18.0) lifts landed cost and freight and pressures gross margin; a firm rand in Scenario b (~16.0->15.8) eases COGS and supports margin. Unlike most peers, this - not credit or debt - is where MRP feels the oil shock. (S5 + lens)", {}]],
+        [["Finance / debtors' interest (asymmetric, in MRP's favour). ", {"bold": true}], ["With a net-cash balance sheet, MRP carries no rate-driven interest BURDEN, so Scenario A's high repo does not raise finance costs. The mirror image: lower rates in Scenario b REDUCE debtors'-book interest income (FY2026 'other revenue' already fell 1.9% on lower rates (S1)) - a small drag, but swamped by the volume/margin upside. Net: the rate channel helps MRP relatively in A and only mildly hurts the income line in b. (S1, S5)", {}]],
+        [["NKD / euro translation (new in both). ", {"bold": true}], ["From FY2027 NKD's euro earnings consolidate. In Scenario A a weak rand FLATTERS translated euro profit - a partial natural hedge against the imported-COGS hit; in Scenario b a firm rand trims translated euro earnings. NKD thus dampens rand sensitivity in both directions. (S2, S6)", {}]],
+        [["Freight / shipping. ", {"bold": true}], ["A closed Strait keeps war-risk premia and shipping costs elevated (the macro deck notes ~550 ships stranded and a ~2.5% hull war-risk premium (S5)), feeding MRP's landed import cost in Scenario A on top of the rand effect; re-opening unwinds this in (b). (S5)", {}]]
+      ]}
+    ]},
+    {"heading": "5.  Scenario A - the Strait stays CLOSED (stress case)", "blocks": [
+      {"type": "para", "runs": [["Macro (USER Scenario A = macro-deck column 'B'). ", {"bold": true}], ["The closure persists: Brent ~US$100/bbl, USD/ZAR weak at ~17.5-18.0, SARB repo restrictive at ~8.17%, inland-95 petrol at a record ~R29.5-30.5/l, food/fuel inflation ~1pp hotter and real incomes falling. (S5)", {}]]},
+      {"type": "para", "text": "Transmission to Mr Price over 12-18 months: the value customer is squeezed by fuel and rates, so unit volumes stay soft - but MRP captures TRADE-DOWN from stressed mid-market and credit-funded shoppers, partly offsetting the demand hit. The rand at ~17.5-18.0 is the real bite: imported COGS and freight rise, pressuring gross margin, and elevated shipping/war-risk premia compound it. MRP's net-cash balance sheet means NO finance-cost escalation (its structural advantage versus geared peers), and NKD's euro earnings, translated at a weak rand, provide a partial offset to the COGS hit from FY2027. Management has explicitly framed the model as built to 'perform across economic cycles' (CEO Mark Blair) (S1)."},
+      {"type": "para", "runs": [["NKD in Scenario A. ", {"bold": true}], ["NKD is a European value/discount retailer (>2,000 stores) in markets also exposed to a European cost-of-living squeeze, so its own trading may be subdued - but as a value format it is relatively defensive, and the weak-rand translation flatters its reported ZAR contribution. Integration cost and EUR funding remain the risk. Net: NKD is modestly accretive to reported ZAR earnings via translation, with execution risk the offset. (S2, S6)", {}]]},
+      {"type": "table",
+       "headers": ["12-18m direction (Scenario A: CLOSED)", "Read", "Driver", "Source"],
+       "col_widths": [2660, 2660, 2060, 1140],
+       "header_fills": ["NAVY", "ACCENT", "ACCENT2", "NAVY"],
+       "rows": [
+         ["Retail sales growth", "Low single digit (~+2% to +4%) (e)", "Soft volumes + trade-down + price inflation + space", "(e) S1+S5"],
+         ["Gross margin", "Mild compression (~-30 to -80bps) (e)", "Weak rand lifts imported COGS + freight", "(e) S5+lens"],
+         ["Trading / operating margin", "Broadly held to slightly down (e)", "Cost discipline + no finance-cost drag; offsets GM pressure", "(e) S1+S5"],
+         ["HEPS (statutory, incl. NKD)", "~Flat to modest growth (e)", "SA grind + NKD translation tailwind, less integration cost", "(e) S1+S2"],
+         ["Dividend per share", "Held to modest growth (e)", "~63% payout policy on broadly flat HE; net cash supports it", "(e) S1"]
+       ]},
+      {"type": "para", "runs": [["Swing factors / what would make A worse or better: ", {"bold": true}], ["(worse) rand overshooting beyond ~R18 and a deeper-than-modelled volume collapse if real incomes fall hard; NKD integration cost or EUR funding drag larger than expected. (better) stronger-than-expected trade-down share gains; the weak-rand NKD translation hedge proving larger; MRP's cash model letting it hold price while credit peers retrench. (S1, S2, S5)", {}]]}
+    ]},
+    {"heading": "6.  Scenario b - the Strait RE-OPENS and stays open (relief case)", "blocks": [
+      {"type": "para", "runs": [["Macro (USER Scenario b = macro-deck column 'A'). ", {"bold": true}], ["The re-opening holds: Brent normalises to ~US$72/bbl, USD/ZAR firms to ~16.0->15.8, the SARB cuts from 7.00% toward ~6.67%->6.25%, and inland-95 petrol eases from June's record toward ~R25.5->24.5/l, with inflation subdued and real incomes recovering. (S5)", {}]]},
+      {"type": "para", "text": "Transmission to Mr Price over 12-18 months: lower fuel and a rate-cutting cycle restore the value customer's discretionary wallet, so unit volumes re-accelerate off FY2026's near-flat base (units +0.5% in FY2026 (S1)) - the most powerful lever for MRP, which needs volume, not just price, to drive operating leverage. A firmer rand at ~16.0->15.8 eases imported COGS and supports or expands gross margin. The one minor offset is that falling rates reduce debtors'-book interest income (the same 'other revenue' line that fell 1.9% in FY2026 on lower rates (S1)), but this is small relative to the demand and margin upside. Operating leverage on MRP's thin-but-recovering volume base lifts trading margin."},
+      {"type": "para", "runs": [["NKD in Scenario b. ", {"bold": true}], ["A European recovery would help NKD's own trading, but the firmer rand TRIMS its translated ZAR contribution - the mirror of Scenario A. Net, the SA business is the engine of the relief case; NKD adds scale and optionality but its translation tailwind reverses. Integration milestones (first consolidation from H1 FY2027) become the watch-item. (S2, S6)", {}]]},
+      {"type": "table",
+       "headers": ["12-18m direction (Scenario b: OPEN)", "Read", "Driver", "Source"],
+       "col_widths": [2660, 2660, 2060, 1140],
+       "header_fills": ["NAVY", "ACCENT", "ACCENT2", "NAVY"],
+       "rows": [
+         ["Retail sales growth", "Mid single digit (~+5% to +8%) (e)", "Volume re-acceleration + space + normal price inflation", "(e) S1+S5"],
+         ["Gross margin", "Stable to modest expansion (~+20 to +60bps) (e)", "Firmer rand eases imported COGS", "(e) S5+lens"],
+         ["Trading / operating margin", "Expansion (e)", "Operating leverage on recovering volumes", "(e) S1+S5"],
+         ["HEPS (statutory, incl. NKD)", "High single to low double digit growth (e)", "SA volume/margin recovery; partly offset by softer NKD translation & lower debtor interest", "(e) S1+S2"],
+         ["Dividend per share", "Resumes clear growth (e)", "~63% payout on rising HE", "(e) S1"]
+       ]},
+      {"type": "para", "runs": [["Swing factors / what would make b stronger or weaker: ", {"bold": true}], ["(stronger) a sharper consumer-confidence rebound and faster volume recovery; NKD integrating cleanly to add genuine earnings scale. (weaker) a relief rally rotating money toward higher-beta CREDIT retailers off a lower base, so MRP screens as a steady compounder rather than the cyclical winner; the debtors'-interest-income drag from rate cuts; NKD translation headwind from the firm rand. (S1, S2, S5)", {}]]}
+    ]},
+    {"heading": "7.  The two scenarios side by side", "blocks": [
+      {"type": "table",
+       "headers": ["12-18m metric", "A: Strait CLOSED (stress)", "b: Strait OPEN (relief)", "Source"],
+       "col_widths": [2160, 2860, 2860, 740],
+       "header_fills": ["NAVY", "ACCENT", "ACCENT2", "NAVY"],
+       "rows": [
+         ["Macro anchor (deck col.)", "B: Brent ~$100, ZAR ~17.5-18.0, repo ~8.17%, petrol ~R29.5-30.5", "A: Brent ~$72, ZAR ~16.0-15.8, repo ~6.67-6.25%, petrol ~R25.5-24.5", "S5"],
+         ["Retail sales growth", "Low single digit (~+2-4%) (e)", "Mid single digit (~+5-8%) (e)", "(e) S1+S5"],
+         ["Gross margin", "Mild compression (-30 to -80bps) (e)", "Stable to +20-60bps (e)", "(e) S5"],
+         ["Trading margin", "Broadly held / slightly down (e)", "Expanding (e)", "(e) S1+S5"],
+         ["HEPS (statutory)", "Flat to modest growth (e)", "High-single to low-double-digit growth (e)", "(e) S1"],
+         ["Dividend", "Held to modest growth (e)", "Clear growth (e)", "(e) S1"],
+         ["MRP's relative edge", "Strongest: cash model, net cash, trade-down, NKD FX hedge", "Participates but may lag higher-beta credit peers", "lens + S1"],
+         ["Key risk", "Rand-driven COGS; deep volume hit; NKD integration", "Lower debtor interest; soft NKD translation; relative under-performance", "(e) S1+S2"]
+       ]},
+      {"type": "para", "text": "All HEPS / sales / margin ranges above are analyst estimates (e), derived by applying the macro-deck scenario levels (S5) to MRP's FY2026 reported actuals (S1) and the cash-based, net-cash, import-exposed structure described by the retail lens. They are directional ranges for decision framing, not point forecasts; numbers are sacred, so every figure carried into the note from the filings (Section 2) is reported, and every forward range is explicitly tagged (e)."}
+    ]},
+    {"heading": "8.  General risk scan", "blocks": [
+      {"type": "bullets", "items": [
+        [["Going concern / audit opinion: ", {"bold": true}], ["No going-concern or qualified-opinion language in the available FY2026 results release; full AFS binary not yet archived (coverage gap). (S1)", {}]],
+        [["Subsequent event - NKD: ", {"bold": true}], ["Material post-balance-sheet acquisition (closed ~31 Mar 2026, consolidates FY2027); ~R9.66bn / up to EUR487m; introduces first material offshore operating business, EUR translation and integration risk. Market reacted negatively on announcement (share -13.7% to R181.32, ~R6bn market value). (S2, S6)", {}]],
+        [["Once-off items: ", {"bold": true}], ["All NKD transaction costs expensed in FY2026, depressing statutory HEPS (+2.1%) vs normalised (+7.7%); a known, disclosed, non-recurring drag. (S1, S2)", {}]],
+        [["Consumer / demand: ", {"bold": true}], ["Near-flat unit volumes (+0.5%) and a tough two-pot-boosted prior base flag a stressed discretionary consumer - the binding macro risk in Scenario A. (S1)", {}]],
+        [["FX / imported COGS: ", {"bold": true}], ["Predominantly imported, rand-denominated merchandise = direct gross-margin exposure to rand weakness; the principal scenario-A vulnerability. (S1 + lens)", {}]],
+        [["Credit book: ", {"bold": true}], ["Low risk - 89.4% cash; credit +3.5% with new accounts +11.0%, managed conservatively; small relative to peers. (S1)", {}]],
+        [["Not separately verified (coverage gaps): ", {"bold": true}], ["exact net-cash quantum ex-leases, NKD funding structure, FY2026 remuneration, and the original SENS/AFS binaries - all outstanding pending the binary backfill (Section 11). (S1, S2)", {}]]
+      ]}
+    ]},
+    {"heading": "9.  Positive Outcomes Assessment (ESG & Stakeholder)", "blocks": [
+      {"type": "para", "runs": [["Non-financial lens - informational only. ", {"bold": true}], ["This section reflects AllWeather's 'Investing in positive outcomes' philosophy. It is a distinct, clearly-labelled lens that does NOT change, gate or tie-break the financial conclusion above, which reads identically with or without it.", {}]]},
+      {"type": "para", "runs": [["ESG / impact. ", {"bold": true}], ["The available FY2026 results release is a short-form financial announcement and does not disclose emissions, energy/water, transition capex, governance detail or B-BBEE metrics - so these are Not disclosed in the on-disk sources and are logged as a coverage gap to backfill from the FY2026 Integrated Annual Report / sustainability report. (S1) AllWeather view: as a cash-based, asset-light value retailer, MRP's principal environmental footprint is its imported supply chain and freight, and a closed-Strait world (Scenario A) raises shipping emissions and cost simultaneously; this is judgement, not a sourced figure, pending the IAR.", {}]]},
+      {"type": "para", "runs": [["Stakeholder outcomes. ", {"bold": true}], ["On disclosed, sourced evidence: MRP expanded employment and access through 196 new stores across 15 chains (a footprint of 3,182), widening product access for value-seeking SA consumers, and grew an omnichannel offer with >55% click-and-collect (S1). Its value-retailing positioning provides affordable apparel and homeware to a price-sensitive, lower-to-middle-income customer base - a genuine cost-of-living cushion, most valuable precisely in the Scenario-A stress case (judgement). The NKD acquisition extends employment to a combined workforce of >40,000 across Europe and SA (S2). Specific wage, safety, training and supplier/community figures are Not disclosed in the on-disk results release and are logged as a coverage gap. (S1, S2)", {}]]},
+      {"type": "para", "text": "Net (informational): MRP's stakeholder story - affordable product access and store-level employment growth - is evidence-positive on the disclosed footprint data, while detailed ESG metrics are simply not in the on-disk short-form release and must be backfilled from the IAR. This assessment does not alter the financial conclusion."}
+    ]},
+    {"heading": "10.  Management commentary & what to watch", "blocks": [
+      {"type": "para", "runs": [["Outlook (attributed). ", {"bold": true}], ["CEO Mark Blair: 'The agility of our operating model and the strength of our value retailing DNA have enabled operating leverage in a challenging retail environment... confident in our ability to perform across economic cycles.' MRP flags a rate inflexion (SARB +25bps end-May 2026) and early signs of household disposable-income recovery in 2025 but still-soft discretionary demand. (S1)", {}]]},
+      {"type": "para", "runs": [["Capital allocation. ", {"bold": true}], ["~63% headline-earnings payout maintained (final DPS 592.8c vs 593.5c); conservative credit-book management; the major capital event is the ~R9.66bn NKD acquisition, MRP's first material offshore deal, which it publicly defended amid investor concern (17 Mar 2026). (S1, S2)", {}]]},
+      {"type": "bullets", "items": [
+        "Strait-of-Hormuz status & Brent crude - the master switch (closed ~108 days as at 17 Jun 2026; Brent ~$79-81 as reopening is priced in). (S5)",
+        "USD/ZAR - MRP's single most important cost variable via imported COGS; watch the path between ~16.0 (relief) and ~18.0 (stress). (S5)",
+        "SA monthly fuel prints and the SARB MPC path between the ~6.67% and ~8.17% end-2026 scenarios - the consumer-wallet channel. (S5)",
+        "MRP H1 FY2027 interim results (~1 Nov 2026) - first period to CONSOLIDATE NKD; watch gross margin, unit-volume trend, NKD contribution and integration/translation effect. (S4)",
+        "Gross-margin and unit-volume (real LFL) trend - the cleanest read of whether the consumer is recovering (b) or retrenching (A). (S1)"
+      ]},
+      {"type": "para", "runs": [["Questions for further research / management: ", {"bold": true}], ["(1) What share of COGS is rand-denominated import, and what is the gross-margin sensitivity to a 10% rand move? (2) How is NKD funded (cash vs debt vs EUR facility) and what is the FY2027 translation and integration-cost guidance? (3) What is the exact FY2026 net-cash position ex-IFRS-16 leases? (4) What trade-down share gains is management seeing at the value end? (5) What is the medium-term group trading-margin target post-NKD? (S1, S2)", {}]]}
+    ]},
+    {"heading": "11.  Provenance & verification appendix", "blocks": [
+      {"type": "para", "text": "Master audit trail - every key figure presented, traceable to source in one step. (e) rows show their arithmetic. Coverage gaps: the FY2026 SENS/AFS/presentation binaries and the NKD SENS originals are NOT yet archived locally (proxy 403); figures are taken from the validated text sidecar of the official results (cross-checked vs The Citizen) and the compiled NKD press summary - backfill the originals via Claude in Chrome."},
+      {"type": "table",
+       "headers": ["#", "Figure (as presented)", "Value", "Reported / Derived", "Source", "Doc & section", "Retrieved"],
+       "col_widths": [420, 2360, 1300, 1700, 700, 1640, 1140],
+       "header_fills": ["NAVY", "ACCENT", "ACCENT2", "ACCENT", "NAVY", "ACCENT2", "NAVY"],
+       "rows": [
+         ["1", "FY2026 revenue", "R42.7bn", "Reported", "S1", "FY2026 results, headline (p.1)", "2026-06-05"],
+         ["2", "FY2026 retail sales (+4.3%)", "R41.1bn", "Reported", "S1", "FY2026 results, headline (p.1)", "2026-06-05"],
+         ["3", "FY2026 operating profit (+4.3%)", "R6.0bn", "Reported", "S1", "FY2026 results, headline (p.1)", "2026-06-05"],
+         ["4", "FY2026 HEPS (statutory, +2.1%)", "1,453.9c", "Reported", "S1", "FY2026 results, EPS (p.1)", "2026-06-05"],
+         ["5", "FY2026 normalised HEPS growth", "+7.7%", "Reported", "S1", "FY2026 results, EPS (p.1)", "2026-06-05"],
+         ["6", "FY2026 final DPS", "592.8c", "Reported", "S1", "FY2026 results, dividend (p.1)", "2026-06-05"],
+         ["7", "Cash sales % of retail sales", "89.4%", "Reported", "S1", "FY2026 results, key points (p.1)", "2026-06-05"],
+         ["8", "Online sales growth", "+4.9%", "Reported", "S1", "FY2026 results, key points (p.1)", "2026-06-05"],
+         ["9", "Unit sales / RSP inflation", "+0.5% / 3.8%", "Reported", "S1", "FY2026 results, headline (p.1)", "2026-06-05"],
+         ["10", "New stores / footprint / space", "196 / 3,182 / +3.6%", "Reported", "S1", "FY2026 results, key points (p.1)", "2026-06-05"],
+         ["11", "FY2025 HEPS (pcp) (e)", "1,424.0c (e)", "Derived: 1,453.9 / 1.021", "S1", "FY2026 results, +2.1% growth (p.1)", "2026-06-05"],
+         ["12", "FY2025 revenue (pcp) (e)", "~R40.9bn (e)", "Derived: 42.7 / 1.043", "S1", "FY2026 results, +4.3% (p.1)", "2026-06-05"],
+         ["13", "NKD consideration", "up to EUR487m (~R9.66bn)", "Reported", "S2", "NKD acquisition summary", "2026-06-05"],
+         ["14", "Combined footprint / workforce", ">5,000 stores / >40,000", "Reported", "S2", "NKD acquisition summary", "2026-06-05"],
+         ["15", "MRP share reaction on announcement", "-13.7% to R181.32", "Reported", "S2", "NKD acquisition summary", "2026-06-05"],
+         ["16", "Scenario A macro (closed = deck B)", "Brent $100 / ZAR 17.5-18.0 / repo 8.17% / petrol 29.5-30.5", "Reported (deck)", "S5", "macro/latest.json scenario_levels", "2026-06-17"],
+         ["17", "Scenario b macro (open = deck A)", "Brent $72 / ZAR 16.0-15.8 / repo 6.67-6.25% / petrol 25.5-24.5", "Reported (deck)", "S5", "macro/latest.json scenario_levels", "2026-06-17"],
+         ["18", "All 12-18m sales/margin/HEPS ranges", "see Sections 5-7", "Derived (e): macro deck applied to FY2026 actuals", "S1+S5", "analyst estimate", "2026-06-18"]
+       ]}
+    ]},
+    {"heading": "12.  Sources", "blocks": [
+      {"type": "para", "text": "Company filings & inputs (held locally):"},
+      {"type": "bullets", "items": [
+        "S1 - Mr Price Group FY2026 annual results SENS / official supplementary information, 52 weeks ended 28 March 2026 (released 5 Jun 2026). Local: companies/mr-price/annual-reports/mrprice-annual-results-fy2026-20260605.txt. Binary original NOT yet archived (proxy 403) - coverage gap.",
+        "S2 - Mr Price / NKD (Pegasus Group Holding GmbH) acquisition summary, announced 9 Dec 2025, conditions fulfilled 23 Feb 2026. Local: companies/mr-price/press-releases/mrprice-nkd-acquisition-summary-2025-2026.txt. Original SENS binaries NOT yet archived - coverage gap.",
+        "S4 - MRP next results: H1 FY2027 interim, expected ~1 Nov 2026 (first NKD consolidation). Per company.json next_expected_results.",
+        "S5 - Macro deck: Strait of Hormuz / oil / rand / rates / fuel, as at 17 Jun 2026, with A/Base/B scenario levels. Local: macro/latest.json. Levels via web search 17 Jun 2026 - may be delayed/secondary."
+      ]},
+      {"type": "para", "text": "External (web search / press - may be delayed/secondary):"},
+      {"type": "sources", "items": [
+        {"label": "S1 cross-check - The Citizen report of MRP FY2026 results (5 Jun 2026) -", "url": "https://www.citizen.co.za/business/mr-price-generates-roughly-r16-4-million-a-day-in-operating-profit/", "link_text": "The Citizen"},
+        {"label": "S1 official supplementary information PDF (to backfill) -", "url": "https://mrpricegroup.com/wp-content/uploads/2026/06/Supplementary-information-FY2026.pdf", "link_text": "mrpricegroup.com supplementary info FY2026"},
+        {"label": "S2 - NKD R9.7bn acquisition (Daily Investor) -", "url": "https://dailyinvestor.com/retail/121204/mr-price-ploughs-ahead-with-controversial-r9-7-billion-purchase/", "link_text": "Daily Investor"},
+        {"label": "S2 - Mr Price defends NKD acquisition (IOL, 17 Mar 2026) -", "url": "https://iol.co.za/business-report/companies/2026-03-17-mr-price-defends-acquisition-of-europe-based-nkd-amid-investor-concerns/", "link_text": "IOL"},
+        {"label": "S6 - Mr Price European debut / NKD deal (Cape Town Etc) -", "url": "https://www.capetownetc.com/news/mr-price-european-debut-nkd-deal/", "link_text": "Cape Town Etc"}
+      ]}
+    ]}
+  ]
+}
