@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-18T08:21:07Z",
+  "generated_at": "2026-06-18T08:21:06Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
   "last_global_refresh": "2026-06-17",

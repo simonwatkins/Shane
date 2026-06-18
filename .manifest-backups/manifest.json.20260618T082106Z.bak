@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-18T08:21:07Z",
+  "generated_at": "2026-06-18T07:14:55Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
   "last_global_refresh": "2026-06-17",
@@ -558,7 +558,7 @@
       "financial_year_end": "end-March / early-April (52/53-week retail calendar)",
       "reporting_currency": "ZAR",
       "skill_generated": false,
-      "last_updated": "2026-06-18T08:21:05Z",
+      "last_updated": "2026-06-18T06:58:27Z",
       "next_expected_results": {
         "type": "H1 FY2027 Interim Results",
         "expected_date": "2026-11-01",
@@ -615,19 +615,9 @@
           "text_path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_Bull_Bear_Neutral_FY2027-28_Sentiment_Jun2026.docx",
           "original_saved": true,
           "analysed": true
-        },
-        "Mr_Price_Group_MRP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
-          "type": "analyst_note",
-          "period": "FY2027e-FY2028e Hormuz scenarios",
-          "date_published": "2026-06-18",
-          "date_downloaded": "2026-06-18T08:21:05Z",
-          "path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-          "text_path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-          "original_saved": true,
-          "analysed": true
         }
       },
-      "document_count": 5
+      "document_count": 4
     },
     "naspers": {
       "name": "Naspers Limited",

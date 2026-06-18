@@ -50,16 +50,6 @@
       "text_path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_Bull_Bear_Neutral_FY2027-28_Sentiment_Jun2026.docx",
       "original_saved": true,
       "analysed": true
-    },
-    "Mr_Price_Group_MRP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx": {
-      "type": "analyst_note",
-      "period": "FY2027e-FY2028e Hormuz scenarios",
-      "date_published": "2026-06-18",
-      "date_downloaded": "2026-06-18T08:21:05Z",
-      "path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-      "text_path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_12-18m_Outlook_Hormuz_Scenarios_Jun2026.docx",
-      "original_saved": true,
-      "analysed": true
     }
   },
   "next_expected_results": {
@@ -77,5 +67,5 @@
     "companies/mr-price/analyst-notes/mrprice-research-note-2026-2027.docx"
   ],
   "skill_generated": false,
-  "last_updated": "2026-06-18T08:21:05Z"
+  "last_updated": "2026-06-18T06:58:27Z"
 }
