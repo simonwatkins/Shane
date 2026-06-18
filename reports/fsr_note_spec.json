@@ -1,0 +1,150 @@
+{
+  "title": "FirstRand Limited (JSE: FSR)",
+  "subtitle_lines": [
+    "Banking — diversified financial services group (FNB / RMB / WesBank / UK)  |  FY-end 30 June  |  Reporting currency: ZAR",
+    "Forward view: projected performance FY2026 & FY2027 under Bull / Neutral / Bear conditions, with a management-language sentiment read"
+  ],
+  "doc_title": "Bull / Bear / Neutral Earnings Outlook & Sentiment Analysis — FY2026–FY2027",
+  "byline": "Internal research note — prepared 17 June 2026. Quick-analysis scope. All forward figures are analyst estimates marked (e); FY2025 and H1 FY2026 figures are reported actuals.",
+  "footer": "FirstRand (FSR) — Bull/Bear/Neutral Outlook & Sentiment — Jun 2026 — Internal & confidential",
+  "sections": [
+    {
+      "heading": "1. Summary & verdict",
+      "blocks": [
+        {"type": "para", "runs": [["Sentiment is net positive and — unusually — already validated by hard numbers. ", {"bold": true}], ["FirstRand's FY2025 prospects statement (year to 30 June 2025) is dominated by constructive language — “positive signals”, “healthy advances growth”, “resilient”, “strong”, “improving”, “well positioned to capture a higher share” — and explicitly guides FY2026 normalised earnings growth into the “high mid-teens”, “significantly above” the group's long-term target of nominal GDP +0% to 3%, with normalised ROE moving toward the upper end of its 18–22% range (per FY2025 results booklet, Prospects, pp. 24–25). The H1 FY2026 interim (six months to 31 Dec 2025) then delivered against that tone: normalised earnings +11% to R23.2bn and ROE 21.1% (per interim results SENS, 5 Mar 2026).", {}]]},
+        {"type": "para", "runs": [["On balance the language and the early run-rate point to an earnings-UPGRADE bias and continued market-share gains as the base case, not downgrades. ", {"bold": true}], ["The downgrade risk is real but concentrated and identifiable: a challenging UK consumer, global volatility (US trade policy, the Middle East shock), execution of the HSBC South Africa acquisition, and a SARB that has just turned hawkish (repo +25bps to 7.0% on 28 May 2026 — the first hike since 2023). For a bank, a higher repo is a modest endowment tailwind to net interest income, but it pressures household affordability and the credit loss ratio, which is the key swing between our Neutral and Bear cases.", {}]]},
+        {"type": "callout", "label": "Verdict.", "body": "Net positive sentiment, corroborated by the H1 FY2026 print. Base case (Neutral): normalised earnings ~+15% in FY2026 to ~R48.1bn (e) and ROE ~20.8% (e), i.e. an upgrade trajectory. Bull case ~+19% (e); Bear case ~+9% (e) — still positive, because even a stressed FirstRand compounds book value at a high ROE. Market share: management expects to “capture a higher share” across franchises, reinforced by the HSBC SA corporate book transferring to RMB. Watch the UK, global rates/volatility and HSBC integration for the downgrade scenario."}
+      ]
+    },
+    {
+      "heading": "2. Sentiment scorecard — management language to earnings / market-share read",
+      "blocks": [
+        {"type": "para", "runs": [["Method: ", {"bold": true}], ["each theme in the FY2025 “Prospects” statement is tagged by the dominant directional language (verbatim cues quoted), classified Positive / Mixed / Cautious, and mapped to whether it argues for an earnings or market-share upgrade or downgrade. Tally: roughly seven positive/strongly-positive themes against three mixed-to-cautious and one neutral — a clearly constructive net reading.", {}]]},
+        {"type": "table",
+         "headers": ["Theme", "Management language (verbatim cues)", "Tone", "Earnings / share read"],
+         "col_widths": [1700, 4400, 1100, 2000],
+         "header_fills": ["NAVY", "NAVY", "NAVY", "NAVY"],
+         "rows": [
+           ["SA macro / reform", "“positive signals”; “slow but steady progress on structural reforms” (Operation Vulindlela); “shift towards a lower inflation level”", "Positive", "Upgrade — supports advances & credit quality"],
+           ["Advances growth", "“healthy advances growth is anticipated from all large lending portfolios”; SA retail “expected to exceed the year under review”; “more constructive macros”; “creating capacity”", "Positive", "Upgrade — volume-led NII"],
+           ["Net interest income", "“mid to high single-digit growth”; “ALM strategy will continue to provide some protection to endowment”", "Positive / steady", "Neutral-to-up — + the 7.0% repo is an endowment tailwind"],
+           ["Non-interest revenue", "NIR “materially higher into the low to mid teens”; “resilient fee and commission income”; “strong insurance performance”; trading “to rebound”", "Strongly positive", "Upgrade — key earnings driver"],
+           ["Credit / impairments", "CLR “will remain at the bottom of its through-the-cycle range”; “retail credit continues to improve”; but “some additional front book strain”; “some normalisation in the UK cost of credit”", "Net positive (hedged)", "Up — benign, but the swing factor"],
+           ["Costs", "“cost growth slightly below inflationary growth” (incl. motor-commission base effect); ex-base “costs will trend above inflation by 2% to 3%”; will “offset any early revenue benefits”", "Mixed / cautious", "Margin watch"],
+           ["UK operations", "“macroeconomic environment will remain challenging”; “consumer spending may moderate”; “pressures” — but “continued recovery in property prices and lending markets”", "Mixed / cautious", "Downside hedge"],
+           ["Global backdrop", "“unsettling”; “global fracturing”; “periods of volatility”; US trade policy “a source of global uncertainty”", "Cautious", "External risk"],
+           ["HSBC SA acquisition", "“major milestone”; “supports NII and NIR growth in the following years”; but “migration process complexity may affect the completion date” (expected FY2026)", "Positive (execution hedge)", "Up — market-share gain in corporate"],
+           ["Earnings / ROE guidance", "FY2026 normalised earnings growth “high mid-teens”, “significantly above” target; ROE “expected to improve and move closer to the upper end” of 18–22%", "Strongly positive", "Explicit upgrade guidance"],
+           ["Capital / dividend", "“high return profile and solid capital position”; dividend cover at bottom of 1.6–2.0x (payout ≈63%)", "Positive", "Up — strong distribution capacity"]
+         ]},
+        {"type": "para", "runs": [["Confirmation signal: ", {"bold": true}], ["the positive tone was not just rhetoric. H1 FY2026 (to 31 Dec 2025) printed NII +8%, NIR +12%, normalised earnings +11% to R23.2bn, ROE 21.1% (above the midpoint of the target range), CLR a contained 0.86%, cost-to-income improved to 48.7%, CET1 up to 14.4% and DPS +18% to 259c (per interim results SENS, 5 Mar 2026). When constructive guidance is followed by an in-line-to-better interim, the sentiment carries more weight as an upgrade signal.", {}]]}
+      ]
+    },
+    {
+      "heading": "3. The base — FY2025 reported actuals (sacred)",
+      "blocks": [
+        {"type": "para", "text": "All figures per the FirstRand FY2025 Analysis of Financial Results (year to 30 June 2025). These anchor every projection below; forward figures grow off this base and are marked (e)."},
+        {"type": "table",
+         "headers": ["Metric", "FY2025", "FY2024", "Change"],
+         "col_widths": [3800, 1900, 1900, 1600],
+         "header_fills": ["NAVY", "ACCENT", "GREY", "NAVY"],
+         "rows": [
+           ["Normalised earnings (R'm)", "41 824", "37 988", "+10%"],
+           ["HEPS (cents)", "748.8", "679.0", "+10%"],
+           ["Normalised EPS, diluted (cents)", "745.6", "677.2", "+10%"],
+           ["Ordinary dividend per share (cents)", "466.0", "415.0", "+12%"],
+           ["Normalised ROE (%)", "20.2", "20.1", "+10 bps"],
+           ["Net interest income, pre-impairment (R'm)", "91 231", "86 105", "+6%"],
+           ["Non-interest revenue (R'm)", "58 463", "55 295", "+6%"],
+           ["Total gross advances (R'm)", "1 803 827", "1 665 706", "+8%"],
+           ["Cost-to-income ratio (%)", "50.8", "52.6", "-180 bps"],
+           ["Credit loss ratio (%)", "0.85", "0.81", "+4 bps"],
+           ["CET1 ratio (%)", "14.0", "13.5", "+50 bps"],
+           ["Normalised NAV per share (cents)", "3 884.1", "3 488.1", "+11%"]
+         ]}
+      ]
+    },
+    {
+      "heading": "4. Scenario design — what separates Bull, Neutral and Bear",
+      "blocks": [
+        {"type": "para", "runs": [["The Neutral case follows management's own FY2026 guidance; Bull and Bear flex the macro and the credit / NIR drivers around it. ", {"bold": true}], ["Current macro context (mid-June 2026): SARB repo 7.0% after a +25bps hike on 28 May 2026; CPI 4.0% (April 2026); SARB 2026 forecasts — inflation 4.4%, GDP 1.2% — with the quarterly model implying the repo easing back to ~6.31% by end-2026. Higher-for-longer rates are a double-edged sword for a bank: supportive of endowment NII, but a drag on affordability and credit.", {}]]},
+        {"type": "bullets", "items": [
+          [["Bull — ", {"bold": true}], ["reform momentum accelerates, GDP beats the 1.2% forecast, inflation stays anchored and the SARB resumes cutting into FY2027; retail and UK credit demand stays strong, CLR holds at the bottom of the through-the-cycle range, NIR compounds in the mid-teens, and HSBC SA completes cleanly and starts contributing. Earnings growth runs ahead of guidance.", {}]],
+          [["Neutral (base) — ", {"bold": true}], ["management guidance is met: NII mid-to-high single digits, NIR low-to-mid teens, costs around inflation, CLR at the bottom of the range, normalised earnings growth in the high mid-teens in FY2026 and normalising toward the group's nominal-GDP-plus target thereafter; ROE near the upper end of 18–22%.", {}]],
+          [["Bear — ", {"bold": true}], ["the Middle East / global shock persists, rates stay higher for longer, GDP undershoots, household affordability deteriorates and the CLR rises through the cycle; UK consumer weakness bites, NIR slows and HSBC integration is delayed or costly. Earnings still grow — a high-ROE balance sheet compounds — but well below guidance.", {}]]
+        ]}
+      ]
+    },
+    {
+      "heading": "5. Projected performance — FY2026 (year to 30 June 2026)",
+      "blocks": [
+        {"type": "para", "text": "All figures analyst estimates (e), grown off the FY2025 sacred base in Section 3. Dividend per share assumes cover at the bottom of the board range (~1.6x) in Bull/Neutral and a more conservative ~1.7x in Bear."},
+        {"type": "table",
+         "headers": ["Metric (FY2026e)", "Bull", "Neutral", "Bear"],
+         "col_widths": [3400, 1900, 1900, 2000],
+         "header_fills": ["NAVY", "ACCENT2", "GREY", "RED"],
+         "rows": [
+           ["Normalised earnings growth", "+19% (e)", "+15% (e)", "+9% (e)"],
+           ["Normalised earnings (R'm)", "49 771 (e)", "48 098 (e)", "45 588 (e)"],
+           ["HEPS (cents)", "891 (e)", "861 (e)", "816 (e)"],
+           ["Normalised ROE (%)", "21.5 (e)", "20.8 (e)", "19.3 (e)"],
+           ["Dividend per share (cents)", "557 (e)", "538 (e)", "480 (e)"],
+           ["NII growth", "high single digit (e)", "mid-to-high single digit (e)", "mid single digit (e)"],
+           ["NIR growth", "mid-teens (e)", "low-to-mid teens (e)", "high single digit (e)"],
+           ["Credit loss ratio (%)", "~0.85 (e)", "~0.90 (e)", "~1.05 (e)"],
+           ["Sentiment-implied direction", "Upgrade", "Upgrade", "Mild downgrade vs guidance"]
+         ]}
+      ]
+    },
+    {
+      "heading": "6. Projected performance — FY2027 (year to 30 June 2027)",
+      "blocks": [
+        {"type": "para", "text": "All figures analyst estimates (e), grown off the FY2026e column in Section 5. FY2027 growth normalises as the FY2026 motor-commission base effect washes out and HSBC SA contributes a full period in the Bull/Neutral cases."},
+        {"type": "table",
+         "headers": ["Metric (FY2027e)", "Bull", "Neutral", "Bear"],
+         "col_widths": [3400, 1900, 1900, 2000],
+         "header_fills": ["NAVY", "ACCENT2", "GREY", "RED"],
+         "rows": [
+           ["Normalised earnings growth", "+14% (e)", "+11% (e)", "+4% (e)"],
+           ["Normalised earnings (R'm)", "56 739 (e)", "53 389 (e)", "47 412 (e)"],
+           ["HEPS (cents)", "1 016 (e)", "956 (e)", "849 (e)"],
+           ["Normalised ROE (%)", "21.8 (e)", "20.5 (e)", "18.5 (e)"],
+           ["Dividend per share (cents)", "635 (e)", "598 (e)", "499 (e)"],
+           ["Credit loss ratio (%)", "~0.80 (e)", "~0.90 (e)", "~1.15 (e)"],
+           ["Sentiment-implied direction", "Upgrade", "On guidance", "Downgrade"]
+         ]}
+      ]
+    },
+    {
+      "heading": "7. Market-share read",
+      "blocks": [
+        {"type": "para", "runs": [["The market-share signal is the most unambiguous positive in the commentary. ", {"bold": true}], ["Management states the franchises “remain well positioned to capture a higher share of any additional growth opportunities that emerge”, expects SA retail advances growth to exceed the prior year, and corporate advances to “show higher growth… including the impact of the distribution strategy, with improving margins”. The HSBC South Africa transaction — transferring HSBC's corporate and multinational portfolio to RMB — is an outright share gain in the corporate/multinational segment, expected to complete in FY2026. In Bull/Neutral this compounds FNB's already-large transactional franchise; only in the Bear case (delayed HSBC completion, defensive risk-tightening into a weak macro) would share gains stall.", {}]]}
+      ]
+    },
+    {
+      "heading": "8. Risk flags & what would change the call",
+      "blocks": [
+        {"type": "bullets", "items": [
+          [["Rates higher-for-longer. ", {"bold": true}], ["The 28 May 2026 repo hike to 7.0% reverses the rate-cut assumption embedded in the FY2025 guidance. Endowment-positive for NII, but the affordability/credit hit is the main Neutral-to-Bear swing.", {}]],
+          [["UK consumer & motor-commission tail. ", {"bold": true}], ["Management calls the UK macro “challenging”; the UK Supreme Court motor-commission judgment (1 Aug 2025) was treated as an adjusting post-balance-sheet event — monitor for any further provisioning or FCA redress-scheme cost.", {}]],
+          [["HSBC SA execution. ", {"bold": true}], ["“Migration process complexity may affect the completion date.” A slip pushes the NII/NIR benefit and the corporate share gain into FY2027+.", {}]],
+          [["Cost creep. ", {"bold": true}], ["Ex the base effect, costs are guided +2–3% above inflation and will “offset any early revenue benefits” — watch the cost-to-income ratio if revenue disappoints.", {}]],
+          [["Global volatility. ", {"bold": true}], ["“Global fracturing”, US trade policy and the Middle East shock could feed second-round inflation and rand weakness, pressuring the SA macro the bull case relies on.", {}]],
+          [["Confirm/deny next. ", {"bold": true}], ["The FY2026 result (to 30 June 2026, due ~early Sept 2026) is the next read. Against H1's +11%, a full-year landing in the high mid-teens confirms Neutral/Bull; a sub-10% landing with a rising CLR confirms Bear.", {}]]
+        ]}
+      ]
+    },
+    {
+      "heading": "9. Sources",
+      "blocks": [
+        {"type": "sources", "items": [
+          {"label": "FirstRand FY2025 Analysis of Financial Results (year to 30 June 2025) — Prospects pp. 24-25, Key Financial Information & segment tables. Original PDF on file.", "url": "https://www.firstrand.co.za/media/investors/reports/fsr-analysis-of-financial-results-June-2025-single-page-printable-booklet.pdf", "link_text": "fsr-analysis-of-financial-results-June-2025 (PDF)"},
+          {"label": "FirstRand FY2025 results presentation. Original PDF on file.", "url": "https://www.firstrand.co.za/media/investors/reports/fsr-results-presentation-June-2025.pdf", "link_text": "fsr-results-presentation-June-2025 (PDF)"},
+          {"label": "FirstRand interim results & dividend declaration, six months ended 31 December 2025 (SENS, 5 Mar 2026).", "url": "https://www.sharenet.co.za/v3/sens_display.php?tdate=20260305083000&seq=25", "link_text": "FSR H1 FY2026 results SENS"},
+          {"label": "SARB Monetary Policy Committee — repo raised 25bps to 7.0% (28 May 2026); 2026 forecasts CPI 4.4% / GDP 1.2%.", "url": "https://www.resbank.co.za/en/home/what-we-do/monetary-policy", "link_text": "SARB monetary policy"},
+          {"label": "South Africa inflation rate (StatsSA / Trading Economics) — CPI 4.0% April 2026.", "url": "https://tradingeconomics.com/south-africa/inflation-cpi", "link_text": "SA CPI"}
+        ]}
+      ]
+    }
+  ]
+}

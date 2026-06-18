@@ -76,3 +76,12 @@ biggest consumer of context in this workspace — and it used to run in the same
 also had to hold the downloader's output. Isolating analysis in its own subagent means the
 main thread keeps only the question, the format choice, and the finished deliverable. The
 subagent inherits this project's `CLAUDE.md`, so "numbers
+
+
+## Deterministic builders (pass this instruction to the subagent)
+
+For `xlsx`/`docx` deliverables, the subagent should drive the committed generators rather
+than hand-rolling openpyxl/docx-js: `tools/build_model.py` (from `assumptions/<slug>.json`
++ `macro/latest.json`), `tools/build_note.py` (from a content-spec JSON), then
+`tools/verify_deliverable.py` and `tools/check_numbers.py` before returning. Full detail
+in `.claude/agents/jse-analyst.md` ("Deterministic deliverable builders").

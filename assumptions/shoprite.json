@@ -1,0 +1,47 @@
+{
+  "slug": "shoprite",
+  "name": "Shoprite Holdings Limited",
+  "jse_code": "SHP",
+  "template": "retail-owned",
+  "currency": "ZAR",
+  "anchor_label": "FY2025A",
+  "anchor": {
+    "sale_of_merchandise_rm": 252700,
+    "group_rev_ratio": 1.0158,
+    "gross_margin": 0.243,
+    "trading_margin": 0.059,
+    "net_finance_costs_rm": 4800,
+    "tax_rate": 0.27,
+    "div_cover": 1.75,
+    "eff_diluted_shares_m": 539.8,
+    "heps_actual_c": 1367.2,
+    "source": "SH1 - Shoprite reviewed results, 52 weeks ended 29 June 2025 (FY2024 restated IFRS 5)"
+  },
+  "scenarios": [
+    {
+      "key": "A",
+      "label": "Scenario A - Strait open",
+      "years": {
+        "2026e": {"infl": 0.03, "vol": 0.04, "gross_margin": 0.243, "trading_margin": 0.059, "net_finance_costs_rm": 4700},
+        "2027e": {"infl": 0.03, "vol": 0.04, "gross_margin": 0.244, "trading_margin": 0.0595, "net_finance_costs_rm": 4600}
+      }
+    },
+    {
+      "key": "Base",
+      "label": "Base case",
+      "years": {
+        "2026e": {"infl": 0.04, "vol": 0.025, "gross_margin": 0.242, "trading_margin": 0.0585, "net_finance_costs_rm": 4950},
+        "2027e": {"infl": 0.04, "vol": 0.025, "gross_margin": 0.242, "trading_margin": 0.0588, "net_finance_costs_rm": 4900}
+      }
+    },
+    {
+      "key": "B",
+      "label": "Scenario B - Strait shut",
+      "years": {
+        "2026e": {"infl": 0.055, "vol": 0.015, "gross_margin": 0.24, "trading_margin": 0.058, "net_finance_costs_rm": 5000},
+        "2027e": {"infl": 0.05, "vol": 0.015, "gross_margin": 0.239, "trading_margin": 0.0572, "net_finance_costs_rm": 5300}
+      }
+    }
+  ],
+  "rationale": "Scenario A (Strait open): Brent ~$70-80, pump prices ease, food inflation low, SARB resumes cutting, rand firms. Shoprite's tailwind case - lower diesel/finance costs, volume recovery, room to ease price investment; HEPS re-accelerates toward low-teens, but the share can lag a cyclical relief rally. Scenario B (Strait shut): Brent ~$95-110+, pump at/above record, rand weak, SARB tightens (~8.17% severe path). Tougher business - diesel tailwind reverses with a lag, finance costs climb, volumes soften, margin pressured; HEPS decelerates to mid/high-single-digit. But this is its relative-strength case: non-discretionary food, value leader, prime trade-down beneficiary, net cash funds price cuts."
+}

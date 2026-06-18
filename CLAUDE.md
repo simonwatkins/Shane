@@ -126,6 +126,31 @@ plus the files actually on disk. The manifest is a pure function of those inputs
    with no metadata record) and `_missing_files` (records pointing at absent files) appear per
    company and in `_integrity_warnings`. Treat these as a to-do list, not an error.
 
+## Deterministic deliverable tooling (`tools/` — generate, never hand-roll)
+
+Alongside `tools/manifest.py`, the workspace now has committed, tested generators so
+analysis deliverables are produced by deterministic code rather than ad-hoc scripts
+re-written each run. The constant chrome (house style, model skeleton, verification) is
+written once; only numbers and narrative change per run.
+
+- `tools/report_style.py` — shared house style (palette, fonts, number formats, the
+  disclaimer + Sources format) for both xlsx and docx. Change the look here, once.
+- `tools/build_model.py <slug> [<slug2>...] [--scorecard comparisons/<n>.json] --out f.xlsx`
+  — builds the styled scenario workbook (Cover, Macro Deck, Actuals, Assumptions, Scenario
+  Model, optional Resilience Scorecard) with live Excel formulas from
+  `assumptions/<slug>.json` + `macro/latest.json`; gates on zero recalc errors.
+- `tools/build_note.py <spec.json> --out f.docx` — renders a content-spec JSON into the
+  house-style Word note (python-docx). Separates deterministic chrome from per-run prose.
+- `tools/verify_deliverable.py <files…>` — one-command gate: recalc xlsx (zero-error),
+  OOXML-validate docx, confirm a Sources section. Non-zero exit on failure.
+- `tools/check_numbers.py <file> --companies <slug…>` — "numbers are sacred" linter:
+  flags figures that are neither a known reported actual nor tagged `(e)`.
+
+Inputs are version-controlled: `assumptions/<slug>.json` (FY anchor = sacred actuals;
+scenario drivers = estimates), `macro/latest.json` (shared dated macro, updated once per
+run), `comparisons/<name>.json` (scorecard + verdict, shared by model and note). The
+`jse-analyst` subagent drives these; see `.claude/agents/jse-analyst.md`.
+
 ## Available Skills
 
 These are installed under `.claude/skills/` and trigger automatically by context:
@@ -231,4 +256,8 @@ run's wall-clock is bounded by the *slowest* subagent, so trim every worker:
   remuneration, market context). Don't over-split; each worker's return re-enters the main
   context and costs tokens.
 - **Pre-warm document tooling in parallel.** If the deliverable is docx/pptx/xlsx, launch the
-  dependency install (e.g. `npm install docx`) in the SAME batch as the subagent 
+  dependency install (e.g. `pip install python-docx openpyxl --break-system-packages`, or
+  `npm install docx` for legacy docx-js notes) in the SAME batch as the subagent's Task call, so
+  the toolchain is ready the moment the subagent returns content to render rather than installing
+  serially after the analysis finishes. The committed generators in `tools/` (build_model.py,
+  build_note.py) rely on openpyxl + python-docx, so those are the deps to pre-warm.

@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-17T20:29:00Z",
+  "generated_at": "2026-06-18T06:58:28Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
   "last_global_refresh": "2026-06-17",
@@ -16,7 +16,7 @@
     "spar",
     "woolworths"
   ],
-  "company_count": 13,
+  "company_count": 14,
   "reporting_calendar": [
     {
       "company": "spar",
@@ -447,6 +447,72 @@
       },
       "document_count": 6
     },
+    "firstrand": {
+      "name": "FirstRand Limited",
+      "jse_code": "FSR",
+      "sector": "Banking",
+      "financial_year_end": "30 June",
+      "reporting_currency": "ZAR",
+      "last_updated": "2026-06-17T21:53:11Z",
+      "coverage_gaps": [
+        {
+          "item": "Latest FY annual results (FY2025, to 30 Jun 2025) - original PDF + presentation",
+          "status": "not_downloaded"
+        },
+        {
+          "item": "Latest interim results (H1 FY2026, to 31 Dec 2025)",
+          "status": "not_downloaded"
+        },
+        {
+          "item": "Verify IR website + document_sources URLs via discovery",
+          "status": "unverified"
+        }
+      ],
+      "documents": {
+        "firstrand-annual-results-fy2025-20250911.pdf": {
+          "type": "annual_results",
+          "period": "FY2025",
+          "date_published": "2025-09-11",
+          "date_downloaded": "2026-06-17T21:53:10Z",
+          "path": "companies/firstrand/annual-reports/firstrand-annual-results-fy2025-20250911.pdf",
+          "text_path": "companies/firstrand/annual-reports/firstrand-annual-results-fy2025-20250911.pdf",
+          "original_saved": true,
+          "analysed": true,
+          "source_url": "https://www.firstrand.co.za/media/investors/reports/fsr-analysis-of-financial-results-June-2025-single-page-printable-booklet.pdf",
+          "text_source": "pdftotext -layout"
+        },
+        "firstrand-results-presentation-fy2025-20250911.pdf": {
+          "type": "results_presentation",
+          "period": "FY2025",
+          "date_published": "2025-09-11",
+          "date_downloaded": "2026-06-17T21:53:10Z",
+          "path": "companies/firstrand/investor-presentations/firstrand-results-presentation-fy2025-20250911.pdf",
+          "text_path": "companies/firstrand/investor-presentations/firstrand-results-presentation-fy2025-20250911.pdf",
+          "original_saved": true,
+          "analysed": true,
+          "source_url": "https://www.firstrand.co.za/media/investors/reports/fsr-results-presentation-June-2025.pdf",
+          "text_source": "pdftotext -layout"
+        },
+        "firstrand-annual-financial-statements-fy2025-20250911.pdf": {
+          "type": "annual_financial_statements",
+          "period": "FY2025",
+          "date_published": "2025-09-11",
+          "date_downloaded": "2026-06-17T21:53:11Z",
+          "path": "companies/firstrand/annual-reports/firstrand-annual-financial-statements-fy2025-20250911.pdf",
+          "text_path": "companies/firstrand/annual-reports/firstrand-annual-financial-statements-fy2025-20250911.pdf",
+          "original_saved": true,
+          "analysed": true,
+          "source_url": "https://www.firstrand.co.za/media/investors/reports/firstrand-annual-financial-statements-2025.pdf",
+          "text_source": "pdftotext -layout"
+        }
+      },
+      "document_count": 3,
+      "_untracked_files": [
+        "companies/firstrand/annual-reports/firstrand-annual-financial-statements-fy2025-20250911.txt",
+        "companies/firstrand/annual-reports/firstrand-annual-results-fy2025-20250911.txt",
+        "companies/firstrand/investor-presentations/firstrand-results-presentation-fy2025-20250911.txt"
+      ]
+    },
     "gold-fields": {
       "name": "Gold Fields Limited",
       "jse_code": "GFI",
@@ -492,7 +558,7 @@
       "financial_year_end": "end-March / early-April (52/53-week retail calendar)",
       "reporting_currency": "ZAR",
       "skill_generated": false,
-      "last_updated": "2026-06-07T16:21:49Z",
+      "last_updated": "2026-06-18T06:58:27Z",
       "next_expected_results": {
         "type": "H1 FY2027 Interim Results",
         "expected_date": "2026-11-01",
@@ -539,9 +605,19 @@
           "path": "companies/mr-price/analyst-notes/mrprice-research-note-2026-2027.docx",
           "text_source": "internal fund note",
           "_provenance": "Internal analyst note (Cowork). No external source_url."
+        },
+        "Mr_Price_Group_MRP_Bull_Bear_Neutral_FY2027-28_Sentiment_Jun2026.docx": {
+          "type": "analyst_note",
+          "period": "FY2027e-FY2028e scenario outlook",
+          "date_published": "2026-06-18",
+          "date_downloaded": "2026-06-18T06:58:27Z",
+          "path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_Bull_Bear_Neutral_FY2027-28_Sentiment_Jun2026.docx",
+          "text_path": "companies/mr-price/analyst-notes/Mr_Price_Group_MRP_Bull_Bear_Neutral_FY2027-28_Sentiment_Jun2026.docx",
+          "original_saved": true,
+          "analysed": true
         }
       },
-      "document_count": 3
+      "document_count": 4
     },
     "naspers": {
       "name": "Naspers Limited",
@@ -940,6 +1016,7 @@
     }
   },
   "_integrity_warnings": [
-    "clicks-group: 6 file(s) on disk have NO metadata record in company.json"
+    "clicks-group: 6 file(s) on disk have NO metadata record in company.json",
+    "firstrand: 3 file(s) on disk have NO metadata record in company.json"
   ]
 }

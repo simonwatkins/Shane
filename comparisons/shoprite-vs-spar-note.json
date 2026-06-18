@@ -1,0 +1,97 @@
+{
+  "title": "SHOPRITE  vs  THE SPAR GROUP",
+  "subtitle_lines": ["JSE: SHP  vs  JSE: SPP   -   Food retail   -   Both report in ZAR"],
+  "doc_title": "The Strait of Hormuz: 12-18 Month Outlook & Relative Resilience",
+  "byline": "Investment Committee briefing  -  17 June 2026  -  Internal research, for information only",
+  "footer": "Shoprite vs The SPAR Group - Hormuz Scenario Outlook  -  17 June 2026  -  Internal research, not investment advice",
+  "sections": [
+    {"heading": "1.  The answer, up front", "blocks": [
+      {"type": "para", "text": "Yes - Shoprite is clearly better positioned than The SPAR Group to weather financial uncertainty, and the gap holds in both scenarios. Neither is an oil stock: the Strait of Hormuz reaches each one indirectly, through the South African consumer's wallet (pump prices, food inflation, interest rates, the rand) and through each group's own diesel/distribution cost. But the two enter this from opposite ends. Shoprite is a net-cash, margin-expanding compounder that grew continuing HEPS +15.8% in FY2025; SPAR is a geared, mid-turnaround business whose continuing HEPS just fell 55.5% at the half year, with no dividend for a second straight year."},
+      {"type": "para", "runs": [["Scenario A (Strait stays open). ", {"bold": true}], ["Both improve as Brent normalises toward $70-80, fuel eases, food inflation stays low and the SARB resumes cutting. Shoprite is a steady compounder that may modestly lag a cyclical relief rally. SPAR - distressed and geared - actually has the higher upside torque, because falling rates accelerate its de-gearing and a consumer recovery helps its retailers; but that recovery is gated on self-help (fixing the KZN distribution centre, the SAP rollout, cost realignment, retailer loyalty), not on the macro alone. It is a higher-risk recovery bet, not resilience.", {}]]},
+      {"type": "para", "runs": [["Scenario B (Strait closes and stays shut). ", {"bold": true}], ["This is where the two diverge most. Shoprite is a defensive outperformer: food is non-discretionary, it is the mass-market value leader and prime trade-down beneficiary, and a net-cash balance sheet lets it keep cutting prices while weaker rivals retrench. For SPAR the same oil shock stacks on top of an existing crisis - higher rates stall de-gearing and lift its legacy ZAR-debt drag; fuel hits a distribution-heavy cost base and the wounded KZN DC; a squeezed consumer drives trade-down out of its independents and raises retailer-solvency and debtor risk; and the dividend stays nil. SPAR is the more fragile balance sheet meeting the harder macro.", {}]]},
+      {"type": "para", "runs": [["Punchline. ", {"bold": true}], ["Own Shoprite for resilience. SPAR is best understood as a leveraged recovery option that needs both the macro (Scenario A) and its own execution to go right - the opposite of a safe harbour in uncertainty.", {}]]}
+    ]},
+    {"heading": "2.  The two businesses today", "blocks": [
+      {"type": "para", "text": "All figures are reported actuals on a continuing-operations basis (SHP reviewed, FY2024 restated for IFRS 5; SPP FY2025 audited). H1 FY2026 HEPS are actual prints."},
+      {"type": "table",
+       "headers": ["Metric (FY2025, continuing)", "Shoprite (SHP)", "The SPAR Group (SPP)"],
+       "col_widths": [3260, 3050, 3050],
+       "header_fills": ["NAVY", "ACCENT", "ACCENT2"],
+       "rows": [
+         ["Revenue / turnover", "Sale of merch. R252.7bn (+8.9%)", "Turnover R132.4bn (+1.6%)"],
+         ["Trading / operating margin", "5.9% (+40bps), expanding", "2.1% ex-extra (~flat); 1.1% at H1 FY26"],
+         ["Continuing HEPS (diluted)", "1,367.2c (+15.8%)", "795.4c (-9.0%)"],
+         ["H1 FY2026 HEPS (actual)", "708.9c (+7.9%)", "199.9c (-55.5%)"],
+         ["Dividend (FY2025)", "781c (+9.7%), 1.75x cover", "Nil - 2nd consecutive year"],
+         ["Balance sheet", "NET CASH R8.1bn (~US$7m USD debt)", "NET DEBT R5.4bn, 1.74x leverage"],
+         ["Returns", "ROE 26.7% / ROIC 19.4%", "SA interest cover 4.50x"],
+         ["Business model", "Owned stores; mass-market value leader", "Wholesaler to independent franchisees"],
+         ["Share / valuation (mid-Jun 2026)", "~R295, P/E ~20.2x, yield 2.79%", "~R60-65, -30% over 90 days"]
+       ]},
+      {"type": "para", "text": "The contrast is structural, not cyclical. Shoprite owns its stores and sells mostly for cash; SPAR is a wholesaler that supplies independent franchisees and finances them on credit - so a consumer downturn hits SPAR twice, through softer volumes and through rising retailer-debtor risk. Shoprite carries net cash; SPAR carries net debt whose reduction is the centre of its equity story."}
+    ]},
+    {"heading": "3.  How the Strait reaches a grocery till", "blocks": [
+      {"type": "para", "text": "Five domestic channels carry the oil price into both retailers. The direction is the same for each; the magnitude differs because of model and balance sheet."},
+      {"type": "bullets", "items": [
+        [["Consumer wallet - ", {"bold": true}], ["higher pump prices cut discretionary income. This is the prime driver of trade-down into value grocery, which favours Shoprite/Usave and works against SPAR's mid-market independents.", {}]],
+        [["Distribution / diesel - ", {"bold": true}], ["a direct cost for both fleets, proportionally larger for SPAR, a wholesale-distribution business that flagged rising fuel costs as an H2 FY2026 headwind with its KZN DC already underperforming. Shoprite's diesel bill was only R335m in FY2025.", {}]],
+        [["Food / input inflation - ", {"bold": true}], ["fuel feeds food-price inflation, supporting nominal sales but pressuring real volumes for both.", {}]],
+        [["Rand / imports - ", {"bold": true}], ["oil-driven rand weakness lifts imported-line costs. Here SPAR has the edge: its retained Ireland business (BWG, ~EUR1.74bn) is a genuine rand hedge - a weak rand flatters reported euro earnings (it added ~270bps to Ireland's reported growth at H1). Shoprite, ~85% RSA, has little such offset.", {}]],
+        [["Interest rates - ", {"bold": true}], ["oil-led inflation forces the SARB tighter. This splits the two sharply: a manageable headwind on Shoprite's R7.0bn of mostly-rand debt (against R8.1bn of cash), but a direct threat to SPAR's de-gearing path and to the non-deductible interest on its legacy Poland debt.", {}]]
+      ]}
+    ]},
+    {"heading": "4.  Scenario A - the Strait stays open (peace holds)", "blocks": [
+      {"type": "para", "runs": [["Macro. ", {"bold": true}], ["The reopening holds: Brent normalises toward ~$70-80, petrol and diesel ease off June's record, food inflation stays subdued, the rand firms, and the SARB - having just hiked to 7.00% - resumes cutting toward its ~6.67% intermediate path.", {}]]},
+      {"type": "h2", "text": "Shoprite"},
+      {"type": "para", "text": "A better business and a perfectly ownable one. Lower diesel protects distribution, the finance-cost headwind eases, and a recovering consumer lifts real volumes, letting it relax the price investment that has been narrowing its margin. Modelled continuing HEPS re-accelerates into the low-teens (~1,522c FY2026e, ~1,706c FY2027e). The catch is relative: a consumer recovery lifts discretionary and premium peers at least as much and rotates money into cyclicals, so on ~20x earnings Shoprite can keep compounding yet lag a sharp relief rally."},
+      {"type": "h2", "text": "The SPAR Group"},
+      {"type": "para", "text": "SPAR is the higher-beta name to the upside here - but for risky reasons. Falling rates ease finance costs and accelerate the de-gearing that is its whole story; fuel relief helps its logistics-heavy cost base; and a recovering consumer supports its independent retailers. Modelled operating margin rebuilds toward FY2025 levels and continuing HEPS recovers (~470c FY2026e, ~640c FY2027e) - but even in the best case FY2026 HEPS stays far below FY2025's 795.8c, because the H1 print was already 199.9c. Crucially, SPAR's recovery depends on fixing its own problems; the macro tailwind is necessary but not sufficient."}
+    ]},
+    {"heading": "5.  Scenario B - the Strait closes again and stays shut", "blocks": [
+      {"type": "para", "runs": [["Macro. ", {"bold": true}], ["The oil shock persists: Brent holds ~$95-110+, pump prices stay at or above the inland-95 record of R28.06/l, the rand is weak, and the SARB stays restrictive - its published 'severe' scenario puts the repo at ~8.17% by end-2026, with inflation ~1pp hotter and real incomes falling.", {}]]},
+      {"type": "h2", "text": "Shoprite"},
+      {"type": "para", "text": "A tougher business but a stronger relative trade - the classic defensive. Four pressures stack up: the FY2025 diesel tailwind reverses with a lag, finance costs climb, real volumes soften, and it leans harder into price to hold share, so margins stay under pressure and modelled HEPS growth decelerates to mid/high-single-digit (~1,445c FY2026e, ~1,511c FY2027e). Yet this is precisely where Shoprite shines: non-discretionary food, the mass-market value leader, the prime trade-down beneficiary, a proven record of gaining share as the sector slows, and a net-cash balance sheet that funds price cuts when geared rivals cannot. In a risk-off JSE it tends to hold up - or re-rate - as cyclicals de-rate."},
+      {"type": "h2", "text": "The SPAR Group"},
+      {"type": "para", "text": "Scenario B is genuinely dangerous for SPAR, not merely a headwind, because it lands on a business already in distress. Higher rates stall de-gearing (the entire equity thesis) and raise the non-deductible drag from the legacy Poland debt; sustained high fuel hits the distribution-heavy cost base and the still-fragile KZN DC; a squeezed consumer drives trade-down out of SPAR's mid-market independents into value chains, and raises both retailer-solvency risk and the debtor impairments that were already climbing at H1; and the dividend stays nil. Modelled operating margin stays suppressed and HEPS recovers only weakly (~380c FY2026e, ~430c FY2027e), with leverage drifting back toward ~1.9x. Banking covenants were met at H1, which matters - but the margin of safety is thin. This is where the distance to Shoprite is widest."}
+    ]},
+    {"heading": "6.  Relative resilience scorecard", "blocks": [
+      {"type": "para", "text": "Scored 1 (most fragile) to 5 (most resilient), primarily for Scenario B - the stress test. Analyst judgement; the underlying numbers are in the companion model."},
+      {"type": "scorecard", "ref": "comparisons/shoprite-vs-spar.json"},
+      {"type": "callout", "label": "Verdict.", "body": "Shoprite is the more resilient business on every structural axis except FX, where SPAR's euro (Ireland) exposure is a genuine rand hedge. In Scenario B the defensive case for Shoprite is at its strongest while SPAR's fragilities compound; in Scenario A both recover, with SPAR offering more torque but only if execution delivers alongside the macro. For weathering financial uncertainty, Shoprite is the clear choice; SPAR is a leveraged recovery option, not a safe harbour."}
+    ]},
+    {"heading": "7.  Risks & nuances", "blocks": [
+      {"type": "bullets", "items": [
+        "Shoprite's real internal swing is margin-versus-share: it is already cutting price to win share, and in Scenario B that trade-off intensifies. At ~20x earnings it is also exposed to de-rating if growth stalls (B) or if money rotates to cheaper cyclicals (A).",
+        "Shoprite's defensiveness is partial, not absolute - a deep SA recession with the repo at 8%+ could overwhelm even trade-down and non-discretionary demand. It cushions an oil-shock drawdown; it does not fully escape one.",
+        "SPAR's covenants were met at H1 and net debt should unwind seasonally into H2 - the balance sheet is repairing, just slowly. But a sustained high-rate, high-fuel world is the specific macro that most directly attacks that repair.",
+        "SPAR's turnaround is real but early: three consecutive profitable months at KZN (Feb-Apr 2026) and a signed UK (AWG) disposal are genuine progress. The risk is execution under a brand-new C-suite while the macro is hostile.",
+        "Near-term fuel nuance: diesel actually eased at the June 2026 pump on levy/slate timing even with Brent elevated, so the distribution-cost hit in Scenario B is real but back-loaded for both."
+      ]}
+    ]},
+    {"heading": "8.  What to watch", "blocks": [
+      {"type": "bullets", "items": [
+        "Strait-of-Hormuz status and Brent crude - the master switch for the whole chain (closed ~108 days as at 17 Jun 2026; Brent ~$79-81 as reopening is priced in).",
+        "SA monthly fuel-price announcements - petrol (both retailers' consumer) and diesel (each group's own cost; larger for SPAR).",
+        "SARB MPC path between the ~6.67% and ~8.17% end-2026 scenarios - the rate channel hits SPAR's de-gearing hardest.",
+        "Shoprite gross/trading margin and the like-for-like price/volume split - the price-investment intensity that decides margin-versus-share.",
+        "SPAR: KZN distribution-centre margin recovery, the SAP rollout, the net-debt/leverage trajectory, retailer loyalty (78.6%), debtor impairments, and any signal on dividend resumption.",
+        "Next hard reads: Shoprite FY2026 results (~early Sept 2026); SPAR FY2026 results (Dec 2026)."
+      ]}
+    ]},
+    {"heading": "9.  Sources & provenance", "blocks": [
+      {"type": "para", "text": "Company filings (held locally):"},
+      {"type": "bullets", "items": [
+        "SH1 - Shoprite Holdings reviewed results, 52 weeks ended 29 June 2025 (FY2024 restated for IFRS 5). Plus H1 FY2026 trading update (public SENS).",
+        "SP1 - The SPAR Group audited group results, 52 weeks ended 26 September 2025 (SENS, 8 December 2025).",
+        "SP2 - The SPAR Group H1 FY2026 trading statement (SENS, 29 May 2026) and full interim results published 10 June 2026 (continuing HEPS 199.9c, -55.5%; operating margin 1.1%; no dividend)."
+      ]},
+      {"type": "para", "text": "External (web search, 17 June 2026 - may be delayed/secondary):"},
+      {"type": "sources", "items": [
+        {"label": "Strait of Hormuz status / shipping -", "url": "https://www.bloomberg.com/news/articles/2026-06-16/why-restoring-strait-of-hormuz-shipping-traffic-won-t-be-easy", "link_text": "Bloomberg"},
+        {"label": "Brent crude price (17 Jun 2026) -", "url": "https://fortune.com/article/price-of-oil-06-17-2026/", "link_text": "Fortune"},
+        {"label": "SPAR H1 FY2026 results -", "url": "https://www.moneyweb.co.za/news/companies-and-deals/spar-ceo-confronts-execution-problems-as-profits-tumble/", "link_text": "Moneyweb"},
+        {"label": "Shoprite share price / valuation -", "url": "https://www.moneyweb.co.za/tools-and-data/click-a-company/SHP/", "link_text": "Moneyweb Click-a-Company"}
+      ]}
+    ]}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "as_at": "2026-06-17",
+  "title": "MACRO DECK - Strait of Hormuz, oil, rand, rates & fuel",
+  "sources_note": "Shared scenario context. Levels via web search 17 Jun 2026; may be delayed/secondary. Updated once per run by the analyst, read by both build_model.py and build_note.py.",
+  "rows": [
+    {"section": "STRAIT OF HORMUZ", "metric": "Status (17 Jun 2026)", "value": "Closed - day ~108", "source": "straits.live / NBC tracker"},
+    {"section": "STRAIT OF HORMUZ", "metric": "Normal vs current transits", "value": "~94/day -> ~0/day", "source": "Only ~7 ships since reopening deal; NBC / MarineTraffic"},
+    {"section": "STRAIT OF HORMUZ", "metric": "Diplomatic track", "value": "US & Iran committed to reopen", "source": "Bloomberg, 16 Jun 2026"},
+    {"section": "STRAIT OF HORMUZ", "metric": "Frictions to reopening", "value": "~550 ships stranded; mines; war-risk premium ~2.5% hull", "source": "Bloomberg / Al Jazeera, 16-17 Jun 2026"},
+    {"section": "BRENT CRUDE (US$/bbl)", "metric": "March 2026 peak", "value": "$110+", "source": "Companion note"},
+    {"section": "BRENT CRUDE (US$/bbl)", "metric": "1 June 2026", "value": "$96.42", "source": "Fortune"},
+    {"section": "BRENT CRUDE (US$/bbl)", "metric": "17 June 2026 (spot)", "value": "~$79-81", "source": "TradingEconomics / Fortune (reopening priced in)"},
+    {"section": "BRENT CRUDE (US$/bbl)", "metric": "EIA STEO 2026 / 2027 avg", "value": "$95 / $79", "source": "EIA STEO, 9 Jun 2026"},
+    {"section": "SOUTH AFRICA - RAND, RATES, FUEL", "metric": "USD/ZAR (mid-June)", "value": "~16.3", "source": "TradingEconomics / FocusEconomics"},
+    {"section": "SOUTH AFRICA - RAND, RATES, FUEL", "metric": "SARB repo rate", "value": "7.00% (hiked 25bp 28 May 2026)", "source": "First hike in 3 years; oil-shock driven"},
+    {"section": "SOUTH AFRICA - RAND, RATES, FUEL", "metric": "SARB scenario paths (end-2026)", "value": "~6.67% intermediate / ~8.17% severe", "source": "SARB / BusinessTech"},
+    {"section": "SOUTH AFRICA - RAND, RATES, FUEL", "metric": "Petrol 95 inland (Jun 2026)", "value": "Record R28.06/l", "source": "Incl. fuel-levy relief cut; IOL / gov.za"},
+    {"section": "SOUTH AFRICA - RAND, RATES, FUEL", "metric": "Diesel (Jun 2026)", "value": "~R27.92-28.76", "source": "Levy/slate timing - distribution hit is back-loaded"}
+  ],
+  "scenario_levels": {
+    "Brent crude (US$/bbl, period avg)": {"FY2025A": 78, "A": [72, 72], "Base": [80, 78], "B": [100, 100], "fmt": "num"},
+    "USD/ZAR (period avg)": {"FY2025A": 18.4, "A": [16.0, 15.8], "Base": [16.5, 16.8], "B": [17.5, 18.0], "fmt": "num1"},
+    "SARB repo rate (%, period end)": {"FY2025A": 0.07, "A": [0.0667, 0.0625], "Base": [0.07, 0.0675], "B": [0.0817, 0.0817], "fmt": "pct2"},
+    "Inland 95 petrol (R/l, period end)": {"FY2025A": 28.06, "A": [25.5, 24.5], "Base": [27.0, 27.0], "B": [29.5, 30.5], "fmt": "num1"}
+  },
+  "why_it_matters": "Petrol = the consumer's wallet (both retailers); diesel = each group's own distribution cost. SPAR is a wholesale-distribution business, so fuel is a larger share of its cost-to-serve; it flagged 'rising fuel costs (logistics/distribution)' as an H2 FY2026 headwind. A sustained closure reverses the diesel tailwind with a lag and lifts finance costs via the SARB - hurting SPAR's net-debt position more than SHP's net-cash one."
+}

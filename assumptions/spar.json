@@ -1,0 +1,47 @@
+{
+  "slug": "spar",
+  "name": "The SPAR Group Limited",
+  "jse_code": "SPP",
+  "template": "retail-wholesale",
+  "currency": "ZAR",
+  "anchor_label": "FY2025A",
+  "anchor": {
+    "turnover_rm": 132410,
+    "gross_margin": 0.108,
+    "op_margin": 0.021,
+    "net_finance_costs_rm": 720,
+    "heps_actual_c": 795.8,
+    "net_debt_rm": 5400,
+    "leverage_x": 1.74,
+    "shares_m": 193,
+    "dps_c": 0,
+    "source": "SP1 - SPAR audited results FY2025 (SENS 8 Dec 2025). H1 FY2026 actual continuing HEPS 199.9c, -55.5% (SP2, published 10 Jun 2026). net_finance_costs_rm is an analyst estimate (e)."
+  },
+  "scenarios": [
+    {
+      "key": "A",
+      "label": "Scenario A - Strait open",
+      "years": {
+        "2026e": {"turnover_growth": 0.04, "gross_margin": 0.109, "op_margin": 0.016, "net_finance_costs_rm": 620, "heps_c": 470, "net_debt_rm": 4700, "leverage_x": 1.5, "dps_c": 0},
+        "2027e": {"turnover_growth": 0.045, "gross_margin": 0.11, "op_margin": 0.021, "net_finance_costs_rm": 520, "heps_c": 640, "net_debt_rm": 3700, "leverage_x": 1.1, "dps_c": 120}
+      }
+    },
+    {
+      "key": "Base",
+      "label": "Base case",
+      "years": {
+        "2026e": {"turnover_growth": 0.03, "gross_margin": 0.108, "op_margin": 0.014, "net_finance_costs_rm": 720, "heps_c": 420, "net_debt_rm": 5000, "leverage_x": 1.6, "dps_c": 0},
+        "2027e": {"turnover_growth": 0.035, "gross_margin": 0.109, "op_margin": 0.018, "net_finance_costs_rm": 650, "heps_c": 540, "net_debt_rm": 4400, "leverage_x": 1.4, "dps_c": 60}
+      }
+    },
+    {
+      "key": "B",
+      "label": "Scenario B - Strait shut",
+      "years": {
+        "2026e": {"turnover_growth": 0.025, "gross_margin": 0.106, "op_margin": 0.012, "net_finance_costs_rm": 850, "heps_c": 380, "net_debt_rm": 5700, "leverage_x": 1.9, "dps_c": 0},
+        "2027e": {"turnover_growth": 0.025, "gross_margin": 0.106, "op_margin": 0.014, "net_finance_costs_rm": 900, "heps_c": 430, "net_debt_rm": 5500, "leverage_x": 1.8, "dps_c": 0}
+      }
+    }
+  ],
+  "rationale": "Continuing HEPS is modelled directly off the two ACTUAL prints (FY2025 795.8c; H1 FY2026 199.9c) because SPAR's reported bridge carries large extraordinary/discontinued items. In every scenario FY2026 HEPS sits far below FY2025. Scenario A = de-gearing resumes (lower rates), fuel relief, consumer recovery + self-help (KZN/SAP/cost) lift margin and HEPS - a higher-beta recovery bet, not safety. Scenario B = higher rates stall de-gearing and lift the legacy ZAR-debt drag, fuel hits the distribution-heavy cost base and the wounded KZN DC, trade-down flows OUT of SPAR independents, dividend stays nil."
+}

@@ -255,6 +255,39 @@ For any file deliverable, also save a markdown copy to
 `companies/[slug]/analysis-[period]-[date].md` so it can be referenced later without
 re-analysing, and include a short chat summary in your return.
 
+## Deterministic deliverable builders (use these - do NOT hand-roll)
+
+The house style, the scenario-model skeleton and the verification loop are committed,
+tested tooling. Build deliverables by driving these tools, not by writing ad-hoc
+openpyxl/docx scripts each run (that caused rework and repeated bugs):
+
+- **Scenario model (xlsx):** author/refresh `assumptions/<slug>.json` (FY anchor =
+  sacred reported actuals; scenario drivers = your estimates) and `macro/latest.json`
+  (shared, dated macro), then run
+  `python3 tools/build_model.py <slug> [<slug2> ...] [--scorecard comparisons/<name>.json] --title "..." --out <path>`.
+  It emits the styled Cover / Macro Deck / Actuals / Assumptions / Scenario Model
+  (+ Resilience Scorecard for a comparison) with live formulas and gates on zero
+  recalc errors. Templates: `retail-owned`, `retail-wholesale` (add more in
+  `tools/build_model.py` as new sectors arise).
+- **Analyst note (docx):** write the narrative as a content spec JSON (see
+  `comparisons/shoprite-vs-spar-note.json` for the shape: sections of para / h2 /
+  bullets / table / scorecard / callout / sources blocks) and run
+  `python3 tools/build_note.py <spec.json> --out <path>`. The chrome, scorecard
+  rendering, footer, disclaimer and hyperlinked Sources are handled for you (python-docx,
+  so no docx-js truncation/border bugs). You only author substance.
+- **Comparison judgement** (scorecard rows + verdict) lives in `comparisons/<name>.json`
+  and is shared by both the model and the note - single source.
+- **Verify before returning:**
+  `python3 tools/verify_deliverable.py <model.xlsx> <note.docx>` (recalc zero-error gate,
+  OOXML validate, Sources-section check) and
+  `python3 tools/check_numbers.py <file> --companies <slug> ...` (the "numbers are sacred"
+  linter - confirm or tag (e) every flagged figure). Both exit non-zero on failure under
+  `--strict`.
+- The shared look lives in `tools/report_style.py`; change house style there, once.
+
+These do not replace your judgement on assumptions, narrative or citations - they remove
+the mechanical rebuilding so you spend tokens on analysis, not scaffolding.
+
 ## South African Context (apply throughout)
 - **Currency:** ZAR by default; state the reporting currency and give a ZAR equivalent
   where a company reports in USD/EUR (e.g. Naspers/Prosus, some miners).
@@ -382,4 +415,16 @@ You run autonomously and cannot ask the user anything. End with one of:
 - **MISSING_DOCUMENTS** — if the source-of-truth gate failed. Return exactly which
   documents/periods are needed for the slug (e.g. "need FY2025 annual report + H1 FY2026
   interim for shoprite"), so the main agent can run the downloader and re-invoke you.
-- **Completed analysis** — if a file was produce
+- **Completed analysis** — if a file was produced, return its full local path (e.g.
+  `companies/shoprite/analyst-notes/<name>.docx`) plus a concise chat summary: period, headline
+  metrics and direction, any risk flags, and the guidance/consensus check. For a `chat`
+  deliverable, return the prose + tables directly. Confirm the verification gate passed
+  (`tools/verify_deliverable.py` — zero recalc errors, docx validated, Sources present) and that
+  `tools/check_numbers.py` flags were reviewed/tagged before returning.
+- **NEEDS_ONBOARDING** — if the slug has no `company.json` (not yet onboarded). Name the company
+  so the main agent can run `jse-company-discovery`, then `jse-report-downloader`, then re-invoke you.
+- **NEEDS_REDISCOVERY** — if a document source mapping looks broken or stale. Name what failed so
+  the main agent can re-run discovery and update the company skill, then re-invoke you.
+
+Keep the return tight: the main thread should re-absorb only the signal, or the finished
+deliverable path + short summary — never your intermediate working notes or full document text.

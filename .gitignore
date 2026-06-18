@@ -10,3 +10,6 @@
 .manifest-backups/manifest.json.20260607T162209Z.bak
 .manifest-backups/manifest.json.20260608T115924Z.bak
 .manifest-backups/manifest.json.20260608T120549Z.bak
+__pycache__/
+*.pyc
+.~lock.*#

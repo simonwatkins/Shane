@@ -1,0 +1,597 @@
+{
+  "title": "Mr Price Group (JSE: MRP) \u2014 Scenario Outlook FY2027 / FY2028",
+  "subtitle_lines": [
+    "Bull / Neutral / Bear projections for the 2026/27 (FY2027) and 2027/28 (FY2028) financial years, with a sentiment read of management and market language.",
+    "Internal research note \u2014 prepared 18 June 2026. FYE end-March (52/53-week retail calendar). All figures ZAR unless stated."
+  ],
+  "doc_title": "Will the SA cash engine or the NKD bet drive FY2027\u201328?",
+  "byline": "Anchored on FY2026 annual results (52 weeks to 28 March 2026, released 5 June 2026) and the NKD acquisition (closing 31 March 2026, consolidating from FY2027). FY2026 is the reported actual; FY2027 = the 2026/27 year. Forward figures are analyst estimates (e).",
+  "footer": "Mr Price Group (MRP) \u2014 FY2027/28 Scenario Outlook \u2014 internal research",
+  "sections": [
+    {
+      "heading": "1. Verdict",
+      "blocks": [
+        {
+          "type": "callout",
+          "label": "House view.",
+          "body": "Mr Price is two stories bolted together. The SA base is a high-quality, cash-generative value retailer (FY2026 operating profit +4.3% to R6.0bn; 89.4% cash sales; self-funded store growth) whose EARNINGS path points to modest, decelerating growth \u2014 in-line to slight upgrades, not downgrades. The swing factor is NKD: the ~R9.66bn European acquisition that consolidates from FY2027 doubles the footprint but ends the net-cash balance sheet, adds euro translation risk and integration risk, and is the reason statutory FY2026 HEPS grew only ~2% versus ~8% normalised. The risk is therefore to the RATING and to execution, not the SA numbers: the market de-rated the shares 13.7% on the deal. Neutral case is mid-single-digit normalised HEPS growth with NKD roughly neutral in year one; the Bull case needs an SA consumer/rate tailwind plus a clean NKD turnaround; the Bear case is a loss-making NKD with impairment risk on top of a soft SA consumer."
+        },
+        {
+          "type": "para",
+          "text": "Bottom line: across FY2027\u2013FY2028 the Neutral case is high-single-digit normalised diluted-HEPS growth with market share held in SA; the Bull case requires NKD to turn profitable early and the SA consumer to recover; the Bear case is an NKD integration overrun (and possible goodwill impairment) compounded by a sticky-inflation SA consumer and a heavier acquisition-debt interest bill. The decisive divergence is FY2028, once the NKD outcome is visible."
+        }
+      ]
+    },
+    {
+      "heading": "2. Where Mr Price stands today (sacred actuals)",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Reported FY2026 figures are taken verbatim from the cited results; FY2025 comparatives marked (e) are derived from the reported percentage changes for context. Group revenue was R42.7bn; retail sales R41.1bn. Statutory diluted-HEPS growth (+2.4%) is depressed by once-off NKD transaction costs \u2014 management's normalised diluted HEPS grew +8.0% to ~1,489c."
+        },
+        {
+          "type": "table",
+          "header_fills": [
+            "NAVY",
+            "ACCENT",
+            "GREY",
+            "NAVY"
+          ],
+          "col_widths": [
+            3200,
+            2080,
+            2080,
+            2000
+          ],
+          "headers": [
+            "Metric",
+            "FY2026A",
+            "FY2025A",
+            "Change"
+          ],
+          "rows": [
+            [
+              "Retail sales (R'm)",
+              "41,100",
+              "39,406 (e)",
+              "+4.3%"
+            ],
+            [
+              "Group revenue (R'm)",
+              "42,700",
+              "n/d",
+              "+4.1% (e)"
+            ],
+            [
+              "Operating profit (R'm)",
+              "6,000",
+              "5,753 (e)",
+              "+4.3%"
+            ],
+            [
+              "Other revenue (R'm)",
+              "1,300",
+              "1,325 (e)",
+              "\u22121.9%"
+            ],
+            [
+              "HEPS (cents)",
+              "1,453.9",
+              "1,424.0 (e)",
+              "+2.1%"
+            ],
+            [
+              "Diluted HEPS \u2014 statutory (cents)",
+              "1,411.8",
+              "1,378.7 (e)",
+              "+2.4%"
+            ],
+            [
+              "Diluted HEPS \u2014 normalised (cents)",
+              "~1,489",
+              "1,379 (e)",
+              "+8.0%"
+            ],
+            [
+              "Basic EPS (cents)",
+              "1,449.5",
+              "1,416.9 (e)",
+              "+2.3%"
+            ],
+            [
+              "Final dividend (cents)",
+              "592.8",
+              "593.5",
+              "\u22120.1%"
+            ],
+            [
+              "RSP (selling-price) inflation",
+              "3.8%",
+              "\u2014",
+              "\u2014"
+            ],
+            [
+              "Unit sales growth",
+              "+0.5%",
+              "\u2014",
+              "\u2014"
+            ],
+            [
+              "Online sales growth",
+              "+4.9%",
+              "\u2014",
+              "\u2014"
+            ],
+            [
+              "Cash sales (% of retail sales)",
+              "89.4%",
+              "\u2014",
+              "\u2014"
+            ],
+            [
+              "Store count",
+              "3,182",
+              "2,986 (e)",
+              "+196 stores"
+            ],
+            [
+              "Weighted trading space growth",
+              "+3.6%",
+              "\u2014",
+              "\u2014"
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "text": "NKD context (from FY2027): up to \u20ac487m (~R9.66bn) for a German-headquartered value retailer with 2,000+ stores across seven countries. Combined group revenue is guided toward ~R53bn once consolidated; the deal more than doubles the footprint to >5,000 stores and is the first material offshore operating business \u2014 the source of the new euro translation exposure and gearing."
+        }
+      ]
+    },
+    {
+      "heading": "3. Sentiment & language analysis",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Method: a positive/negative lexicon was counted across the captured text of Mr Price's FY2026 results commentary and the NKD deal/market coverage, then cross-read against the analyst framing in that coverage. The token count is a directional signal, not a precise score \u2014 and the counts are run over short-form extracts (the full SENS/AFS binary is not yet archived locally), so absolute numbers are low; the contrast between sources is the signal."
+        },
+        {
+          "type": "para",
+          "text": "The signal: Mr Price's OWN results language skews mildly positive (~1.3:1) \u2014 'value', 'strength', 'agility', 'confident', 'operating leverage', 'conservative' \u2014 but with a visible caution cluster ('challenging', 'soft', 'dampened', 'diluted', 'lower'). The EXTERNAL/market voice around NKD is net negative (~0.7:1) \u2014 'controversial', 'concern', 'rattled', 'fell', 'integration risk'. That split \u2014 franchise-positive, strategy-cautious \u2014 is the whole story: the SA business is described confidently, the offshore bet is described warily."
+        },
+        {
+          "type": "table",
+          "header_fills": [
+            "NAVY",
+            "ACCENT2",
+            "RED",
+            "NAVY"
+          ],
+          "col_widths": [
+            3600,
+            1500,
+            1500,
+            2760
+          ],
+          "headers": [
+            "Source (captured extract)",
+            "Positive hits",
+            "Negative hits",
+            "Tone read"
+          ],
+          "rows": [
+            [
+              "MRP FY2026 results commentary (5 Jun 2026)",
+              "9",
+              "7",
+              "Mildly positive / cautious"
+            ],
+            [
+              "NKD deal & market coverage (Dec 2025 \u2013 Mar 2026)",
+              "6",
+              "9",
+              "Net negative / wary"
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "What the words map to"
+        },
+        {
+          "type": "table",
+          "header_fills": [
+            "NAVY",
+            "GREY",
+            "ACCENT"
+          ],
+          "col_widths": [
+            4300,
+            1300,
+            3760
+          ],
+          "headers": [
+            "Language signal (source)",
+            "Polarity",
+            "Reads through to"
+          ],
+          "rows": [
+            [
+              "'agility of our operating model\u2026 strength of our value retailing DNA\u2026 operating leverage in a challenging retail environment\u2026 confident\u2026 perform across economic cycles' (CEO, FY2026)",
+              "Positive",
+              "SA franchise EARNINGS resilience \u2014 in-line to slight upgrade bias"
+            ],
+            [
+              "operating profit +4.3%; cash sales 89.4%; 196 new stores; credit book 'managed conservatively' (FY2026)",
+              "Positive",
+              "Market position HELD; self-funded, low-risk growth"
+            ],
+            [
+              "'earnings dampened' by once-off NKD transaction costs; statutory HEPS +2% vs normalised +8% (FY2026)",
+              "Negative",
+              "Reported EARNINGS drag \u2014 quality-of-earnings flag"
+            ],
+            [
+              "'soft' discretionary demand; tough two-pot-boosted prior-year base; other revenue \u22121.9% (FY2026)",
+              "Negative",
+              "Top-line DECELERATION risk in SA"
+            ],
+            [
+              "'controversial' R9.7bn purchase; investors 'rattled'; shares 'fell' 13.7%, ~R6bn wiped (NKD)",
+              "Negative",
+              "RATING / de-rating pressure"
+            ],
+            [
+              "'integration risk'; first material offshore business; large EUR translation exposure; ends net-cash balance sheet (NKD)",
+              "Negative",
+              "Execution + FX RISK; balance sheet geared up"
+            ],
+            [
+              ">2,000 stores; 'more than doubles' footprint; combined revenue toward ~R53bn; value model 'aligned' (NKD)",
+              "Positive",
+              "Medium-term GROWTH optionality IF the turnaround works"
+            ]
+          ]
+        },
+        {
+          "type": "para",
+          "text": "Net read: the company's own disclosures still skew positive on the SA franchise (operating leverage, cash generation, store growth, share) while flagging a soft consumer; the bearish voice is the external/market one and is aimed at the NKD bet and the rating. Translating to the three asks \u2014 earnings: improving but decelerating in SA, with FY2027 reported growth hostage to NKD's first-year P&L (in-line, slight-upgrade bias on normalised numbers); market share: held/edging up in SA value retail; rating: downgrade-biased until NKD shows it can turn profitable without impairment."
+        }
+      ]
+    },
+    {
+      "heading": "4. Scenario framework \u2014 the drivers",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Scenarios are framed on the SA consumer cycle and the NKD turnaround/EUR path rather than a single macro shock. Driver levels are analyst assumptions (e)."
+        },
+        {
+          "type": "table",
+          "header_fills": [
+            "NAVY",
+            "ACCENT2",
+            "GREY",
+            "RED"
+          ],
+          "col_widths": [
+            2160,
+            2400,
+            2400,
+            2400
+          ],
+          "headers": [
+            "Driver",
+            "Bull",
+            "Neutral",
+            "Bear"
+          ],
+          "rows": [
+            [
+              "SA consumer / disposable income",
+              "Rate-cut cycle resumes; real income recovers; discretionary spend turns up",
+              "Constrained but stable; low-single-digit real income",
+              "Sticky inflation + fuel; rates high; income squeezed"
+            ],
+            [
+              "SARB rates / inflation",
+              "Easing through FY2028; CPI ~3\u20134%",
+              "Late-May 2026 25bp hike is the peak; on hold; CPI ~4.5%",
+              "Further hikes / no cuts; CPI 5%+"
+            ],
+            [
+              "RSP inflation / volumes",
+              "Volumes turn positive; RSP ~4%",
+              "RSP ~4%; broadly flat volumes",
+              "Price wars / deflation; negative volumes"
+            ],
+            [
+              "EUR/ZAR translation (NKD)",
+              "Stable-to-soft EUR aids cost base; clean translation",
+              "Range-bound; modest translation noise",
+              "Rand weakness + EUR volatility; adverse translation"
+            ],
+            [
+              "NKD integration",
+              "Ahead of plan; turns profitable early; synergies land",
+              "On plan; near-breakeven year 1, building",
+              "Overruns; NKD loss-making; goodwill impairment risk"
+            ],
+            [
+              "Capital allocation / gearing",
+              "Deal self-funds quickly; ~63% payout held",
+              "Modest gearing; payout held",
+              "Gearing sticky; payout trimmed during integration"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "5. Projections \u2014 FY2027E and FY2028E by scenario",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "All forward figures are analyst estimates (e), built off the FY2026 sacred anchors and a normalised FY2026 diluted-HEPS base of ~1,489c (the clean base once once-off NKD costs drop out). FY2027 is the first NKD consolidation year \u2014 group revenue therefore steps up ~30% on consolidation, which is NOT organic growth; NKD is revenue-heavy but earnings-light in year one. Diluted-HEPS growth is shown versus the FY2026 normalised base."
+        },
+        {
+          "type": "h2",
+          "text": "FY2027E (the 2026/27 year \u2014 first NKD consolidation)"
+        },
+        {
+          "type": "table",
+          "header_fills": [
+            "NAVY",
+            "NAVY",
+            "ACCENT2",
+            "GREY",
+            "RED"
+          ],
+          "col_widths": [
+            2560,
+            1700,
+            1700,
+            1700,
+            1700
+          ],
+          "headers": [
+            "Metric",
+            "FY2026A (anchor)",
+            "Bull (e)",
+            "Neutral (e)",
+            "Bear (e)"
+          ],
+          "rows": [
+            [
+              "SA retail sales (R'm)",
+              "41,100",
+              "43,977 (+7%)",
+              "43,155 (+5%)",
+              "42,333 (+3%)"
+            ],
+            [
+              "NKD revenue contribution (R'm)",
+              "\u2014",
+              "13,500",
+              "12,500",
+              "11,500"
+            ],
+            [
+              "Group revenue incl. NKD (R'm)",
+              "42,700",
+              "~58,800",
+              "~57,000",
+              "~55,100"
+            ],
+            [
+              "Group operating profit (R'm)",
+              "6,000",
+              "7,000",
+              "6,350",
+              "5,600"
+            ],
+            [
+              "Diluted HEPS \u2014 normalised (cents)",
+              "1,489",
+              "1,668",
+              "1,563",
+              "1,415"
+            ],
+            [
+              "DHEPS growth vs FY2026 norm.",
+              "\u2014",
+              "+12.0%",
+              "+5.0%",
+              "\u22125.0%"
+            ],
+            [
+              "Total dividend (cents, ~63% e)",
+              "916 (e)",
+              "1,051",
+              "985",
+              "891"
+            ],
+            [
+              "Implied read",
+              "\u2014",
+              "NKD accretive; SA tailwind",
+              "NKD ~neutral yr 1; SA steady",
+              "NKD drag + soft SA + interest"
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "FY2028E (the 2027/28 year \u2014 NKD turnaround matures)"
+        },
+        {
+          "type": "table",
+          "header_fills": [
+            "NAVY",
+            "NAVY",
+            "ACCENT2",
+            "GREY",
+            "RED"
+          ],
+          "col_widths": [
+            2560,
+            1700,
+            1700,
+            1700,
+            1700
+          ],
+          "headers": [
+            "Metric",
+            "FY2027E (Neutral)",
+            "Bull (e)",
+            "Neutral (e)",
+            "Bear (e)"
+          ],
+          "rows": [
+            [
+              "Group revenue (R'm)",
+              "~57,000",
+              "~64,000",
+              "~60,500",
+              "~56,500"
+            ],
+            [
+              "Group operating profit (R'm)",
+              "6,350",
+              "7,900",
+              "6,950",
+              "5,750"
+            ],
+            [
+              "Diluted HEPS \u2014 normalised (cents)",
+              "1,563",
+              "1,902",
+              "1,672",
+              "1,387"
+            ],
+            [
+              "DHEPS growth vs FY2027E",
+              "\u2014",
+              "+14% (off Bull)",
+              "+7%",
+              "\u22122% (off Bear)"
+            ],
+            [
+              "Total dividend (cents, ~63% e)",
+              "985",
+              "1,198",
+              "1,053",
+              "874"
+            ],
+            [
+              "Implied read",
+              "\u2014",
+              "Synergies compound",
+              "Steady normalisation",
+              "Impairment / drag persists"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "label": "Reading the spread.",
+          "body": "FY2027 is the noisy consolidation year: group revenue jumps ~30% purely because NKD comes on-book, while reported earnings are weighed by NKD's thin first-year margins and the acquisition-debt interest bill \u2014 so the headline revenue surge overstates the underlying improvement. The decisive divergence is FY2028: once the NKD outcome is visible, the Bull-to-Bear normalised-DHEPS gap widens to ~515 cents (1,902 vs 1,387, ~37%), driven almost entirely by whether NKD turns profitable and by the EUR/ZAR path. That is where the re-rating-or-de-rating debate gets settled \u2014 far more than by the SA base."
+        }
+      ]
+    },
+    {
+      "heading": "6. What flips the rating \u2014 upgrade vs downgrade triggers",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            [
+              [
+                "Upgrade signals: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "NKD reaching operating breakeven/profit ahead of guidance; explicit synergy, margin and ROCE-hurdle targets disclosed; SA comparable sales re-accelerating above RSP inflation (positive volumes); an EUR/ZAR translation tailwind; and the ~63% payout held \u2014 confirming the balance sheet can carry the deal.",
+                {}
+              ]
+            ],
+            [
+              [
+                "Downgrade signals: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "NKD loss-making with integration overruns or any goodwill impairment; SA volumes turning negative as discretionary demand stays soft; the acquisition-debt interest bill running heavier than modelled; the dividend trimmed to fund gearing; and the statutory-vs-normalised earnings gap persisting into FY2027.",
+                {}
+              ]
+            ],
+            [
+              [
+                "Watch-the-quality flag: ",
+                {
+                  "bold": true
+                }
+              ],
+              [
+                "FY2026 statutory diluted HEPS grew only +2.4% versus +8.0% normalised \u2014 the gap is the once-off NKD transaction costs. FY2027 is the first clean read; if normalised growth still lags because NKD operating losses plus interest simply replace the one-offs, the 'real' improvement is weaker than the headline and supports the de-rating thesis.",
+                {}
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "7. Questions for management",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "NKD funding: what is the exact debt/cash mix for the ~R9.66bn consideration, the pro-forma net debt/EBITDA, and the expected FY2027 interest charge?",
+            "NKD economics: what ROCE and margin does NKD earn today, what is the breakeven timeline and the synergy/margin-uplift target, and how is goodwill-impairment risk being framed?",
+            "FX policy: how will euro translation be managed and disclosed (segmental reporting, net-investment hedging), and what EUR/ZAR assumption underpins guidance?",
+            "SA base: what selling-price-inflation and volume assumptions sit behind FY2027, given soft discretionary demand and the tough two-pot-boosted prior-year comparatives?",
+            "Capital returns: does the ~63% payout policy hold through the NKD integration, or should we expect a lower payout while gearing is worked down?"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "8. Sources",
+      "blocks": [
+        {
+          "type": "sources",
+          "items": [
+            {
+              "label": "Mr Price Group \u2014 FY2026 annual results (SENS, 5 Jun 2026) + official supplementary information. Local file: companies/mr-price/annual-reports/mrprice-annual-results-fy2026-20260605.txt.",
+              "url": "https://mrpricegroup.com/wp-content/uploads/2026/06/Supplementary-information-FY2026.pdf",
+              "link_text": "FY2026 supplementary information (PDF)"
+            },
+            {
+              "label": "The Citizen \u2014 FY2026 figures cross-check, 5 Jun 2026.",
+              "url": "https://www.citizen.co.za/business/mr-price-generates-roughly-r16-4-million-a-day-in-operating-profit/",
+              "link_text": "The Citizen, 5 Jun 2026"
+            },
+            {
+              "label": "NKD acquisition (announced 9 Dec 2025; unconditional 23 Feb 2026; closing 31 Mar 2026) \u2014 Daily Investor, IOL (17 Mar 2026), Cape Town Etc. Local file: companies/mr-price/press-releases/mrprice-nkd-acquisition-summary-2025-2026.txt.",
+              "url": "https://dailyinvestor.com/retail/121204/mr-price-ploughs-ahead-with-controversial-r9-7-billion-purchase/",
+              "link_text": "Daily Investor \u2014 R9.7bn purchase"
+            },
+            {
+              "label": "Internal fund note \u2014 Mr Price research note (management incentives, risks, rand exposure, capital allocation), 5 Jun 2026. Local file: companies/mr-price/analyst-notes/mrprice-research-note-2026-2027.docx.",
+              "url": ""
+            },
+            {
+              "label": "Sentiment lexicon counts computed over the captured text extracts above (this analysis), 18 Jun 2026 \u2014 directional signal only; full SENS/AFS binary not yet archived (logged as a coverage gap).",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
