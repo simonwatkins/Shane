@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "generated_at": "2026-06-18T07:14:55Z",
+  "generated_at": "2026-06-18T06:58:28Z",
   "generated_by": "tools/manifest.py rebuild - GENERATED FILE, DO NOT HAND-EDIT",
   "source_of_truth": "companies/<slug>/company.json + files on disk",
   "last_global_refresh": "2026-06-17",
@@ -16,7 +16,7 @@
     "spar",
     "woolworths"
   ],
-  "company_count": 15,
+  "company_count": 14,
   "reporting_calendar": [
     {
       "company": "spar",
@@ -689,32 +689,6 @@
       },
       "document_count": 3
     },
-    "old-mutual": {
-      "name": "Old Mutual Limited",
-      "jse_code": "OMU",
-      "sector": "Insurance",
-      "financial_year_end": "31 December",
-      "reporting_currency": "ZAR",
-      "documents": {
-        "old-mutual-annual-results-fy2025-20260317.pdf": {
-          "date_downloaded": "2026-06-18T00:00:00Z",
-          "original_saved": false,
-          "analysed": true,
-          "type": "annual_results",
-          "period": "FY2025",
-          "date_published": "2026-03-17",
-          "path": "companies/old-mutual/annual-reports/Old_Mutual_FY2025_Annual_Results_Booklet.pdf",
-          "text_path": "companies/old-mutual/annual-reports/Old_Mutual_FY2025_Annual_Results_Booklet.txt",
-          "text_source": "web_fetch (application/pdf -> extracted full text, 109k chars)",
-          "source_url": "https://www.oldmutual.com/v3/assets/bltdd392fd32dda3ce8/blt16240806b39581ed/69b8ccfaccf6a3727ac58f77/2025_Annual_Results_booklet_Double.pdf",
-          "_provenance": "Group Annual Results for the year ended 31 December 2025. COVERAGE GAP: original binary PDF blocked by sandbox allowlist (oldmutual.com 403); full extracted text saved as sidecar. Deep-run backfill should re-download the binary via browser."
-        }
-      },
-      "document_count": 1,
-      "_missing_files": [
-        "old-mutual-annual-results-fy2025-20260317.pdf"
-      ]
-    },
     "reinet": {
       "name": "Reinet Investments S.C.A.",
       "jse_code": "RNI",
@@ -1043,7 +1017,6 @@
   },
   "_integrity_warnings": [
     "clicks-group: 6 file(s) on disk have NO metadata record in company.json",
-    "firstrand: 3 file(s) on disk have NO metadata record in company.json",
-    "old-mutual: 1 document record(s) point to files that do not exist on disk"
+    "firstrand: 3 file(s) on disk have NO metadata record in company.json"
   ]
 }

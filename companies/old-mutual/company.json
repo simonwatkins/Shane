@@ -1,0 +1,40 @@
+{
+  "name": "Old Mutual Limited",
+  "slug": "old-mutual",
+  "jse_code": "OMU",
+  "isin": "ZAE000255360",
+  "sector": "Insurance",
+  "icb_sector": "insurance",
+  "sub_sector": "Life Insurance / Financial holding (life & savings, asset management, P&C insurance, banking)",
+  "reporting_currency": "ZAR",
+  "financial_year_end": "31 December",
+  "dual_listings": ["A2X", "NSX (Namibia)", "ZSE (Zimbabwe)", "MSE (Malawi)"],
+  "ir_website": "https://www.oldmutual.com/investor-relations/",
+  "document_sources": {
+    "annual_reports": {"url": "https://www.oldmutual.com/investor-relations/reporting-centre/reports/", "notes": "Group Annual Results booklet (Dec year-end), published mid-March."},
+    "interim_reports": {"url": "https://www.oldmutual.com/investor-relations/reporting-centre/results/", "notes": "Interim results (6 months to 30 June), published ~mid-September"},
+    "trading_statements": {"url": "https://www.oldmutual.com/investor-relations/", "notes": "SENS trading statements / pre-close updates"},
+    "sens": {"url": "https://www.moneyweb.co.za/tools-and-data/click-a-company/OMU/", "notes": "SENS via Moneyweb/Sharenet"},
+    "investor_presentations": {"url": "https://www.oldmutual.com/investor-relations/reporting-centre/results/", "notes": "Results presentation + Capital Markets Day (Q4 2025) deck"},
+    "press_releases": {"url": "https://www.oldmutual.com/news/", "notes": ""}
+  },
+  "key_metrics_framework": "insurance",
+  "discovered_at": "2026-06-18T00:00:00Z",
+  "last_checked": "2026-06-18T00:00:00Z",
+  "notes": "Dec year-end. FY2025 results released 17 Mar 2026 (audited, unmodified). Medium-term targets set at Capital Markets Day Oct 2025: RoNAV 15-17pct, RoGEV 14-16pct, VNB margin 2-3pct, OM Insure net underwriting margin 5-8pct, DPS growth 6-9pct (3-yr rolling). R3bn buyback (R0.7bn done). R2.5bn cost-savings programme. OM Bank targeting profitability FY2028.",
+  "documents": {
+    "old-mutual-annual-results-fy2025-20260317.pdf": {
+      "date_downloaded": "2026-06-18T00:00:00Z",
+      "original_saved": false,
+      "analysed": true,
+      "type": "annual_results",
+      "period": "FY2025",
+      "date_published": "2026-03-17",
+      "path": "companies/old-mutual/annual-reports/Old_Mutual_FY2025_Annual_Results_Booklet.pdf",
+      "text_path": "companies/old-mutual/annual-reports/Old_Mutual_FY2025_Annual_Results_Booklet.txt",
+      "text_source": "web_fetch (application/pdf -> extracted full text, 109k chars)",
+      "source_url": "https://www.oldmutual.com/v3/assets/bltdd392fd32dda3ce8/blt16240806b39581ed/69b8ccfaccf6a3727ac58f77/2025_Annual_Results_booklet_Double.pdf",
+      "_provenance": "Group Annual Results for the year ended 31 December 2025. COVERAGE GAP: original binary PDF blocked by sandbox allowlist (oldmutual.com 403); full extracted text saved as sidecar. Deep-run backfill should re-download the binary via browser."
+    }
+  }
+}
